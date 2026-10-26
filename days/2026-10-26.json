@@ -124,6 +124,22 @@
           "chosen": false,
           "discardReason": null
         }
+      ],
+      "visuals": [
+        {
+          "id": "V1",
+          "type": "meme",
+          "idea_pt": "Halloween: mascote caçando fantasma SLIPPAGE",
+          "requested": false,
+          "prompt": null
+        },
+        {
+          "id": "V2",
+          "type": "meme",
+          "idea_pt": "Quiz Halloween fluxionian A/B/C/D",
+          "requested": false,
+          "prompt": null
+        }
       ]
     },
     {
@@ -140,7 +156,7 @@
             "b": "tagged us and we heard u. depth through the call, then park it in Earn if u want it working after. atomic rfq for the size that doesnt fit the pool",
             "c": "\"position accordingly\" is the most polite way to say \"dont sleep on this week\""
           },
-          "chosen": null,
+          "chosen": "own",
           "postedText": "not sleeping this week, active 24/7. but you already knew that",
           "discardReason": null
         },
@@ -179,7 +195,31 @@
           "discardReason": null
         }
       ],
-      "memes": []
+      "memes": [],
+      "visuals": []
+    },
+    {
+      "slot": "manual",
+      "createdAt": "2026-10-26T20:22:04.000Z",
+      "replies": [
+        {
+          "id": "1",
+          "account": "@xStocksFi",
+          "url": "https://x.com/xStocksFi/status/2114780772959912163",
+          "context_pt": "Quote de anúncio de página inteira no WSJ contra tokenized equities; xStocks responde com imagem (clapback).",
+          "options": {
+            "a": "full page ad against tokenized equities. that is some expensive fear ngl",
+            "b": "they bought ink. we bought books that never close. 24/7 on mantle",
+            "c": "if your product needs a WSJ ad to scare people, maybe the product is just late"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": []
     }
   ],
   "notes_pt": "Manhã: Clarim Diário rotina 09:00. Tarde: engajamento Mantle + xStocks com textos humanizados. NÃO VERIFICADO na manhã: $4.4B tokenized / BNB lead; Hyperliquid 11 spot; “20 empresas” OKX/ICE reportedly; AUM $1.014B / 558K holders via KuCoin."
