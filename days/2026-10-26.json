@@ -215,6 +215,20 @@
           "chosen": "b",
           "postedText": "they bought ink. we bought books that never close. 24/7 on mantle",
           "discardReason": null
+        },
+        {
+          "id": "2",
+          "account": "@rektdiomedes",
+          "url": "https://x.com/rektdiomedes/status/2114840054853984631",
+          "context_pt": "Comunidade (~106k): quote Mantle earnings/xStocks, cita Fluxion, vídeo Joshua, declara bias/$MNT. Slot comunidade → Bruna direto.",
+          "options": {
+            "a": "mirror on luna was the trailer. this is the movie",
+            "b": "earnings week and the books never close. 24/7 on mantle — we're waiting for you",
+            "c": "wholesome bags disclosure + real onchain equities? rare combo. respect"
+          },
+          "chosen": "own",
+          "postedText": "we keep positioned and watching the market grows, while participating on it\n\n24/7 as always\n\nthanks for the mention",
+          "discardReason": null
         }
       ],
       "posts": [],
@@ -222,5 +236,5 @@
       "visuals": []
     }
   ],
-  "notes_pt": "Manhã: Clarim Diário rotina 09:00. Tarde: engajamento Mantle + xStocks com textos humanizados. NÃO VERIFICADO na manhã: $4.4B tokenized / BNB lead; Hyperliquid 11 spot; “20 empresas” OKX/ICE reportedly; AUM $1.014B / 558K holders via KuCoin."
+  "notes_pt": "Manhã: Clarim Diário rotina 09:00. Tarde: engajamento Mantle + xStocks com textos humanizados. NÃO VERIFICADO na manhã: $4.4B tokenized / BNB lead; Hyperliquid 11 spot; “20 empresas” OKX/ICE reportedly; AUM $1.014B / 558K holders via KuCoin. Manual: reply comunidade @rektdiomedes (own)."
 }
