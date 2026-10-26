@@ -212,8 +212,8 @@
             "b": "they bought ink. we bought books that never close. 24/7 on mantle",
             "c": "if your product needs a WSJ ad to scare people, maybe the product is just late"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "b",
+          "postedText": "they bought ink. we bought books that never close. 24/7 on mantle",
           "discardReason": null
         }
       ],
