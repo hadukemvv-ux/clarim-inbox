@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-26",
+  "editions": [
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-26T12:00:50.000Z",
+      "replies": [
+        {
+          "id": "1",
+          "account": "@xStocksFi",
+          "url": "https://x.com/xStocksFi/status/2114686510050300139",
+          "context_pt": "Brincam que o mais assustador é a bolsa ainda no horário de 1985. Parceiro, post fresco, poucas replies.",
+          "options": {
+            "a": "1985 called, it wants its closing bell back",
+            "b": "fluxionians already dressed up as \"market open\" for halloween. the costume is just being awake",
+            "c": "hot take: market hours are the last analog thing in your portfolio"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "2",
+          "account": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2114684733955449044",
+          "context_pt": "\"DeFi is dead.\" DEX volume Mantle +34% → $99M e TVL +18% → $112M em 30 dias (números da própria Mantle).",
+          "options": {
+            "a": "\"defi is dead\" is the most bullish sentence in crypto ngl",
+            "b": "volume is nice. depth is what makes it stick, thats the part we obsess over",
+            "c": "every \"x is dead\" tweet ages like milk"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "3",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2114598149670985748",
+          "context_pt": "\"What's your edge?\" no WSOT 2026 — pergunta aberta, alto alcance.",
+          "options": {
+            "a": "my edge is closing the app before revenge trading. some days",
+            "b": "our edge: size without the slippage pain. atomic rfq goes brrr",
+            "c": "most people's edge is just luck with good PR"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "4",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2114658300142760110",
+          "context_pt": "Semana pesada (Fed + big tech). Sem comentar as \"3 picks\"; único (b) 24/7 desta edição.",
+          "options": {
+            "a": "fomc + big tech earnings in one week. my sleep schedule just filed a complaint",
+            "b": "earnings drop after the bell. good thing the onchain side doesnt clock out",
+            "c": "half of CT will be \"earnings experts\" by thursday"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "5",
+          "account": "@unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2114667604577333743",
+          "context_pt": "Presidente da Blackstone: não temer bolha de IA. Debate quente; (b) leve.",
+          "options": {
+            "a": "\"dont worry it's not a bubble\" is exactly what a bubble would say",
+            "b": "bubble or not, fren, the real question is who has liquidity when everyone wants out at once",
+            "c": "every cycle has its \"this time is different\" guy. this one wears a suit"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [
+        {
+          "id": "P1",
+          "text": "xStocks just crossed $1B onchain.\ngud milestone. now the fun part:\na listing is not a market. liquidity is.\nwhat's the first ticker you'd want deeper books on?",
+          "source": "https://x.com/tokenterminal/status/2114453470615073043",
+          "note_pt": "Token Terminal: xStocks > $1B onchain",
+          "chosen": false,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P2",
+          "text": "\"defi is dead\"\nmantle dex volume: +34% in 30 days\nwe're gonna need a bigger graveyard 👻",
+          "source": "https://x.com/Mantle_Official/status/2114684733955449044",
+          "note_pt": "Quote no post Mantle DeFi is dead",
+          "chosen": false,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P3",
+          "text": "big week.\nfed + big tech earnings back to back.\nwhich earnings call are you staying up for? wrong answers only",
+          "source": "engajamento Fed/earnings (sem número inventado)",
+          "note_pt": "Engajamento Fed/earnings, sem número",
+          "chosen": false,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [
+        {
+          "id": "M1",
+          "format_pt": "Halloween “nada mais assustador”",
+          "example_url": "https://x.com/esieke_rukky/status/2114029752323305644",
+          "caption": "scariest costume this year? slippage. ngl we're hunting it all week",
+          "scene": "mascot with flashlight on a dark trading floor lights up a sheet-ghost labeled \"SLIPPAGE\"; ghost looks terrified of the cat",
+          "chosen": false,
+          "discardReason": null
+        },
+        {
+          "id": "M2",
+          "format_pt": "quiz alter ego Halloween",
+          "example_url": "https://x.com/montegonessa/status/2113734537440030736",
+          "caption": "which halloween fluxionian are you? A) 3am NVDA vampire B) stablecoin mummy chilling in Earn C) monday-open zombie D) weekend ghost. drop a letter",
+          "scene": "four-panel grid, same mascot as vampire/chart, mummy on stablecoins, zombie at a clock, cute sheet ghost over a Saturday calendar",
+          "chosen": false,
+          "discardReason": null
+        }
+      ]
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-26T18:30:00.000Z",
+      "replies": [
+        {
+          "id": "1",
+          "account": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2114720930933158014",
+          "context_pt": "Big techs reportam earnings; equities tokenizadas xStocks na Mantle 24/7 e já aponta pra trade na Fluxion.",
+          "options": {
+            "a": "earnings week: every portfolio suddenly becomes a group project",
+            "b": "tagged us and we heard u. depth through the call, then park it in Earn if u want it working after. atomic rfq for the size that doesnt fit the pool",
+            "c": "\"position accordingly\" is the most polite way to say \"dont sleep on this week\""
+          },
+          "chosen": null,
+          "postedText": "not sleeping this week, active 24/7. but you already knew that",
+          "discardReason": null
+        },
+        {
+          "id": "2",
+          "account": "@xStocksFi",
+          "url": "https://x.com/xStocksFi/status/2114768690361344064",
+          "context_pt": "Maior earnings week do trimestre: 300+ empresas (AMZN, GOOGL, MSFT, V, XOM) todas tokenizadas.",
+          "options": {
+            "a": "visa and amazon dropping numbers the same week feels like a boss fight",
+            "b": "reports drop after hours. market sleeps. we dont",
+            "c": "tokenizing 300 tickers is cool. being able to size into them when the print hits is the real flex"
+          },
+          "chosen": "b",
+          "postedText": "reports drop after hours. market sleeps. we dont\n\nfluxionians happily happy on xstocks",
+          "discardReason": null
+        }
+      ],
+      "posts": [
+        {
+          "id": "P1",
+          "text": "tradfi reports on a schedule.\nexposure shouldn't have to wait for one.\nxStocks on Mantle are always-on. we built Fluxion so you can trade through the week — and keep capital working onchain between moves.\nposition accordingly. we already are.",
+          "source": "https://x.com/Mantle_Official/status/2114720930933158014",
+          "note_pt": "Quote sério Q2 no post Mantle earnings/xStocks",
+          "chosen": true,
+          "postedText": "tradfi reports on a schedule\n\nexposure shouldn't have to wait for one\n\nxStocks on Mantle are always-on. Fluxion has been built so you can trade through the week. and keep capital working onchain between moves\n\nposition accordingly. we're waiting for you\n\n24/7",
+          "discardReason": null
+        },
+        {
+          "id": "P2",
+          "text": "visa and amazon dropping numbers the same week feels like a boss fight\n\nyou can trade all on fluxion.network",
+          "source": "https://x.com/xStocksFi/status/2114768690361344064",
+          "note_pt": "Quote no post xStocks earnings week (usou joke a + CTA fluxion.network)",
+          "chosen": true,
+          "postedText": "visa and amazon dropping numbers the same week feels like a boss fight\n\nyou can trade all on fluxion.network",
+          "discardReason": null
+        }
+      ],
+      "memes": []
+    }
+  ],
+  "notes_pt": "Manhã: Clarim Diário rotina 09:00. Tarde: engajamento Mantle + xStocks com textos humanizados. NÃO VERIFICADO na manhã: $4.4B tokenized / BNB lead; Hyperliquid 11 spot; “20 empresas” OKX/ICE reportedly; AUM $1.014B / 558K holders via KuCoin."
+}
