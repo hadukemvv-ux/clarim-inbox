@@ -455,6 +455,32 @@
         }
       ],
       "notes_pt": "Gleison 12:00: Kobeissi ownership → reply 13. Mantle/Bybit dups filtrados."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T15:09:00.000Z",
+      "source": "Bruno Titulares 12:09",
+      "replies": [
+        {
+          "id": "14",
+          "account": "@RobinhoodApp",
+          "url": "https://x.com/RobinhoodApp/status/2115096182867255755",
+          "context_pt": "Robinhood Earn pra elegíveis: emprestar USDG onchain por self-custody no app. Fresco (~12:00 Fortaleza). Sem ecoar APY como promessa; gancho DeFi/stablecoin.",
+          "options": {
+            "a": "self-custody in the app used to be two different paragraphs. progress",
+            "b": "onchain stables next to the equity book. fluxionians know that mashup well",
+            "c": "the apy number will move. the self-custody part is the permanent line"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Bruno 12:09: Robinhood Earn USDG → reply 14 (sem ecoar APY). Dups Saylor+Robinhood open já pulados por ele."
     }
   ],
   "reporter_tips": [
@@ -568,6 +594,16 @@
         "13"
       ],
       "note_pt": "Kobeissi foreign/household ownership → 13; Mantle+Bybit dups descartados"
+    },
+    {
+      "at": "2026-10-27T15:09:00.000Z",
+      "reporter": "Bruno",
+      "slot": "12:09",
+      "tips": 1,
+      "turned_into": [
+        "14"
+      ],
+      "note_pt": "Robinhood Earn → 14; 2 dups pulados por ele (saylor + robinhood open)"
     }
   ]
 }
