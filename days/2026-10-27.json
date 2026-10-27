@@ -759,6 +759,72 @@
         }
       ],
       "notes_pt": "Mathias 15h watch-only: jup_mobile → P13 (acesso 24/7 via carteira, sem claim de app); 0xadriandefi → P14 (verificar xStock oficial). Sem reply às fontes."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T21:05:00.000Z",
+      "source": "Bruno Titulares 18:00",
+      "replies": [
+        {
+          "id": "22",
+          "account": "@RobinhoodApp",
+          "url": "https://x.com/RobinhoodApp/status/2115175828266877186",
+          "context_pt": "Robinhood soltou o resultado do Q3 2026 (vídeo, 17:16 Fortaleza; ~470 likes / 98 replies / 33k views). Post sem números → replies sem cifras. Titular HOOD, engajar sim. Reage ao momento (resultado após o fechamento), sem advice, sem dizer que HOOD é negociado na Fluxion.",
+          "options": {
+            "a": "results are out and the replies already have three price targets. nobody has opened the pdf yet",
+            "b": "numbers drop after the bell, the reaction doesnt wait for morning. fluxionians clocking in for the night shift",
+            "c": "quarterly results as a video. earnings season officially became content and honestly we're here for it"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "23",
+          "account": "@RobinhoodApp",
+          "url": "https://x.com/RobinhoodApp/status/2115182985666547979",
+          "context_pt": "Earnings call do Q3 ao vivo no X (broadcast, 17:44 Fortaleza; ~120 likes / 33 replies). Reply enquanto a call roda. Diferente do 19 (transcript/alerta): aqui é o momento Q&A/ao vivo. Sem números, sem advice.",
+          "options": {
+            "a": "waiting for the q&a where one analyst asks the same question four different ways",
+            "b": "call on one screen, replies on another, onchain tape on a third. fluxionians call that a normal tuesday night",
+            "c": "every earnings call has the 'congrats on the quarter' analyst. we're just here to see who goes first"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [
+        {
+          "id": "M3",
+          "format_pt": "Dois painéis 'antes/depois' com o mascote Fluxion (sem pessoa real): esperar o dia seguinte vs ouvir a call com a tela de swap aberta",
+          "example": "https://x.com/RobinhoodApp/status/2115182985666547979",
+          "caption": "earnings call at 6pm.\nme: waits for tomorrow\nfluxionians: listening with the swap screen already open",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "visuals": [
+        {
+          "id": "V3",
+          "type": "meme",
+          "idea_pt": "M3: mascote Fluxion entediado com placa MARKET CLOSED vs mascote ligado ouvindo a call com tela de swap genérica na Mantle (prompt rico abaixo)",
+          "requested": false,
+          "prompt": "Two-panel vertical meme, clean flat-illustration style with subtle crypto-neon accents, 4:5 aspect ratio. Main character in both panels: the Fluxion mascot (use the official Fluxion character reference if available; fallback: a sleek, friendly robotic cat with a glowing cyan-blue visor and a small Mantle-green accent on the collar). TOP PANEL: late evening, a dim home office. On a laptop screen, a generic corporate earnings-call livestream (no real logos, no real people, just a stylised podium and a 'Q3 EARNINGS CALL — LIVE' banner). Beside it, a classic analog wall clock showing 6:00 and a paper sign taped to a monitor reading 'MARKET CLOSED — SEE YOU 9:30'. The mascot slumps in a chair, arms crossed, visor dimmed to a bored grey, a cold coffee mug labelled 'WAIT'. Caption text box at top in bold white sans-serif on a black bar: 'hearing the earnings call and waiting till tomorrow to do anything about it'. BOTTOM PANEL: same desk, same clock still at 6:00-ish, but now the mascot sits upright, visor glowing bright cyan, headphones on, one paw on the mouse; a second monitor shows an abstract onchain swap interface (no real tickers, no numbers, generic token icons and a 'SWAP' button) with the word 'MANTLE' small in the corner; tiny sparkles and a moon visible through the window. Caption bar: 'listening to the call with the swap screen already open'. No real company logos, no real people, no price numbers, no charts with values, no competitor names. Text must be legible and spelled exactly as given. Colour palette: deep navy background, cyan/teal highlights, warm desk-lamp orange for contrast.",
+          "chosen": null,
+          "discardReason": null
+        }
+      ],
+      "discarded_tips": [
+        {
+          "account": "@RobinhoodApp",
+          "url": "https://x.com/RobinhoodApp/status/2115162533187248426",
+          "reason_pt": "Contratos de evento das eleições (Congresso). engajar? não (Bruno). Ângulo de aposta/prediction market fora do produto Fluxion (spot xStocks na Mantle) e com risco de soar como recomendação de aposta; não virou post."
+        }
+      ],
+      "notes_pt": "Bruno 18h: HOOD Q3 resultado → 22; earnings call ao vivo → 23; meme M3 + prompt V3 (ângulo da noite de earnings, sem números, sem ticker HOODx). Tip 3 (eleições/event contracts) descartado. Sem cifras: post do resultado não traz números e não busquei IR."
     }
   ],
   "reporter_tips": [
@@ -983,6 +1049,19 @@
         "P14"
       ],
       "note_pt": "jup_mobile acesso carteira → P13 (sem app mobile); 0xadriandefi verificar token → P14; BNB bell/Kamino/Uniswap dups/memecoin pulados"
+    },
+    {
+      "at": "2026-10-27T21:05:00.000Z",
+      "reporter": "Bruno",
+      "slot": "18:00",
+      "tips": 3,
+      "turned_into": [
+        "22",
+        "23",
+        "M3",
+        "V3"
+      ],
+      "note_pt": "HOOD Q3 resultado → 22; earnings call ao vivo → 23; meme M3/V3 noite de earnings; eleições/event contracts descartado (engajar não, fora do produto, risco de soar aposta)"
     }
   ],
   "escolhas_log": [
