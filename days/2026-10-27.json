@@ -71,9 +71,14 @@
           "account": "@xStocksFi",
           "url": "https://x.com/xStocksFi/status/2114768690361344064",
           "reason_pt": "Já reply 26/10 (chosen b + humanizado); fora da janela 12h"
+        },
+        {
+          "account": "@solana",
+          "url": "https://x.com/solana/status/2114610515452551411",
+          "reason_pt": "Mathias 9h watch-only: ATH holders (não citar nº); ângulo 24/7+RFQ já em P2/P3; post velho"
         }
       ],
-      "notes_pt": "Ronda Gleison 08:00. Mantle+xStocks descartados (já engajados ontem). Só Sky novo. | Bruno 08:05: nada novo | Mathias 08h: 3 tips → P2/P3/P4"
+      "notes_pt": "Ronda Gleison 08:00. Mantle+xStocks descartados (já engajados ontem). Só Sky novo. | Bruno 08:05: nada novo | Mathias 08h: 3 tips → P2/P3/P4 | Mathias 9h: 1 tip descartado (redundante P2/P3)"
     }
   ],
   "reporter_tips": [
@@ -95,6 +100,14 @@
         "P4"
       ],
       "note_pt": "watch-only: collateral DeFi / swap 24h / spot vs leverage → posts Fluxion/Mantle sem citar rivais"
+    },
+    {
+      "at": "2026-10-27T12:01:00.000Z",
+      "reporter": "Mathias",
+      "slot": "09:00",
+      "tips": 1,
+      "turned_into": [],
+      "note_pt": "Solana adoção tokenized equities — descartado: post ~26h, números deles não usáveis, ângulo já coberto por P2/P3"
     }
   ]
 }
