@@ -386,6 +386,38 @@
         }
       ],
       "notes_pt": "Bruno 11:10: Robinhood market open → reply 12. 2 Saylor (já 8/9) descartados."
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-27T14:19:00.000Z",
+      "source": "Mathias Concorrência 11:17",
+      "replies": [],
+      "posts": [
+        {
+          "id": "P8",
+          "text": "big tech earnings week.\nchecklist for fluxionians:\n1. know which names print\n2. size decided before the call\n3. a listing is not a market when the tape gets loud",
+          "source": "https://x.com/rektdiomedes/status/2114840054853984631",
+          "note_pt": "Mathias 11h: ângulo earnings/calendário (engajar? não). Fonte já respondida ontem; post educativo Fluxion sem advice/preço e sem repetir 24/7.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@BNBCHAIN",
+          "url": "https://x.com/BNBCHAIN/status/2114980186085093815",
+          "reason_pt": "Mathias 11h: já pulado na 8h; Editor Chefe mantém fechado"
+        },
+        {
+          "account": "@rektdiomedes",
+          "url": "https://x.com/rektdiomedes/status/2114840054853984631",
+          "reason_pt": "engajar? não + já reply own ontem; só ângulo → P8"
+        }
+      ],
+      "notes_pt": "Mathias 11h: earnings calendar → P8. Sem reply à fonte. BNB/Ink continuam fechados."
     }
   ],
   "reporter_tips": [
@@ -479,6 +511,16 @@
         "12"
       ],
       "note_pt": "Robinhood market open → 12; 2 Saylor dups de 8/9 descartados"
+    },
+    {
+      "at": "2026-10-27T14:19:00.000Z",
+      "reporter": "Mathias",
+      "slot": "11:17",
+      "tips": 1,
+      "turned_into": [
+        "P8"
+      ],
+      "note_pt": "earnings/calendário (rektdiomedes contexto) → P8; BNB/Ink pulados"
     }
   ]
 }
