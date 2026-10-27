@@ -665,6 +665,51 @@
       "visuals": [],
       "discarded_tips": [],
       "notes_pt": "Bruno 14h probation: 2 tips com janela de reply."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T18:07:07.000Z",
+      "source": "Gleison Mesa Clarim 15:00",
+      "replies": [
+        {
+          "id": "20",
+          "account": "@grovedotfinance",
+          "url": "https://x.com/grovedotfinance/status/2115134094040588561",
+          "context_pt": "Grove (parceiro Earn): \"Treasuries. Credit. Now the Nasdaq-100.\" quotando o lançamento do JQQQ (Janus Henderson + Centrifuge). ~14:30 Fortaleza. Ângulo: categorias de RWA se expandindo → equities onchain 24/7. Não sugerir que JQQQ é negociado na Fluxion; sem advice; Fluxion ainda sem reply.",
+          "options": {
+            "a": "treasuries, credit, now the nasdaq-100. the RWA menu keeps getting longer and we are here for every course",
+            "b": "every new asset class onchain proves the same point: the market closes, onchain doesnt. fluxionians already trade xStocks 24/7 on Mantle",
+            "c": "benchmarks arriving onchain is the headline. deep liquidity and clean execution is the sequel, thats the part we obsess over on Mantle"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "21",
+          "account": "@KiiChainio",
+          "url": "https://x.com/KiiChainio/status/2115142009421807975",
+          "context_pt": "KiiChain (parceiro): \"Some deals can't wait until Monday! What's the longest a bank has made you wait for a payment?\" + imagem. ~15:02 Fortaleza. Ângulo leve: meme da espera bancária → liquidação/mercado 24/7. Sem advice; Fluxion ainda sem reply.",
+          "options": {
+            "a": "sent a wire on a friday, it showed up tuesday acting like nothing happened",
+            "b": "banks: 3-5 business days. onchain: whats a business day",
+            "c": "longest wait was a holiday weekend. the money was resting apparently. fluxionians trade on sundays fr"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@Bybit_Official",
+          "note_pt": "\"Okay, you got me\" — sem gancho (descartado pelo Gleison)"
+        }
+      ],
+      "notes_pt": "Gleison 15h: 2 tips de parceiros (Grove, KiiChain) → 20, 21. Market voices sem nada relevante."
     }
   ],
   "reporter_tips": [
@@ -859,6 +904,17 @@
         "19"
       ],
       "note_pt": "Tesla Roadster thrusters → 18; Robinhood earnings live transcript → 19"
+    },
+    {
+      "at": "2026-10-27T18:07:07.000Z",
+      "reporter": "Gleison",
+      "slot": "15:00",
+      "tips": 2,
+      "turned_into": [
+        "20",
+        "21"
+      ],
+      "note_pt": "Grove Nasdaq-100 onchain (JQQQ) → 20; KiiChain espera de pagamento bancário → 21; Bybit 'Okay, you got me' pulado"
     }
   ],
   "escolhas_log": [
