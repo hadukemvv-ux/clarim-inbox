@@ -154,6 +154,20 @@
           "chosen": null,
           "postedText": null,
           "discardReason": null
+        },
+        {
+          "id": "7",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2115036035281240371",
+          "context_pt": "Bybit anuncia livestream quinta sobre WSOT 2026 + Red Packets/iPhone. Apoio leve a parceiro.",
+          "options": {
+            "a": "livestream + red packets + iphone. thursday just became a calendar event",
+            "b": "wsot briefing thursday. fluxionians on bybit alpha, see you in the chat",
+            "c": "any competition that needs a whole livestream to explain is either huge or delightfully chaotic. hoping both"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
         }
       ],
       "posts": [
@@ -236,9 +250,14 @@
           "account": "@W3BCMedia",
           "url": "https://x.com/W3BCMedia/status/2114881010861236279",
           "reason_pt": "Resumo (xStocks US$1B, Robinhood earnings amanhã): NÃO VERIFICADO"
+        },
+        {
+          "account": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2115043360188842354",
+          "reason_pt": "Gleison 09:00: já na edição Diário como reply 2 + P5"
         }
       ],
-      "notes_pt": "Edição Clarim Diário 09:00. IDs continuam a numeração da ronda 08:00 (replies 2-6, P5-P7)."
+      "notes_pt": "Edição Clarim Diário 09:00. IDs continuam a numeração da ronda 08:00 (replies 2-6, P5-P7). | Gleison 09:00: Bybit WSOT→7; Raydium+Mantle descartados"
     }
   ],
   "reporter_tips": [
@@ -268,6 +287,16 @@
       "tips": 1,
       "turned_into": [],
       "note_pt": "Solana adoção tokenized equities — descartado: post ~26h, números deles não usáveis, ângulo já coberto por P2/P3"
+    },
+    {
+      "at": "2026-10-27T12:10:00.000Z",
+      "reporter": "Gleison",
+      "slot": "09:00",
+      "tips": 3,
+      "turned_into": [
+        "7"
+      ],
+      "note_pt": "xStocks Raydium descartado (venue concorrente); Mantle já na edição Diário 2/P5; Bybit WSOT → reply 7"
     }
   ]
 }
