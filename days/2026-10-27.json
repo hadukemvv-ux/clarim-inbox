@@ -79,6 +79,166 @@
         }
       ],
       "notes_pt": "Ronda Gleison 08:00. Mantle+xStocks descartados (já engajados ontem). Só Sky novo. | Bruno 08:05: nada novo | Mathias 08h: 3 tips → P2/P3/P4 | Mathias 9h: 1 tip descartado (redundante P2/P3)"
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-27T12:10:00.000Z",
+      "source": "Clarim Diário 09:00 (Editora Chefe)",
+      "replies": [
+        {
+          "id": "2",
+          "account": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2115043360188842354",
+          "context_pt": "Mantle: RWAs acharam casa na Mantle (equities, treasuries, MMFs, crédito privado). Parceiro core, fresco, poucas replies.",
+          "options": {
+            "a": "togETHer is the kind of pun that gets you promoted in crypto marketing ngl",
+            "b": "home is where the liquidity is. fluxionians keeping the xStocks room of that house busy",
+            "c": "hot take: borderless is doing more work in that sentence than tokenized"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "3",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2115050881410342969",
+          "context_pt": "Bybit pergunta se 5 big techs conseguem reacender a mania de IA. Parceiro, alcance alto, recém-postado.",
+          "options": {
+            "a": "ai mania doesnt need restoring, it just needs the next earnings call to panic about",
+            "b": "whatever the answer, fluxionians on bybit alpha get to react on their own schedule",
+            "c": "market punishing ai companies is peak ai behavior: overfit to the last headline"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "4",
+          "account": "@heybeluga",
+          "url": "https://x.com/heybeluga/status/2114977056484147234",
+          "context_pt": "Newsletter defendendo tokenized stocks como EV positivo, em resposta a anúncio do WSJ criticando. 38k views, debate aberto.",
+          "options": {
+            "a": "when tradfi starts buying newspaper ads about you, you're not niche anymore",
+            "b": "the debate always lands on custody. the part nobody writes about is execution, thats where it's won or lost onchain",
+            "c": "the loudest worries about tokenized stocks come from people who like the closing bell a little too much"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "5",
+          "account": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2114936152205697247",
+          "context_pt": "Elon quote: \"A Storm of Cybercabs\" (Tesla). 1,4M views; reply espirituosa pega alcance.",
+          "options": {
+            "a": "a storm of cybercabs is still the politest traffic jam ever",
+            "b": "saving a passenger seat in each one for a fluxion cat",
+            "c": "the real flex isnt the storm, it's zero honks"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "6",
+          "account": "@JasonYanowitz",
+          "url": "https://x.com/JasonYanowitz/status/2114927018580299927",
+          "context_pt": "Yano (Blockworks): \"Tokenized equities supercycle is here\". 129k seguidores, poucas replies.",
+          "options": {
+            "a": "two supercycles in one tweet. charts department eating gud this year",
+            "b": "phase two of any supercycle is size trading onchain without praying to the pool. thats the job atomic rfq was built for",
+            "c": "supercycle is when your mom asks about NVDAx before she asks about bitcoin"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [
+        {
+          "id": "P5",
+          "text": "rwas found their home on mantle.\nthe stocks room of that house needs a trading floor\nfluxionians, you know where it is",
+          "source": "https://x.com/Mantle_Official/status/2115043360188842354",
+          "note_pt": "Quote do post fresco da Mantle; sem números",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P6",
+          "text": "tradfi is buying newspaper ads about tokenized stocks now\nwhat's the one argument against them you actually take seriously?\nwrong answers also accepted",
+          "source": "https://x.com/heybeluga/status/2114977056484147234",
+          "note_pt": "Post de debate (gera replies). Anúncio do WSJ citado pela Beluga, não verificado na fonte; post não cita nº nem veículo",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P7",
+          "text": "big tech earnings season.\nreply with the one xStock you're watching and why, in 3 words\nno price targets, just vibes",
+          "source": "https://x.com/Bybit_Official/status/2115050881410342969",
+          "note_pt": "Pergunta aberta inspirada no post da Bybit; não usar o US$11T",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [
+        {
+          "id": "M1",
+          "format_pt": "Snowclone \"everyone should have at least a few ___\"",
+          "example": "https://x.com/elonmusk/status/2114973768473039185",
+          "caption": "everyone should have at least a few hobbies that dont close at 4pm",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "M2",
+          "format_pt": "\"A storm of ___\" (horda de algo idêntico)",
+          "example": "https://x.com/elonmusk/status/2114936152205697247",
+          "caption": "a storm of fluxionians, saturday 3am",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "visuals": [
+        {
+          "id": "V1",
+          "type": "meme",
+          "idea_pt": "M1: mascote Fluxion com hobbies (vinil, xadrez, tela de trade) enquanto relógio da bolsa marca 4pm e fecha",
+          "requested": false,
+          "prompt": null
+        },
+        {
+          "id": "V2",
+          "type": "meme",
+          "idea_pt": "M2: dezenas de mascotes Fluxion idênticos numa rua neon de madrugada, visores azuis acesos",
+          "requested": false,
+          "prompt": null
+        }
+      ],
+      "discarded_tips": [
+        {
+          "account": "@xStocksFi",
+          "url": "https://x.com/xStocksFi/status/2115040635816481013",
+          "reason_pt": "Post sobre volume em venue rival (Raydium): watch-only, não engajar"
+        },
+        {
+          "account": "@BitcoinWorldN",
+          "url": "https://x.com/BitcoinWorldN/status/2115051938156806186",
+          "reason_pt": "xStocks AUM US$1,03B via Token Terminal: NÃO VERIFICADO (fonte secundária)"
+        },
+        {
+          "account": "@W3BCMedia",
+          "url": "https://x.com/W3BCMedia/status/2114881010861236279",
+          "reason_pt": "Resumo (xStocks US$1B, Robinhood earnings amanhã): NÃO VERIFICADO"
+        }
+      ],
+      "notes_pt": "Edição Clarim Diário 09:00. IDs continuam a numeração da ronda 08:00 (replies 2-6, P5-P7)."
     }
   ],
   "reporter_tips": [
