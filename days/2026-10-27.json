@@ -95,8 +95,8 @@
             "b": "home is where the liquidity is. fluxionians keeping the xStocks room of that house busy",
             "c": "hot take: borderless is doing more work in that sentence than tokenized"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own",
+          "postedText": "home is where the liquidity is keeping the xStocks room of that house busy",
           "discardReason": null
         },
         {
@@ -859,6 +859,15 @@
         "19"
       ],
       "note_pt": "Tesla Roadster thrusters → 18; Robinhood earnings live transcript → 19"
+    }
+  ],
+  "escolhas_log": [
+    {
+      "at": "2026-10-27T17:41:00.000Z",
+      "raw": "CLARIM 2 own home is where the liquidity is keeping the xStocks room of that house busy",
+      "item": "2",
+      "chosen": "own",
+      "postedText": "home is where the liquidity is keeping the xStocks room of that house busy"
     }
   ]
 }
