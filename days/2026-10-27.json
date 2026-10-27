@@ -888,6 +888,67 @@
         }
       ],
       "notes_pt": "Mathias 18h watch-only: _incept1on (entrada líquida em xStocks com ações caindo) → P15 a/b/c (demanda/convicção em mercado vermelho, sem números, sem advice) + meme M4/V4 (guarda-chuva na chuva vermelha). Sem reply à fonte."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T21:28:00.000Z",
+      "source": "Gleison Mesa Clarim 18:00",
+      "replies": [
+        {
+          "id": "24",
+          "account": "@xStocksFi",
+          "url": "https://x.com/xStocksFi/status/2115174929268367825",
+          "reporter": "gleison",
+          "slot": "18:00",
+          "context_pt": "xStocks: \"Robinhood reports today after markets close. $HOODx trades 24/7 tokenized by xStocks.\" + imagem (17:12 Fortaleza; ~72 likes / 15 replies / 2.8k views). Corte novo (fora do saturado 24/7/liquidez e diferente dos 22/23): ironia de corretora pró-tokenização com a própria ação tokenizada + ritual de earnings. Sem números, sem advice, sem dizer que HOODx está na Fluxion, sem implicar acesso pra US persons. Urgência alta (janela pós-earnings).",
+          "options": {
+            "a": "the broker that went all in on tokenized stocks, reporting earnings while its own stock sits tokenized onchain. very 2026 sentence",
+            "b": "fluxionians' earnings night ritual: read the release, skip the first hot take, then check the tape. tokenized tickers just mean the ritual runs late",
+            "c": "earnings season hits different when the ticker has an x at the end"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "25",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2115171425631801428",
+          "reporter": "gleison",
+          "slot": "18:00",
+          "context_pt": "Bybit (parceiro/engajar): enquete \"Which part of trading takes the most discipline from you?\" — opções More opportunities / More volatility / More decisions (16:59 Fortaleza; ~23 likes / 9 replies / 19k views; enquete aberta até 30/10). Reply leve de comunidade, cada opção responde uma alternativa da enquete. Sem recomendação, sem pitch. Urgência baixa.",
+          "options": {
+            "a": "more decisions. the hardest trade is usually the one you decide not to take",
+            "b": "more opportunities. when every chart looks like a setup, the discipline is closing the laptop",
+            "c": "more volatility. sticking to the plan when the candles try to rewrite it is the whole job"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@grovedotfinance",
+          "note_pt": "Grove Nasdaq-100 — já tipado hoje (20), pulado pelo Gleison"
+        },
+        {
+          "account": "@KiiChainio",
+          "note_pt": "KiiChain — já tipado hoje (21), pulado pelo Gleison"
+        },
+        {
+          "account": "@Bybit_Official",
+          "note_pt": "\"Okay, you got me\" — já pulado às 15h, pulado de novo"
+        },
+        {
+          "account": "market voices",
+          "note_pt": "sem gancho novo desde ~14:30"
+        }
+      ],
+      "notes_pt": "Gleison 18h: 2 tips → 24 (xStocksFi HOODx pós-earnings, corte diferente dos 22/23) e 25 (Bybit enquete disciplina)."
     }
   ],
   "reporter_tips": [
@@ -1137,6 +1198,17 @@
         "V4"
       ],
       "note_pt": "_incept1on demanda por xStocks em mercado em queda → P15 (a/b/c, ângulo convicção, fora do saturado liquidez/24/7/RFQ) + M4/V4; pulados por ele: HOODx earnings (P8), tokenterminal ETF (P9), Prism/Kamino (P12), Raydium Q3 (12h)"
+    },
+    {
+      "at": "2026-10-27T21:28:00.000Z",
+      "reporter": "Gleison",
+      "slot": "18:00",
+      "tips": 2,
+      "turned_into": [
+        "24",
+        "25"
+      ],
+      "note_pt": "xStocksFi HOODx pós-earnings → 24 (ironia corretora/ação tokenizada + ritual de earnings; sem números, sem acesso US); Bybit enquete disciplina → 25 (leve, uma opção por alternativa); pulados: Grove, KiiChain, Bybit 'Okay, you got me', market voices sem gancho"
     }
   ],
   "escolhas_log": [
