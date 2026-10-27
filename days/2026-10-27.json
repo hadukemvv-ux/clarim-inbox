@@ -517,6 +517,27 @@
         }
       ],
       "notes_pt": "Mathias 12h: SPYx índice→P9; GLDx não confirmado Fluxion→P10 via SPYx/QQQx. Sem rival/números. Kubvil/Ink fechados."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T16:05:00.000Z",
+      "source": "Mathias Concorrência 13:05",
+      "replies": [],
+      "posts": [
+        {
+          "id": "P11",
+          "text": "same stock. same price.\nthat's the bar for tokenized equities.\nxstocks on mantle are 1:1 backed — fluxion is where that claim actually trades.",
+          "source": "https://x.com/Uniswap/status/2115108283078070407",
+          "note_pt": "Mathias 13h: gancho educativo 1:1 via Uniswap/Ondo/RH Chain — NÃO engajar, NÃO nomear rival. Post Fluxion: lastro 1:1 + execução na Fluxion.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Mathias 13h: tip Uniswap → P11 (1:1 / same stock same price) sem citar Uniswap/Ondo/Robinhood Chain. engajar? não."
     }
   ],
   "reporter_tips": [
@@ -651,6 +672,16 @@
         "P10"
       ],
       "note_pt": "SPYx índice→P9; GLDx não Fluxion→P10 (SPYx/QQQx); sem engajar fontes"
+    },
+    {
+      "at": "2026-10-27T16:05:00.000Z",
+      "reporter": "Mathias",
+      "slot": "13:05",
+      "tips": 1,
+      "turned_into": [
+        "P11"
+      ],
+      "note_pt": "Uniswap 1:1 educativo → P11 Fluxion; sem engajar fonte; sem nomear rival"
     }
   ]
 }
