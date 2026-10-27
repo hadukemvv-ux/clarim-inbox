@@ -710,6 +710,49 @@
         }
       ],
       "notes_pt": "Gleison 15h: 2 tips de parceiros (Grove, KiiChain) → 20, 21. Market voices sem nada relevante."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T18:12:00.000Z",
+      "source": "Mathias Concorrência 15:12",
+      "replies": [],
+      "posts": [
+        {
+          "id": "P13",
+          "text": "markets keep office hours. your wallet doesnt.\nconnect on mantle, pick an xStock, swap from USDC on fluxion — saturday, 2am, whenever.\nno bell, no queue",
+          "source": "https://x.com/jup_mobile/status/2115137748566712703",
+          "note_pt": "Mathias 15h: ângulo acesso a qualquer hora pela carteira. Fluxion NÃO tem app mobile confirmado (só dApp web app.fluxion.network + connect wallet) → post fala carteira/web, sem 'nosso app'. Fonte watch-only, NÃO engajar, NÃO nomear rival.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P14",
+          "text": "before you trade an xStock, make sure it's the real one.\n1. contract verified on the mantle explorer\n2. official pair on fluxion\n3. a ticker alone proves nothing, lookalikes exist\nverify first, swap second",
+          "source": "https://x.com/0xadriandefi/status/2115132701493600619",
+          "note_pt": "Mathias 15h: educativo segurança — verificar o token oficial (contrato verificado + par oficial Fluxion). Diferente do P4 (spot vs leverage). Sem links/endereços inventados, sem rival. engajar? não.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@BNBCHAIN",
+          "note_pt": "Mathias 15h: Nasdaq bell — fechado/pulado por ele"
+        },
+        {
+          "account": "@kamino / @Uniswap",
+          "note_pt": "Mathias 15h: duplicatas (já P11/P12)"
+        },
+        {
+          "account": "memecoin/launchpad",
+          "note_pt": "Mathias 15h: ruído"
+        }
+      ],
+      "notes_pt": "Mathias 15h watch-only: jup_mobile → P13 (acesso 24/7 via carteira, sem claim de app); 0xadriandefi → P14 (verificar xStock oficial). Sem reply às fontes."
     }
   ],
   "reporter_tips": [
@@ -923,6 +966,17 @@
       "tips": 0,
       "turned_into": [],
       "note_pt": "nada novo"
+    },
+    {
+      "at": "2026-10-27T18:12:00.000Z",
+      "reporter": "Mathias",
+      "slot": "15:12",
+      "tips": 2,
+      "turned_into": [
+        "P13",
+        "P14"
+      ],
+      "note_pt": "jup_mobile acesso carteira → P13 (sem app mobile); 0xadriandefi verificar token → P14; BNB bell/Kamino/Uniswap dups/memecoin pulados"
     }
   ],
   "escolhas_log": [
