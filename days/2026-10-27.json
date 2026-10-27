@@ -481,6 +481,42 @@
       "visuals": [],
       "discarded_tips": [],
       "notes_pt": "Bruno 12:09: Robinhood Earn USDG → reply 14 (sem ecoar APY). Dups Saylor+Robinhood open já pulados por ele."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T15:12:00.000Z",
+      "source": "Mathias Concorrência 12:12",
+      "replies": [],
+      "posts": [
+        {
+          "id": "P9",
+          "text": "index demand is the quiet tell.\nwhen people ask for SPYx, they're not picking a ticker — they're picking the market.\nfluxionians already have that book on mantle.",
+          "source": "https://x.com/xStocksFi/status/2115040635816481013",
+          "note_pt": "Mathias 12h: demanda índice/ETF (SPYx). Sem citar venue rival nem números. engajar? não → post Fluxion.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P10",
+          "text": "xstocks arent only the mag7 story.\nSPYx and QQQx on fluxion cover the index habit too.\nbeyond single names, still onchain.",
+          "source": "https://x.com/tokens/status/2115066616916676685",
+          "note_pt": "Mathias 12h: ângulo commodity/GLDx — GLDx NÃO confirmado na Fluxion; reescrito com SPYx/QQQx verificados (não é só big tech).",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@tokens",
+          "url": "https://x.com/tokens/status/2115066616916676685",
+          "reason_pt": "GLDx não listado na Fluxion (só Mantle chain genérico); ângulo virado P10 com SPYx/QQQx"
+        }
+      ],
+      "notes_pt": "Mathias 12h: SPYx índice→P9; GLDx não confirmado Fluxion→P10 via SPYx/QQQx. Sem rival/números. Kubvil/Ink fechados."
     }
   ],
   "reporter_tips": [
@@ -604,6 +640,17 @@
         "14"
       ],
       "note_pt": "Robinhood Earn → 14; 2 dups pulados por ele (saylor + robinhood open)"
+    },
+    {
+      "at": "2026-10-27T15:12:00.000Z",
+      "reporter": "Mathias",
+      "slot": "12:12",
+      "tips": 2,
+      "turned_into": [
+        "P9",
+        "P10"
+      ],
+      "note_pt": "SPYx índice→P9; GLDx não Fluxion→P10 (SPYx/QQQx); sem engajar fontes"
     }
   ]
 }
