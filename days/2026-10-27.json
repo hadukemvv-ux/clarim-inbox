@@ -578,6 +578,32 @@
       "visuals": [],
       "discarded_tips": [],
       "notes_pt": "Gleison 13h: Sky dashboard→15; WatcherGuru Ripple+RH stablecoins→16. Pulos dele (WSOT/Mantle/Bybit TradFi/Kobeissi/Raydium) ok."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T16:14:00.000Z",
+      "source": "Bruno Titulares 13:14",
+      "replies": [
+        {
+          "id": "17",
+          "account": "@Google",
+          "url": "https://x.com/Google/status/2115114426827501782",
+          "context_pt": "Google lança Genie 4 (DeepMind): interactive world model em research preview (testers / AI Ultra / Gemini API). MAG7 fresco (~13:12 Fortaleza), janela de reply aberta. Sem advice.",
+          "options": {
+            "a": "world models now ship version numbers. my open tabs still dont",
+            "b": "deepmind dropping interactive worlds while the tape sleeps — fluxionians already live on that clock",
+            "c": "research preview for reality is a hell of a product category"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Bruno 13h: Google Genie 4 → reply 17. Probation: tip MAG7 fresco com janela de reply."
     }
   ],
   "reporter_tips": [
@@ -733,6 +759,16 @@
         "16"
       ],
       "note_pt": "Sky Financial Dashboard→15; WatcherGuru Ripple+Robinhood stablecoins→16"
+    },
+    {
+      "at": "2026-10-27T16:14:00.000Z",
+      "reporter": "Bruno",
+      "slot": "13:14",
+      "tips": 1,
+      "turned_into": [
+        "17"
+      ],
+      "note_pt": "Google Genie 4 → 17; janela reply aberta"
     }
   ]
 }
