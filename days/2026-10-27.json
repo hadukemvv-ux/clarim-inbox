@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-27",
+  "editions": [
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-27T11:05:00.000Z",
+      "source": "Gleison Mesa Clarim ronda 08:00",
+      "replies": [
+        {
+          "id": "1",
+          "account": "@SkyEcosystem",
+          "url": "https://x.com/SkyEcosystem/status/2114766596145332270",
+          "context_pt": "Sky abre perguntas pro Q3 Insights Call; inscrições fecham 28/10. Parceiro (Earn). Apoio leve antes do prazo.",
+          "options": {
+            "a": "submissions close oct 28. my question is already \"wen the slide deck\"",
+            "b": "gud call. fluxionians in earn with sky will care about that capital allocation bit",
+            "c": "open mic until the 28th is rare. silence after \"any questions?\" is not"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [
+        {
+          "id": "P1",
+          "text": "partner check-in.\nsky's taking q3 questions until oct 28.\nif you've got one on capital allocation or outlook, send it before the call goes quiet.",
+          "source": "https://x.com/SkyEcosystem/status/2114766596145332270",
+          "note_pt": "Apoio leve ao parceiro Sky antes do prazo 28/10; sem yield claim",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2114720930933158014",
+          "reason_pt": "Já engajado 26/10: reply own + quote Fluxion (Gleison ronda 08:00)"
+        },
+        {
+          "account": "@xStocksFi",
+          "url": "https://x.com/xStocksFi/status/2114768690361344064",
+          "reason_pt": "Já reply 26/10 (chosen b + humanizado); fora da janela 12h"
+        }
+      ],
+      "notes_pt": "Ronda Gleison 08:00. Mantle+xStocks descartados (já engajados ontem). Só Sky novo."
+    }
+  ]
+}
