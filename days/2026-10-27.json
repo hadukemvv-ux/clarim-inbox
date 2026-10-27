@@ -418,6 +418,43 @@
         }
       ],
       "notes_pt": "Mathias 11h: earnings calendar → P8. Sem reply à fonte. BNB/Ink continuam fechados."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T15:02:00.000Z",
+      "source": "Gleison Mesa Clarim ronda 12:00",
+      "replies": [
+        {
+          "id": "13",
+          "account": "@KobeissiLetter",
+          "url": "https://x.com/KobeissiLetter/status/2115088111654797531",
+          "context_pt": "Kobeissi: households ~42% do equity US (máx desde late 90s); foreign investors 18% (2º). Ângulo acesso global/onchain sem pitch US nem advice. Urgência baixa.",
+          "options": {
+            "a": "households back to late-90s share. nostalgia with better spreadsheets",
+            "b": "18% foreign is the plot twist. access was always global; settlement just finally caught a clue",
+            "c": "mutual funds in bronze while households take gold. retail never left the building"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2115081394896703743",
+          "reason_pt": "Gleison 12:00: já reply 10"
+        },
+        {
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2115050868903141478",
+          "reason_pt": "Gleison 12:00: já reply 11"
+        }
+      ],
+      "notes_pt": "Gleison 12:00: Kobeissi ownership → reply 13. Mantle/Bybit dups filtrados."
     }
   ],
   "reporter_tips": [
@@ -521,6 +558,16 @@
         "P8"
       ],
       "note_pt": "earnings/calendário (rektdiomedes contexto) → P8; BNB/Ink pulados"
+    },
+    {
+      "at": "2026-10-27T15:02:00.000Z",
+      "reporter": "Gleison",
+      "slot": "12:00",
+      "tips": 1,
+      "turned_into": [
+        "13"
+      ],
+      "note_pt": "Kobeissi foreign/household ownership → 13; Mantle+Bybit dups descartados"
     }
   ]
 }
