@@ -915,6 +915,14 @@
         "21"
       ],
       "note_pt": "Grove Nasdaq-100 onchain (JQQQ) → 20; KiiChain espera de pagamento bancário → 21; Bybit 'Okay, you got me' pulado"
+    },
+    {
+      "at": "2026-10-27T18:10:33.000Z",
+      "reporter": "Bruno",
+      "slot": "15:09",
+      "tips": 0,
+      "turned_into": [],
+      "note_pt": "nada novo"
     }
   ],
   "escolhas_log": [
