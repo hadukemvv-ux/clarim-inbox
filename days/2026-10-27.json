@@ -800,6 +800,14 @@
         "P12"
       ],
       "note_pt": "Kamino cesta/collateral → P12 Fluxion portfolio/basket; sem engajar; sem lending claim"
+    },
+    {
+      "at": "2026-10-27T17:10:59.000Z",
+      "reporter": "Gleison",
+      "slot": "14:00",
+      "tips": 0,
+      "turned_into": [],
+      "note_pt": "nada novo"
     }
   ]
 }
