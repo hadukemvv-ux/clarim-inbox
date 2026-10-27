@@ -16,7 +16,7 @@
             "b": "gud call. fluxionians in earn with sky will care about that capital allocation bit",
             "c": "open mic until the 28th is rare. silence after \"any questions?\" is not"
           },
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
           "discardReason": null
         }
@@ -27,7 +27,7 @@
           "text": "partner check-in.\nsky's taking q3 questions until oct 28.\nif you've got one on capital allocation or outlook, send it before the call goes quiet.",
           "source": "https://x.com/SkyEcosystem/status/2114766596145332270",
           "note_pt": "Apoio leve ao parceiro Sky antes do prazo 28/10; sem yield claim",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
           "discardReason": null
         },
@@ -36,26 +36,26 @@
           "text": "a listing is not a market.\nxStocks on Mantle get real depth: amm pools + atomic rfq when you need size.\ntrade them 24/7. keep capital working onchain between moves.",
           "source": "Mathias watch-only (ângulo: tokenized equities com utilidade DeFi / liquidez)",
           "note_pt": "Louvor liquidez+Atomic RFQ+24/7; sem citar rival nem números deles",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null
+          "discardReason": "muito repetitivo, precisamos de novidade"
         },
         {
           "id": "P3",
           "text": "want size into an xStock without waiting for the bell?\nfluxion on mantle: amm + atomic rfq for a firm quote when the pool isnt enough.\nwe're waiting for you\n24/7",
           "source": "Mathias watch-only (ângulo: swap xStocks a qualquer hora)",
           "note_pt": "24/7 + cotação firme Atomic RFQ; sem citar venue rival",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null
+          "discardReason": "novamente, extremamente repetitivo, sem ideia de meme, sem graça, sem novidade, sem engajamento"
         },
         {
           "id": "P4",
           "text": "not every onchain stock product is the same.\nxStocks on fluxion are spot tokenized equities on mantle — not a leveraged bet.\ntrade through the week. position accordingly.",
           "source": "Mathias watch-only (ângulo: educativo spot vs leverage)",
           "note_pt": "Tom positivo/educativo; sem advice, sem comparar/nomear produto rival",
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own",
+          "postedText": "not every onchain stock product is the same\n\nxStocks on fluxion are spot tokenized equities on mantle: not a leveraged bet. Trade it easy through the week(end)\n\nnonstop, you know",
           "discardReason": null
         }
       ],
@@ -109,8 +109,8 @@
             "b": "whatever the answer, fluxionians on bybit alpha get to react on their own schedule",
             "c": "market punishing ai companies is peak ai behavior: overfit to the last headline"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own",
+          "postedText": "market punishing AI companies is peak AI\n\nfluxionians on bybit alpha (big tech) running to restore the AI mania",
           "discardReason": null
         },
         {
@@ -123,8 +123,8 @@
             "b": "the debate always lands on custody. the part nobody writes about is execution, thats where it's won or lost onchain",
             "c": "the loudest worries about tokenized stocks come from people who like the closing bell a little too much"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "c",
+          "postedText": "the loudest worries about tokenized stocks come from people who like the closing bell a little too much",
           "discardReason": null
         },
         {
@@ -137,9 +137,9 @@
             "b": "saving a passenger seat in each one for a fluxion cat",
             "c": "the real flex isnt the storm, it's zero honks"
           },
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null
+          "discardReason": "nao faz sentido engajar so por engajar nesse post nonsense (para nos), ainda mais pq foi 01:00 da manha"
         },
         {
           "id": "6",
@@ -151,9 +151,9 @@
             "b": "phase two of any supercycle is size trading onchain without praying to the pool. thats the job atomic rfq was built for",
             "c": "supercycle is when your mom asks about NVDAx before she asks about bitcoin"
           },
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null
+          "discardReason": "o post quotado fala sobre a binance, apesar de ser um bom post sobre stocks tokenizados, nao é bom envolver concorrentes"
         },
         {
           "id": "7",
@@ -165,8 +165,8 @@
             "b": "wsot briefing thursday. fluxionians on bybit alpha, see you in the chat",
             "c": "any competition that needs a whole livestream to explain is either huge or delightfully chaotic. hoping both"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own",
+          "postedText": "thursday just became a calendar event",
           "discardReason": null
         }
       ],
@@ -176,27 +176,29 @@
           "text": "rwas found their home on mantle.\nthe stocks room of that house needs a trading floor\nfluxionians, you know where it is",
           "source": "https://x.com/Mantle_Official/status/2115043360188842354",
           "note_pt": "Quote do post fresco da Mantle; sem números",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null
+          "discardReason": "gostei, mas ja teve um reply assim dessa mesma forma. sugiro colocarmos juntos alguma forma de meme com um tipo de prompt para eu passar para outra IA fazer uma imagem e algo que traga mais contexto, se nao vamos acabar caindo na malha fina da IA"
         },
         {
           "id": "P6",
           "text": "tradfi is buying newspaper ads about tokenized stocks now\nwhat's the one argument against them you actually take seriously?\nwrong answers also accepted",
           "source": "https://x.com/heybeluga/status/2114977056484147234",
           "note_pt": "Post de debate (gera replies). Anúncio do WSJ citado pela Beluga, não verificado na fonte; post não cita nº nem veículo",
-          "chosen": null,
-          "postedText": null,
-          "discardReason": null
+          "chosen": "own",
+          "postedText": "https://x.com/Fluxion_network/status/2115154250900910288",
+          "discardReason": null,
+          "postedUrl": "https://x.com/Fluxion_network/status/2115154250900910288",
+          "notes": "Hadukem fez quote tweet (full post no link) para dar contexto maior"
         },
         {
           "id": "P7",
           "text": "big tech earnings season.\nreply with the one xStock you're watching and why, in 3 words\nno price targets, just vibes",
           "source": "https://x.com/Bybit_Official/status/2115050881410342969",
           "note_pt": "Pergunta aberta inspirada no post da Bybit; não usar o US$11T",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null
+          "discardReason": "parece ser bom, mas deixaremos isso para amanha. temos report das stocks. por hoje nao"
         }
       ],
       "memes": [
@@ -205,16 +207,16 @@
           "format_pt": "Snowclone \"everyone should have at least a few ___\"",
           "example": "https://x.com/elonmusk/status/2114973768473039185",
           "caption": "everyone should have at least a few hobbies that dont close at 4pm",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null
+          "discardReason": "gostei da vibe do meme! mas faltou contexto para pedir imagem para outra IA. precisamos enriquecer os detalhes"
         },
         {
           "id": "M2",
           "format_pt": "\"A storm of ___\" (horda de algo idêntico)",
           "example": "https://x.com/elonmusk/status/2114936152205697247",
           "caption": "a storm of fluxionians, saturday 3am",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
           "discardReason": null
         }
@@ -225,14 +227,18 @@
           "type": "meme",
           "idea_pt": "M1: mascote Fluxion com hobbies (vinil, xadrez, tela de trade) enquanto relógio da bolsa marca 4pm e fecha",
           "requested": false,
-          "prompt": null
+          "prompt": null,
+          "chosen": "discard",
+          "discardReason": null
         },
         {
           "id": "V2",
           "type": "meme",
           "idea_pt": "M2: dezenas de mascotes Fluxion idênticos numa rua neon de madrugada, visores azuis acesos",
           "requested": false,
-          "prompt": null
+          "prompt": null,
+          "chosen": "discard",
+          "discardReason": null
         }
       ],
       "discarded_tips": [
@@ -986,6 +992,132 @@
       "item": "2",
       "chosen": "own",
       "postedText": "home is where the liquidity is keeping the xStocks room of that house busy"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM 1 discard",
+      "item": "1",
+      "chosen": "discard",
+      "discardReason": null
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM P1 discard",
+      "item": "P1",
+      "chosen": "discard",
+      "discardReason": null
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM P2 discard muito repetitivo, precisamos de novidade",
+      "item": "P2",
+      "chosen": "discard",
+      "discardReason": "muito repetitivo, precisamos de novidade"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM P3 discard novamente, extremamente repetitivo, sem ideia de meme, sem graça, sem novidade, sem engajamento",
+      "item": "P3",
+      "chosen": "discard",
+      "discardReason": "novamente, extremamente repetitivo, sem ideia de meme, sem graça, sem novidade, sem engajamento"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM 5 discard nao faz sentido engajar so por engajar nesse post nonsense (para nos), ainda mais pq foi 01:00 da manha",
+      "item": "5",
+      "chosen": "discard",
+      "discardReason": "nao faz sentido engajar so por engajar nesse post nonsense (para nos), ainda mais pq foi 01:00 da manha"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM 6 discard o post quotado fala sobre a binance, apesar de ser um bom post sobre stocks tokenizados, nao é bom envolver concorrentes",
+      "item": "6",
+      "chosen": "discard",
+      "discardReason": "o post quotado fala sobre a binance, apesar de ser um bom post sobre stocks tokenizados, nao é bom envolver concorrentes"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM P5 discard gostei, mas ja teve um reply assim dessa mesma forma. sugiro colocarmos juntos alguma forma de meme com um tipo de prompt para eu passar para outra IA fazer uma imagem e algo que traga mais contexto, se nao vamos acabar caindo na malha fina da IA",
+      "item": "P5",
+      "chosen": "discard",
+      "discardReason": "gostei, mas ja teve um reply assim dessa mesma forma. sugiro colocarmos juntos alguma forma de meme com um tipo de prompt para eu passar para outra IA fazer uma imagem e algo que traga mais contexto, se nao vamos acabar caindo na malha fina da IA"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM P7 discard parece ser bom, mas deixaremos isso para amanha. temos report das stocks. por hoje nao",
+      "item": "P7",
+      "chosen": "discard",
+      "discardReason": "parece ser bom, mas deixaremos isso para amanha. temos report das stocks. por hoje nao"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM M1 discard gostei da vibe do meme! mas faltou contexto para pedir imagem para outra IA. precisamos enriquecer os detalhes",
+      "item": "M1",
+      "chosen": "discard",
+      "discardReason": "gostei da vibe do meme! mas faltou contexto para pedir imagem para outra IA. precisamos enriquecer os detalhes"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM M2 discard",
+      "item": "M2",
+      "chosen": "discard",
+      "discardReason": null
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM V1 discard",
+      "item": "V1",
+      "chosen": "discard",
+      "discardReason": null
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM V2 discard",
+      "item": "V2",
+      "chosen": "discard",
+      "discardReason": null
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM P4 own not every onchain stock product is the same\n\nxStocks on fluxion are spot tokenized equities on mantle: not a leveraged bet. Trade it easy through the week(end)\n\nnonstop, you know",
+      "item": "P4",
+      "chosen": "own",
+      "postedText": "not every onchain stock product is the same\n\nxStocks on fluxion are spot tokenized equities on mantle: not a leveraged bet. Trade it easy through the week(end)\n\nnonstop, you know"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM 3 own market punishing AI companies is peak AI\n\nfluxionians on bybit alpha (big tech) running to restore the AI mania",
+      "item": "3",
+      "chosen": "own",
+      "postedText": "market punishing AI companies is peak AI\n\nfluxionians on bybit alpha (big tech) running to restore the AI mania"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM P6 own https://x.com/Fluxion_network/status/2115154250900910288",
+      "item": "P6",
+      "chosen": "own",
+      "postedText": "https://x.com/Fluxion_network/status/2115154250900910288",
+      "notes": "Hadukem fez quote tweet (full post no link) para dar contexto maior"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM 7 own thursday just became a calendar event",
+      "item": "7",
+      "chosen": "own",
+      "postedText": "thursday just became a calendar event"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "raw": "CLARIM 4c the loudest worries about tokenized stocks come from people who like the closing bell a little too much",
+      "item": "4",
+      "chosen": "c",
+      "postedText": "the loudest worries about tokenized stocks come from people who like the closing bell a little too much"
+    },
+    {
+      "at": "2026-10-27T18:55:00.000Z",
+      "item": "lote",
+      "raw": "por enquanto so, marque o que ja foi feito que eu continuo mais tarde",
+      "notes_pt": "Lote 1 de escolhas da tarde (itens 1-7, P1-P7, M1-M2, V1-V2). Pendentes: 8-21, P8-P14. Aprendizados: (1) evitar posts repetitivos — querer novidade e ideia de meme; (2) memes/visuais precisam de prompt rico e detalhado para outra IA gerar a imagem (contexto, cena, estilo, texto na imagem); (3) não engajar post nonsense/de madrugada (01:00) só por engajar; (4) não envolver concorrentes (ex.: Binance) mesmo em ângulo bom de tokenized stocks; (5) P7 estacionado para amanhã (hoje tem report das stocks); (6) ângulo 'liquidez/24/7/RFQ' já saturado — variar."
     }
   ]
 }
