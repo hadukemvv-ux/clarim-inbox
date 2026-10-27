@@ -303,6 +303,52 @@
       "visuals": [],
       "discarded_tips": [],
       "notes_pt": "Bruno 10:15 (probation): 2 tips @saylor frescos → replies 8-9. Strategy/Titulares ok."
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-27T14:07:00.000Z",
+      "source": "Gleison Mesa Clarim ronda 11:00",
+      "replies": [
+        {
+          "id": "10",
+          "account": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2115081394896703743",
+          "context_pt": "Mantle: virada de lançamentos de token pra categorias de ativos tokenizados; institutions + RWA all-in; fresco (~11:01 Fortaleza). Parceiro core.",
+          "options": {
+            "a": "\"still day one\" while institutions already arbitraging asset classes. classic crypto timeline",
+            "b": "launches fade. categories stick. fluxionians trading xstocks on mantle while the old market naps",
+            "c": "the quiet part: when launches slow down, the venues with real asset flow keep the lights on"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "11",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2115050868903141478",
+          "context_pt": "Bybit: Trade TradFi Options 24/7. Tom bate com mercado aberto 24/7; parceiro; post diferente do reply 3 (outro status id).",
+          "options": {
+            "a": "tradfi but the closing bell got fired. respect",
+            "b": "24/7 options over there, 24/7 xstocks over here. fluxionians dont do weekends off either",
+            "c": "\"tradfi options\" and \"24/7\" in the same sentence used to be a contradiction. progress looks weird"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2115050881410342969",
+          "reason_pt": "Gleison 11:00: já na edição Diário (reply 3 + P7); duplicata confirmada"
+        }
+      ],
+      "notes_pt": "Gleison 11:00: Mantle RWA categories→10; Bybit TradFi Options 24/7→11; Bybit earnings post descartado (dup reply 3)."
     }
   ],
   "reporter_tips": [
@@ -375,6 +421,17 @@
         "9"
       ],
       "note_pt": "Saylor language metaphor + IA/BTC complementary → replies 8-9 (Titulares/Strategy)"
+    },
+    {
+      "at": "2026-10-27T14:07:00.000Z",
+      "reporter": "Gleison",
+      "slot": "11:00",
+      "tips": 2,
+      "turned_into": [
+        "10",
+        "11"
+      ],
+      "note_pt": "Mantle tokenized categories + Bybit TradFi Options 24/7 → replies 10-11; 1 Bybit dup descartado"
     }
   ]
 }
