@@ -30,6 +30,33 @@
           "chosen": null,
           "postedText": null,
           "discardReason": null
+        },
+        {
+          "id": "P2",
+          "text": "a listing is not a market.\nxStocks on Mantle get real depth: amm pools + atomic rfq when you need size.\ntrade them 24/7. keep capital working onchain between moves.",
+          "source": "Mathias watch-only (ângulo: tokenized equities com utilidade DeFi / liquidez)",
+          "note_pt": "Louvor liquidez+Atomic RFQ+24/7; sem citar rival nem números deles",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P3",
+          "text": "want size into an xStock without waiting for the bell?\nfluxion on mantle: amm + atomic rfq for a firm quote when the pool isnt enough.\nwe're waiting for you\n24/7",
+          "source": "Mathias watch-only (ângulo: swap xStocks a qualquer hora)",
+          "note_pt": "24/7 + cotação firme Atomic RFQ; sem citar venue rival",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P4",
+          "text": "not every onchain stock product is the same.\nxStocks on fluxion are spot tokenized equities on mantle — not a leveraged bet.\ntrade through the week. position accordingly.",
+          "source": "Mathias watch-only (ângulo: educativo spot vs leverage)",
+          "note_pt": "Tom positivo/educativo; sem advice, sem comparar/nomear produto rival",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
         }
       ],
       "memes": [],
@@ -46,7 +73,7 @@
           "reason_pt": "Já reply 26/10 (chosen b + humanizado); fora da janela 12h"
         }
       ],
-      "notes_pt": "Ronda Gleison 08:00. Mantle+xStocks descartados (já engajados ontem). Só Sky novo. | Bruno 08:05: nada novo"
+      "notes_pt": "Ronda Gleison 08:00. Mantle+xStocks descartados (já engajados ontem). Só Sky novo. | Bruno 08:05: nada novo | Mathias 08h: 3 tips → P2/P3/P4"
     }
   ],
   "reporter_tips": [
@@ -56,6 +83,18 @@
       "slot": "08:05",
       "tips": 0,
       "note_pt": "nada novo"
+    },
+    {
+      "at": "2026-10-27T11:10:00.000Z",
+      "reporter": "Mathias",
+      "slot": "08:00",
+      "tips": 3,
+      "turned_into": [
+        "P2",
+        "P3",
+        "P4"
+      ],
+      "note_pt": "watch-only: collateral DeFi / swap 24h / spot vs leverage → posts Fluxion/Mantle sem citar rivais"
     }
   ]
 }
