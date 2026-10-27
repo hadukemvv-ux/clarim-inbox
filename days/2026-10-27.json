@@ -263,6 +263,46 @@
         }
       ],
       "notes_pt": "Edição Clarim Diário 09:00. IDs continuam a numeração da ronda 08:00 (replies 2-6, P5-P7). | Gleison 09:00: Bybit WSOT→7; Raydium+Mantle descartados | Gleison 10:00: Bybit duplicado → descartado"
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-27T13:16:55.000Z",
+      "source": "Bruno Titulares 10:15",
+      "replies": [
+        {
+          "id": "8",
+          "account": "@saylor",
+          "url": "https://x.com/saylor/status/2115061421843087541",
+          "context_pt": "Saylor: qualquer um cria uma cripto = inventar um idioma. Fresco (~09:41 Fortaleza), alto engajamento. Titulares/Strategy.",
+          "options": {
+            "a": "anyone can invent a language. almost nobody gets a second speaker",
+            "b": "inventing the ticker is easy. keeping books open when everyone else clocks out is the part that takes work",
+            "c": "every cycle invents a new word for the same bag. at least bitcoin stuck with one"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "9",
+          "account": "@saylor",
+          "url": "https://x.com/saylor/status/2115059825881297110",
+          "context_pt": "Saylor reply @Jason: IA cria abundância, Bitcoin garante escassez — complementary. Ângulo IA+capital digital; leve, sem advice.",
+          "options": {
+            "a": "abundance without scarcity is just inflation with better branding",
+            "b": "digital intelligence prints. digital capital stays scarce. markets that never close are where those two actually sit next to each other",
+            "c": "complementary until someone asks which one pays the bills first"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Bruno 10:15 (probation): 2 tips @saylor frescos → replies 8-9. Strategy/Titulares ok."
     }
   ],
   "reporter_tips": [
@@ -324,6 +364,17 @@
       "slot": "10:00",
       "tips": 0,
       "note_pt": "nada novo"
+    },
+    {
+      "at": "2026-10-27T13:16:55.000Z",
+      "reporter": "Bruno",
+      "slot": "10:15",
+      "tips": 2,
+      "turned_into": [
+        "8",
+        "9"
+      ],
+      "note_pt": "Saylor language metaphor + IA/BTC complementary → replies 8-9 (Titulares/Strategy)"
     }
   ]
 }
