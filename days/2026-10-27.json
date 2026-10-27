@@ -825,6 +825,69 @@
         }
       ],
       "notes_pt": "Bruno 18h: HOOD Q3 resultado → 22; earnings call ao vivo → 23; meme M3 + prompt V3 (ângulo da noite de earnings, sem números, sem ticker HOODx). Tip 3 (eleições/event contracts) descartado. Sem cifras: post do resultado não traz números e não busquei IR."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T21:12:00.000Z",
+      "source": "Mathias Concorrência 18:00",
+      "replies": [],
+      "posts": [
+        {
+          "id": "P15",
+          "options": {
+            "a": "red month for stocks. people still kept walking into tokenized stocks.\nthat's not a trade, that's a habit forming.\nxStocks on mantle, fluxion is where the habit lives",
+            "b": "everyone shows up for green candles.\nthe real tell is who's still here when it's red.\ntokenized stocks kept their crowd. fluxionians, you're part of that signal",
+            "c": "fair-weather assets need a bull market to make sense.\ntokenized stocks are making sense in a red one.\nquiet signal, loud on mantle. fluxion"
+          },
+          "text": null,
+          "source": "https://x.com/_incept1on/status/2115141540632814053",
+          "note_pt": "Mathias 18h: ângulo novo — demanda por ações tokenizadas se mantém com ações em queda (convicção/hábito, não preço). Evita o saturado liquidez/24/7/RFQ. Sem números da fonte, sem 'compre na queda'/advice, sem nomear rival. Fonte watch-only, engajar? não.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [
+        {
+          "id": "M4",
+          "format_pt": "Mascote Fluxion de guarda-chuva na chuva de velas vermelhas enquanto a multidão 'fair-weather' (silhuetas genéricas) vai embora; sem pessoa real, sem números",
+          "example": "https://x.com/_incept1on/status/2115141540632814053",
+          "caption": "stocks: red week\nfair-weather crowd: *leaves*\nfluxionians: still here, umbrella up, onchain on mantle",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "visuals": [
+        {
+          "id": "V4",
+          "type": "meme",
+          "idea_pt": "M4: mascote Fluxion de guarda-chuva parado na chuva de velas vermelhas, multidão de silhuetas indo embora (prompt rico abaixo)",
+          "requested": false,
+          "prompt": "Single-panel meme illustration, clean flat-illustration style with subtle crypto-neon accents, 4:5 aspect ratio. Scene: a city plaza at dusk during a downpour, but the 'rain' is made of small stylised red candlestick shapes falling from a dark stormy sky (abstract, no axes, no numbers, no tickers). In the background, a crowd of generic faceless grey silhouettes (no real people, no recognisable faces) hurries away toward an exit sign that reads 'SEE YOU NEXT BULL RUN', some holding newspapers over their heads. In the foreground centre, the Fluxion mascot (use the official Fluxion character reference if available; fallback: a sleek, friendly robotic cat with a glowing cyan-blue visor and a small Mantle-green accent on the collar) stands calmly under a big cyan umbrella, visor glowing bright, relaxed posture, one paw holding a phone-sized glowing card that shows only a generic token icon and the word 'MANTLE' (no prices, no charts with values). The ground around the mascot is dry inside the umbrella's circle, with a soft teal glow. Caption text in bold white sans-serif on a black bar at the top, three lines, spelled exactly: 'stocks: red week' / 'fair-weather crowd: *leaves*' / 'fluxionians: still here, umbrella up'. Small text at the bottom-right: 'onchain on mantle'. No real company logos, no competitor names or logos, no real people, no price numbers, no 'buy' wording. Text must be legible and spelled exactly as given. Colour palette: deep navy and storm grey background, muted red for the candle-rain, cyan/teal highlights on the mascot and umbrella, a touch of warm streetlight orange for contrast.",
+          "chosen": null,
+          "discardReason": null
+        }
+      ],
+      "discarded_tips": [
+        {
+          "account": "@xStocksFi / HOODx",
+          "note_pt": "Mathias 18h: earnings HOOD — duplicata (já P8), pulado por ele"
+        },
+        {
+          "account": "@tokenterminal",
+          "note_pt": "Mathias 18h: ETF $1B — duplicata (já P9), pulado por ele"
+        },
+        {
+          "account": "Prism / Kamino",
+          "note_pt": "Mathias 18h: collateral — duplicata (já P12), pulado por ele"
+        },
+        {
+          "account": "Raydium",
+          "note_pt": "Mathias 18h: volume Q3 — já coberto às 12h, pulado por ele"
+        }
+      ],
+      "notes_pt": "Mathias 18h watch-only: _incept1on (entrada líquida em xStocks com ações caindo) → P15 a/b/c (demanda/convicção em mercado vermelho, sem números, sem advice) + meme M4/V4 (guarda-chuva na chuva vermelha). Sem reply à fonte."
     }
   ],
   "reporter_tips": [
@@ -1062,6 +1125,18 @@
         "V3"
       ],
       "note_pt": "HOOD Q3 resultado → 22; earnings call ao vivo → 23; meme M3/V3 noite de earnings; eleições/event contracts descartado (engajar não, fora do produto, risco de soar aposta)"
+    },
+    {
+      "at": "2026-10-27T21:12:00.000Z",
+      "reporter": "Mathias",
+      "slot": "18:00",
+      "tips": 1,
+      "turned_into": [
+        "P15",
+        "M4",
+        "V4"
+      ],
+      "note_pt": "_incept1on demanda por xStocks em mercado em queda → P15 (a/b/c, ângulo convicção, fora do saturado liquidez/24/7/RFQ) + M4/V4; pulados por ele: HOODx earnings (P8), tokenterminal ETF (P9), Prism/Kamino (P12), Raydium Q3 (12h)"
     }
   ],
   "escolhas_log": [
