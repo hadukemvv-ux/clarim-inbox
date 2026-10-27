@@ -46,7 +46,16 @@
           "reason_pt": "Já reply 26/10 (chosen b + humanizado); fora da janela 12h"
         }
       ],
-      "notes_pt": "Ronda Gleison 08:00. Mantle+xStocks descartados (já engajados ontem). Só Sky novo."
+      "notes_pt": "Ronda Gleison 08:00. Mantle+xStocks descartados (já engajados ontem). Só Sky novo. | Bruno 08:05: nada novo"
+    }
+  ],
+  "reporter_tips": [
+    {
+      "at": "2026-10-27T11:05:00.000Z",
+      "reporter": "Bruno",
+      "slot": "08:05",
+      "tips": 0,
+      "note_pt": "nada novo"
     }
   ]
 }
