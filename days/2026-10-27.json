@@ -349,6 +349,43 @@
         }
       ],
       "notes_pt": "Gleison 11:00: Mantle RWA categories→10; Bybit TradFi Options 24/7→11; Bybit earnings post descartado (dup reply 3)."
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-27T14:11:00.000Z",
+      "source": "Bruno Titulares 11:10",
+      "replies": [
+        {
+          "id": "12",
+          "account": "@RobinhoodApp",
+          "url": "https://x.com/RobinhoodApp/status/2115073530371203229",
+          "context_pt": "Robinhood: \"we have got to stop meeting like this (at market open)\". Casual, fresco (~10:30 Fortaleza), janela leve; ângulo 24/7 vs bell sem pitch US.",
+          "options": {
+            "a": "market open as a situationship. noted",
+            "b": "some of us never left the chat. 24/7 books dont do awkward reunions",
+            "c": "the meeting that ends at 4pm was the problem all along"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@saylor",
+          "url": "https://x.com/saylor/status/2115061421843087541",
+          "reason_pt": "Bruno 11:10: já reply 8 (pacote 10:15)"
+        },
+        {
+          "account": "@saylor",
+          "url": "https://x.com/saylor/status/2115059825881297110",
+          "reason_pt": "Bruno 11:10: já reply 9 (pacote 10:15)"
+        }
+      ],
+      "notes_pt": "Bruno 11:10: Robinhood market open → reply 12. 2 Saylor (já 8/9) descartados."
     }
   ],
   "reporter_tips": [
@@ -432,6 +469,16 @@
         "11"
       ],
       "note_pt": "Mantle tokenized categories + Bybit TradFi Options 24/7 → replies 10-11; 1 Bybit dup descartado"
+    },
+    {
+      "at": "2026-10-27T14:11:00.000Z",
+      "reporter": "Bruno",
+      "slot": "11:10",
+      "tips": 3,
+      "turned_into": [
+        "12"
+      ],
+      "note_pt": "Robinhood market open → 12; 2 Saylor dups de 8/9 descartados"
     }
   ]
 }
