@@ -625,6 +625,46 @@
       "visuals": [],
       "discarded_tips": [],
       "notes_pt": "Watch-only → post. Skip Uniswap fio + xStocksFi já cobertos."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-27T17:14:53.000Z",
+      "source": "Bruno Titulares 14:13",
+      "replies": [
+        {
+          "id": "18",
+          "account": "@Tesla",
+          "url": "https://x.com/Tesla/status/2115123717877760129",
+          "context_pt": "Tesla: \"What goes up must come down\" + foto composite Roadster com thrusters SpaceX fazendo loop noturno. MAG7 fresco (~13:49 Fortaleza), alto alcance; reply específica à mídia. Sem advice.",
+          "options": {
+            "a": "newton said that. the thrusters said hold my vapor",
+            "b": "goes up, comes down, market still open. fluxionians already live on that loop",
+            "c": "the real product demo was making gravity look optional for three frames"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "19",
+          "account": "@RobinhoodApp",
+          "url": "https://x.com/RobinhoodApp/status/2115117205088264231",
+          "context_pt": "Robinhood: alerta + live listen + transcript em tempo real na página da ação na semana pesada de earnings. Fresco (~13:23 Fortaleza). Sem pitch US, sem advice. Post diferente dos replies 12/14.",
+          "options": {
+            "a": "earnings season but make it a podcast you cant pause",
+            "b": "live transcript while the tape is moving. fluxionians know that mashup",
+            "c": "the closing bell used to be the excuse for missing the call. that excuse just got fired"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Bruno 14h probation: 2 tips com janela de reply."
     }
   ],
   "reporter_tips": [
@@ -808,6 +848,17 @@
       "tips": 0,
       "turned_into": [],
       "note_pt": "nada novo"
+    },
+    {
+      "at": "2026-10-27T17:13:00.000Z",
+      "reporter": "Bruno",
+      "slot": "14:13",
+      "tips": 2,
+      "turned_into": [
+        "18",
+        "19"
+      ],
+      "note_pt": "Tesla Roadster thrusters → 18; Robinhood earnings live transcript → 19"
     }
   ]
 }
