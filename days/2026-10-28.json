@@ -417,6 +417,43 @@
         }
       ],
       "notes_pt": "Ronda Mathias 12:00: 1 tip (xStocks US$1 bi AUM) → P6 a/b/c. Sem meme (nada novo além de M1/M2). Pulados: Ink AUM, OKX perps pré-IPO, wallet earnings."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-28T15:30:00.000Z",
+      "source": "Gleison Mesa Clarim 12:00",
+      "replies": [],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2115407731922206834",
+          "reason_pt": "mesmo gancho do P3 descartado hoje (mesmo URL unusual_whales/BofA tech overweight) — criatividade insuficiente / ângulo saturado"
+        },
+        {
+          "account": "@SkyEcosystem",
+          "url": "https://x.com/SkyEcosystem/status/2115402330166403521",
+          "reason_pt": "Descartado pelo Gleison: já é a reply 7 (prazo Q3 call)"
+        },
+        {
+          "account": "@WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2115424078438035909",
+          "reason_pt": "OKX+ICE tokenização = venue concorrente, só observação"
+        },
+        {
+          "account": "@Bybit_Official",
+          "url": null,
+          "reason_pt": "Pulado pelo Gleison: Opening Bell WSOT (já reply 5)"
+        },
+        {
+          "account": "@Mantle_Official",
+          "url": null,
+          "reason_pt": "Pulado pelo Gleison: orçamento ciclo 4 já é reply 8, sem gancho novo"
+        }
+      ],
+      "notes_pt": "Ronda Gleison 12:00: 1 tip (unusual_whales BofA 37% tech) → DESCARTADA: mesmo URL do P3 descartado às 12:25 (criatividade). Nenhum item novo."
     }
   ],
   "reporter_tips": [
@@ -522,6 +559,28 @@
         }
       ],
       "note_pt": "xStocks US$1 bi AUM → P6 (comemoração do marco, a/b/c). Pulou Ink AUM, OKX perps, wallet earnings."
+    },
+    {
+      "at": "2026-10-28T15:30:00.000Z",
+      "reporter": "Gleison",
+      "slot": "12:00",
+      "tips": 1,
+      "turned_into": [],
+      "discarded": [
+        {
+          "url": "https://x.com/unusual_whales/status/2115407731922206834",
+          "reason_pt": "mesmo gancho do P3 descartado hoje (mesmo URL unusual_whales/BofA tech overweight) — criatividade insuficiente / ângulo saturado"
+        },
+        {
+          "url": "https://x.com/SkyEcosystem/status/2115402330166403521",
+          "reason_pt": "já reply 7"
+        },
+        {
+          "url": "https://x.com/WatcherGuru/status/2115424078438035909",
+          "reason_pt": "venue concorrente (OKX+ICE), só observação"
+        }
+      ],
+      "note_pt": "unusual_whales tech overweight = mesmo gancho do P3 descartado → descartado. Gleison: Fluxion já respondeu hoje a xStocks US$1 bi, Mantle Reth, Bybit DNA, Watcher.Guru Google."
     }
   ],
   "escolhas_log": [
@@ -615,5 +674,5 @@
       "note_pt": "Lote 28/10 12:25 Fortaleza: (1) evitar engajar em post só porque fala de Bitcoin, sem gancho Mantle/Fluxion; (2,5) edição própria preferida em posts de parceiros; (4) sugestões de reply do dia do Fed rejeitadas em bloco; (P2) morto por implicar chain concorrente (BNB) — regra do Mathias reforçada: nunca citar/insinuar outra rede; (P3,P4) copy sem criatividade / com cara de IA rejeitada; (P5) repetitivo vs histórico do perfil; (M2) descartado — ele mesmo respondeu à comunidade: https://x.com/Fluxion_network/status/2115427961226633259"
     }
   ],
-  "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11. | Mathias 12:00: P6 (xStocks US$1 bi). | ESCOLHAS 12:25: concluídos 2 own, 3c, 5 own; descartados 1, 4, P1–P5, M1, M2. Qualidade: sem engage-for-engage em Bitcoin; edição própria em parceiros; replies do Fed rejeitadas; P2 BNB = concorrente; P3/P4 criatividade/cara de IA; P5 repetitivo; M2 ele respondeu: https://x.com/Fluxion_network/status/2115427961226633259. Pendentes: 6–11, P6, V1, V2."
+  "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11. | Mathias 12:00: P6 (xStocks US$1 bi). | ESCOLHAS 12:25: concluídos 2 own, 3c, 5 own; descartados 1, 4, P1–P5, M1, M2. Qualidade: sem engage-for-engage em Bitcoin; edição própria em parceiros; replies do Fed rejeitadas; P2 BNB = concorrente; P3/P4 criatividade/cara de IA; P5 repetitivo; M2 ele respondeu: https://x.com/Fluxion_network/status/2115427961226633259. Pendentes: 6–11, P6, V1, V2. | Gleison 12:00: 0 itens (unusual_whales tech = mesmo gancho do P3 descartado; Sky = dup do 7; OKX+ICE só observação)."
 }
