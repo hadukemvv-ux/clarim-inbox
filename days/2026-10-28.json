@@ -322,8 +322,8 @@
             "b": "every calendar day counts. we've been saying that about markets for a while",
             "c": "99.3% in favor is less a vote and more a group chat agreeing on where to eat"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own",
+          "postedText": "dividends that count weekends too. the calendar finally caught up with the market\n\n24/7 accruing dividends\n\nLemme say you this: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
           "discardReason": null
         },
         {
@@ -338,9 +338,9 @@
             "b": "step one: they get into it. step two: they ask why the market closes at 4. step three: you explain onchain",
             "c": "best part is when they start explaining it back to you, wrong, with full confidence"
           },
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null
+          "discardReason": "SE NAO ME ENGANO ESSA CONTA DA ROBINHOOD É PRA FAZER ESPECIFICAMENTE DA BLOCKCHAIN DA ROBINHOOD, NAO É BOM INTERAGIR"
         },
         {
           "id": "11",
@@ -354,14 +354,29 @@
             "b": "multi-step requests is the real upgrade. alexa, check the charts, dim the lights, and don't tell me how it went",
             "c": "echo time with sleep sensing is about to collect some very concerning data on 3am chart checkers"
           },
-          "chosen": null,
+          "chosen": "b",
           "postedText": null,
-          "discardReason": null
+          "discardReason": null,
+          "posted": false,
+          "imageVisual": "V3",
+          "note_status_pt": "11b escolhido, ainda NÃO postado; vai com imagem V3 (Fluxion disponível pra trade)"
         }
       ],
       "posts": [],
       "memes": [],
-      "visuals": [],
+      "visuals": [
+        {
+          "id": "V3",
+          "type": "image",
+          "linkedTo": "11b",
+          "idea_pt": "11b: mascote vinil no criado-mudo real (luz de abajur + golden hour na janela), speaker genérico, celular com tela de swap Fluxion sem números; texto LIGHTS OFF. / FLUXION STILL OPEN. — metodologia nova 28/10 (cenário foto real, só o mascote estilizado, linha Avoid)",
+          "requested": true,
+          "style": "real-photo-v2 (28/10)",
+          "prompt": "Photorealistic lifestyle photo with a magazine editorial feel. A real bedroom nightstand in the early evening: light oak nightstand next to a bed with rumpled white linen, a table lamp with a warm fabric shade giving soft warm ambient light (around 2700K), a small round charcoal fabric smart speaker with a thin soft light ring at its base (generic, no logo, no brand), a ceramic mug and a paperback book. Through a window in the blurred background, the last golden-hour light over real city rooftops. Real colors, soft natural shadows.\n\nOn the nightstand sits Fluxion's mascot as a collectible vinyl toy about 20 cm tall: a glossy black vinyl cat-like figure with three spiky ears, a white swirl logo on the forehead, a blue-to-purple glowing visor with cyan LED eyes, a glowing nebula belly and a flame-tipped tail. It lounges relaxed, leaning back against the lamp base, one paw resting on a smartphone propped upright in a small stand. The phone screen shows a clean, minimal dark swap interface: the word \"Fluxion\" at the top, two token rows with empty amount fields and one \"Swap\" button. No numbers, no prices, no charts, no other logos on the screen.\n\nThe toy has realistic glossy highlights reflecting the lamp, a soft contact shadow and a faint reflection on the varnished wood. The glow from its visor, eyes and belly is the only neon in the image and only tints the wood right next to it with a subtle cyan. Shot on a 35mm lens at f/1.8, shallow depth of field, mascot and phone in sharp focus, bed and window softly blurred, gentle film grain, 4:5 vertical.\n\nOn-image text at the top, clean bold white sans-serif, two lines exactly: \"LIGHTS OFF.\" / \"FLUXION STILL OPEN.\"\n\nAvoid: neon environment, neon signs, glowing water, purple or cyan background, fantasy or sci-fi setting, holograms or floating UI, oversaturated colors, CGI-looking or AI-looking background, plastic render look on the room, Amazon/Alexa/Echo or any real brand logo, other exchange or blockchain logos, readable prices or numbers, candlestick charts with values, people or faces, extra text, distorted letters.",
+          "chosen": null,
+          "discardReason": null
+        }
+      ],
       "discarded_tips": [
         {
           "account": "@saylor",
@@ -392,9 +407,11 @@
           "text": null,
           "source": "https://x.com/xStocksFi/status/2115436547873099970",
           "note_pt": "Mathias 12h (watch-only, engajar? não → post original): marco US$1 bi AUM do ecossistema xStocks (número do próprio emissor, ~10:32 Fortaleza; não verificado por nós — atribuído levemente: 'xStocks says' / 'per the team'). Ângulo de comemoração, novo vs P2 (holders×fills), P4 (pergunta ticker) e P5 (tradfi×defi). Só cita '$1B', sem outra venue, sem advice. b marca @xStocksFi (emissor/parceiro).",
-          "chosen": null,
-          "postedText": null,
-          "discardReason": null
+          "chosen": "own",
+          "postedText": "(já postado por ele) https://x.com/Fluxion_network/status/2115438028781175031",
+          "discardReason": null,
+          "ownReplyUrl": "https://x.com/Fluxion_network/status/2115438028781175031",
+          "posted": true
         }
       ],
       "memes": [],
@@ -672,7 +689,49 @@
       "at": "2026-10-28T15:25:00.000Z",
       "item": "_qualidade",
       "note_pt": "Lote 28/10 12:25 Fortaleza: (1) evitar engajar em post só porque fala de Bitcoin, sem gancho Mantle/Fluxion; (2,5) edição própria preferida em posts de parceiros; (4) sugestões de reply do dia do Fed rejeitadas em bloco; (P2) morto por implicar chain concorrente (BNB) — regra do Mathias reforçada: nunca citar/insinuar outra rede; (P3,P4) copy sem criatividade / com cara de IA rejeitada; (P5) repetitivo vs histórico do perfil; (M2) descartado — ele mesmo respondeu à comunidade: https://x.com/Fluxion_network/status/2115427961226633259"
+    },
+    {
+      "at": "2026-10-28T16:35:00.000Z",
+      "raw": "CLARIM 9 own\ndividends that count weekends too. the calendar finally caught up with the market\n\n24/7 accruing dividends\n\nLemme say you this: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+      "item": "9",
+      "chosen": "own",
+      "postedText": "dividends that count weekends too. the calendar finally caught up with the market\n\n24/7 accruing dividends\n\nLemme say you this: WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
+    },
+    {
+      "at": "2026-10-28T16:35:00.000Z",
+      "raw": "CLARIM 10 discard SE NAO ME ENGANO ESSA CONTA DA ROBINHOOD É PRA FAZER ESPECIFICAMENTE DA BLOCKCHAIN DA ROBINHOOD, NAO É BOM INTERAGIR",
+      "item": "10",
+      "chosen": "discard",
+      "discardReason": "SE NAO ME ENGANO ESSA CONTA DA ROBINHOOD É PRA FAZER ESPECIFICAMENTE DA BLOCKCHAIN DA ROBINHOOD, NAO É BOM INTERAGIR"
+    },
+    {
+      "at": "2026-10-28T16:35:00.000Z",
+      "raw": "CLARIM 11b multi-step requests is the real upgrade. alexa, check the charts, dim the lights, and don't tell me how it went",
+      "item": "11",
+      "chosen": "b",
+      "posted": false,
+      "note_pt": "ainda não postado; pediu prompt de imagem junto dizendo que dá pra tradar na Fluxion → V3"
+    },
+    {
+      "at": "2026-10-28T16:35:00.000Z",
+      "raw": "CLARIM P6 own eu ja tinha respondido https://x.com/Fluxion_network/status/2115438028781175031",
+      "item": "P6",
+      "chosen": "own",
+      "postedText": "https://x.com/Fluxion_network/status/2115438028781175031",
+      "ownReplyUrl": "https://x.com/Fluxion_network/status/2115438028781175031",
+      "posted": true
+    },
+    {
+      "at": "2026-10-28T16:35:00.000Z",
+      "item": "_qualidade",
+      "note_pt": "Lote 28/10 ~13:35 Fortaleza: (10) @RobinhoodApp — ele entende que a conta é focada na Robinhood Chain (blockchain própria, concorrente da Mantle) → NÃO sugerir engajamento com @RobinhoodApp daqui pra frente (avisar Bruno). (9) edição própria com tom mais solto/meme ('Lemme say you this: WWW…'). (P6) ele já tinha postado antes de escolher — checar timeline da Fluxion antes de sugerir post de marco. Nova metodologia de prompts de imagem (style_rules.image_prompts_v2_2026-10-28) vale para todos os V daqui pra frente; V1/V2 de hoje estão no estilo antigo."
     }
   ],
-  "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11. | Mathias 12:00: P6 (xStocks US$1 bi). | ESCOLHAS 12:25: concluídos 2 own, 3c, 5 own; descartados 1, 4, P1–P5, M1, M2. Qualidade: sem engage-for-engage em Bitcoin; edição própria em parceiros; replies do Fed rejeitadas; P2 BNB = concorrente; P3/P4 criatividade/cara de IA; P5 repetitivo; M2 ele respondeu: https://x.com/Fluxion_network/status/2115427961226633259. Pendentes: 6–11, P6, V1, V2. | Gleison 12:00: 0 itens (unusual_whales tech = mesmo gancho do P3 descartado; Sky = dup do 7; OKX+ICE só observação)."
+  "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11. | Mathias 12:00: P6 (xStocks US$1 bi). | ESCOLHAS 12:25: concluídos 2 own, 3c, 5 own; descartados 1, 4, P1–P5, M1, M2. Qualidade: sem engage-for-engage em Bitcoin; edição própria em parceiros; replies do Fed rejeitadas; P2 BNB = concorrente; P3/P4 criatividade/cara de IA; P5 repetitivo; M2 ele respondeu: https://x.com/Fluxion_network/status/2115427961226633259. Pendentes: 6–11, P6, V1, V2. | Gleison 12:00: 0 itens (unusual_whales tech = mesmo gancho do P3 descartado; Sky = dup do 7; OKX+ICE só observação). | ESCOLHAS ~13:35: 9 own, P6 own (já postado: https://x.com/Fluxion_network/status/2115438028781175031), 11b escolhido (não postado; imagem V3 no estilo novo), 10 descartado (RobinhoodApp = Robinhood Chain, evitar). Pendentes: 6, 7, 8, V1, V2 (V1/V2 de memes descartados), V3.",
+  "style_rules": {
+    "image_prompts_v2_2026-10-28": {
+      "pt": "Cenário real e natural como foto de verdade (lugar real, luz natural/golden hour ou ambiente quente, cores reais, sombras suaves, 35mm, fundo desfocado, cara de revista). Mascote = único elemento estilizado: vinil preto brilhante com reflexo e sombra de contato; neon só nele. NUNCA cenário neon, água brilhando, fundo roxo/ciano, fantasia/sci-fi, saturação exagerada, fundo CGI/cara de IA. Todo prompt termina com 'Avoid:'. Texto na imagem: sans-serif branco, limpo, negrito.",
+      "reference": "https://x.com/Fluxion_network/status/2115443107370246371 (LOW CORTISOL, piscina real fim de tarde, boia branca)"
+    }
+  }
 }
