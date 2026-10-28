@@ -28,6 +28,221 @@
    "visuals": [],
    "discarded_tips": [],
    "notes_pt": "Ronda Bruno 09:00 (grade nova 09/12/15/18). 1 tip Saylor (IA hackear app vs ativo) → 1."
+  },
+  {
+   "slot": "manha",
+   "createdAt": "2026-10-28T12:05:00.000Z",
+   "source": "Clarim Diário 09:00 (Editora Chefe)",
+   "replies": [
+    {
+     "id": "2",
+     "account": "@Mantle_Official",
+     "url": "https://x.com/Mantle_Official/status/2115376630118117604",
+     "reporter": "diario",
+     "slot": "09:00",
+     "context_pt": "Mantle migrou a mainnet para Reth (mesma base do ZK proving com Succinct). Parceiro core, post fresco (06:34 Fortaleza), poucos replies ainda.",
+     "options": {
+      "a": "swapped the engine without pulling over. respect",
+      "b": "faster rails underneath = cleaner fills on top. our pools felt that one ngl",
+      "c": "most chains announce roadmaps. mantle just ships the boring stuff that matters"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "3",
+     "account": "@WatcherGuru",
+     "url": "https://x.com/WatcherGuru/status/2115409157922889781",
+     "reporter": "diario",
+     "slot": "09:00",
+     "context_pt": "Google mostra sistema de segurança para bancos guardarem e transferirem cripto e ativos tokenizados. ~700 likes em 20 min. Detalhes (MPC, lançamento 2027) só no resumo do X → NÃO VERIFICADO, não citar.",
+     "options": {
+      "a": "banks finally asking google how to not lose the keys. growth",
+      "b": "custody is step one. a tokenized asset still needs deep liquidity to actually trade",
+      "c": "tradfi spent a decade saying crypto was unsafe and now it's buying the safe from google"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "4",
+     "account": "@unusual_whales",
+     "url": "https://x.com/unusual_whales/status/2115392380279157044",
+     "reporter": "diario",
+     "slot": "09:00",
+     "context_pt": "\"FOMC é hoje. O Fed vai cortar?\" — dia do Fed (14:00 ET = 15:00 Fortaleza). Pergunta direta, convida resposta. ÚNICA reply da edição com o ângulo 24/7.",
+     "options": {
+      "a": "fed day: where everyone becomes a macro economist for exactly 45 minutes",
+      "b": "powell speaks at 2, wall st closes at 4, tokenized stocks on mantle keep trading through the reaction",
+      "c": "the cut is priced in. the press conference vibes are not"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "5",
+     "account": "@Bybit_Official",
+     "url": "https://x.com/Bybit_Official/status/2115322925750341826",
+     "reporter": "diario",
+     "slot": "09:00",
+     "context_pt": "Bybit teasando WSOT 2026 (\"Trading is in our DNA\"), 500+ likes. Parceiro; ângulo Bybit Alpha.",
+     "options": {
+      "a": "trading is in our DNA too. also in our sleep schedule, unfortunately",
+      "b": "fluxionians warming up on bybit alpha already. wsot season hits different",
+      "c": "wsot is just a public leaderboard of who has the strongest stomach"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "6",
+     "account": "@lookonchain",
+     "url": "https://x.com/lookonchain/status/2115388130606067764",
+     "reporter": "diario",
+     "slot": "09:00",
+     "context_pt": "\"Rei das liquidações\": short de ETH liquidado 13 vezes em 9 dias. Viral e engraçado; (b) leve com Fluxion Earn sem alavancagem (sem prometer rendimento).",
+     "options": {
+      "a": "at this point the liquidation engine should send him a thank you card",
+      "b": "some people need a hobby. others just park stables in fluxion earn, no leverage involved",
+      "c": "13 liquidations isn't a strategy, it's a subscription"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    }
+   ],
+   "posts": [
+    {
+     "id": "P1",
+     "text": "fed at 2pm.\nbig tech earnings after the bell.\nthe bell rings, the reaction doesn't stop.\nwhere are you watching it from?",
+     "source": "https://x.com/unusual_whales/status/2115392380279157044",
+     "note_pt": "Dia do Fed + earnings. Calendário (Meta após o fechamento) só em conta secundária https://x.com/PPNWorld/status/2115217138596106496 → NÃO VERIFICADO quais big techs reportam hoje, por isso não nomeia empresa. Postar antes das 15:00 Fortaleza.",
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "P2",
+     "text": "everyone's counting holders.\nwe're counting fills.\na listing is a ticker. a market is depth.\nAtomic RFQ for size, pools for the rest. gud mornin fluxionians",
+     "source": "https://x.com/danhtran68/status/2115402737106227500",
+     "note_pt": "Ideia estilo Mathias, sem concorrente: timeline cheia de ranking de chains por holders/market cap de ações tokenizadas. Sem citar chain nem número.",
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "P3",
+     "text": "fund managers rotating back into tech.\nfluxionians never rotated out.\nwhat's the one ticker you'd hold through any fed meeting?",
+     "source": "https://x.com/unusual_whales/status/2115407731922206834",
+     "note_pt": "Rotação para tech (dado BofA via unusual_whales = secundário → número NÃO VERIFICADO, fora do post). Pergunta no fim gera reply.",
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    }
+   ],
+   "memes": [
+    {
+     "id": "M1",
+     "format_pt": "\"I saw the worst of you / and I still chose you\" (Elon, 11,8 mil likes, formato do dia)",
+     "example": "https://x.com/elonmusk/status/2115346075666325755",
+     "caption": "i saw your 3am candles\nand i still chose you",
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "M2",
+     "format_pt": "Conan \"What is best in life?\" (usado por @rektdiomedes respondendo a Fluxion hoje)",
+     "example": "https://x.com/rektdiomedes/status/2115278552157622352",
+     "caption": "what is best in life?\ndeep liquidity, tight fills, and no closing bell",
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    }
+   ],
+   "visuals": [
+    {
+     "id": "V1",
+     "type": "meme",
+     "idea_pt": "M1: mascote Fluxion abraçando candle gigante num telhado à noite, placa MARKET CLOSED (prompt rico abaixo)",
+     "requested": false,
+     "prompt": "Fluxion's official mascot — a glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — sits on a rooftop at night, tenderly hugging a giant jagged red-and-green candlestick chart like a lover. City skyline dark below, every office window off, a single neon sign reading \"MARKET CLOSED\" flickering. Moonlight rim-lights the cat's vinyl shine; cyan eyes slightly teary, half-smile. Cinematic, soft film grain, romance-movie poster lighting, 4:5 vertical, caption in white serif across the top. Caption text exactly: \"i saw your 3am candles / and i still chose you\". No real people, no real logos besides the Fluxion mascot, no price numbers.",
+     "chosen": null,
+     "discardReason": null
+    },
+    {
+     "id": "V2",
+     "type": "meme",
+     "idea_pt": "M2: mascote Fluxion como Conan bárbaro, pilar \"9:30–4:00\" quebrado (prompt rico abaixo)",
+     "requested": false,
+     "prompt": "The mascot (glossy black vinyl-toy cat, three spiky ears, white swirl forehead logo, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) dressed as a barbarian warlord in a fur cloak, standing on a rocky ridge with one paw raised, holding a glowing sword shaped like a rising price candle. Behind it, a stormy purple-orange sky over a fantasy battlefield; a broken stone pillar carved \"9:30–4:00\" lies cracked in the foreground. Epic 1980s fantasy oil-painting style, dramatic low-angle shot, sparks and embers in the air, 16:9, bold white caption at the bottom. Caption text exactly: \"what is best in life? / deep liquidity, tight fills, and no closing bell\". No real people, no real logos besides the Fluxion mascot, no price numbers.",
+     "chosen": null,
+     "discardReason": null
+    }
+   ],
+   "discarded_tips": [
+    {
+     "account": "@elonmusk",
+     "url": null,
+     "reason_pt": "Posts noturnos do Elon sem sentido/sem gancho (só o formato virou M1)"
+    },
+    {
+     "account": "(concorrência)",
+     "url": null,
+     "reason_pt": "Notícias de concorrentes (Ondo/Robinhood Chain, ranking BNB) puladas pelo feedback de qualidade — virou só a ideia do P2, sem nomes"
+    }
+   ],
+   "notes_pt": "Edição Clarim Diário 09:00 (janela 00:05–12:05 UTC). Replies renumeradas 1–5 → 2–6 (reply 1 = Bruno/Saylor). Posts P1–P3, memes M1–M2 + V1–V2. Tudo pendente."
+  },
+  {
+   "slot": "manha",
+   "createdAt": "2026-10-28T12:10:00.000Z",
+   "source": "Mathias Concorrência 09:00",
+   "replies": [],
+   "posts": [
+    {
+     "id": "P4",
+     "text": "which xStock is on your screen this morning?\nthe market's open. on mantle it always is.\nfluxionians, drop it below 👇",
+     "source": "https://x.com/PancakeSwap/status/2115360422060527765",
+     "note_pt": "Mathias 09:00 tip 1 (watch-only, não responder ao rival): pergunta de comunidade, 24/7 na Mantle. Sem citar ticker específico (só citar se confirmado como par na Fluxion, ex. SPYx/QQQx) e sem advice.",
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "P5",
+     "text": "tradfi built the stocks.\ndefi built the hours.\nxStocks on mantle is where they meet.\nfluxion keeps the floor open 24/7",
+     "source": "https://x.com/trondao/status/2115219194023493632",
+     "note_pt": "Mathias 09:00 tip 3 (watch-only): ponte TradFi→onchain, xStocks na Fluxion/Mantle 24/7. Sem citar outra rede, sem números. Urgência baixa (evergreen).",
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    }
+   ],
+   "memes": [],
+   "visuals": [],
+   "discarded_tips": [
+    {
+     "account": "@solana",
+     "url": "https://x.com/solana/status/2115200162079674532",
+     "reason_pt": "Mathias tip 2 (liquidez profunda + Atomic RFQ como infra institucional): mesmo ângulo do P2 do Diário (holders vs fills / depth / Atomic RFQ) → não criei clone; P2 cobre"
+    },
+    {
+     "account": "@wallet / $HOODx",
+     "url": null,
+     "reason_pt": "Pulado pelo Mathias: earnings HOODx já virou P8 em 27/10"
+    },
+    {
+     "account": "Raydium",
+     "url": null,
+     "reason_pt": "Pulado pelo Mathias: volume Q3 = número de rival"
+    }
+   ],
+   "notes_pt": "Ronda Mathias 09:00: 3 tips (todas engajar? não, watch-only) → P4, P5; tip 2 fundida no P2 do Diário. Sem meme (nada novo além de M1/M2)."
   }
  ],
  "reporter_tips": [
@@ -40,8 +255,38 @@
     "1"
    ],
    "note_pt": "Saylor IA hack app vs Bitcoin/inglês → 1 (app ≠ ativo; b com custódia leve)"
+  },
+  {
+   "at": "2026-10-28T12:05:00.000Z",
+   "reporter": "Diário",
+   "slot": "09:00",
+   "tips": 10,
+   "turned_into": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "P1",
+    "P2",
+    "P3",
+    "M1",
+    "M2"
+   ],
+   "note_pt": "Edição Clarim Diário manhã; replies renumeradas 2–6"
+  },
+  {
+   "at": "2026-10-28T12:10:00.000Z",
+   "reporter": "Mathias",
+   "slot": "09:00",
+   "tips": 3,
+   "turned_into": [
+    "P4",
+    "P5"
+   ],
+   "note_pt": "PancakeSwap→P4 (pergunta comunidade), trondao→P5 (TradFi↔DeFi 24/7), solana→skip (dup do P2). Pulou HOODx earnings e Raydium."
   }
  ],
  "escolhas_log": [],
- "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10)."
+ "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5."
 }
