@@ -172,8 +172,9 @@
           "idea_pt": "M1: mascote Fluxion abraçando candle gigante num telhado à noite, placa MARKET CLOSED (prompt rico abaixo)",
           "requested": false,
           "prompt": "Fluxion's official mascot — a glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — sits on a rooftop at night, tenderly hugging a giant jagged red-and-green candlestick chart like a lover. City skyline dark below, every office window off, a single neon sign reading \"MARKET CLOSED\" flickering. Moonlight rim-lights the cat's vinyl shine; cyan eyes slightly teary, half-smile. Cinematic, soft film grain, romance-movie poster lighting, 4:5 vertical, caption in white serif across the top. Caption text exactly: \"i saw your 3am candles / and i still chose you\". No real people, no real logos besides the Fluxion mascot, no price numbers.",
-          "chosen": null,
-          "discardReason": null
+          "chosen": "discard",
+          "discardReason": "a ideia foi boa, mas infelizmente o prompt é o antigo",
+          "status": "descartado"
         },
         {
           "id": "V2",
@@ -529,11 +530,12 @@
             "b": "yesterday you asked how long a bank made us wait. today you shipped the answer. congrats kii fam 🫡",
             "c": "the quiet flex is \"no direct banking relationship required\". the bank just became an optional feature"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own",
+          "postedText": "the bank just became an optional feature\n\nquiet flex is \"no direct banking relationship required\"",
           "discardReason": null,
           "posted": false,
-          "supersedes": "21 (27/10)"
+          "supersedes": "21 (27/10)",
+          "status": "concluído"
         },
         {
           "id": "14",
@@ -547,10 +549,11 @@
             "b": "fluxionians met grove through earn. nice seeing the grove app grow its own canopy",
             "c": "most rewards banners look like a spreadsheet. grove showed up with a parrot and flowers, the design bar just moved"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "b",
+          "postedText": "fluxionians met grove through earn. nice seeing the grove app grow its own canopy",
           "discardReason": null,
-          "posted": false
+          "posted": false,
+          "status": "concluído"
         }
       ],
       "posts": [],
@@ -881,9 +884,30 @@
       "chosen": "hold",
       "note_pt": "V3 aprovada; post Amazon adiado pro dia do earnings 29/10; 11b segurado",
       "deferred_to": "2026-10-29"
+    },
+    {
+      "at": "2026-10-28T23:00:00.000Z",
+      "raw": "CLARIM V1 discard\na ideia foi boa, mas infelizmente o prompt é o antigo",
+      "item": "V1",
+      "chosen": "discard",
+      "discardReason": "a ideia foi boa, mas infelizmente o prompt é o antigo"
+    },
+    {
+      "at": "2026-10-28T23:00:00.000Z",
+      "raw": "CLARIM 13 own\nthe bank just became an optional feature\n\nquiet flex is \"no direct banking relationship required\"",
+      "item": "13",
+      "chosen": "own",
+      "postedText": "the bank just became an optional feature\n\nquiet flex is \"no direct banking relationship required\""
+    },
+    {
+      "at": "2026-10-28T23:00:00.000Z",
+      "raw": "CLARIM 14b\nfluxionians met grove through earn. nice seeing the grove app grow its own canopy",
+      "item": "14",
+      "chosen": "b",
+      "postedText": "fluxionians met grove through earn. nice seeing the grove app grow its own canopy"
     }
   ],
-  "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11. | Mathias 12:00: P6 (xStocks US$1 bi). | ESCOLHAS 12:25: concluídos 2 own, 3c, 5 own; descartados 1, 4, P1–P5, M1, M2. Qualidade: sem engage-for-engage em Bitcoin; edição própria em parceiros; replies do Fed rejeitadas; P2 BNB = concorrente; P3/P4 criatividade/cara de IA; P5 repetitivo; M2 ele respondeu: https://x.com/Fluxion_network/status/2115427961226633259. Pendentes: 6–11, P6, V1, V2. | Gleison 12:00: 0 itens (unusual_whales tech = mesmo gancho do P3 descartado; Sky = dup do 7; OKX+ICE só observação). | ESCOLHAS ~13:35: 9 own, P6 own (já postado: https://x.com/Fluxion_network/status/2115438028781175031), 11b escolhido (não postado; imagem V3 no estilo novo), 10 descartado (RobinhoodApp = Robinhood Chain, evitar). Pendentes: 6, 7, 8, V1, V2 (V1/V2 de memes descartados), V3. | ~14:10: imagem V3 APROVADA (assets/2026-10-28/V3-amazon-warehouse-amznx.png); 11b/V3 ADIADOS — post Amazon após earnings AMZN 29/10. | Bruno 15:00: Google Gemini 4 Carbon → 12 (a/b/c); pulou RobinhoodApp (regra OK). Pendentes: 6, 7, 8, 12, V1, V2.\nMathias 15:00 — 0 itens novos (kamino lend-against-equity descartado: sem produto equivalente confirmado na Mantle/Fluxion; ângulo genérico saturado).\nGleison 15:00 — 13 (@KiiChainio contas virtuais EUA; substitui 21 de 27/10, expirada) e 14 (@grovedotfinance Ecosystem Rewards, arte/comunidade, sem yield). Pendentes: 6, 7, 8, 12, 13, 14, V1, V2 (11b/V3 adiados p/ 29/10).",
+  "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11. | Mathias 12:00: P6 (xStocks US$1 bi). | ESCOLHAS 12:25: concluídos 2 own, 3c, 5 own; descartados 1, 4, P1–P5, M1, M2. Qualidade: sem engage-for-engage em Bitcoin; edição própria em parceiros; replies do Fed rejeitadas; P2 BNB = concorrente; P3/P4 criatividade/cara de IA; P5 repetitivo; M2 ele respondeu: https://x.com/Fluxion_network/status/2115427961226633259. Pendentes: 6–11, P6, V1, V2. | Gleison 12:00: 0 itens (unusual_whales tech = mesmo gancho do P3 descartado; Sky = dup do 7; OKX+ICE só observação). | ESCOLHAS ~13:35: 9 own, P6 own (já postado: https://x.com/Fluxion_network/status/2115438028781175031), 11b escolhido (não postado; imagem V3 no estilo novo), 10 descartado (RobinhoodApp = Robinhood Chain, evitar). Pendentes: 6, 7, 8, V1, V2 (V1/V2 de memes descartados), V3. | ~14:10: imagem V3 APROVADA (assets/2026-10-28/V3-amazon-warehouse-amznx.png); 11b/V3 ADIADOS — post Amazon após earnings AMZN 29/10. | Bruno 15:00: Google Gemini 4 Carbon → 12 (a/b/c); pulou RobinhoodApp (regra OK). Pendentes: 6, 7, 8, 12, V1, V2.\nMathias 15:00 — 0 itens novos (kamino lend-against-equity descartado: sem produto equivalente confirmado na Mantle/Fluxion; ângulo genérico saturado).\nGleison 15:00 — 13 (@KiiChainio contas virtuais EUA; substitui 21 de 27/10, expirada) e 14 (@grovedotfinance Ecosystem Rewards, arte/comunidade, sem yield). Pendentes: 6, 7, 8, 12, 13, 14, V1, V2 (11b/V3 adiados p/ 29/10).\nESCOLHAS ~20:00: V1 descartado (prompt no estilo antigo — ideia boa); 13 own (edição própria a partir da 13c, Kii contas virtuais EUA); 14b concluído (Grove). Pendentes: 6, 7, 8, 12, V2 (11b/V3 adiados p/ 29/10).",
   "style_rules": {
     "image_prompts_v2_2026-10-28": {
       "pt": "Cenário real e natural como foto de verdade (lugar real, luz natural/golden hour ou ambiente quente, cores reais, sombras suaves, 35mm, fundo desfocado, cara de revista). Mascote = único elemento estilizado: vinil preto brilhante com reflexo e sombra de contato; neon só nele. NUNCA cenário neon, água brilhando, fundo roxo/ciano, fantasia/sci-fi, saturação exagerada, fundo CGI/cara de IA. Todo prompt termina com 'Avoid:'. Texto na imagem: sans-serif branco, limpo, negrito.",
