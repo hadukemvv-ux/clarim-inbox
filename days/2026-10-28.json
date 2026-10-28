@@ -1,0 +1,47 @@
+{
+ "date": "2026-10-28",
+ "editions": [
+  {
+   "slot": "manha",
+   "createdAt": "2026-10-28T12:05:00.000Z",
+   "source": "Bruno Titulares 09:00",
+   "replies": [
+    {
+     "id": "1",
+     "account": "@saylor",
+     "url": "https://x.com/saylor/status/2115408216763027619",
+     "reporter": "bruno",
+     "slot": "09:00",
+     "context_pt": "Saylor: \"Saying there's no reason to own Bitcoin because AI can hack a crypto app is like saying there's no reason to speak English because AI can hack a messaging app.\" (08:39 Fortaleza; às 08:58 ~854 likes / 165 replies / 70k views). Post novo, ângulo diferente dos 8/9 de 27/10: segurança do app ≠ segurança do ativo. Opção b puxa custódia onchain de leve (sem prometer segurança, sem advice). Urgência alta (janela fresca).",
+     "options": {
+      "a": "an app getting hacked is an app problem. the asset was never the app",
+      "b": "app security and asset security are two different conversations. one gets patched, the other lives in keys you hold yourself",
+      "c": "ai finding bugs in an app is a reason to audit the app, not to stop speaking the language"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    }
+   ],
+   "posts": [],
+   "memes": [],
+   "visuals": [],
+   "discarded_tips": [],
+   "notes_pt": "Ronda Bruno 09:00 (grade nova 09/12/15/18). 1 tip Saylor (IA hackear app vs ativo) → 1."
+  }
+ ],
+ "reporter_tips": [
+  {
+   "at": "2026-10-28T12:05:00.000Z",
+   "reporter": "Bruno",
+   "slot": "09:00",
+   "tips": 1,
+   "turned_into": [
+    "1"
+   ],
+   "note_pt": "Saylor IA hack app vs Bitcoin/inglês → 1 (app ≠ ativo; b com custódia leve)"
+  }
+ ],
+ "escolhas_log": [],
+ "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10)."
+}
