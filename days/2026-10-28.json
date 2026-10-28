@@ -243,6 +243,66 @@
     }
    ],
    "notes_pt": "Ronda Mathias 09:00: 3 tips (todas engajar? não, watch-only) → P4, P5; tip 2 fundida no P2 do Diário. Sem meme (nada novo além de M1/M2)."
+  },
+  {
+   "slot": "manha",
+   "createdAt": "2026-10-28T12:25:00.000Z",
+   "source": "Gleison Mesa Clarim 09:00",
+   "replies": [
+    {
+     "id": "7",
+     "account": "@SkyEcosystem",
+     "url": "https://x.com/SkyEcosystem/status/2115402330166403521",
+     "reporter": "gleison",
+     "slot": "09:00",
+     "context_pt": "Sky: perguntas pro Q3 Insights Call fecham HOJE (28/10) — performance financeira, alocação de capital, outlook (08:16 Fortaleza; ~10 likes / 2 replies). Parceiro (Earn). Atenção: o anúncio anterior da Sky (reply 1 + P1 de 27/10) foi descartado ontem; ângulo novo = dia do prazo + transparência. Sem yield, sem advice.",
+     "options": {
+      "a": "deadline day. our question: which q3 number are you proudest of, and which one kept you up at night",
+      "b": "publishing the numbers and then taking questions on them is how defi earns the \"fi\" part",
+      "c": "fluxionians in earn with sky: if you've got a capital allocation question, today's the last window"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "8",
+     "account": "@Mantle_Official",
+     "url": "https://x.com/Mantle_Official/status/2115405736390144418",
+     "reporter": "gleison",
+     "slot": "09:00",
+     "context_pt": "Mantle: proposta do orçamento core do 4º ciclo (jul/2026–jun/2027) aberta pra discussão no fórum (08:30 Fortaleza; ~14 likes / 1 reply). Ângulo governança, diferente do Reth (reply 2). Não li o thread do fórum → sem citar valores. Urgência baixa.",
+     "options": {
+      "a": "a full year's budget posted in the open for anyone to pick apart. the governance part people skip and shouldn't",
+      "b": "cycle 4 planning out in public. reading the thread with coffee, see you in the forum",
+      "c": "most teams plan the year in a private doc. mantle posts it and asks for comments"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    }
+   ],
+   "posts": [],
+   "memes": [],
+   "visuals": [],
+   "discarded_tips": [
+    {
+     "account": "@Mantle_Official",
+     "url": "https://x.com/Mantle_Official/status/2115376630118117604",
+     "reason_pt": "Gleison tip 1 (Mainnet em Reth / ZK Succinct): DUPLICADO — mesmo URL já é a reply 2 do Diário 09:00; não criei segundo item"
+    },
+    {
+     "account": "@Bybit_Official",
+     "url": null,
+     "reason_pt": "Pulado pelo Gleison: WSOT já é reply 5 do Diário"
+    },
+    {
+     "account": "(referral Halloween)",
+     "url": null,
+     "reason_pt": "Pulado pelo Gleison: referral Halloween sem gancho"
+    }
+   ],
+   "notes_pt": "Ronda Gleison 09:00: 3 tips → 7 (Sky prazo Q3 call), 8 (Mantle orçamento ciclo 4); tip 1 Mantle Reth = dup do 2. Sem meme."
   }
  ],
  "reporter_tips": [
@@ -285,8 +345,25 @@
     "P5"
    ],
    "note_pt": "PancakeSwap→P4 (pergunta comunidade), trondao→P5 (TradFi↔DeFi 24/7), solana→skip (dup do P2). Pulou HOODx earnings e Raydium."
+  },
+  {
+   "at": "2026-10-28T12:25:00.000Z",
+   "reporter": "Gleison",
+   "slot": "09:00",
+   "tips": 3,
+   "turned_into": [
+    "7",
+    "8"
+   ],
+   "discarded": [
+    {
+     "url": "https://x.com/Mantle_Official/status/2115376630118117604",
+     "reason_pt": "dup do Diário 2 (Mantle Reth)"
+    }
+   ],
+   "note_pt": "Sky prazo Q3 call → 7; Mantle orçamento ciclo 4 → 8; Mantle Reth = dup do 2 (descartado). Pulou Bybit WSOT (Diário 5) e referral Halloween."
   }
  ],
  "escolhas_log": [],
- "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5."
+ "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2)."
 }
