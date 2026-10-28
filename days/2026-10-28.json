@@ -303,6 +303,77 @@
     }
    ],
    "notes_pt": "Ronda Gleison 09:00: 3 tips → 7 (Sky prazo Q3 call), 8 (Mantle orçamento ciclo 4); tip 1 Mantle Reth = dup do 2. Sem meme."
+  },
+  {
+   "slot": "tarde",
+   "createdAt": "2026-10-28T15:05:00.000Z",
+   "source": "Bruno Titulares 12:00",
+   "replies": [
+    {
+     "id": "9",
+     "account": "@saylor",
+     "url": "https://x.com/saylor/status/2115451822915928244",
+     "reporter": "bruno",
+     "slot": "12:00",
+     "context_pt": "Acionistas $MSTR aprovaram a emenda Daily Dividends (99,3% dos votos lançados, preliminar — dado do próprio post, verificado no X); $STRF/$STRC/$STRK/$STRD passam a acumular dividendo todo dia corrido (11:33 Fortaleza; às ~12:05 1,3 mil likes / 124 replies / 94k views). Ângulo novo (≠ reply 1, IA/app): 'todo dia corrido' ↔ mercado sem dia de folga. Sem advice, sem falar de rendimento, sem insinuar que STRx negocia na Fluxion. Urgência alta.",
+     "options": {
+      "a": "dividends that count weekends too. the calendar finally caught up with the market",
+      "b": "every calendar day counts. we've been saying that about markets for a while",
+      "c": "99.3% in favor is less a vote and more a group chat agreeing on where to eat"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "10",
+     "account": "@RobinhoodApp",
+     "url": "https://x.com/RobinhoodApp/status/2115444493025747331",
+     "reporter": "bruno",
+     "slot": "12:00",
+     "context_pt": "Robinhood: \"telling your friend about investing and watching them get into it >\" (11:04 Fortaleza; ~310 likes / 97 replies / 27k views). Post leve de comunidade, tom onboarding/educação. b puxa 'mercado onchain não fecha' de leve, sem citar xStocks nem acesso (evita implicação US). Sem advice. Urgência média.",
+     "options": {
+      "a": "and then they start sending you charts at 2am. you created a monster",
+      "b": "step one: they get into it. step two: they ask why the market closes at 4. step three: you explain onchain",
+      "c": "best part is when they start explaining it back to you, wrong, with full confidence"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    },
+    {
+     "id": "11",
+     "account": "@amazon",
+     "url": "https://x.com/amazon/status/2115415017755496633",
+     "reporter": "bruno",
+     "slot": "12:00",
+     "context_pt": "Amazon: \"new era of Echo\" — 5 devices novos com Alexa+ (multi-step requests), incl. Echo Time (criado-mudo, sleep sensing). 09:06 Fortaleza, ~180 likes / 21 replies — JANELA FECHANDO (~3h no ar). Ângulo leve tech/24/7 (trader que não dorme); sem ticker, sem advice. Se achar fraco, descartar. Urgência baixa.",
+     "options": {
+      "a": "a nightstand echo that helps you wake up rested. bold of you to assume the market lets us sleep",
+      "b": "multi-step requests is the real upgrade. alexa, check the charts, dim the lights, and don't tell me how it went",
+      "c": "echo time with sleep sensing is about to collect some very concerning data on 3am chart checkers"
+     },
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null
+    }
+   ],
+   "posts": [],
+   "memes": [],
+   "visuals": [],
+   "discarded_tips": [
+    {
+     "account": "@saylor",
+     "url": "https://x.com/saylor/status/2115452295387533437",
+     "reason_pt": "Pulado pelo Bruno: reply no mesmo thread (datas de record/pagamento) — usado só como contexto; reply 9 não cita datas"
+    },
+    {
+     "account": "@saylor → @WatcherGuru",
+     "url": "https://x.com/saylor/status/2115457709415768291",
+     "reason_pt": "Saylor respondendo ao WatcherGuru (33 empresas dos EUA contra tokenizar suas ações na OKX/ICE). Encosta em ações americanas tokenizadas / acesso → descartado por padrão (cautela US xStocks)"
+    }
+   ],
+   "notes_pt": "Ronda Bruno 12:00: 3 tips → 9 (Saylor Daily Dividends), 10 (Robinhood amigo investindo), 11 (Amazon Echo, janela fechando). Pulados: thread Saylor + Saylor/WatcherGuru tokenização."
   }
  ],
  "reporter_tips": [
@@ -362,8 +433,30 @@
     }
    ],
    "note_pt": "Sky prazo Q3 call → 7; Mantle orçamento ciclo 4 → 8; Mantle Reth = dup do 2 (descartado). Pulou Bybit WSOT (Diário 5) e referral Halloween."
+  },
+  {
+   "at": "2026-10-28T15:05:00.000Z",
+   "reporter": "Bruno",
+   "slot": "12:00",
+   "tips": 3,
+   "turned_into": [
+    "9",
+    "10",
+    "11"
+   ],
+   "discarded": [
+    {
+     "url": "https://x.com/saylor/status/2115457709415768291",
+     "reason_pt": "tokenização ações US (cautela)"
+    },
+    {
+     "url": "https://x.com/saylor/status/2115452295387533437",
+     "reason_pt": "mesmo thread"
+    }
+   ],
+   "note_pt": "Saylor Daily Dividends → 9; Robinhood amigo → 10; Amazon Echo → 11 (janela fechando). WatcherGuru/tokenização e thread Saylor pulados."
   }
  ],
  "escolhas_log": [],
- "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2)."
+ "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11."
 }
