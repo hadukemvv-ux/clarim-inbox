@@ -1,462 +1,528 @@
 {
- "date": "2026-10-28",
- "editions": [
-  {
-   "slot": "manha",
-   "createdAt": "2026-10-28T12:05:00.000Z",
-   "source": "Bruno Titulares 09:00",
-   "replies": [
+  "date": "2026-10-28",
+  "editions": [
     {
-     "id": "1",
-     "account": "@saylor",
-     "url": "https://x.com/saylor/status/2115408216763027619",
-     "reporter": "bruno",
-     "slot": "09:00",
-     "context_pt": "Saylor: \"Saying there's no reason to own Bitcoin because AI can hack a crypto app is like saying there's no reason to speak English because AI can hack a messaging app.\" (08:39 Fortaleza; às 08:58 ~854 likes / 165 replies / 70k views). Post novo, ângulo diferente dos 8/9 de 27/10: segurança do app ≠ segurança do ativo. Opção b puxa custódia onchain de leve (sem prometer segurança, sem advice). Urgência alta (janela fresca).",
-     "options": {
-      "a": "an app getting hacked is an app problem. the asset was never the app",
-      "b": "app security and asset security are two different conversations. one gets patched, the other lives in keys you hold yourself",
-      "c": "ai finding bugs in an app is a reason to audit the app, not to stop speaking the language"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
+      "slot": "manha",
+      "createdAt": "2026-10-28T12:05:00.000Z",
+      "source": "Bruno Titulares 09:00",
+      "replies": [
+        {
+          "id": "1",
+          "account": "@saylor",
+          "url": "https://x.com/saylor/status/2115408216763027619",
+          "reporter": "bruno",
+          "slot": "09:00",
+          "context_pt": "Saylor: \"Saying there's no reason to own Bitcoin because AI can hack a crypto app is like saying there's no reason to speak English because AI can hack a messaging app.\" (08:39 Fortaleza; às 08:58 ~854 likes / 165 replies / 70k views). Post novo, ângulo diferente dos 8/9 de 27/10: segurança do app ≠ segurança do ativo. Opção b puxa custódia onchain de leve (sem prometer segurança, sem advice). Urgência alta (janela fresca).",
+          "options": {
+            "a": "an app getting hacked is an app problem. the asset was never the app",
+            "b": "app security and asset security are two different conversations. one gets patched, the other lives in keys you hold yourself",
+            "c": "ai finding bugs in an app is a reason to audit the app, not to stop speaking the language"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Ronda Bruno 09:00 (grade nova 09/12/15/18). 1 tip Saylor (IA hackear app vs ativo) → 1."
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-28T12:05:00.000Z",
+      "source": "Clarim Diário 09:00 (Editora Chefe)",
+      "replies": [
+        {
+          "id": "2",
+          "account": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2115376630118117604",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "Mantle migrou a mainnet para Reth (mesma base do ZK proving com Succinct). Parceiro core, post fresco (06:34 Fortaleza), poucos replies ainda.",
+          "options": {
+            "a": "swapped the engine without pulling over. respect",
+            "b": "faster rails underneath = cleaner fills on top. our pools felt that one ngl",
+            "c": "most chains announce roadmaps. mantle just ships the boring stuff that matters"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "3",
+          "account": "@WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2115409157922889781",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "Google mostra sistema de segurança para bancos guardarem e transferirem cripto e ativos tokenizados. ~700 likes em 20 min. Detalhes (MPC, lançamento 2027) só no resumo do X → NÃO VERIFICADO, não citar.",
+          "options": {
+            "a": "banks finally asking google how to not lose the keys. growth",
+            "b": "custody is step one. a tokenized asset still needs deep liquidity to actually trade",
+            "c": "tradfi spent a decade saying crypto was unsafe and now it's buying the safe from google"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "4",
+          "account": "@unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2115392380279157044",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "\"FOMC é hoje. O Fed vai cortar?\" — dia do Fed (14:00 ET = 15:00 Fortaleza). Pergunta direta, convida resposta. ÚNICA reply da edição com o ângulo 24/7.",
+          "options": {
+            "a": "fed day: where everyone becomes a macro economist for exactly 45 minutes",
+            "b": "powell speaks at 2, wall st closes at 4, tokenized stocks on mantle keep trading through the reaction",
+            "c": "the cut is priced in. the press conference vibes are not"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "5",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2115322925750341826",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "Bybit teasando WSOT 2026 (\"Trading is in our DNA\"), 500+ likes. Parceiro; ângulo Bybit Alpha.",
+          "options": {
+            "a": "trading is in our DNA too. also in our sleep schedule, unfortunately",
+            "b": "fluxionians warming up on bybit alpha already. wsot season hits different",
+            "c": "wsot is just a public leaderboard of who has the strongest stomach"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "6",
+          "account": "@lookonchain",
+          "url": "https://x.com/lookonchain/status/2115388130606067764",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "\"Rei das liquidações\": short de ETH liquidado 13 vezes em 9 dias. Viral e engraçado; (b) leve com Fluxion Earn sem alavancagem (sem prometer rendimento).",
+          "options": {
+            "a": "at this point the liquidation engine should send him a thank you card",
+            "b": "some people need a hobby. others just park stables in fluxion earn, no leverage involved",
+            "c": "13 liquidations isn't a strategy, it's a subscription"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [
+        {
+          "id": "P1",
+          "text": "fed at 2pm.\nbig tech earnings after the bell.\nthe bell rings, the reaction doesn't stop.\nwhere are you watching it from?",
+          "source": "https://x.com/unusual_whales/status/2115392380279157044",
+          "note_pt": "Dia do Fed + earnings. Calendário (Meta após o fechamento) só em conta secundária https://x.com/PPNWorld/status/2115217138596106496 → NÃO VERIFICADO quais big techs reportam hoje, por isso não nomeia empresa. Postar antes das 15:00 Fortaleza.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P2",
+          "text": "everyone's counting holders.\nwe're counting fills.\na listing is a ticker. a market is depth.\nAtomic RFQ for size, pools for the rest. gud mornin fluxionians",
+          "source": "https://x.com/danhtran68/status/2115402737106227500",
+          "note_pt": "Ideia estilo Mathias, sem concorrente: timeline cheia de ranking de chains por holders/market cap de ações tokenizadas. Sem citar chain nem número.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P3",
+          "text": "fund managers rotating back into tech.\nfluxionians never rotated out.\nwhat's the one ticker you'd hold through any fed meeting?",
+          "source": "https://x.com/unusual_whales/status/2115407731922206834",
+          "note_pt": "Rotação para tech (dado BofA via unusual_whales = secundário → número NÃO VERIFICADO, fora do post). Pergunta no fim gera reply.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [
+        {
+          "id": "M1",
+          "format_pt": "\"I saw the worst of you / and I still chose you\" (Elon, 11,8 mil likes, formato do dia)",
+          "example": "https://x.com/elonmusk/status/2115346075666325755",
+          "caption": "i saw your 3am candles\nand i still chose you",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "M2",
+          "format_pt": "Conan \"What is best in life?\" (usado por @rektdiomedes respondendo a Fluxion hoje)",
+          "example": "https://x.com/rektdiomedes/status/2115278552157622352",
+          "caption": "what is best in life?\ndeep liquidity, tight fills, and no closing bell",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "visuals": [
+        {
+          "id": "V1",
+          "type": "meme",
+          "idea_pt": "M1: mascote Fluxion abraçando candle gigante num telhado à noite, placa MARKET CLOSED (prompt rico abaixo)",
+          "requested": false,
+          "prompt": "Fluxion's official mascot — a glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — sits on a rooftop at night, tenderly hugging a giant jagged red-and-green candlestick chart like a lover. City skyline dark below, every office window off, a single neon sign reading \"MARKET CLOSED\" flickering. Moonlight rim-lights the cat's vinyl shine; cyan eyes slightly teary, half-smile. Cinematic, soft film grain, romance-movie poster lighting, 4:5 vertical, caption in white serif across the top. Caption text exactly: \"i saw your 3am candles / and i still chose you\". No real people, no real logos besides the Fluxion mascot, no price numbers.",
+          "chosen": null,
+          "discardReason": null
+        },
+        {
+          "id": "V2",
+          "type": "meme",
+          "idea_pt": "M2: mascote Fluxion como Conan bárbaro, pilar \"9:30–4:00\" quebrado (prompt rico abaixo)",
+          "requested": false,
+          "prompt": "The mascot (glossy black vinyl-toy cat, three spiky ears, white swirl forehead logo, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) dressed as a barbarian warlord in a fur cloak, standing on a rocky ridge with one paw raised, holding a glowing sword shaped like a rising price candle. Behind it, a stormy purple-orange sky over a fantasy battlefield; a broken stone pillar carved \"9:30–4:00\" lies cracked in the foreground. Epic 1980s fantasy oil-painting style, dramatic low-angle shot, sparks and embers in the air, 16:9, bold white caption at the bottom. Caption text exactly: \"what is best in life? / deep liquidity, tight fills, and no closing bell\". No real people, no real logos besides the Fluxion mascot, no price numbers.",
+          "chosen": null,
+          "discardReason": null
+        }
+      ],
+      "discarded_tips": [
+        {
+          "account": "@elonmusk",
+          "url": null,
+          "reason_pt": "Posts noturnos do Elon sem sentido/sem gancho (só o formato virou M1)"
+        },
+        {
+          "account": "(concorrência)",
+          "url": null,
+          "reason_pt": "Notícias de concorrentes (Ondo/Robinhood Chain, ranking BNB) puladas pelo feedback de qualidade — virou só a ideia do P2, sem nomes"
+        }
+      ],
+      "notes_pt": "Edição Clarim Diário 09:00 (janela 00:05–12:05 UTC). Replies renumeradas 1–5 → 2–6 (reply 1 = Bruno/Saylor). Posts P1–P3, memes M1–M2 + V1–V2. Tudo pendente."
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-28T12:10:00.000Z",
+      "source": "Mathias Concorrência 09:00",
+      "replies": [],
+      "posts": [
+        {
+          "id": "P4",
+          "text": "which xStock is on your screen this morning?\nthe market's open. on mantle it always is.\nfluxionians, drop it below 👇",
+          "source": "https://x.com/PancakeSwap/status/2115360422060527765",
+          "note_pt": "Mathias 09:00 tip 1 (watch-only, não responder ao rival): pergunta de comunidade, 24/7 na Mantle. Sem citar ticker específico (só citar se confirmado como par na Fluxion, ex. SPYx/QQQx) e sem advice.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P5",
+          "text": "tradfi built the stocks.\ndefi built the hours.\nxStocks on mantle is where they meet.\nfluxion keeps the floor open 24/7",
+          "source": "https://x.com/trondao/status/2115219194023493632",
+          "note_pt": "Mathias 09:00 tip 3 (watch-only): ponte TradFi→onchain, xStocks na Fluxion/Mantle 24/7. Sem citar outra rede, sem números. Urgência baixa (evergreen).",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@solana",
+          "url": "https://x.com/solana/status/2115200162079674532",
+          "reason_pt": "Mathias tip 2 (liquidez profunda + Atomic RFQ como infra institucional): mesmo ângulo do P2 do Diário (holders vs fills / depth / Atomic RFQ) → não criei clone; P2 cobre"
+        },
+        {
+          "account": "@wallet / $HOODx",
+          "url": null,
+          "reason_pt": "Pulado pelo Mathias: earnings HOODx já virou P8 em 27/10"
+        },
+        {
+          "account": "Raydium",
+          "url": null,
+          "reason_pt": "Pulado pelo Mathias: volume Q3 = número de rival"
+        }
+      ],
+      "notes_pt": "Ronda Mathias 09:00: 3 tips (todas engajar? não, watch-only) → P4, P5; tip 2 fundida no P2 do Diário. Sem meme (nada novo além de M1/M2)."
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-28T12:25:00.000Z",
+      "source": "Gleison Mesa Clarim 09:00",
+      "replies": [
+        {
+          "id": "7",
+          "account": "@SkyEcosystem",
+          "url": "https://x.com/SkyEcosystem/status/2115402330166403521",
+          "reporter": "gleison",
+          "slot": "09:00",
+          "context_pt": "Sky: perguntas pro Q3 Insights Call fecham HOJE (28/10) — performance financeira, alocação de capital, outlook (08:16 Fortaleza; ~10 likes / 2 replies). Parceiro (Earn). Atenção: o anúncio anterior da Sky (reply 1 + P1 de 27/10) foi descartado ontem; ângulo novo = dia do prazo + transparência. Sem yield, sem advice.",
+          "options": {
+            "a": "deadline day. our question: which q3 number are you proudest of, and which one kept you up at night",
+            "b": "publishing the numbers and then taking questions on them is how defi earns the \"fi\" part",
+            "c": "fluxionians in earn with sky: if you've got a capital allocation question, today's the last window"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "8",
+          "account": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2115405736390144418",
+          "reporter": "gleison",
+          "slot": "09:00",
+          "context_pt": "Mantle: proposta do orçamento core do 4º ciclo (jul/2026–jun/2027) aberta pra discussão no fórum (08:30 Fortaleza; ~14 likes / 1 reply). Ângulo governança, diferente do Reth (reply 2). Não li o thread do fórum → sem citar valores. Urgência baixa.",
+          "options": {
+            "a": "a full year's budget posted in the open for anyone to pick apart. the governance part people skip and shouldn't",
+            "b": "cycle 4 planning out in public. reading the thread with coffee, see you in the forum",
+            "c": "most teams plan the year in a private doc. mantle posts it and asks for comments"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2115376630118117604",
+          "reason_pt": "Gleison tip 1 (Mainnet em Reth / ZK Succinct): DUPLICADO — mesmo URL já é a reply 2 do Diário 09:00; não criei segundo item"
+        },
+        {
+          "account": "@Bybit_Official",
+          "url": null,
+          "reason_pt": "Pulado pelo Gleison: WSOT já é reply 5 do Diário"
+        },
+        {
+          "account": "(referral Halloween)",
+          "url": null,
+          "reason_pt": "Pulado pelo Gleison: referral Halloween sem gancho"
+        }
+      ],
+      "notes_pt": "Ronda Gleison 09:00: 3 tips → 7 (Sky prazo Q3 call), 8 (Mantle orçamento ciclo 4); tip 1 Mantle Reth = dup do 2. Sem meme."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-28T15:05:00.000Z",
+      "source": "Bruno Titulares 12:00",
+      "replies": [
+        {
+          "id": "9",
+          "account": "@saylor",
+          "url": "https://x.com/saylor/status/2115451822915928244",
+          "reporter": "bruno",
+          "slot": "12:00",
+          "context_pt": "Acionistas $MSTR aprovaram a emenda Daily Dividends (99,3% dos votos lançados, preliminar — dado do próprio post, verificado no X); $STRF/$STRC/$STRK/$STRD passam a acumular dividendo todo dia corrido (11:33 Fortaleza; às ~12:05 1,3 mil likes / 124 replies / 94k views). Ângulo novo (≠ reply 1, IA/app): 'todo dia corrido' ↔ mercado sem dia de folga. Sem advice, sem falar de rendimento, sem insinuar que STRx negocia na Fluxion. Urgência alta.",
+          "options": {
+            "a": "dividends that count weekends too. the calendar finally caught up with the market",
+            "b": "every calendar day counts. we've been saying that about markets for a while",
+            "c": "99.3% in favor is less a vote and more a group chat agreeing on where to eat"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "10",
+          "account": "@RobinhoodApp",
+          "url": "https://x.com/RobinhoodApp/status/2115444493025747331",
+          "reporter": "bruno",
+          "slot": "12:00",
+          "context_pt": "Robinhood: \"telling your friend about investing and watching them get into it >\" (11:04 Fortaleza; ~310 likes / 97 replies / 27k views). Post leve de comunidade, tom onboarding/educação. b puxa 'mercado onchain não fecha' de leve, sem citar xStocks nem acesso (evita implicação US). Sem advice. Urgência média.",
+          "options": {
+            "a": "and then they start sending you charts at 2am. you created a monster",
+            "b": "step one: they get into it. step two: they ask why the market closes at 4. step three: you explain onchain",
+            "c": "best part is when they start explaining it back to you, wrong, with full confidence"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "11",
+          "account": "@amazon",
+          "url": "https://x.com/amazon/status/2115415017755496633",
+          "reporter": "bruno",
+          "slot": "12:00",
+          "context_pt": "Amazon: \"new era of Echo\" — 5 devices novos com Alexa+ (multi-step requests), incl. Echo Time (criado-mudo, sleep sensing). 09:06 Fortaleza, ~180 likes / 21 replies — JANELA FECHANDO (~3h no ar). Ângulo leve tech/24/7 (trader que não dorme); sem ticker, sem advice. Se achar fraco, descartar. Urgência baixa.",
+          "options": {
+            "a": "a nightstand echo that helps you wake up rested. bold of you to assume the market lets us sleep",
+            "b": "multi-step requests is the real upgrade. alexa, check the charts, dim the lights, and don't tell me how it went",
+            "c": "echo time with sleep sensing is about to collect some very concerning data on 3am chart checkers"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@saylor",
+          "url": "https://x.com/saylor/status/2115452295387533437",
+          "reason_pt": "Pulado pelo Bruno: reply no mesmo thread (datas de record/pagamento) — usado só como contexto; reply 9 não cita datas"
+        },
+        {
+          "account": "@saylor → @WatcherGuru",
+          "url": "https://x.com/saylor/status/2115457709415768291",
+          "reason_pt": "Saylor respondendo ao WatcherGuru (33 empresas dos EUA contra tokenizar suas ações na OKX/ICE). Encosta em ações americanas tokenizadas / acesso → descartado por padrão (cautela US xStocks)"
+        }
+      ],
+      "notes_pt": "Ronda Bruno 12:00: 3 tips → 9 (Saylor Daily Dividends), 10 (Robinhood amigo investindo), 11 (Amazon Echo, janela fechando). Pulados: thread Saylor + Saylor/WatcherGuru tokenização."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-28T15:15:00.000Z",
+      "source": "Mathias Concorrência 12:00",
+      "replies": [],
+      "posts": [
+        {
+          "id": "P6",
+          "options": {
+            "a": "xStocks says the ecosystem just crossed $1B.\nthat's not a headline, that's a lot of people choosing to hold stocks onchain.\nproud to be the mantle side of it. fluxion",
+            "b": "first billion is always the hardest one.\ncongrats @xStocksFi 🫡\nthe mantle chapter is just getting started, and fluxion is keeping the floor open for it",
+            "c": "$1B in xStocks, per the team.\nevery one of those dollars wants a place to trade.\non mantle that's fluxion. Atomic RFQ for size, any hour you show up"
+          },
+          "text": null,
+          "source": "https://x.com/xStocksFi/status/2115436547873099970",
+          "note_pt": "Mathias 12h (watch-only, engajar? não → post original): marco US$1 bi AUM do ecossistema xStocks (número do próprio emissor, ~10:32 Fortaleza; não verificado por nós — atribuído levemente: 'xStocks says' / 'per the team'). Ângulo de comemoração, novo vs P2 (holders×fills), P4 (pergunta ticker) e P5 (tradfi×defi). Só cita '$1B', sem outra venue, sem advice. b marca @xStocksFi (emissor/parceiro).",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "Ink",
+          "url": null,
+          "reason_pt": "Pulado pelo Mathias: AUM na Ink = beat fechado (rival)"
+        },
+        {
+          "account": "OKX",
+          "url": null,
+          "reason_pt": "Pulado pelo Mathias: perps pré-IPO (rival)"
+        },
+        {
+          "account": "@wallet / $HOODx",
+          "url": null,
+          "reason_pt": "Pulado pelo Mathias: earnings já virou P8 em 27/10"
+        }
+      ],
+      "notes_pt": "Ronda Mathias 12:00: 1 tip (xStocks US$1 bi AUM) → P6 a/b/c. Sem meme (nada novo além de M1/M2). Pulados: Ink AUM, OKX perps pré-IPO, wallet earnings."
     }
-   ],
-   "posts": [],
-   "memes": [],
-   "visuals": [],
-   "discarded_tips": [],
-   "notes_pt": "Ronda Bruno 09:00 (grade nova 09/12/15/18). 1 tip Saylor (IA hackear app vs ativo) → 1."
-  },
-  {
-   "slot": "manha",
-   "createdAt": "2026-10-28T12:05:00.000Z",
-   "source": "Clarim Diário 09:00 (Editora Chefe)",
-   "replies": [
+  ],
+  "reporter_tips": [
     {
-     "id": "2",
-     "account": "@Mantle_Official",
-     "url": "https://x.com/Mantle_Official/status/2115376630118117604",
-     "reporter": "diario",
-     "slot": "09:00",
-     "context_pt": "Mantle migrou a mainnet para Reth (mesma base do ZK proving com Succinct). Parceiro core, post fresco (06:34 Fortaleza), poucos replies ainda.",
-     "options": {
-      "a": "swapped the engine without pulling over. respect",
-      "b": "faster rails underneath = cleaner fills on top. our pools felt that one ngl",
-      "c": "most chains announce roadmaps. mantle just ships the boring stuff that matters"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
+      "at": "2026-10-28T12:05:00.000Z",
+      "reporter": "Bruno",
+      "slot": "09:00",
+      "tips": 1,
+      "turned_into": [
+        "1"
+      ],
+      "note_pt": "Saylor IA hack app vs Bitcoin/inglês → 1 (app ≠ ativo; b com custódia leve)"
     },
     {
-     "id": "3",
-     "account": "@WatcherGuru",
-     "url": "https://x.com/WatcherGuru/status/2115409157922889781",
-     "reporter": "diario",
-     "slot": "09:00",
-     "context_pt": "Google mostra sistema de segurança para bancos guardarem e transferirem cripto e ativos tokenizados. ~700 likes em 20 min. Detalhes (MPC, lançamento 2027) só no resumo do X → NÃO VERIFICADO, não citar.",
-     "options": {
-      "a": "banks finally asking google how to not lose the keys. growth",
-      "b": "custody is step one. a tokenized asset still needs deep liquidity to actually trade",
-      "c": "tradfi spent a decade saying crypto was unsafe and now it's buying the safe from google"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
+      "at": "2026-10-28T12:05:00.000Z",
+      "reporter": "Diário",
+      "slot": "09:00",
+      "tips": 10,
+      "turned_into": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "P1",
+        "P2",
+        "P3",
+        "M1",
+        "M2"
+      ],
+      "note_pt": "Edição Clarim Diário manhã; replies renumeradas 2–6"
     },
     {
-     "id": "4",
-     "account": "@unusual_whales",
-     "url": "https://x.com/unusual_whales/status/2115392380279157044",
-     "reporter": "diario",
-     "slot": "09:00",
-     "context_pt": "\"FOMC é hoje. O Fed vai cortar?\" — dia do Fed (14:00 ET = 15:00 Fortaleza). Pergunta direta, convida resposta. ÚNICA reply da edição com o ângulo 24/7.",
-     "options": {
-      "a": "fed day: where everyone becomes a macro economist for exactly 45 minutes",
-      "b": "powell speaks at 2, wall st closes at 4, tokenized stocks on mantle keep trading through the reaction",
-      "c": "the cut is priced in. the press conference vibes are not"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
+      "at": "2026-10-28T12:10:00.000Z",
+      "reporter": "Mathias",
+      "slot": "09:00",
+      "tips": 3,
+      "turned_into": [
+        "P4",
+        "P5"
+      ],
+      "note_pt": "PancakeSwap→P4 (pergunta comunidade), trondao→P5 (TradFi↔DeFi 24/7), solana→skip (dup do P2). Pulou HOODx earnings e Raydium."
     },
     {
-     "id": "5",
-     "account": "@Bybit_Official",
-     "url": "https://x.com/Bybit_Official/status/2115322925750341826",
-     "reporter": "diario",
-     "slot": "09:00",
-     "context_pt": "Bybit teasando WSOT 2026 (\"Trading is in our DNA\"), 500+ likes. Parceiro; ângulo Bybit Alpha.",
-     "options": {
-      "a": "trading is in our DNA too. also in our sleep schedule, unfortunately",
-      "b": "fluxionians warming up on bybit alpha already. wsot season hits different",
-      "c": "wsot is just a public leaderboard of who has the strongest stomach"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
+      "at": "2026-10-28T12:25:00.000Z",
+      "reporter": "Gleison",
+      "slot": "09:00",
+      "tips": 3,
+      "turned_into": [
+        "7",
+        "8"
+      ],
+      "discarded": [
+        {
+          "url": "https://x.com/Mantle_Official/status/2115376630118117604",
+          "reason_pt": "dup do Diário 2 (Mantle Reth)"
+        }
+      ],
+      "note_pt": "Sky prazo Q3 call → 7; Mantle orçamento ciclo 4 → 8; Mantle Reth = dup do 2 (descartado). Pulou Bybit WSOT (Diário 5) e referral Halloween."
     },
     {
-     "id": "6",
-     "account": "@lookonchain",
-     "url": "https://x.com/lookonchain/status/2115388130606067764",
-     "reporter": "diario",
-     "slot": "09:00",
-     "context_pt": "\"Rei das liquidações\": short de ETH liquidado 13 vezes em 9 dias. Viral e engraçado; (b) leve com Fluxion Earn sem alavancagem (sem prometer rendimento).",
-     "options": {
-      "a": "at this point the liquidation engine should send him a thank you card",
-      "b": "some people need a hobby. others just park stables in fluxion earn, no leverage involved",
-      "c": "13 liquidations isn't a strategy, it's a subscription"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
+      "at": "2026-10-28T15:05:00.000Z",
+      "reporter": "Bruno",
+      "slot": "12:00",
+      "tips": 3,
+      "turned_into": [
+        "9",
+        "10",
+        "11"
+      ],
+      "discarded": [
+        {
+          "url": "https://x.com/saylor/status/2115457709415768291",
+          "reason_pt": "tokenização ações US (cautela)"
+        },
+        {
+          "url": "https://x.com/saylor/status/2115452295387533437",
+          "reason_pt": "mesmo thread"
+        }
+      ],
+      "note_pt": "Saylor Daily Dividends → 9; Robinhood amigo → 10; Amazon Echo → 11 (janela fechando). WatcherGuru/tokenização e thread Saylor pulados."
+    },
+    {
+      "at": "2026-10-28T15:15:00.000Z",
+      "reporter": "Mathias",
+      "slot": "12:00",
+      "tips": 1,
+      "turned_into": [
+        "P6"
+      ],
+      "discarded": [
+        {
+          "url": null,
+          "reason_pt": "Ink AUM (beat fechado)"
+        },
+        {
+          "url": null,
+          "reason_pt": "OKX perps pré-IPO"
+        },
+        {
+          "url": null,
+          "reason_pt": "wallet earnings (P8 27/10)"
+        }
+      ],
+      "note_pt": "xStocks US$1 bi AUM → P6 (comemoração do marco, a/b/c). Pulou Ink AUM, OKX perps, wallet earnings."
     }
-   ],
-   "posts": [
-    {
-     "id": "P1",
-     "text": "fed at 2pm.\nbig tech earnings after the bell.\nthe bell rings, the reaction doesn't stop.\nwhere are you watching it from?",
-     "source": "https://x.com/unusual_whales/status/2115392380279157044",
-     "note_pt": "Dia do Fed + earnings. Calendário (Meta após o fechamento) só em conta secundária https://x.com/PPNWorld/status/2115217138596106496 → NÃO VERIFICADO quais big techs reportam hoje, por isso não nomeia empresa. Postar antes das 15:00 Fortaleza.",
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    },
-    {
-     "id": "P2",
-     "text": "everyone's counting holders.\nwe're counting fills.\na listing is a ticker. a market is depth.\nAtomic RFQ for size, pools for the rest. gud mornin fluxionians",
-     "source": "https://x.com/danhtran68/status/2115402737106227500",
-     "note_pt": "Ideia estilo Mathias, sem concorrente: timeline cheia de ranking de chains por holders/market cap de ações tokenizadas. Sem citar chain nem número.",
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    },
-    {
-     "id": "P3",
-     "text": "fund managers rotating back into tech.\nfluxionians never rotated out.\nwhat's the one ticker you'd hold through any fed meeting?",
-     "source": "https://x.com/unusual_whales/status/2115407731922206834",
-     "note_pt": "Rotação para tech (dado BofA via unusual_whales = secundário → número NÃO VERIFICADO, fora do post). Pergunta no fim gera reply.",
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    }
-   ],
-   "memes": [
-    {
-     "id": "M1",
-     "format_pt": "\"I saw the worst of you / and I still chose you\" (Elon, 11,8 mil likes, formato do dia)",
-     "example": "https://x.com/elonmusk/status/2115346075666325755",
-     "caption": "i saw your 3am candles\nand i still chose you",
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    },
-    {
-     "id": "M2",
-     "format_pt": "Conan \"What is best in life?\" (usado por @rektdiomedes respondendo a Fluxion hoje)",
-     "example": "https://x.com/rektdiomedes/status/2115278552157622352",
-     "caption": "what is best in life?\ndeep liquidity, tight fills, and no closing bell",
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    }
-   ],
-   "visuals": [
-    {
-     "id": "V1",
-     "type": "meme",
-     "idea_pt": "M1: mascote Fluxion abraçando candle gigante num telhado à noite, placa MARKET CLOSED (prompt rico abaixo)",
-     "requested": false,
-     "prompt": "Fluxion's official mascot — a glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — sits on a rooftop at night, tenderly hugging a giant jagged red-and-green candlestick chart like a lover. City skyline dark below, every office window off, a single neon sign reading \"MARKET CLOSED\" flickering. Moonlight rim-lights the cat's vinyl shine; cyan eyes slightly teary, half-smile. Cinematic, soft film grain, romance-movie poster lighting, 4:5 vertical, caption in white serif across the top. Caption text exactly: \"i saw your 3am candles / and i still chose you\". No real people, no real logos besides the Fluxion mascot, no price numbers.",
-     "chosen": null,
-     "discardReason": null
-    },
-    {
-     "id": "V2",
-     "type": "meme",
-     "idea_pt": "M2: mascote Fluxion como Conan bárbaro, pilar \"9:30–4:00\" quebrado (prompt rico abaixo)",
-     "requested": false,
-     "prompt": "The mascot (glossy black vinyl-toy cat, three spiky ears, white swirl forehead logo, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) dressed as a barbarian warlord in a fur cloak, standing on a rocky ridge with one paw raised, holding a glowing sword shaped like a rising price candle. Behind it, a stormy purple-orange sky over a fantasy battlefield; a broken stone pillar carved \"9:30–4:00\" lies cracked in the foreground. Epic 1980s fantasy oil-painting style, dramatic low-angle shot, sparks and embers in the air, 16:9, bold white caption at the bottom. Caption text exactly: \"what is best in life? / deep liquidity, tight fills, and no closing bell\". No real people, no real logos besides the Fluxion mascot, no price numbers.",
-     "chosen": null,
-     "discardReason": null
-    }
-   ],
-   "discarded_tips": [
-    {
-     "account": "@elonmusk",
-     "url": null,
-     "reason_pt": "Posts noturnos do Elon sem sentido/sem gancho (só o formato virou M1)"
-    },
-    {
-     "account": "(concorrência)",
-     "url": null,
-     "reason_pt": "Notícias de concorrentes (Ondo/Robinhood Chain, ranking BNB) puladas pelo feedback de qualidade — virou só a ideia do P2, sem nomes"
-    }
-   ],
-   "notes_pt": "Edição Clarim Diário 09:00 (janela 00:05–12:05 UTC). Replies renumeradas 1–5 → 2–6 (reply 1 = Bruno/Saylor). Posts P1–P3, memes M1–M2 + V1–V2. Tudo pendente."
-  },
-  {
-   "slot": "manha",
-   "createdAt": "2026-10-28T12:10:00.000Z",
-   "source": "Mathias Concorrência 09:00",
-   "replies": [],
-   "posts": [
-    {
-     "id": "P4",
-     "text": "which xStock is on your screen this morning?\nthe market's open. on mantle it always is.\nfluxionians, drop it below 👇",
-     "source": "https://x.com/PancakeSwap/status/2115360422060527765",
-     "note_pt": "Mathias 09:00 tip 1 (watch-only, não responder ao rival): pergunta de comunidade, 24/7 na Mantle. Sem citar ticker específico (só citar se confirmado como par na Fluxion, ex. SPYx/QQQx) e sem advice.",
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    },
-    {
-     "id": "P5",
-     "text": "tradfi built the stocks.\ndefi built the hours.\nxStocks on mantle is where they meet.\nfluxion keeps the floor open 24/7",
-     "source": "https://x.com/trondao/status/2115219194023493632",
-     "note_pt": "Mathias 09:00 tip 3 (watch-only): ponte TradFi→onchain, xStocks na Fluxion/Mantle 24/7. Sem citar outra rede, sem números. Urgência baixa (evergreen).",
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    }
-   ],
-   "memes": [],
-   "visuals": [],
-   "discarded_tips": [
-    {
-     "account": "@solana",
-     "url": "https://x.com/solana/status/2115200162079674532",
-     "reason_pt": "Mathias tip 2 (liquidez profunda + Atomic RFQ como infra institucional): mesmo ângulo do P2 do Diário (holders vs fills / depth / Atomic RFQ) → não criei clone; P2 cobre"
-    },
-    {
-     "account": "@wallet / $HOODx",
-     "url": null,
-     "reason_pt": "Pulado pelo Mathias: earnings HOODx já virou P8 em 27/10"
-    },
-    {
-     "account": "Raydium",
-     "url": null,
-     "reason_pt": "Pulado pelo Mathias: volume Q3 = número de rival"
-    }
-   ],
-   "notes_pt": "Ronda Mathias 09:00: 3 tips (todas engajar? não, watch-only) → P4, P5; tip 2 fundida no P2 do Diário. Sem meme (nada novo além de M1/M2)."
-  },
-  {
-   "slot": "manha",
-   "createdAt": "2026-10-28T12:25:00.000Z",
-   "source": "Gleison Mesa Clarim 09:00",
-   "replies": [
-    {
-     "id": "7",
-     "account": "@SkyEcosystem",
-     "url": "https://x.com/SkyEcosystem/status/2115402330166403521",
-     "reporter": "gleison",
-     "slot": "09:00",
-     "context_pt": "Sky: perguntas pro Q3 Insights Call fecham HOJE (28/10) — performance financeira, alocação de capital, outlook (08:16 Fortaleza; ~10 likes / 2 replies). Parceiro (Earn). Atenção: o anúncio anterior da Sky (reply 1 + P1 de 27/10) foi descartado ontem; ângulo novo = dia do prazo + transparência. Sem yield, sem advice.",
-     "options": {
-      "a": "deadline day. our question: which q3 number are you proudest of, and which one kept you up at night",
-      "b": "publishing the numbers and then taking questions on them is how defi earns the \"fi\" part",
-      "c": "fluxionians in earn with sky: if you've got a capital allocation question, today's the last window"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    },
-    {
-     "id": "8",
-     "account": "@Mantle_Official",
-     "url": "https://x.com/Mantle_Official/status/2115405736390144418",
-     "reporter": "gleison",
-     "slot": "09:00",
-     "context_pt": "Mantle: proposta do orçamento core do 4º ciclo (jul/2026–jun/2027) aberta pra discussão no fórum (08:30 Fortaleza; ~14 likes / 1 reply). Ângulo governança, diferente do Reth (reply 2). Não li o thread do fórum → sem citar valores. Urgência baixa.",
-     "options": {
-      "a": "a full year's budget posted in the open for anyone to pick apart. the governance part people skip and shouldn't",
-      "b": "cycle 4 planning out in public. reading the thread with coffee, see you in the forum",
-      "c": "most teams plan the year in a private doc. mantle posts it and asks for comments"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    }
-   ],
-   "posts": [],
-   "memes": [],
-   "visuals": [],
-   "discarded_tips": [
-    {
-     "account": "@Mantle_Official",
-     "url": "https://x.com/Mantle_Official/status/2115376630118117604",
-     "reason_pt": "Gleison tip 1 (Mainnet em Reth / ZK Succinct): DUPLICADO — mesmo URL já é a reply 2 do Diário 09:00; não criei segundo item"
-    },
-    {
-     "account": "@Bybit_Official",
-     "url": null,
-     "reason_pt": "Pulado pelo Gleison: WSOT já é reply 5 do Diário"
-    },
-    {
-     "account": "(referral Halloween)",
-     "url": null,
-     "reason_pt": "Pulado pelo Gleison: referral Halloween sem gancho"
-    }
-   ],
-   "notes_pt": "Ronda Gleison 09:00: 3 tips → 7 (Sky prazo Q3 call), 8 (Mantle orçamento ciclo 4); tip 1 Mantle Reth = dup do 2. Sem meme."
-  },
-  {
-   "slot": "tarde",
-   "createdAt": "2026-10-28T15:05:00.000Z",
-   "source": "Bruno Titulares 12:00",
-   "replies": [
-    {
-     "id": "9",
-     "account": "@saylor",
-     "url": "https://x.com/saylor/status/2115451822915928244",
-     "reporter": "bruno",
-     "slot": "12:00",
-     "context_pt": "Acionistas $MSTR aprovaram a emenda Daily Dividends (99,3% dos votos lançados, preliminar — dado do próprio post, verificado no X); $STRF/$STRC/$STRK/$STRD passam a acumular dividendo todo dia corrido (11:33 Fortaleza; às ~12:05 1,3 mil likes / 124 replies / 94k views). Ângulo novo (≠ reply 1, IA/app): 'todo dia corrido' ↔ mercado sem dia de folga. Sem advice, sem falar de rendimento, sem insinuar que STRx negocia na Fluxion. Urgência alta.",
-     "options": {
-      "a": "dividends that count weekends too. the calendar finally caught up with the market",
-      "b": "every calendar day counts. we've been saying that about markets for a while",
-      "c": "99.3% in favor is less a vote and more a group chat agreeing on where to eat"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    },
-    {
-     "id": "10",
-     "account": "@RobinhoodApp",
-     "url": "https://x.com/RobinhoodApp/status/2115444493025747331",
-     "reporter": "bruno",
-     "slot": "12:00",
-     "context_pt": "Robinhood: \"telling your friend about investing and watching them get into it >\" (11:04 Fortaleza; ~310 likes / 97 replies / 27k views). Post leve de comunidade, tom onboarding/educação. b puxa 'mercado onchain não fecha' de leve, sem citar xStocks nem acesso (evita implicação US). Sem advice. Urgência média.",
-     "options": {
-      "a": "and then they start sending you charts at 2am. you created a monster",
-      "b": "step one: they get into it. step two: they ask why the market closes at 4. step three: you explain onchain",
-      "c": "best part is when they start explaining it back to you, wrong, with full confidence"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    },
-    {
-     "id": "11",
-     "account": "@amazon",
-     "url": "https://x.com/amazon/status/2115415017755496633",
-     "reporter": "bruno",
-     "slot": "12:00",
-     "context_pt": "Amazon: \"new era of Echo\" — 5 devices novos com Alexa+ (multi-step requests), incl. Echo Time (criado-mudo, sleep sensing). 09:06 Fortaleza, ~180 likes / 21 replies — JANELA FECHANDO (~3h no ar). Ângulo leve tech/24/7 (trader que não dorme); sem ticker, sem advice. Se achar fraco, descartar. Urgência baixa.",
-     "options": {
-      "a": "a nightstand echo that helps you wake up rested. bold of you to assume the market lets us sleep",
-      "b": "multi-step requests is the real upgrade. alexa, check the charts, dim the lights, and don't tell me how it went",
-      "c": "echo time with sleep sensing is about to collect some very concerning data on 3am chart checkers"
-     },
-     "chosen": null,
-     "postedText": null,
-     "discardReason": null
-    }
-   ],
-   "posts": [],
-   "memes": [],
-   "visuals": [],
-   "discarded_tips": [
-    {
-     "account": "@saylor",
-     "url": "https://x.com/saylor/status/2115452295387533437",
-     "reason_pt": "Pulado pelo Bruno: reply no mesmo thread (datas de record/pagamento) — usado só como contexto; reply 9 não cita datas"
-    },
-    {
-     "account": "@saylor → @WatcherGuru",
-     "url": "https://x.com/saylor/status/2115457709415768291",
-     "reason_pt": "Saylor respondendo ao WatcherGuru (33 empresas dos EUA contra tokenizar suas ações na OKX/ICE). Encosta em ações americanas tokenizadas / acesso → descartado por padrão (cautela US xStocks)"
-    }
-   ],
-   "notes_pt": "Ronda Bruno 12:00: 3 tips → 9 (Saylor Daily Dividends), 10 (Robinhood amigo investindo), 11 (Amazon Echo, janela fechando). Pulados: thread Saylor + Saylor/WatcherGuru tokenização."
-  }
- ],
- "reporter_tips": [
-  {
-   "at": "2026-10-28T12:05:00.000Z",
-   "reporter": "Bruno",
-   "slot": "09:00",
-   "tips": 1,
-   "turned_into": [
-    "1"
-   ],
-   "note_pt": "Saylor IA hack app vs Bitcoin/inglês → 1 (app ≠ ativo; b com custódia leve)"
-  },
-  {
-   "at": "2026-10-28T12:05:00.000Z",
-   "reporter": "Diário",
-   "slot": "09:00",
-   "tips": 10,
-   "turned_into": [
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "P1",
-    "P2",
-    "P3",
-    "M1",
-    "M2"
-   ],
-   "note_pt": "Edição Clarim Diário manhã; replies renumeradas 2–6"
-  },
-  {
-   "at": "2026-10-28T12:10:00.000Z",
-   "reporter": "Mathias",
-   "slot": "09:00",
-   "tips": 3,
-   "turned_into": [
-    "P4",
-    "P5"
-   ],
-   "note_pt": "PancakeSwap→P4 (pergunta comunidade), trondao→P5 (TradFi↔DeFi 24/7), solana→skip (dup do P2). Pulou HOODx earnings e Raydium."
-  },
-  {
-   "at": "2026-10-28T12:25:00.000Z",
-   "reporter": "Gleison",
-   "slot": "09:00",
-   "tips": 3,
-   "turned_into": [
-    "7",
-    "8"
-   ],
-   "discarded": [
-    {
-     "url": "https://x.com/Mantle_Official/status/2115376630118117604",
-     "reason_pt": "dup do Diário 2 (Mantle Reth)"
-    }
-   ],
-   "note_pt": "Sky prazo Q3 call → 7; Mantle orçamento ciclo 4 → 8; Mantle Reth = dup do 2 (descartado). Pulou Bybit WSOT (Diário 5) e referral Halloween."
-  },
-  {
-   "at": "2026-10-28T15:05:00.000Z",
-   "reporter": "Bruno",
-   "slot": "12:00",
-   "tips": 3,
-   "turned_into": [
-    "9",
-    "10",
-    "11"
-   ],
-   "discarded": [
-    {
-     "url": "https://x.com/saylor/status/2115457709415768291",
-     "reason_pt": "tokenização ações US (cautela)"
-    },
-    {
-     "url": "https://x.com/saylor/status/2115452295387533437",
-     "reason_pt": "mesmo thread"
-    }
-   ],
-   "note_pt": "Saylor Daily Dividends → 9; Robinhood amigo → 10; Amazon Echo → 11 (janela fechando). WatcherGuru/tokenização e thread Saylor pulados."
-  }
- ],
- "escolhas_log": [],
- "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11."
+  ],
+  "escolhas_log": [],
+  "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11. | Mathias 12:00: P6 (xStocks US$1 bi)."
 }
