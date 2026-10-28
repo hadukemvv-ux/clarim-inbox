@@ -511,6 +511,69 @@
         }
       ],
       "notes_pt": "Ronda Bruno 15:00: 1 tip (Google Gemini 4 Carbon) → 12 a/b/c. Pulou RobinhoodApp (regra OK)."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-28T18:25:00.000Z",
+      "source": "Gleison Mesa Clarim 15:00",
+      "replies": [
+        {
+          "id": "13",
+          "account": "@KiiChainio",
+          "url": "https://x.com/KiiChainio/status/2115473676036624798",
+          "reporter": "gleison",
+          "slot": "15:00",
+          "context_pt": "KiiChain (parceiro): contas virtuais nos EUA no ar no app Kii — abrir/gerir conta virtual sem relação bancária direta, RTP/Fedwire/ACH/SWIFT, swap USD↔stablecoins (dados do próprio post; 13:00 Fortaleza; às ~15:20 ~9,1 mil impressões / 44 likes / 33 replies). Continuação da pergunta de ontem 'quanto tempo um banco te fez esperar' (reply 21 da Page 27/10 — nunca escolhida nem postada, já passou de 12h). Hoje é lançamento → ângulo novo: celebrar o lançamento, sem repetir o '3-5 business days' do 21b. Fluxion/xStocks ficam de fora DE PROPÓSITO: conta virtual nos EUA + ação tokenizada poderia soar como acesso para US persons. Não citar FDIC nem valores. Fluxion ainda sem reply. Urgência alta.",
+          "options": {
+            "a": "rtp, fedwire, ach and swift in one app. thats every acronym my bank ever blamed for a late payment",
+            "b": "yesterday you asked how long a bank made us wait. today you shipped the answer. congrats kii fam 🫡",
+            "c": "the quiet flex is \"no direct banking relationship required\". the bank just became an optional feature"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "supersedes": "21 (27/10)"
+        },
+        {
+          "id": "14",
+          "account": "@grovedotfinance",
+          "url": "https://x.com/grovedotfinance/status/2115480129908666710",
+          "reporter": "gleison",
+          "slot": "15:00",
+          "context_pt": "Grove (parceiro Earn): lembrete de que dá pra acumular GROVE no Grove App via Ecosystem Rewards (supply USDS) (13:25 Fortaleza; ~1,1 mil impressões / 15 likes / 1 reply). Arte com papagaio amarelo e flores brancas. Fluxion sem reply à Grove hoje (a 20 de ontem, Nasdaq-100, ficou sem escolha). Ângulo leve de comunidade/arte, SEM falar de rendimento/recompensa/APY, sem advice. Gancho fino — se parecer engajar só por engajar, descarta. Urgência baixa.",
+          "options": {
+            "a": "that parrot has strong \"i was in the grove before it was cool\" energy 🌳",
+            "b": "fluxionians met grove through earn. nice seeing the grove app grow its own canopy",
+            "c": "most rewards banners look like a spreadsheet. grove showed up with a parrot and flowers, the design bar just moved"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@xStocksFi",
+          "url": "https://x.com/xStocksFi/status/2115503873633001525",
+          "reason_pt": "Pulado pelo Gleison: GOOGLx/STRCx — Fluxion já respondeu (https://x.com/Fluxion_network/status/2115505241554587774 e https://x.com/Fluxion_network/status/2115483957034897438)"
+        },
+        {
+          "account": "@Bybit_Official",
+          "url": null,
+          "reason_pt": "Pulado pelo Gleison: Bybit 500 USDT (sem gancho)"
+        },
+        {
+          "account": "@WatcherGuru",
+          "url": null,
+          "reason_pt": "Só contexto: Solana/tokenized stocks = venue concorrente"
+        }
+      ],
+      "notes_pt": "Ronda Gleison 15:00: 2 tips → 13 (KiiChain contas virtuais EUA, substitui a 21 de 27/10 que expirou sem escolha), 14 (Grove Ecosystem Rewards, ângulo arte/comunidade, sem yield). Conferido no X: Fluxion sem reply a Kii/Grove hoje."
     }
   ],
   "reporter_tips": [
@@ -668,6 +731,18 @@
         }
       ],
       "note_pt": "0 itens novos. Skips corretos: xStocksFi GOOGLx, Payward AUM (dup P6), tokenterminal market share, DTCC (P5), Ink."
+    },
+    {
+      "at": "2026-10-28T18:25:00.000Z",
+      "reporter": "Gleison",
+      "slot": "15:00",
+      "tips": 2,
+      "turned_into": [
+        "13",
+        "14"
+      ],
+      "discarded": [],
+      "note_pt": "KiiChain US virtual accounts → 13 (lançamento; não duplica a 21 de ontem — banco/espera; Fluxion fora por cautela US). Grove Ecosystem Rewards → 14 (leve, arte/comunidade, sem yield). Skips corretos: xStocks GOOGLx/STRCx (já respondidos), Bybit 500 USDT; Watcher.Guru Solana só contexto."
     }
   ],
   "escolhas_log": [
@@ -808,7 +883,7 @@
       "deferred_to": "2026-10-29"
     }
   ],
-  "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11. | Mathias 12:00: P6 (xStocks US$1 bi). | ESCOLHAS 12:25: concluídos 2 own, 3c, 5 own; descartados 1, 4, P1–P5, M1, M2. Qualidade: sem engage-for-engage em Bitcoin; edição própria em parceiros; replies do Fed rejeitadas; P2 BNB = concorrente; P3/P4 criatividade/cara de IA; P5 repetitivo; M2 ele respondeu: https://x.com/Fluxion_network/status/2115427961226633259. Pendentes: 6–11, P6, V1, V2. | Gleison 12:00: 0 itens (unusual_whales tech = mesmo gancho do P3 descartado; Sky = dup do 7; OKX+ICE só observação). | ESCOLHAS ~13:35: 9 own, P6 own (já postado: https://x.com/Fluxion_network/status/2115438028781175031), 11b escolhido (não postado; imagem V3 no estilo novo), 10 descartado (RobinhoodApp = Robinhood Chain, evitar). Pendentes: 6, 7, 8, V1, V2 (V1/V2 de memes descartados), V3. | ~14:10: imagem V3 APROVADA (assets/2026-10-28/V3-amazon-warehouse-amznx.png); 11b/V3 ADIADOS — post Amazon após earnings AMZN 29/10. | Bruno 15:00: Google Gemini 4 Carbon → 12 (a/b/c); pulou RobinhoodApp (regra OK). Pendentes: 6, 7, 8, 12, V1, V2.\nMathias 15:00 — 0 itens novos (kamino lend-against-equity descartado: sem produto equivalente confirmado na Mantle/Fluxion; ângulo genérico saturado).",
+  "notes_pt": "Dia 28/10. Rondas 09/12/15/18 (Fortaleza). Numeração recomeça em 1 (pendentes de 27/10 seguem na Page 27/10). | 09:00: Bruno 1; Diário 2–6, P1–P3, M1–M2/V1–V2; Mathias P4–P5. | Gleison 09:00: 7–8 (Mantle Reth = dup do 2). | Bruno 12:00: 9–11. | Mathias 12:00: P6 (xStocks US$1 bi). | ESCOLHAS 12:25: concluídos 2 own, 3c, 5 own; descartados 1, 4, P1–P5, M1, M2. Qualidade: sem engage-for-engage em Bitcoin; edição própria em parceiros; replies do Fed rejeitadas; P2 BNB = concorrente; P3/P4 criatividade/cara de IA; P5 repetitivo; M2 ele respondeu: https://x.com/Fluxion_network/status/2115427961226633259. Pendentes: 6–11, P6, V1, V2. | Gleison 12:00: 0 itens (unusual_whales tech = mesmo gancho do P3 descartado; Sky = dup do 7; OKX+ICE só observação). | ESCOLHAS ~13:35: 9 own, P6 own (já postado: https://x.com/Fluxion_network/status/2115438028781175031), 11b escolhido (não postado; imagem V3 no estilo novo), 10 descartado (RobinhoodApp = Robinhood Chain, evitar). Pendentes: 6, 7, 8, V1, V2 (V1/V2 de memes descartados), V3. | ~14:10: imagem V3 APROVADA (assets/2026-10-28/V3-amazon-warehouse-amznx.png); 11b/V3 ADIADOS — post Amazon após earnings AMZN 29/10. | Bruno 15:00: Google Gemini 4 Carbon → 12 (a/b/c); pulou RobinhoodApp (regra OK). Pendentes: 6, 7, 8, 12, V1, V2.\nMathias 15:00 — 0 itens novos (kamino lend-against-equity descartado: sem produto equivalente confirmado na Mantle/Fluxion; ângulo genérico saturado).\nGleison 15:00 — 13 (@KiiChainio contas virtuais EUA; substitui 21 de 27/10, expirada) e 14 (@grovedotfinance Ecosystem Rewards, arte/comunidade, sem yield). Pendentes: 6, 7, 8, 12, 13, 14, V1, V2 (11b/V3 adiados p/ 29/10).",
   "style_rules": {
     "image_prompts_v2_2026-10-28": {
       "pt": "Cenário real e natural como foto de verdade (lugar real, luz natural/golden hour ou ambiente quente, cores reais, sombras suaves, 35mm, fundo desfocado, cara de revista). Mascote = único elemento estilizado: vinil preto brilhante com reflexo e sombra de contato; neon só nele. NUNCA cenário neon, água brilhando, fundo roxo/ciano, fantasia/sci-fi, saturação exagerada, fundo CGI/cara de IA. Todo prompt termina com 'Avoid:'. Texto na imagem: sans-serif branco, limpo, negrito.",
