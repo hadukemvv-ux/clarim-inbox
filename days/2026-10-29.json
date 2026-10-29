@@ -323,6 +323,41 @@
         }
       ],
       "notes_pt": "Ronda Gleison 12:00 (29/10): 3 tips → 9 (@grovedotfinance, Grove no Q3 da Sky), 10 (@SkyEcosystem, Q3 report — mesmo relatório, preferir 9 se só um). Bybit sit out = dup da 3 (Diário). Skips dele OK (Mantle Halloween/Amazon já respondidos pela Fluxion, Bybit WSOT/AI, xStocks Elysium 9/11 venue concorrente)."
+    },
+    {
+      "slot": "noite",
+      "createdAt": "2026-10-29T21:10:00.000Z",
+      "source": "Bruno Titulares 18:00",
+      "replies": [
+        {
+          "id": "12",
+          "account": "@saylor",
+          "url": "https://x.com/saylor/status/2115897719449403879",
+          "reporter": "bruno",
+          "slot": "18:00",
+          "context_pt": "Strategy divulgou resultados do Q3 2026 (post 17:05 Fortaleza; ~2,0 mil likes / 149 replies / 230 reposts / 116 mil impressões em ~1h). POST DIFERENTE da reply 1 de hoje (saque/permissão/STRC); não repetir 1c. Ângulo novo: tesouraria grande em BTC vs sair sem pedir permissão / autocustódia. SEM $STRC, produto ou rendimento; SEM ecoar números do post. Conferido no X: Fluxion sem reply nesse post. Urgência alta, janela de reply aberta.",
+          "options": {
+            "a": "saylor's idea of a quiet quarter is still everyone else's entire cycle 🟠",
+            "b": "a big treasury is impressive. a wallet you can leave without asking anyone is freedom. on fluxion the exit stays yours",
+            "c": "the biggest stack in the world still answers to a boardroom. the best stack answers to your keys"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pending"
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@amazon",
+          "url": "https://x.com/amazon/status/2115901128944836692",
+          "reason_pt": "Não vira item novo: post oficial dos earnings Q3 2026 (17:18 Fortaleza) é o gatilho/contexto da 11b (Amazon pronto após earnings, a/b/c + V3). Reply separado competiria com o post próprio 11b."
+        }
+      ]
     }
   ],
   "reporter_tips": [
@@ -437,6 +472,24 @@
       "turned_into": [],
       "discarded": [],
       "note_pt": "Ronda vazia: 'nada novo'."
+    },
+    {
+      "at": "2026-10-29T21:00:00.000Z",
+      "reporter": "Bruno",
+      "slot": "18:00",
+      "tips": 2,
+      "posts": 0,
+      "turned_into": [
+        "12"
+      ],
+      "discarded": [
+        {
+          "account": "@amazon",
+          "url": "https://x.com/amazon/status/2115901128944836692",
+          "as": "context_for_11b"
+        }
+      ],
+      "note_pt": "12 (@saylor Strategy Q3, autocustódia vs saída com permissão). @amazon earnings = contexto da 11b, não item novo (11b já cobre; libera postagem)."
     }
   ],
   "escolhas_log": [
@@ -579,7 +632,7 @@
       "status_pt": "pendentes na Page 28/10 (não mexidos aqui)"
     }
   ],
-  "notes_pt": "Dia novo, numeração recomeça em 1. Bruno 09:00: 1 (@saylor), 2 (@Tesla); Microsoft = skip/contexto. Fluxion sem posts em 29/10 até 09:00. Pendentes: 1, 2 (+ 11b/V3 adiados p/ earnings AMZN).\nMathias 09h: 0 novos (Phantom/OKX descartados, 24/7 saturado).\nDiário manhã: 3 (@Bybit_Official), 4 (@benbybit WSOT), 5 (@WatcherGuru LME), 6 (@elonmusk exponencial), 7 (@WatcherGuru Lagarde, único 24/7); P1 earnings/sono, P2 Atomic RFQ (confirmar 'all or nothing'), P3 WSOT aberto; M1 Elon exponencial, M2 Halloween. NYSE/Hyperliquid fora de propósito (concorrentes). Pendentes: 1–7, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nGleison 09h: 8 (@Bybit_Official FASE, segurança do usuário); xStocks/Kraken descartado (venue concorrente, fora da janela). Pendentes: 1–8, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nBruno 12h: 0 novos (ronda vazia).\nGleison 12h: 9 (@grovedotfinance, Grove citada no Q3 Sky), 10 (@SkyEcosystem, Q3 report; mesmo relatório → preferir 9 se só um). Bybit sit out = dup da 3. Pendentes: 1–10, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00). Obs: Fluxion já respondeu ao @benbybit hoje 10:12 ('bybit cooking as always') → reply 4 talvez redundante.\nESCOLHAS 15:30 (Hadukem): 1c, 2b, 3c, 4 own ('bybit cooking\\n\\nas always' = reply já postado 10:12), 5c, 6 discard (sem motivo), 7a, P1 own (QT do post da Mantle https://x.com/Mantle_Official/status/2115795098760085988 com texto dele; 'bit' mantido como escrito) + prompt de arte V1 do P1 (mascote sem dormir roendo a pata, estilo foto real v2). Pendentes: 8, 9, 10, P2, P3, M1, M2 (+ 11b/V3 adiados p/ 15:00).\nESCOLHAS 15:55: P1 postado (https://x.com/Fluxion_network/status/2115832160724930569, 'but' corrigido); P2 own como reply (RWA_Terminal); P3/M1/8/10 descartados; M2 segurado p/ mais tarde; 9c escolhida. FEEDBACK DURÁVEL: Threads precisam de bem mais informação e estrutura: prompt/gancho inicial pra chamar atenção, estrutura que prenda a audiência, mais características. Reply ≠ thread: não tratar copy de reply/post curto como material de thread.\nBruno 15h: 0 novos (ronda vazia).\nMathias 15h: xStocksFi after-hours descartado (24/7 saturado); 0 novos.\nRotina Amazon ~15:08: 11b PRONTO (a/b/c + V3) — postar só após earnings AMZN (~17:00, confirmar). M2 segue segurado p/ mais tarde.\nGleison 15h: nada novo.",
+  "notes_pt": "Dia novo, numeração recomeça em 1. Bruno 09:00: 1 (@saylor), 2 (@Tesla); Microsoft = skip/contexto. Fluxion sem posts em 29/10 até 09:00. Pendentes: 1, 2 (+ 11b/V3 adiados p/ earnings AMZN).\nMathias 09h: 0 novos (Phantom/OKX descartados, 24/7 saturado).\nDiário manhã: 3 (@Bybit_Official), 4 (@benbybit WSOT), 5 (@WatcherGuru LME), 6 (@elonmusk exponencial), 7 (@WatcherGuru Lagarde, único 24/7); P1 earnings/sono, P2 Atomic RFQ (confirmar 'all or nothing'), P3 WSOT aberto; M1 Elon exponencial, M2 Halloween. NYSE/Hyperliquid fora de propósito (concorrentes). Pendentes: 1–7, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nGleison 09h: 8 (@Bybit_Official FASE, segurança do usuário); xStocks/Kraken descartado (venue concorrente, fora da janela). Pendentes: 1–8, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nBruno 12h: 0 novos (ronda vazia).\nGleison 12h: 9 (@grovedotfinance, Grove citada no Q3 Sky), 10 (@SkyEcosystem, Q3 report; mesmo relatório → preferir 9 se só um). Bybit sit out = dup da 3. Pendentes: 1–10, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00). Obs: Fluxion já respondeu ao @benbybit hoje 10:12 ('bybit cooking as always') → reply 4 talvez redundante.\nESCOLHAS 15:30 (Hadukem): 1c, 2b, 3c, 4 own ('bybit cooking\\n\\nas always' = reply já postado 10:12), 5c, 6 discard (sem motivo), 7a, P1 own (QT do post da Mantle https://x.com/Mantle_Official/status/2115795098760085988 com texto dele; 'bit' mantido como escrito) + prompt de arte V1 do P1 (mascote sem dormir roendo a pata, estilo foto real v2). Pendentes: 8, 9, 10, P2, P3, M1, M2 (+ 11b/V3 adiados p/ 15:00).\nESCOLHAS 15:55: P1 postado (https://x.com/Fluxion_network/status/2115832160724930569, 'but' corrigido); P2 own como reply (RWA_Terminal); P3/M1/8/10 descartados; M2 segurado p/ mais tarde; 9c escolhida. FEEDBACK DURÁVEL: Threads precisam de bem mais informação e estrutura: prompt/gancho inicial pra chamar atenção, estrutura que prenda a audiência, mais características. Reply ≠ thread: não tratar copy de reply/post curto como material de thread.\nBruno 15h: 0 novos (ronda vazia).\nMathias 15h: xStocksFi after-hours descartado (24/7 saturado); 0 novos.\nRotina Amazon ~15:08: 11b PRONTO (a/b/c + V3) — postar só após earnings AMZN (~17:00, confirmar). M2 segue segurado p/ mais tarde.\nGleison 15h: nada novo.\nBruno 18h: 12 (@saylor Strategy Q3, autocustódia vs saída com permissão; post diferente da 1). @amazon earnings saiu (17:18) → 11b/V3 LIBERADA, só escolher a/b/c; tip Amazon não vira item novo. Pendentes: 11b, 12, M2.",
   "style_rules": {
     "image_prompts_v2_2026-10-28": {
       "pt": "Cenário real e natural como foto de verdade (lugar real, luz natural/golden hour ou ambiente quente, cores reais, sombras suaves, 35mm, fundo desfocado, cara de revista). Mascote = único elemento estilizado: vinil preto brilhante com reflexo e sombra de contato; neon só nele. NUNCA cenário neon, água brilhando, fundo roxo/ciano, fantasia/sci-fi, saturação exagerada, fundo CGI/cara de IA. Todo prompt termina com 'Avoid:'. Texto na imagem: sans-serif branco, limpo, negrito.",
@@ -626,6 +679,13 @@
       "handle": "@xStocksFi",
       "url": "https://x.com/xStocksFi/status/2115826291903799729",
       "reason_pt": "Ângulo pós-fechamento/24/7 saturado (P13 carteira 24/7, Phantom/OKX descartados 09h, Kamino 28/10, P2 Atomic RFQ); enquadramento 'mercado fechou' não é distinto o bastante; post original cita venue rival; engajar? não (Mathias)."
+    },
+    {
+      "reporter": "Bruno",
+      "slot": "18:00",
+      "handle": "@amazon",
+      "url": "https://x.com/amazon/status/2115901128944836692",
+      "reason_pt": "Usado como contexto/liberação da 11b; não vira reply separado (competiria com o post próprio 11b)."
     }
   ],
   "pending": [],
@@ -636,7 +696,7 @@
     {
       "id": "11b",
       "from": "2026-10-28",
-      "status": "ready_after_earnings",
+      "status": "ready_cleared",
       "options": {
         "a": "amzn earnings just dropped. market's closed, reactions aren't. trade AMZNX on fluxion 24/7, no waiting for the opening bell",
         "b": "the warehouse never sleeps and neither does AMZNX. earnings are out, tokenized amazon is live on fluxion around the clock",
@@ -646,7 +706,8 @@
       "posted": false,
       "image": "assets/2026-10-28/V3-amazon-warehouse-amznx.png",
       "visual": "V3",
-      "notes_pt": "Rotina Amazon disparou ~15:08 Fortaleza; drafts + V3 enviados no chat. Postar só após resultado (confirmar horário do release). Sem números nos drafts; sem ângulo US-persons."
+      "notes_pt": "Rotina Amazon disparou ~15:08 Fortaleza; drafts + V3 enviados no chat. Postar só após resultado (confirmar horário do release). Sem números nos drafts; sem ângulo US-persons. ATUALIZAÇÃO 18h: @amazon publicou os earnings Q3 2026 às 17:18 Fortaleza (https://x.com/amazon/status/2115901128944836692) → 11b LIBERADA pra postar; Hadukem escolhe a/b/c. Seguir sem números próprios.",
+      "earnings_post_url": "https://x.com/amazon/status/2115901128944836692"
     }
   ]
 }
