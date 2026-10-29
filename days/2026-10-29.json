@@ -235,6 +235,59 @@
         }
       ],
       "notes_pt": "Ronda Gleison 09:00 (29/10): 2 tips → 8 (@Bybit_Official FASE, segurança do usuário). xStocks/Kraken descartado (venue concorrente, fora da janela, Mathias já pulou). Skips do Gleison OK (sit out/Opening Bell já 3/P3, WSOT 10M, AI/Predict, MSFTx/GOOGLx)."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-29T15:20:00.000Z",
+      "source": "Gleison Mesa Clarim 12:00",
+      "replies": [
+        {
+          "id": "9",
+          "account": "@grovedotfinance",
+          "url": "https://x.com/grovedotfinance/status/2115811147479925099",
+          "reporter": "gleison",
+          "slot": "12:00",
+          "context_pt": "Grove (parceiro Earn): Sky Frontier Foundation publicou o Q3 2026 Report da @SkyEcosystem e cita a linha de warehouse de US$500M da @galaxyhq financiada via Grove como desenvolvimento-chave do trimestre; post traz receita bruta/líquida/margem e a fatia da Grove (11:21 Fortaleza; às ~12:15 ~920 impressões / 12 likes / 1 reply → reply nosso fica visível). Ângulo NOVO vs 14b de ontem (Ecosystem Rewards/papagaio): reconhecimento no relatório. Comentário de comunidade/parceiro, SEM yield, SEM advice, SEM repetir números (nenhuma opção cita valores). Não repetir 'fluxionians met grove through earn' (texto postado ontem). Conferido no X: Fluxion sem reply. Urgência média.",
+          "options": {
+            "a": "\"a defining development of the quarter\" is a strong line to find in someone else's report card. well earned, grove 🌳",
+            "b": "warehouse lines rarely make the highlights reel. grove just made credit the main character",
+            "c": "from earn partner to a headline in sky's q3 report. proud partner energy over here 🌳"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false
+        },
+        {
+          "id": "10",
+          "account": "@SkyEcosystem",
+          "url": "https://x.com/SkyEcosystem/status/2115792725500948921",
+          "reporter": "gleison",
+          "slot": "12:00",
+          "context_pt": "Sky (parceiro Earn): Q3 2026 Report — sexto trimestre seguido de net revenue positiva, margens maiores e mais uso institucional de sUSDS (10:07 Fortaleza; às ~12:15 ~3,2 mil impressões / 21 likes / 9 replies). Continuação da call do Q3 (reply 7 de ontem, prazo de perguntas, ficou pendente na Page 28/10). Parabéns leve, sem advice, sem yield, sem números além do '6 trimestres' do post. MESMO relatório da 9 (Grove): se for postar só um, Gleison prefere a 9. Conferido no X: Fluxion sem reply. Urgência média.",
+          "options": {
+            "a": "six quarters in a row is a streak, not a fluke. gg sky",
+            "b": "took questions before the call, came back with the receipts. clean follow-through, sky",
+            "c": "a quarterly report people actually read to the end. congrats on q3, sky fam 🫡"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "note_pt": "Mesmo relatório da 9; se escolher só um, preferir a 9 (Grove)."
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2115698862186778910",
+          "reason_pt": "Duplicado: mesmo post (sit out, 'o que te faria ficar de fora de um mercado que todo mundo persegue?') já é a reply 3 do Diário de hoje. Não abre item novo."
+        }
+      ],
+      "notes_pt": "Ronda Gleison 12:00 (29/10): 3 tips → 9 (@grovedotfinance, Grove no Q3 da Sky), 10 (@SkyEcosystem, Q3 report — mesmo relatório, preferir 9 se só um). Bybit sit out = dup da 3 (Diário). Skips dele OK (Mantle Halloween/Amazon já respondidos pela Fluxion, Bybit WSOT/AI, xStocks Elysium 9/11 venue concorrente)."
     }
   ],
   "reporter_tips": [
@@ -298,6 +351,23 @@
       "turned_into": [],
       "discarded": [],
       "note_pt": "Ronda vazia: 'nada novo'."
+    },
+    {
+      "at": "2026-10-29T15:20:00.000Z",
+      "reporter": "Gleison",
+      "slot": "12:00",
+      "tips": 3,
+      "turned_into": [
+        "9",
+        "10"
+      ],
+      "discarded": [
+        {
+          "url": "https://x.com/Bybit_Official/status/2115698862186778910",
+          "reason_pt": "dup da reply 3 (Diário)"
+        }
+      ],
+      "note_pt": "Grove Q3 Sky warehouse → 9; Sky Q3 report → 10; Bybit sit out = dup da 3. Skips OK."
     }
   ],
   "escolhas_log": [],
@@ -322,7 +392,7 @@
       "status_pt": "pendentes na Page 28/10 (não mexidos aqui)"
     }
   ],
-  "notes_pt": "Dia novo, numeração recomeça em 1. Bruno 09:00: 1 (@saylor), 2 (@Tesla); Microsoft = skip/contexto. Fluxion sem posts em 29/10 até 09:00. Pendentes: 1, 2 (+ 11b/V3 adiados p/ earnings AMZN).\nMathias 09h: 0 novos (Phantom/OKX descartados, 24/7 saturado).\nDiário manhã: 3 (@Bybit_Official), 4 (@benbybit WSOT), 5 (@WatcherGuru LME), 6 (@elonmusk exponencial), 7 (@WatcherGuru Lagarde, único 24/7); P1 earnings/sono, P2 Atomic RFQ (confirmar 'all or nothing'), P3 WSOT aberto; M1 Elon exponencial, M2 Halloween. NYSE/Hyperliquid fora de propósito (concorrentes). Pendentes: 1–7, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nGleison 09h: 8 (@Bybit_Official FASE, segurança do usuário); xStocks/Kraken descartado (venue concorrente, fora da janela). Pendentes: 1–8, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nBruno 12h: 0 novos (ronda vazia).",
+  "notes_pt": "Dia novo, numeração recomeça em 1. Bruno 09:00: 1 (@saylor), 2 (@Tesla); Microsoft = skip/contexto. Fluxion sem posts em 29/10 até 09:00. Pendentes: 1, 2 (+ 11b/V3 adiados p/ earnings AMZN).\nMathias 09h: 0 novos (Phantom/OKX descartados, 24/7 saturado).\nDiário manhã: 3 (@Bybit_Official), 4 (@benbybit WSOT), 5 (@WatcherGuru LME), 6 (@elonmusk exponencial), 7 (@WatcherGuru Lagarde, único 24/7); P1 earnings/sono, P2 Atomic RFQ (confirmar 'all or nothing'), P3 WSOT aberto; M1 Elon exponencial, M2 Halloween. NYSE/Hyperliquid fora de propósito (concorrentes). Pendentes: 1–7, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nGleison 09h: 8 (@Bybit_Official FASE, segurança do usuário); xStocks/Kraken descartado (venue concorrente, fora da janela). Pendentes: 1–8, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nBruno 12h: 0 novos (ronda vazia).\nGleison 12h: 9 (@grovedotfinance, Grove citada no Q3 Sky), 10 (@SkyEcosystem, Q3 report; mesmo relatório → preferir 9 se só um). Bybit sit out = dup da 3. Pendentes: 1–10, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00). Obs: Fluxion já respondeu ao @benbybit hoje 10:12 ('bybit cooking as always') → reply 4 talvez redundante.",
   "style_rules": {
     "image_prompts_v2_2026-10-28": {
       "pt": "Cenário real e natural como foto de verdade (lugar real, luz natural/golden hour ou ambiente quente, cores reais, sombras suaves, 35mm, fundo desfocado, cara de revista). Mascote = único elemento estilizado: vinil preto brilhante com reflexo e sombra de contato; neon só nele. NUNCA cenário neon, água brilhando, fundo roxo/ciano, fantasia/sci-fi, saturação exagerada, fundo CGI/cara de IA. Todo prompt termina com 'Avoid:'. Texto na imagem: sans-serif branco, limpo, negrito.",
@@ -351,6 +421,13 @@
       "handle": "@xStocksFi",
       "url": "https://x.com/xStocksFi/status/2115524623366516947",
       "reason_pt": "1.000 xStocks novos na Kraken: post é sobre a Kraken como venue (\"trade it to believe it\") → Kraken = venue concorrente (como Raydium/OKX+ICE); catálogo sem citar a Kraken fica forçado e fino; fora da janela (~16:22 de 28/10, ~17h); Mathias já pulou o mesmo tip (rival + catálogo)."
+    },
+    {
+      "reporter": "Gleison",
+      "slot": "12:00",
+      "handle": "@Bybit_Official",
+      "url": "https://x.com/Bybit_Official/status/2115698862186778910",
+      "reason_pt": "Duplicado da reply 3 do Diário (mesmo status id)."
     }
   ],
   "pending": [
@@ -362,6 +439,8 @@
     "6",
     "7",
     "8",
+    "9",
+    "10",
     "P1",
     "P2",
     "P3",
