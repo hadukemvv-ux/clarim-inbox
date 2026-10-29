@@ -52,6 +52,154 @@
         }
       ],
       "notes_pt": "Ronda Bruno 09:00 (29/10): 3 tips → 1 (Saylor dinheiro sem permissão, sem STRC/yield), 2 (Tesla Halloween Mode). Microsoft FY27 Q1 = só contexto."
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-29T12:15:00.000Z",
+      "source": "Clarim Diário 09:00 (Editora Chefe)",
+      "edition_file": "artifacts/clarim-diario/2026-10-29-manha.md",
+      "replies": [
+        {
+          "id": "3",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2115698862186778910",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "Pergunta aberta \"o que te faria ficar de fora de um mercado que todo mundo está perseguindo?\" (03:54 Fortaleza, 44 replies). Parceiro + pergunta direta = reply natural. (b) no ângulo liquidez.",
+          "options": {
+            "a": "when my group chat starts using the word \"generational\"",
+            "b": "thin books. if the depth isn't there, the hype is just slippage with extra steps",
+            "c": "sitting out is a position too. most people just can't hold it"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false
+        },
+        {
+          "id": "4",
+          "account": "@benbybit",
+          "url": "https://x.com/benbybit/status/2115771361474076795",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "Ben Zhou (CEO Bybit): \"nosso maior WSOT até agora... vejo vocês na arena\" (08:42 Fortaleza, só 1 reply → reply nosso fica visível). Ângulo Bybit Alpha, texto diferente do de ontem.",
+          "options": {
+            "a": "arena season. hydrating, stretching, deleting my screen time app",
+            "b": "bybit alpha crew reporting for wsot duty. fluxionians bringing snacks",
+            "c": "the real competition is surviving the leaderboard screenshots in the replies"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false
+        },
+        {
+          "id": "5",
+          "account": "@WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2115694469156872259",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "London Metal Exchange vai tokenizar metais guardados em Hong Kong pra uso em financiamento (03:37 Fortaleza, ~2,3 mil likes). Tema tokenização; (b) no ângulo execução/RFQ. Fonte secundária, sem números.",
+          "options": {
+            "a": "the oldest metal market around just discovered wallets. character development",
+            "b": "tokenizing the metal is the easy part. quoting size without slippage is where it gets real, ask any rfq desk",
+            "c": "commodities went onchain before most banks finished their blockchain pilot deck"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false
+        },
+        {
+          "id": "6",
+          "account": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2115640651517939785",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "Elon: \"Uma exponencial sempre começa parecendo pequena\" (00:03 Fortaleza, ~39 mil likes). Gancho filosófico; (b) leve, comunidade. Mesmo post é base do meme M1.",
+          "options": {
+            "a": "my portfolio has been in the \"looking small\" phase for a while now",
+            "b": "every curve starts with a few people saying \"too early\". fluxionians have been saying it for months",
+            "c": "the hard part isn't the exponential. it's holding through the flat part"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false
+        },
+        {
+          "id": "7",
+          "account": "@WatcherGuru",
+          "url": "https://x.com/WatcherGuru/status/2115748118155452440",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "Lagarde deixa a presidência do BCE em 7/fev (07:10 Fortaleza, ~2,6 mil likes, 346 replies). Macro + piada fácil. ÚNICA reply da edição com ângulo 24/7 (b).",
+          "options": {
+            "a": "three months notice. tradfi even resigns during business hours",
+            "b": "central bankers leave on a weekday, markets digest it whenever. onchain on mantle that's the same minute",
+            "c": "ecb press conferences are about to get a lot less quotable"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false
+        }
+      ],
+      "posts": [
+        {
+          "id": "P1",
+          "text": "earnings season is a stress test.\nnot for the companies. for your sleep schedule.\nwhich report kept you up this week?",
+          "source": "https://x.com/Microsoft/status/2115613363875221930",
+          "note_pt": "Semana de earnings big tech. Fonte primária: Microsoft FY27 Q1. Amazon reporta hoje após o fechamento (só contas secundárias → sem número no post). Pergunta gera reply. Não colide com o post AMZN + V3 das 15:00.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P2",
+          "text": "big size onchain shouldn't mean eating the whole pool.\natomic rfq: you ask, makers quote, the fill is all or nothing.\npools for the small stuff. rfq for the big stuff.\nwhich one are you using today?",
+          "source": null,
+          "note_pt": "Atomic RFQ explicado (produto próprio, sem fonte externa). Por que agora: timeline cheia de 'ações tokenizadas valem $X bi' (ex.: https://x.com/RWA_Terminal/status/2115748928687870120 — número Token Terminal via conta secundária, NÃO VERIFICADO, fora do post). Contraponto = execução, não market cap. CONFIRMAR com Hadukem se 'all or nothing' descreve bem o Atomic RFQ antes de postar.",
+          "needs_confirm_pt": "'all or nothing' descreve o Atomic RFQ?",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "P3",
+          "text": "wsot 2026 is officially open.\nfluxionians: competing, or watching the leaderboard with popcorn?",
+          "source": "https://x.com/Bybit_Official/status/2115745446601900357",
+          "note_pt": "WSOT aberto (Opening Bell Bybit, 143 mil impressões). Pergunta binária = reply fácil; parceiro sem promo pesada.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [
+        {
+          "id": "M1",
+          "format_pt": "\"An exponential always starts off looking small\" (Elon, ~39 mil likes)",
+          "example": "https://x.com/elonmusk/status/2115640651517939785",
+          "caption": "onchain stocks right now\n\"an exponential always starts off looking small\"",
+          "image_prompt": "Realistic magazine photo, 35mm lens, shallow depth of field. A real wooden café table by a window in soft morning daylight, coffee cup, crumpled receipt. Fluxion's official mascot — a small glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — leans over a tiny printed line chart the size of a sticky note, studying it through a brass magnifying glass. Soft natural shadows, contact shadow and faint reflection of the toy on the table; the only glow is the mascot's visor, belly and tail. Caption in clean bold white sans-serif at the top. 4:5 vertical.\nAvoid: neon environments, glowing water, purple/cyan fantasy CGI backgrounds, oversaturated sci-fi.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        },
+        {
+          "id": "M2",
+          "format_pt": "Halloween \"Trick or treaters beware\" (Tesla, ~11 mil likes; Halloween cai no sábado 31/10). Reply 2 (Bruno) é no mesmo post da Tesla — ok: 2 é reply, M2 é meme próprio.",
+          "example": "https://x.com/Tesla/status/2115605858369642835",
+          "caption": "wall st: closed for halloween\nfluxionians: trick or trade",
+          "image_prompt": "Realistic street photo at dusk, 35mm lens, shallow depth of field. A real suburban sidewalk with carved pumpkins on porch steps, warm porch lights, autumn leaves. Fluxion's official mascot — a small glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — wears a little bedsheet ghost cape and holds an orange candy bucket, standing in front of a small office door with a paper sign taped on: \"CLOSED – back Monday 9:30\". Warm ambient light, soft shadows, contact shadow on the pavement; the only glow is on the toy. Caption in clean bold white sans-serif at the bottom. 4:5 vertical.\nAvoid: neon environments, glowing water, purple/cyan fantasy CGI backgrounds, oversaturated sci-fi.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null
+        }
+      ],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Diário manhã 29/10 (janela 00:10–12:10 UTC): replies 3–7, posts P1–P3, memes M1–M2. NYSE e Hyperliquid deixados de fora de propósito (concorrentes). Saylor/Tesla não duplicados (já 1–2 do Bruno); Microsoft só como fonte do P1. Amazon earnings sem número (não colide com AMZN+V3 15:00). P2: confirmar 'all or nothing' do Atomic RFQ."
     }
   ],
   "reporter_tips": [
@@ -113,7 +261,7 @@
       "status_pt": "pendentes na Page 28/10 (não mexidos aqui)"
     }
   ],
-  "notes_pt": "Dia novo, numeração recomeça em 1. Bruno 09:00: 1 (@saylor), 2 (@Tesla); Microsoft = skip/contexto. Fluxion sem posts em 29/10 até 09:00. Pendentes: 1, 2 (+ 11b/V3 adiados p/ earnings AMZN).\nMathias 09h: 0 novos (Phantom/OKX descartados, 24/7 saturado).",
+  "notes_pt": "Dia novo, numeração recomeça em 1. Bruno 09:00: 1 (@saylor), 2 (@Tesla); Microsoft = skip/contexto. Fluxion sem posts em 29/10 até 09:00. Pendentes: 1, 2 (+ 11b/V3 adiados p/ earnings AMZN).\nMathias 09h: 0 novos (Phantom/OKX descartados, 24/7 saturado).\nDiário manhã: 3 (@Bybit_Official), 4 (@benbybit WSOT), 5 (@WatcherGuru LME), 6 (@elonmusk exponencial), 7 (@WatcherGuru Lagarde, único 24/7); P1 earnings/sono, P2 Atomic RFQ (confirmar 'all or nothing'), P3 WSOT aberto; M1 Elon exponencial, M2 Halloween. NYSE/Hyperliquid fora de propósito (concorrentes). Pendentes: 1–7, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).",
   "style_rules": {
     "image_prompts_v2_2026-10-28": {
       "pt": "Cenário real e natural como foto de verdade (lugar real, luz natural/golden hour ou ambiente quente, cores reais, sombras suaves, 35mm, fundo desfocado, cara de revista). Mascote = único elemento estilizado: vinil preto brilhante com reflexo e sombra de contato; neon só nele. NUNCA cenário neon, água brilhando, fundo roxo/ciano, fantasia/sci-fi, saturação exagerada, fundo CGI/cara de IA. Todo prompt termina com 'Avoid:'. Texto na imagem: sans-serif branco, limpo, negrito.",
@@ -136,5 +284,23 @@
       "url": "https://x.com/okx/status/2115692617153261594",
       "reason_pt": "'xStock não fica parado' saturado (P2 descartado, P6 AUM, Kamino descartado 28/10); sem uso Mantle/Fluxion confirmado; engajar? não."
     }
+  ],
+  "pending": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "P1",
+    "P2",
+    "P3",
+    "M1",
+    "M2"
+  ],
+  "held": [
+    "11b",
+    "V3"
   ]
 }
