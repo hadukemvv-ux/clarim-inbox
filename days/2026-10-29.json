@@ -18,10 +18,11 @@
             "b": "keys in your wallet, liquidity in a pool, nobody to call. that's what leaving without permission looks like onchain",
             "c": "a withdrawal limit is just \"ask first\" in a nicer font"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "c",
+          "postedText": "a withdrawal limit is just \"ask first\" in a nicer font",
           "discardReason": null,
-          "posted": false
+          "posted": false,
+          "status": "concluido"
         },
         {
           "id": "2",
@@ -35,10 +36,11 @@
             "b": "finally a car that does jump scares on purpose. the rest of us get ours after the closing bell",
             "c": "trick or treat mode is just sentry mode in a costume"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "b",
+          "postedText": "finally a car that does jump scares on purpose. the rest of us get ours after the closing bell",
           "discardReason": null,
-          "posted": false
+          "posted": false,
+          "status": "concluido"
         }
       ],
       "posts": [],
@@ -71,10 +73,11 @@
             "b": "thin books. if the depth isn't there, the hype is just slippage with extra steps",
             "c": "sitting out is a position too. most people just can't hold it"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "c",
+          "postedText": "sitting out is a position too. most people just can't hold it",
           "discardReason": null,
-          "posted": false
+          "posted": false,
+          "status": "concluido"
         },
         {
           "id": "4",
@@ -88,10 +91,12 @@
             "b": "bybit alpha crew reporting for wsot duty. fluxionians bringing snacks",
             "c": "the real competition is surviving the leaderboard screenshots in the replies"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own",
+          "postedText": "bybit cooking\n\nas always",
           "discardReason": null,
-          "posted": false
+          "posted": true,
+          "status": "concluido",
+          "note_pt": "Own = o reply que a Fluxion já tinha postado ao @benbybit hoje 10:12 Fortaleza ('bybit cooking as always'); registrado como escolha own."
         },
         {
           "id": "5",
@@ -105,10 +110,11 @@
             "b": "tokenizing the metal is the easy part. quoting size without slippage is where it gets real, ask any rfq desk",
             "c": "commodities went onchain before most banks finished their blockchain pilot deck"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "c",
+          "postedText": "commodities went onchain before most banks finished their blockchain pilot deck",
           "discardReason": null,
-          "posted": false
+          "posted": false,
+          "status": "concluido"
         },
         {
           "id": "6",
@@ -122,10 +128,11 @@
             "b": "every curve starts with a few people saying \"too early\". fluxionians have been saying it for months",
             "c": "the hard part isn't the exponential. it's holding through the flat part"
           },
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null,
-          "posted": false
+          "discardReason": "descartado pelo Hadukem (sem motivo detalhado)",
+          "posted": false,
+          "status": "descartado"
         },
         {
           "id": "7",
@@ -139,10 +146,11 @@
             "b": "central bankers leave on a weekday, markets digest it whenever. onchain on mantle that's the same minute",
             "c": "ecb press conferences are about to get a lot less quotable"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "a",
+          "postedText": "three months notice. tradfi even resigns during business hours",
           "discardReason": null,
-          "posted": false
+          "posted": false,
+          "status": "concluido"
         }
       ],
       "posts": [
@@ -151,9 +159,25 @@
           "text": "earnings season is a stress test.\nnot for the companies. for your sleep schedule.\nwhich report kept you up this week?",
           "source": "https://x.com/Microsoft/status/2115613363875221930",
           "note_pt": "Semana de earnings big tech. Fonte primária: Microsoft FY27 Q1. Amazon reporta hoje após o fechamento (só contas secundárias → sem número no post). Pergunta gera reply. Não colide com o post AMZN + V3 das 15:00.",
-          "chosen": null,
-          "postedText": null,
-          "discardReason": null
+          "chosen": "own",
+          "postedText": "earnings season is a stress test, not for the companies bit for our sleep schedule😅\n\nwhich report kept you up this week?",
+          "discardReason": null,
+          "status": "concluido",
+          "type": "quote_tweet",
+          "quoteOf": "https://x.com/Mantle_Official/status/2115795098760085988",
+          "posted": false,
+          "typo_note_pt": "Texto mantido exatamente como ele escreveu ('bit' — provável 'but'); avisar antes de postar.",
+          "image_prompts": [
+            {
+              "id": "V1",
+              "style": "real-photo-v2 (28/10)",
+              "idea_pt": "Mascote vinil sentado na cama às 2:47 da manhã, roendo a pontinha da pata, olhando o celular com gráfico de candles e calendário de earnings; abajur quente, xícaras de espresso vazias, post-its 'EPS??' / 'guidance...' / 'after the bell', máscara de dormir sem uso na testa.",
+              "caption_optional": "earnings season",
+              "prompt": "Photorealistic magazine editorial photo, 35mm lens, f/1.8, shallow depth of field, taken at 2:47 AM in a real, lived-in bedroom. A warm tungsten bedside lamp is the key light (about 2700K), soft natural shadows, plus a faint, gentle spill from a phone screen. Rumpled white linen duvet, creased pillows, a wooden nightstand crowded with three empty espresso cups, a half-eaten bag of pretzels and a small analog alarm clock reading 2:47. Yellow sticky notes are stuck to the lampshade and headboard, with hand-scribbled words: \"EPS??\", \"guidance...\", \"after the bell\". A real smartphone lies face-up on the duvet showing a plain red-and-green candlestick chart and a generic earnings calendar, with no company logos or tickers.\n\nSitting up in the middle of the bed, half tucked under the duvet, is Fluxion's official mascot as a glossy black vinyl collectible toy about 22 cm tall: a cat-like figure with three spiky ears, a white swirl logo centered on the forehead, a blue-to-purple glowing visor with cyan LED eyes, a glowing nebula belly and a flame-tipped tail. Pose: wide awake and anxious. It hunches forward, nervously nibbling the tip of one paw like biting its nails, eyes wide and locked on the phone, tail curled tight around its body, one ear slightly drooped. An unused sleep mask is pushed up on its forehead. Realistic vinyl highlights from the lamp, a soft contact shadow and a small dent in the duvet under the toy. The only glow in the frame comes from the toy's visor, eyes, belly and tail, faint and contained on the toy.\n\nMood: relatable late-night earnings-season anxiety, funny, not scary. Muted real colors, cozy warm tones, light natural film grain, editorial lifestyle photography. Optional headline at the top in clean bold white sans-serif: \"earnings season\". 4:5 vertical.\n\nAvoid: neon environments, glowing water, purple/cyan fantasy CGI backgrounds, oversaturated sci-fi, CGI or AI-looking backgrounds, real company logos or tickers, readable price numbers, horror vibes, and any on-image text besides the sticky notes and the optional headline.",
+              "requested": true,
+              "createdAt": "2026-10-29T15:30:00.000Z"
+            }
+          ]
         },
         {
           "id": "P2",
@@ -370,7 +394,64 @@
       "note_pt": "Grove Q3 Sky warehouse → 9; Sky Q3 report → 10; Bybit sit out = dup da 3. Skips OK."
     }
   ],
-  "escolhas_log": [],
+  "escolhas_log": [
+    {
+      "at": "2026-10-29T15:30:00.000Z",
+      "raw": "CLARIM 1c",
+      "item": "1",
+      "chosen": "c",
+      "postedText": "a withdrawal limit is just \"ask first\" in a nicer font"
+    },
+    {
+      "at": "2026-10-29T15:30:00.000Z",
+      "raw": "CLARIM 2b",
+      "item": "2",
+      "chosen": "b",
+      "postedText": "finally a car that does jump scares on purpose. the rest of us get ours after the closing bell"
+    },
+    {
+      "at": "2026-10-29T15:30:00.000Z",
+      "raw": "CLARIM 3c",
+      "item": "3",
+      "chosen": "c",
+      "postedText": "sitting out is a position too. most people just can't hold it"
+    },
+    {
+      "at": "2026-10-29T15:30:00.000Z",
+      "raw": "CLARIM 4 own bybit cooking\n\nas always",
+      "item": "4",
+      "chosen": "own",
+      "postedText": "bybit cooking\n\nas always"
+    },
+    {
+      "at": "2026-10-29T15:30:00.000Z",
+      "raw": "CLARIM 5c",
+      "item": "5",
+      "chosen": "c",
+      "postedText": "commodities went onchain before most banks finished their blockchain pilot deck"
+    },
+    {
+      "at": "2026-10-29T15:30:00.000Z",
+      "raw": "CLARIM 6 discard",
+      "item": "6",
+      "chosen": "discard",
+      "discardReason": "descartado pelo Hadukem (sem motivo detalhado)"
+    },
+    {
+      "at": "2026-10-29T15:30:00.000Z",
+      "raw": "CLARIM 7a",
+      "item": "7",
+      "chosen": "a",
+      "postedText": "three months notice. tradfi even resigns during business hours"
+    },
+    {
+      "at": "2026-10-29T15:30:00.000Z",
+      "raw": "CLARIM P1 own — quote tweet de https://x.com/Mantle_Official/status/2115795098760085988 com: earnings season is a stress test, not for the companies bit for our sleep schedule😅\n\nwhich report kept you up this week? + pediu prompt de arte (personagem nervoso, sem dormir / roendo unhas, ansiedade com os resultados das empresas)",
+      "item": "P1",
+      "chosen": "own",
+      "postedText": "earnings season is a stress test, not for the companies bit for our sleep schedule😅\n\nwhich report kept you up this week?"
+    }
+  ],
   "carryover": [
     {
       "from": "2026-10-28",
@@ -392,7 +473,7 @@
       "status_pt": "pendentes na Page 28/10 (não mexidos aqui)"
     }
   ],
-  "notes_pt": "Dia novo, numeração recomeça em 1. Bruno 09:00: 1 (@saylor), 2 (@Tesla); Microsoft = skip/contexto. Fluxion sem posts em 29/10 até 09:00. Pendentes: 1, 2 (+ 11b/V3 adiados p/ earnings AMZN).\nMathias 09h: 0 novos (Phantom/OKX descartados, 24/7 saturado).\nDiário manhã: 3 (@Bybit_Official), 4 (@benbybit WSOT), 5 (@WatcherGuru LME), 6 (@elonmusk exponencial), 7 (@WatcherGuru Lagarde, único 24/7); P1 earnings/sono, P2 Atomic RFQ (confirmar 'all or nothing'), P3 WSOT aberto; M1 Elon exponencial, M2 Halloween. NYSE/Hyperliquid fora de propósito (concorrentes). Pendentes: 1–7, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nGleison 09h: 8 (@Bybit_Official FASE, segurança do usuário); xStocks/Kraken descartado (venue concorrente, fora da janela). Pendentes: 1–8, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nBruno 12h: 0 novos (ronda vazia).\nGleison 12h: 9 (@grovedotfinance, Grove citada no Q3 Sky), 10 (@SkyEcosystem, Q3 report; mesmo relatório → preferir 9 se só um). Bybit sit out = dup da 3. Pendentes: 1–10, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00). Obs: Fluxion já respondeu ao @benbybit hoje 10:12 ('bybit cooking as always') → reply 4 talvez redundante.",
+  "notes_pt": "Dia novo, numeração recomeça em 1. Bruno 09:00: 1 (@saylor), 2 (@Tesla); Microsoft = skip/contexto. Fluxion sem posts em 29/10 até 09:00. Pendentes: 1, 2 (+ 11b/V3 adiados p/ earnings AMZN).\nMathias 09h: 0 novos (Phantom/OKX descartados, 24/7 saturado).\nDiário manhã: 3 (@Bybit_Official), 4 (@benbybit WSOT), 5 (@WatcherGuru LME), 6 (@elonmusk exponencial), 7 (@WatcherGuru Lagarde, único 24/7); P1 earnings/sono, P2 Atomic RFQ (confirmar 'all or nothing'), P3 WSOT aberto; M1 Elon exponencial, M2 Halloween. NYSE/Hyperliquid fora de propósito (concorrentes). Pendentes: 1–7, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nGleison 09h: 8 (@Bybit_Official FASE, segurança do usuário); xStocks/Kraken descartado (venue concorrente, fora da janela). Pendentes: 1–8, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00).\nBruno 12h: 0 novos (ronda vazia).\nGleison 12h: 9 (@grovedotfinance, Grove citada no Q3 Sky), 10 (@SkyEcosystem, Q3 report; mesmo relatório → preferir 9 se só um). Bybit sit out = dup da 3. Pendentes: 1–10, P1–P3, M1–M2 (+ 11b/V3 adiados p/ 15:00). Obs: Fluxion já respondeu ao @benbybit hoje 10:12 ('bybit cooking as always') → reply 4 talvez redundante.\nESCOLHAS 15:30 (Hadukem): 1c, 2b, 3c, 4 own ('bybit cooking\\n\\nas always' = reply já postado 10:12), 5c, 6 discard (sem motivo), 7a, P1 own (QT do post da Mantle https://x.com/Mantle_Official/status/2115795098760085988 com texto dele; 'bit' mantido como escrito) + prompt de arte V1 do P1 (mascote sem dormir roendo a pata, estilo foto real v2). Pendentes: 8, 9, 10, P2, P3, M1, M2 (+ 11b/V3 adiados p/ 15:00).",
   "style_rules": {
     "image_prompts_v2_2026-10-28": {
       "pt": "Cenário real e natural como foto de verdade (lugar real, luz natural/golden hour ou ambiente quente, cores reais, sombras suaves, 35mm, fundo desfocado, cara de revista). Mascote = único elemento estilizado: vinil preto brilhante com reflexo e sombra de contato; neon só nele. NUNCA cenário neon, água brilhando, fundo roxo/ciano, fantasia/sci-fi, saturação exagerada, fundo CGI/cara de IA. Todo prompt termina com 'Avoid:'. Texto na imagem: sans-serif branco, limpo, negrito.",
@@ -431,17 +512,9 @@
     }
   ],
   "pending": [
-    "1",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7",
     "8",
     "9",
     "10",
-    "P1",
     "P2",
     "P3",
     "M1",
