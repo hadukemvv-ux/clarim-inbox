@@ -276,9 +276,20 @@
         }
       ],
       "notes_pt": "Ronda Bruno 12:00 (30/10): 1 tip (@saylor citando Binance pós-incidente, urgência alta, ~5,7 mil likes / 445 replies) → DESCARTADA (concorrente / incidente Binance; Diário já excluiu o hack). Resto da busca desde 08:30: só suporte @amazon (0 likes); sem Apple/MSFT/GOOG/META/NVDA/TSLA/MSTR; sem RobinhoodApp. Nenhum item novo."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-30T15:20:00.000Z",
+      "source": "Gleison Mesa Clarim 12:00",
+      "replies": [],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Ronda Gleison 12:00 (30/10): nada novo. Desde 9h só Mantle WSOT arena — pulado, ângulo WSOT já no Diário 30/10. Gleison observou que a Fluxion já respondeu no thread da Bybit IBW (item 2 da ronda 9h). Market voices sem tokenização nas últimas horas. Nenhum item novo."
     }
   ],
-  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC). | Gleison 09h 30/10 → reply 2 (@Bybit_Official India Blockchain Week), pendente; sem presença Fluxion inventada. | Bruno 12h 30/10 → @saylor/Binance pós-incidente DESCARTADO (concorrente / incidente Binance; Diário já excluiu). Nenhum item novo.",
+  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC). | Gleison 09h 30/10 → reply 2 (@Bybit_Official India Blockchain Week), pendente; sem presença Fluxion inventada. | Bruno 12h 30/10 → @saylor/Binance pós-incidente DESCARTADO (concorrente / incidente Binance; Diário já excluiu). Nenhum item novo. | Gleison 12h 30/10 → nada novo (Mantle WSOT já no Diário; Gleison viu reply da Fluxion no thread Bybit IBW).",
   "page": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/0bdc3ebd-0aaf-4341-9fdd-a781ded62749",
   "reporter_tips": [
     {
