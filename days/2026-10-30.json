@@ -342,9 +342,78 @@
       "visuals": [],
       "discarded_tips": [],
       "notes_pt": "Ronda Gleison 15:00 (30/10): 2 tips → 3 (@Mantle_Official cita Fluxion) e 4 (@KiiChainio US Virtual Accounts, sem Fluxion). Fora: Bybit WSOT Preheat (já no Diário). Alpha_Bybit, xStocksFi, Grove, CIAN, Sky sem post novo desde 12h."
+    },
+    {
+      "slot": "tarde",
+      "createdAt": "2026-10-30T20:38:00.000Z",
+      "source": "Bruno Titulares 17:30",
+      "replies": [
+        {
+          "id": "5",
+          "account": "@Tesla",
+          "url": "https://x.com/Tesla/status/2116200444276178966",
+          "reporter": "bruno",
+          "slot": "17:30",
+          "context_pt": "Tesla cita Nico Rosberg testando FSD no Cybertruck ('Even the world's best drivers like being driven'). ~13:07, ~3,1 mil likes (dados do Bruno). Ângulo: passar o controle pra tech certa sem abrir mão da custódia. Urgência alta.",
+          "options": {
+            "a": "even the best drivers like being driven. just don't hand over the garage keys too",
+            "b": "let the tech drive, keep the keys in your pocket. basically self-custody with a steering wheel",
+            "c": "fluxionians been on autopilot for a while. execution runs itself, the wallet stays ours"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pendente",
+          "note_pt": "a sem Fluxion; b custódia; c Fluxion leve."
+        },
+        {
+          "id": "6",
+          "account": "@Google",
+          "url": "https://x.com/Google/status/2116244898269610456",
+          "reporter": "bruno",
+          "slot": "17:30",
+          "context_pt": "TPUs em órbita 'phoned home' (Project Suncatcher, próxima fase 2027). ~16:04, ~440 likes. Ângulo: infra que roda em qualquer lugar sem depender de ninguém. Sem tickers. Urgência alta.",
+          "options": {
+            "a": "compute phoning home from orbit. the real flex is uptime, not altitude",
+            "b": "tpus checking in from space and my bank still needs 3 business days",
+            "c": "infra that runs from orbit and doesn't ask anyone for opening hours. we relate"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pendente",
+          "note_pt": "Nenhuma cita Fluxion/xStocks; c alude a 24/7 sem nome."
+        },
+        {
+          "id": "7",
+          "account": "@Google",
+          "url": "https://x.com/Google/status/2116237215026032872",
+          "reporter": "bruno",
+          "slot": "17:30",
+          "context_pt": "Genie 4 (DeepMind): world model pra simulações interativas. Post principal (thread 2116237216586383523). ~15:34, ~290 likes. Ângulo: mundo simulado como playground antes do real. Urgência média.",
+          "options": {
+            "a": "every world model needs a sandbox first. ngl half of crypto is still in the sandbox phase",
+            "b": "simulate the world first, ship it after. tradfi keeps skipping step one",
+            "c": "genie building whole worlds and the stock market still can't build a weekend"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pendente",
+          "note_pt": "Sem Fluxion em nenhuma; c toca 24/7 sem nome."
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Ronda Bruno 17:30 (30/10): 3 tips → 5 (@Tesla FSD/Rosberg), 6 (@Google Suncatcher TPUs), 7 (@Google Genie 4). Fora (Bruno): NVIDIA CUDA-X GTC Berlin, Amazon Echo Time, suporte Amazon, fan chat Google. Sem Saylor novo. Não reverificado no X."
     }
   ],
-  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC). | Gleison 09h 30/10 → reply 2 (@Bybit_Official India Blockchain Week), pendente; sem presença Fluxion inventada. | Bruno 12h 30/10 → @saylor/Binance pós-incidente DESCARTADO (concorrente / incidente Binance; Diário já excluiu). Nenhum item novo. | Gleison 12h 30/10 → nada novo (Mantle WSOT já no Diário; Gleison viu reply da Fluxion no thread Bybit IBW). | Avaliação da equipe (Claude, 30/10): Bruno aprovado → só rondas 10:30 e 17:30 (+ Mag7 muito grande); Mathias em observação (sair do 24/7; 5 dias úteis); Gleison segue. Balanço diário: contagem por repórter sugestões → usadas. Ver artifacts/clarim-diario/2026-10-30-avaliacao-equipe.md | ESCOLHAS 30/10 ~14:15: P1 usar texto como está; 1c; 2a; D1 own ('𝓶. we know that letter, we live there'); D2a; D3b; D5a ('Gbit' = ruído); DM1 escolhido (gerar imagem + postar). Descartados: D4 (sem motivo), DP1 (já tivemos reply), DP2 (perfil parece bot), DP3 (sem conexão com nós/Mantle/stocks), DM2 (menos texto na imagem; caption no tweet). Nenhum postado com URL ainda (Hadukem posta). Nada pendente da manhã. | BALANÇO 30/10 (sugestões → usadas, até 14:15): Claude 1 → 1 (P1) · Diário 10 → 5 (D1 own, D2a, D3b, D5a, DM1) · Bruno 1 → 1 (1c; tip 12h descartado pela Editora, não conta) · Gleison 1 → 1 (2a; 12h vazio) · Mathias 0 → 0. Total 13 → 8. | FEEDBACK DE QUALIDADE: DP2 fonte com cara de bot (checar conta); DM2 menos texto na imagem, caption no tweet (→ style_rules.image_text_2026-10-30); DP3 sem ligação com Fluxion/Mantle/stocks; DP1 tema já respondido. | ESCOLHAS 15:45: 3a (@Mantle_Official) e 4c (@KiiChainio) escolhidos, sem URL ainda (Hadukem posta). BALANÇO atualizado: Gleison 3 → 3 · Total 15 → 10.",
+  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC). | Gleison 09h 30/10 → reply 2 (@Bybit_Official India Blockchain Week), pendente; sem presença Fluxion inventada. | Bruno 12h 30/10 → @saylor/Binance pós-incidente DESCARTADO (concorrente / incidente Binance; Diário já excluiu). Nenhum item novo. | Gleison 12h 30/10 → nada novo (Mantle WSOT já no Diário; Gleison viu reply da Fluxion no thread Bybit IBW). | Avaliação da equipe (Claude, 30/10): Bruno aprovado → só rondas 10:30 e 17:30 (+ Mag7 muito grande); Mathias em observação (sair do 24/7; 5 dias úteis); Gleison segue. Balanço diário: contagem por repórter sugestões → usadas. Ver artifacts/clarim-diario/2026-10-30-avaliacao-equipe.md | ESCOLHAS 30/10 ~14:15: P1 usar texto como está; 1c; 2a; D1 own ('𝓶. we know that letter, we live there'); D2a; D3b; D5a ('Gbit' = ruído); DM1 escolhido (gerar imagem + postar). Descartados: D4 (sem motivo), DP1 (já tivemos reply), DP2 (perfil parece bot), DP3 (sem conexão com nós/Mantle/stocks), DM2 (menos texto na imagem; caption no tweet). Nenhum postado com URL ainda (Hadukem posta). Nada pendente da manhã. | BALANÇO 30/10 (sugestões → usadas, até 14:15): Claude 1 → 1 (P1) · Diário 10 → 5 (D1 own, D2a, D3b, D5a, DM1) · Bruno 1 → 1 (1c; tip 12h descartado pela Editora, não conta) · Gleison 1 → 1 (2a; 12h vazio) · Mathias 0 → 0. Total 13 → 8. | FEEDBACK DE QUALIDADE: DP2 fonte com cara de bot (checar conta); DM2 menos texto na imagem, caption no tweet (→ style_rules.image_text_2026-10-30); DP3 sem ligação com Fluxion/Mantle/stocks; DP1 tema já respondido. | ESCOLHAS 15:45: 3a (@Mantle_Official) e 4c (@KiiChainio) escolhidos, sem URL ainda (Hadukem posta). BALANÇO atualizado: Gleison 3 → 3 · Total 15 → 10. | Bruno 17:30 → replies 5 (@Tesla), 6 (@Google TPU), 7 (@Google Genie 4) pendentes.",
   "page": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/0bdc3ebd-0aaf-4341-9fdd-a781ded62749",
   "reporter_tips": [
     {
@@ -398,6 +467,20 @@
       ],
       "discarded": [],
       "note_pt": "Mantle → 3 (a/b/c); Kii → 4 (a/b/c, sem Fluxion/xStocks, cautela US persons). WSOT Preheat pulado (já no Diário)."
+    },
+    {
+      "at": "2026-10-30T20:38:00.000Z",
+      "reporter": "Bruno",
+      "slot": "17:30",
+      "tips": 3,
+      "posts": 0,
+      "turned_into": [
+        "5",
+        "6",
+        "7"
+      ],
+      "discarded": [],
+      "note_pt": "Tesla → 5, Google TPU → 6, Genie 4 → 7; todos a/b/c pendentes."
     }
   ],
   "escolhas_log": [
