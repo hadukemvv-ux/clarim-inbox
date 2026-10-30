@@ -57,9 +57,181 @@
       "visuals": [],
       "discarded_tips": [],
       "notes_pt": "Ronda Bruno 09:00 (30/10): 1 tip → 1 (@saylor vídeo completo earnings Q3, tese longo prazo + liquidez permissionless). Resto da busca desde 18h de 29/10: suporte Amazon + replies pequenos do Google → nada pra rascunhar."
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-30T12:15:00.000Z",
+      "source": "Clarim Diário · manhã 30/10 (Editora Chefe)",
+      "edition_file": "artifacts/clarim-diario/2026-10-30-manha.md",
+      "window": "2026-10-30T00:06:00Z/2026-10-30T12:06:00Z",
+      "replies": [
+        {
+          "id": "D1",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2116122958276231603",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "Teaser \"Came for #WSOT? Keep an eye out for a little 𝓶ore.\" (08:00 Fortaleza, 8 replies). A Mantle já respondeu \"𝓶antle.\" — dica de algo Mantle. Parceiro + mistério = reply natural. (b) no ângulo comunidade/Mantle nativo.",
+          "options": {
+            "a": "that curly m is doing a lot of heavy lifting",
+            "b": "fluxionians already squinting at that 𝓶. we know that letter, we live there",
+            "c": "every exchange posts teasers. the font change is how you know it's real"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pending"
+        },
+        {
+          "id": "D2",
+          "account": "@Mr_Derivatives",
+          "url": "https://x.com/Mr_Derivatives/status/2115981180638277900",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "\"Todas as Mag 7 caíram no dia seguinte ao balanço... a Apple quebra a sequência?\" (22:36 de 29/10 Fortaleza, ~450 likes, 76 replies). Pergunta aberta = reply fácil. Sequência/números dele NÃO VERIFICADOS → replies sem número. (b) no ângulo execução/liquidez (não repete o 'fim de semana' de ontem).",
+          "options": {
+            "a": "apple sitting in the back like the only kid who did the homework",
+            "b": "whatever apple prints, the headline lasts a minute. the fill you get lasts longer. depth > drama",
+            "c": "apple doesn't need to beat. it just needs to not announce a capex number"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pending"
+        },
+        {
+          "id": "D3",
+          "account": "@unusual_whales",
+          "url": "https://x.com/unusual_whales/status/2116132255668015111",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "Bill Gates: IA vai trazer \"true abundance\", mas as próximas duas décadas serão das mais tumultuadas da história (08:37 Fortaleza, 151 likes, 77 replies). ÚNICA reply da edição com o ângulo 24/7.",
+          "options": {
+            "a": "abundance in 20 years, tumult starting monday. checks out",
+            "b": "two decades of tumult and tradfi still wants to take weekends off",
+            "c": "every \"true abundance\" era starts with someone selling shovels"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pending"
+        },
+        {
+          "id": "D4",
+          "account": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2116035373361230325",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "\"The Terafab project is going well\" (02:12 Fortaleza, ~10 mil likes), citando matéria sobre engenheiros da Terafab respondendo fornecedores em 30–60 min até de madrugada. Post NÃO político. (b) no ângulo Atomic RFQ (velocidade de decisão), leve.",
+          "options": {
+            "a": "answering supplier emails at 3am is the new moat",
+            "b": "ask, get an answer, ship. same energy as an rfq quote landing before you finish your coffee",
+            "c": "most fabs lose more time in approval chains than in lithography"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pending"
+        },
+        {
+          "id": "D5",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2116047806733418592",
+          "reporter": "diario",
+          "slot": "09:00",
+          "context_pt": "\"Final push\" da competição de ações (pool de 150.000 USDC; manter $1.000 em Direct Stocks no último dia — números do próprio post da Bybit) (03:01 Fortaleza, 15 replies). Parceiro + tema ações. (b) no ângulo Bybit Alpha/xStocks, sem promo pesada.",
+          "options": {
+            "a": "last day of october, last day of the competition, last day of my coffee supply",
+            "b": "bybit alpha fam doing the final push. fluxionians cheering from the mantle side of the stands",
+            "c": "the leaderboard is just a mood ring for the whole market this week"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pending"
+        }
+      ],
+      "posts": [
+        {
+          "id": "DP1",
+          "text": "every big tech report this week had the same plot twist:\n\"so how much are you spending on ai?\"\napple goes monday.\nbreaks the pattern or joins it?",
+          "source": "https://x.com/Mr_Derivatives/status/2115981180638277900",
+          "note_pt": "Apple fecha a semana de big tech. Fonte: Mr_Derivatives (conta secundária) — a 'sequência' de quedas da Mag7 é NÃO VERIFICADO, por isso o post é só pergunta, sem números. Data da Apple (2/11) também de contas secundárias (já citada no thread de ontem). Não repete o ângulo 'fim de semana entre os balanços'.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "status": "pending",
+          "posted": false,
+          "numbers_verified": false
+        },
+        {
+          "id": "DP2",
+          "text": "last trading day of october.\nwall st goes home tonight. costumes come out tomorrow.\nwhat are you dressing up as: bull, bear, or bagholder? 🎃",
+          "source": "https://x.com/AnneMarieTrades/status/2116109588647039008",
+          "note_pt": "Último pregão de outubro + Halloween amanhã. Sem números. Pergunta tripla = reply fácil, tom de comunidade.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "status": "pending",
+          "posted": false
+        },
+        {
+          "id": "DP3",
+          "text": "timeline is red. chips are red. coffee is cold.\nsome fluxionians just park usdc in earn and let grove, cian and sky handle the boring part.\nno leverage. no hero trades.\nwhat's your red-day move?",
+          "source": "https://x.com/SkyEcosystem/status/2116120566088552482",
+          "note_pt": "Fluxion Earn em dia vermelho. Gancho: Sky postou sobre due diligence institucional da Galaxy em sUSDS (número fica fora do post). Mercado vermelho no pré-market = só contas secundárias → NÃO VERIFICADO, sem número. Sem promessa de rendimento. CONFIRMAR se Earn está aberto para USDC hoje antes de postar.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "status": "pending",
+          "posted": false,
+          "needs_check_pt": "Confirmar Earn aberto para USDC hoje + se o dia está realmente vermelho antes de postar."
+        }
+      ],
+      "memes": [
+        {
+          "id": "DM1",
+          "format_pt": "A letra curly 𝓶 (teaser da Bybit + reply \"𝓶antle.\" da Mantle) — corkboard de detetive + mascote vinil",
+          "example": "https://x.com/Bybit_Official/status/2116122958276231603",
+          "caption": "fluxionians when bybit types one curly 𝓶",
+          "image_prompt": "Realistic magazine photo, 35mm lens, shallow depth of field. A real home-office desk at night lit by a warm desk lamp, a cork board on the wall behind with printed screenshots, sticky notes and red string connecting them, one big printed cursive letter \"𝓶\" pinned in the center. Fluxion's official mascot — a small glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — stands on the desk holding the end of the red string, head tilted like a detective. Warm ambient light, soft shadows, contact shadow and faint reflection of the toy on the desk; the only glow is the mascot's visor, belly and tail. Caption in clean bold white sans-serif at the top. 4:5 vertical.\nAvoid: neon environments, glowing water, purple/cyan fantasy CGI backgrounds, oversaturated sci-fi.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "status": "pending"
+        },
+        {
+          "id": "DM2",
+          "format_pt": "\"Only X can save us now\" (semana de big tech) — mascote de capa vermelha + maçã vermelha real (sem logo da Apple)",
+          "example": "https://x.com/TradeAlpha/status/2116122698472710496",
+          "caption": "mag 7 after earnings week\napple walking in on monday like:",
+          "image_prompt": "Realistic street photo at golden hour, 35mm lens, shallow depth of field. A real city sidewalk in front of a stone financial building, autumn leaves on the pavement, warm low sunlight. Fluxion's official mascot — a small glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — walks toward the camera wearing a tiny red superhero cape, holding a real shiny red apple (plain fruit, no logo) like a trophy. Soft natural shadows, contact shadow on the pavement; the only glow is on the toy. Caption in clean bold white sans-serif, top and bottom. 4:5 vertical.\nAvoid: neon environments, glowing water, purple/cyan fantasy CGI backgrounds, oversaturated sci-fi, brand logos.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "status": "pending"
+        }
+      ],
+      "visuals": [],
+      "discarded_tips": [
+        {
+          "topic": "Binance hack ~$6B",
+          "reason_pt": "concorrente — fora de propósito"
+        },
+        {
+          "topic": "posts políticos do Elon",
+          "reason_pt": "político — fora"
+        }
+      ],
+      "notes_pt": "Clarim Diário · manhã 30/10 (janela 21:06 29/10 → 09:06 30/10 Fortaleza / 00:06–12:06 UTC): replies D1–D5, posts DP1–DP3, memes DM1–DM2 (prefixo D pra não colidir com P1 do Claude nem com o 1 do Bruno). Hack de ~$6B da Binance FORA de propósito (concorrente, nem indireto). Posts políticos do Elon fora; Terafab (D4) mantido por ser não político. NÃO VERIFICADO: sequência de queda da Mag7 pós-balanço (D2/DP1/DM2 sem números) e dia vermelho no pré-market (DP3 sem número). DP3: confirmar Earn aberto pra USDC antes de postar. Números do D5 (150k USDC / $1k Direct Stocks) vêm do próprio post da Bybit, não entram nas replies."
     }
   ],
-  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente.",
+  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC).",
   "page": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/0bdc3ebd-0aaf-4341-9fdd-a781ded62749",
   "reporter_tips": [
     {
