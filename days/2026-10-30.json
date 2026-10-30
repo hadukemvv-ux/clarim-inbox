@@ -27,8 +27,52 @@
       "visuals": [],
       "discarded_tips": [],
       "notes_pt": "Agendado na noite de 29/10: P1 (Claude, tokenized stocks do mês) pra manhã de 30/10."
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-30T12:10:00.000Z",
+      "source": "Bruno Titulares 09:00",
+      "replies": [
+        {
+          "id": "1",
+          "account": "@saylor",
+          "url": "https://x.com/saylor/status/2115976277366571300",
+          "reporter": "bruno",
+          "slot": "09:00",
+          "context_pt": "Saylor postou o vídeo completo da call de earnings Q3 2026 da $MSTR, com capítulos (post 22:17 Fortaleza de 29/10; às ~09:05 de 30/10 ~2,1 mil likes / 183 replies / 177 reposts / 202 mil impressões). POST DIFERENTE do 12 de 29/10 (Strategy Q3 texto) e da reply 1 de 29/10 (saque/permissão). Ângulo: tese BTC de longo prazo + liquidez permissionless/24h. SEM Digital Credit, STRC, rendimento, tokenização e SEM números. Evitei frases já usadas (keys/boardroom/exit do 12, 'business day', 'opening bell', 'dont care what time it is' do P1). Conferido no X: Fluxion sem reply nesse post. Urgência média (janela esfriando).",
+          "options": {
+            "a": "an earnings call with chapters is just a bitcoin audiobook with a cfo",
+            "b": "bull markets love to start on a random saturday night. gud thing fluxion doesnt take weekends off",
+            "c": "conviction is cheap. liquidity nobody can switch off is the real long term thesis"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pending"
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Ronda Bruno 09:00 (30/10): 1 tip → 1 (@saylor vídeo completo earnings Q3, tese longo prazo + liquidez permissionless). Resto da busca desde 18h de 29/10: suporte Amazon + replies pequenos do Google → nada pra rascunhar."
     }
   ],
-  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10.",
-  "page": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/0bdc3ebd-0aaf-4341-9fdd-a781ded62749"
+  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente.",
+  "page": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/0bdc3ebd-0aaf-4341-9fdd-a781ded62749",
+  "reporter_tips": [
+    {
+      "at": "2026-10-30T12:10:00.000Z",
+      "reporter": "Bruno",
+      "slot": "09:00",
+      "tips": 1,
+      "posts": 0,
+      "turned_into": [
+        "1"
+      ],
+      "discarded": [],
+      "note_pt": "Saylor vídeo completo earnings Q3 2026 → 1 (≠ 12 de 29/10). Busca restante: suporte Amazon e replies pequenos do Google, nada novo."
+    }
+  ]
 }
