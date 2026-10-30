@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-30",
+  "editions": [
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-30T00:45:00.000Z",
+      "source": "Clarim Diário / Claude (agendado 29/10 noite)",
+      "replies": [],
+      "posts": [
+        {
+          "id": "P1",
+          "text": "tokenized stocks this month\n\n4.51M holders, +12% in 30 days\n$3.77B distributed value, +17.8%\n\nmore people holding stocks that dont care what time it is\n\nwe like those odds. we like those people more",
+          "source": "Claude (texto aprovado pelo Hadukem em 29/10 à noite)",
+          "data_source": "https://app.rwa.xyz/stocks",
+          "data_source_secondary": "https://www.tokenpost.com/news/investing/43505",
+          "numbers_verified": true,
+          "numbers_check_pt": "Conferido em 29/10 ~21:45 Fortaleza: snapshot RWA.xyz de 28/10 (via TokenPost) = 4,51M holders (+12,14% em 30d) e $3,77B distributed value (+17,79% em 30d). Bate com o texto. O painel ao vivo já mostra 4,53M (+10,64%) e +15,50%; os percentuais de 30d mudam todo dia, então se postar com números atualizados, conferir no RWA.xyz antes.",
+          "note_pt": "Post do Claude aprovado pelo Hadukem pra manhã de 30/10. Texto exatamente como ele mandou (\"dont\" sem apóstrofo, mantido). Números do snapshot RWA.xyz de 28/10.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "status": "scheduled_morning",
+          "posted": false
+        }
+      ],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Agendado na noite de 29/10: P1 (Claude, tokenized stocks do mês) pra manhã de 30/10."
+    }
+  ],
+  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10.",
+  "page": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/0bdc3ebd-0aaf-4341-9fdd-a781ded62749"
+}
