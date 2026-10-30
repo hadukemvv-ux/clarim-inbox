@@ -229,9 +229,39 @@
         }
       ],
       "notes_pt": "Clarim Diário · manhã 30/10 (janela 21:06 29/10 → 09:06 30/10 Fortaleza / 00:06–12:06 UTC): replies D1–D5, posts DP1–DP3, memes DM1–DM2 (prefixo D pra não colidir com P1 do Claude nem com o 1 do Bruno). Hack de ~$6B da Binance FORA de propósito (concorrente, nem indireto). Posts políticos do Elon fora; Terafab (D4) mantido por ser não político. NÃO VERIFICADO: sequência de queda da Mag7 pós-balanço (D2/DP1/DM2 sem números) e dia vermelho no pré-market (DP3 sem número). DP3: confirmar Earn aberto pra USDC antes de postar. Números do D5 (150k USDC / $1k Direct Stocks) vêm do próprio post da Bybit, não entram nas replies."
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-10-30T12:25:00.000Z",
+      "source": "Gleison Mesa Clarim 09:00",
+      "replies": [
+        {
+          "id": "2",
+          "account": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2116049959829033079",
+          "reporter": "gleison",
+          "slot": "09:00",
+          "context_pt": "Bybit vai como Silver Sponsor à India Blockchain Week 2026 (Mumbai, 1–2/11) (03:09 Fortaleza de 30/10; às ~09:15: 93 likes / 25 replies / 27,7 mil impressões). Parceiro, Fluxion sem reply (conferido no X). POST DIFERENTE do D1 (teaser 𝓶) e D5 (final push Direct Stocks). Ângulo: presença de comunidade, leve, sem promo. Fluxion NÃO tem presença anunciada na IBW (sem posts @Fluxion_network sobre India/Mumbai) → (b) não sugere que vamos estar lá. Sem números, sem link, sem citar concorrente. Urgência baixa.",
+          "options": {
+            "a": "silver sponsor, gold-tier chai. have a gud one in mumbai",
+            "b": "gud luck in mumbai bybit fam. fluxionians keep the mantle side running while you're on stage, 24/7 as usual",
+            "c": "every blockchain week the real alpha gets shared in the coffee line, not on stage"
+          },
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pending"
+        }
+      ],
+      "posts": [],
+      "memes": [],
+      "visuals": [],
+      "discarded_tips": [],
+      "notes_pt": "Ronda Gleison 09:00 (30/10): 1 tip → 2 (@Bybit_Official India Blockchain Week). Fora: WSOT/final push/Sky sUSDS já no Diário (D1, D5, DP3); posts Binance-incident (Bybit/Sky) e Kobeissi hack $6,3B fora (concorrente). Mantle, xStocks, Grove, CIAN, Kii sem post novo desde 18h de 29/10."
     }
   ],
-  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC).",
+  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC). | Gleison 09h 30/10 → reply 2 (@Bybit_Official India Blockchain Week), pendente; sem presença Fluxion inventada.",
   "page": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/0bdc3ebd-0aaf-4341-9fdd-a781ded62749",
   "reporter_tips": [
     {
@@ -245,6 +275,21 @@
       ],
       "discarded": [],
       "note_pt": "Saylor vídeo completo earnings Q3 2026 → 1 (≠ 12 de 29/10). Busca restante: suporte Amazon e replies pequenos do Google, nada novo."
+    },
+    {
+      "at": "2026-10-30T12:25:00.000Z",
+      "reporter": "Gleison",
+      "slot": "09:00",
+      "tips": 1,
+      "posts": 0,
+      "turned_into": [
+        "2"
+      ],
+      "discarded": [
+        "Binance-incident (Bybit/Sky) e Kobeissi hack — concorrente, fora (Diário)",
+        "WSOT / final push / Sky sUSDS — já no Diário D1/D5/DP3"
+      ],
+      "note_pt": "Bybit Silver Sponsor India Blockchain Week → 2 (≠ D1/D5). Mantle/xStocks/Grove/CIAN/Kii sem post novo."
     }
   ]
 }
