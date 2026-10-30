@@ -15,11 +15,11 @@
           "data_source_secondary": "https://www.tokenpost.com/news/investing/43505",
           "numbers_verified": true,
           "numbers_check_pt": "Conferido em 29/10 ~21:45 Fortaleza: snapshot RWA.xyz de 28/10 (via TokenPost) = 4,51M holders (+12,14% em 30d) e $3,77B distributed value (+17,79% em 30d). Bate com o texto. O painel ao vivo já mostra 4,53M (+10,64%) e +15,50%; os percentuais de 30d mudam todo dia, então se postar com números atualizados, conferir no RWA.xyz antes.",
-          "note_pt": "Post do Claude aprovado pelo Hadukem pra manhã de 30/10. Texto exatamente como ele mandou (\"dont\" sem apóstrofo, mantido). Números do snapshot RWA.xyz de 28/10.",
-          "chosen": null,
-          "postedText": null,
+          "note_pt": "Post do Claude aprovado pelo Hadukem pra manhã de 30/10. Texto exatamente como ele mandou (\"dont\" sem apóstrofo, mantido). Números do snapshot RWA.xyz de 28/10. ESCOLHA 30/10: Hadukem colou o texto igual ao rascunho → usar como está.",
+          "chosen": "own_text_as_drafted",
+          "postedText": "tokenized stocks this month\n\n4.51M holders, +12% in 30 days\n$3.77B distributed value, +17.8%\n\nmore people holding stocks that dont care what time it is\n\nwe like those odds. we like those people more",
           "discardReason": null,
-          "status": "scheduled_morning",
+          "status": "concluido",
           "posted": false
         }
       ],
@@ -45,11 +45,11 @@
             "b": "bull markets love to start on a random saturday night. gud thing fluxion doesnt take weekends off",
             "c": "conviction is cheap. liquidity nobody can switch off is the real long term thesis"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "c",
+          "postedText": "conviction is cheap. liquidity nobody can switch off is the real long term thesis",
           "discardReason": null,
           "posted": false,
-          "status": "pending"
+          "status": "concluido"
         }
       ],
       "posts": [],
@@ -77,11 +77,11 @@
             "b": "fluxionians already squinting at that 𝓶. we know that letter, we live there",
             "c": "every exchange posts teasers. the font change is how you know it's real"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own",
+          "postedText": "𝓶. we know that letter, we live there",
           "discardReason": null,
           "posted": false,
-          "status": "pending"
+          "status": "concluido"
         },
         {
           "id": "D2",
@@ -95,11 +95,11 @@
             "b": "whatever apple prints, the headline lasts a minute. the fill you get lasts longer. depth > drama",
             "c": "apple doesn't need to beat. it just needs to not announce a capex number"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "a",
+          "postedText": "apple sitting in the back like the only kid who did the homework",
           "discardReason": null,
           "posted": false,
-          "status": "pending"
+          "status": "concluido"
         },
         {
           "id": "D3",
@@ -113,11 +113,11 @@
             "b": "two decades of tumult and tradfi still wants to take weekends off",
             "c": "every \"true abundance\" era starts with someone selling shovels"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "b",
+          "postedText": "two decades of tumult and tradfi still wants to take weekends off",
           "discardReason": null,
           "posted": false,
-          "status": "pending"
+          "status": "concluido"
         },
         {
           "id": "D4",
@@ -131,11 +131,11 @@
             "b": "ask, get an answer, ship. same energy as an rfq quote landing before you finish your coffee",
             "c": "most fabs lose more time in approval chains than in lithography"
           },
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null,
+          "discardReason": "descartado pelo Hadukem (sem motivo detalhado)",
           "posted": false,
-          "status": "pending"
+          "status": "descartado"
         },
         {
           "id": "D5",
@@ -149,11 +149,12 @@
             "b": "bybit alpha fam doing the final push. fluxionians cheering from the mantle side of the stands",
             "c": "the leaderboard is just a mood ring for the whole market this week"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "a",
+          "postedText": "last day of october, last day of the competition, last day of my coffee supply",
           "discardReason": null,
           "posted": false,
-          "status": "pending"
+          "status": "concluido",
+          "note_pt": "Hadukem escreveu \"Gbit\" acima do texto — tratado como ruído/typo; texto = opção a."
         }
       ],
       "posts": [
@@ -162,10 +163,10 @@
           "text": "every big tech report this week had the same plot twist:\n\"so how much are you spending on ai?\"\napple goes monday.\nbreaks the pattern or joins it?",
           "source": "https://x.com/Mr_Derivatives/status/2115981180638277900",
           "note_pt": "Apple fecha a semana de big tech. Fonte: Mr_Derivatives (conta secundária) — a 'sequência' de quedas da Mag7 é NÃO VERIFICADO, por isso o post é só pergunta, sem números. Data da Apple (2/11) também de contas secundárias (já citada no thread de ontem). Não repete o ângulo 'fim de semana entre os balanços'.",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null,
-          "status": "pending",
+          "discardReason": "já tivemos uma reply para isso",
+          "status": "descartado",
           "posted": false,
           "numbers_verified": false
         },
@@ -174,10 +175,10 @@
           "text": "last trading day of october.\nwall st goes home tonight. costumes come out tomorrow.\nwhat are you dressing up as: bull, bear, or bagholder? 🎃",
           "source": "https://x.com/AnneMarieTrades/status/2116109588647039008",
           "note_pt": "Último pregão de outubro + Halloween amanhã. Sem números. Pergunta tripla = reply fácil, tom de comunidade.",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null,
-          "status": "pending",
+          "discardReason": "perfil parece ser de bot",
+          "status": "descartado",
           "posted": false
         },
         {
@@ -185,10 +186,10 @@
           "text": "timeline is red. chips are red. coffee is cold.\nsome fluxionians just park usdc in earn and let grove, cian and sky handle the boring part.\nno leverage. no hero trades.\nwhat's your red-day move?",
           "source": "https://x.com/SkyEcosystem/status/2116120566088552482",
           "note_pt": "Fluxion Earn em dia vermelho. Gancho: Sky postou sobre due diligence institucional da Galaxy em sUSDS (número fica fora do post). Mercado vermelho no pré-market = só contas secundárias → NÃO VERIFICADO, sem número. Sem promessa de rendimento. CONFIRMAR se Earn está aberto para USDC hoje antes de postar.",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null,
-          "status": "pending",
+          "discardReason": "não faz conexão com nós, com a Mantle muito menos com stocks",
+          "status": "descartado",
           "posted": false,
           "needs_check_pt": "Confirmar Earn aberto para USDC hoje + se o dia está realmente vermelho antes de postar."
         }
@@ -200,10 +201,12 @@
           "example": "https://x.com/Bybit_Official/status/2116122958276231603",
           "caption": "fluxionians when bybit types one curly 𝓶",
           "image_prompt": "Realistic magazine photo, 35mm lens, shallow depth of field. A real home-office desk at night lit by a warm desk lamp, a cork board on the wall behind with printed screenshots, sticky notes and red string connecting them, one big printed cursive letter \"𝓶\" pinned in the center. Fluxion's official mascot — a small glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — stands on the desk holding the end of the red string, head tilted like a detective. Warm ambient light, soft shadows, contact shadow and faint reflection of the toy on the desk; the only glow is the mascot's visor, belly and tail. Caption in clean bold white sans-serif at the top. 4:5 vertical.\nAvoid: neon environments, glowing water, purple/cyan fantasy CGI backgrounds, oversaturated sci-fi.",
-          "chosen": null,
-          "postedText": null,
+          "chosen": "chosen",
+          "postedText": "fluxionians when bybit types one curly 𝓶",
           "discardReason": null,
-          "status": "pending"
+          "status": "concluido",
+          "posted": false,
+          "next_step_pt": "Gerar a imagem com o prompt e postar com a caption (Hadukem posta)."
         },
         {
           "id": "DM2",
@@ -211,10 +214,11 @@
           "example": "https://x.com/TradeAlpha/status/2116122698472710496",
           "caption": "mag 7 after earnings week\napple walking in on monday like:",
           "image_prompt": "Realistic street photo at golden hour, 35mm lens, shallow depth of field. A real city sidewalk in front of a stone financial building, autumn leaves on the pavement, warm low sunlight. Fluxion's official mascot — a small glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — walks toward the camera wearing a tiny red superhero cape, holding a real shiny red apple (plain fruit, no logo) like a trophy. Soft natural shadows, contact shadow on the pavement; the only glow is on the toy. Caption in clean bold white sans-serif, top and bottom. 4:5 vertical.\nAvoid: neon environments, glowing water, purple/cyan fantasy CGI backgrounds, oversaturated sci-fi, brand logos.",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null,
-          "status": "pending"
+          "discardReason": "melhor não escrever muita coisa na imagem; dá pra escrever fora da imagem, no texto do próprio tweet",
+          "status": "descartado",
+          "posted": false
         }
       ],
       "visuals": [],
@@ -247,11 +251,12 @@
             "b": "gud luck in mumbai bybit fam. fluxionians keep the mantle side running while you're on stage, 24/7 as usual",
             "c": "every blockchain week the real alpha gets shared in the coffee line, not on stage"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "a",
+          "postedText": "silver sponsor, gold-tier chai. have a gud one in mumbai",
           "discardReason": null,
           "posted": false,
-          "status": "pending"
+          "status": "concluido",
+          "note_pt": "Gleison (12h) viu reply da Fluxion nesse thread — talvez já postado; sem URL, posted fica false."
         }
       ],
       "posts": [],
@@ -289,7 +294,7 @@
       "notes_pt": "Ronda Gleison 12:00 (30/10): nada novo. Desde 9h só Mantle WSOT arena — pulado, ângulo WSOT já no Diário 30/10. Gleison observou que a Fluxion já respondeu no thread da Bybit IBW (item 2 da ronda 9h). Market voices sem tokenização nas últimas horas. Nenhum item novo."
     }
   ],
-  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC). | Gleison 09h 30/10 → reply 2 (@Bybit_Official India Blockchain Week), pendente; sem presença Fluxion inventada. | Bruno 12h 30/10 → @saylor/Binance pós-incidente DESCARTADO (concorrente / incidente Binance; Diário já excluiu). Nenhum item novo. | Gleison 12h 30/10 → nada novo (Mantle WSOT já no Diário; Gleison viu reply da Fluxion no thread Bybit IBW). | Avaliação da equipe (Claude, 30/10): Bruno aprovado → só rondas 10:30 e 17:30 (+ Mag7 muito grande); Mathias em observação (sair do 24/7; 5 dias úteis); Gleison segue. Balanço diário: contagem por repórter sugestões → usadas. Ver artifacts/clarim-diario/2026-10-30-avaliacao-equipe.md",
+  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC). | Gleison 09h 30/10 → reply 2 (@Bybit_Official India Blockchain Week), pendente; sem presença Fluxion inventada. | Bruno 12h 30/10 → @saylor/Binance pós-incidente DESCARTADO (concorrente / incidente Binance; Diário já excluiu). Nenhum item novo. | Gleison 12h 30/10 → nada novo (Mantle WSOT já no Diário; Gleison viu reply da Fluxion no thread Bybit IBW). | Avaliação da equipe (Claude, 30/10): Bruno aprovado → só rondas 10:30 e 17:30 (+ Mag7 muito grande); Mathias em observação (sair do 24/7; 5 dias úteis); Gleison segue. Balanço diário: contagem por repórter sugestões → usadas. Ver artifacts/clarim-diario/2026-10-30-avaliacao-equipe.md | ESCOLHAS 30/10 ~14:15: P1 usar texto como está; 1c; 2a; D1 own ('𝓶. we know that letter, we live there'); D2a; D3b; D5a ('Gbit' = ruído); DM1 escolhido (gerar imagem + postar). Descartados: D4 (sem motivo), DP1 (já tivemos reply), DP2 (perfil parece bot), DP3 (sem conexão com nós/Mantle/stocks), DM2 (menos texto na imagem; caption no tweet). Nenhum postado com URL ainda (Hadukem posta). Nada pendente da manhã. | BALANÇO 30/10 (sugestões → usadas, até 14:15): Claude 1 → 1 (P1) · Diário 10 → 5 (D1 own, D2a, D3b, D5a, DM1) · Bruno 1 → 1 (1c; tip 12h descartado pela Editora, não conta) · Gleison 1 → 1 (2a; 12h vazio) · Mathias 0 → 0. Total 13 → 8. | FEEDBACK DE QUALIDADE: DP2 fonte com cara de bot (checar conta); DM2 menos texto na imagem, caption no tweet (→ style_rules.image_text_2026-10-30); DP3 sem ligação com Fluxion/Mantle/stocks; DP1 tema já respondido.",
   "page": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/0bdc3ebd-0aaf-4341-9fdd-a781ded62749",
   "reporter_tips": [
     {
@@ -331,5 +336,161 @@
       ],
       "note_pt": "Bruno marcou 'engajar? sim, com cautela'; Editora descartou por cautela: reply nesse thread põe a Fluxion dentro do discurso do hack da Binance. Busca restante: só suporte Amazon."
     }
-  ]
+  ],
+  "escolhas_log": [
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM P1 (texto colado)",
+      "item": "P1",
+      "chosen": "own_text_as_drafted",
+      "postedText": "tokenized stocks this month\n\n4.51M holders, +12% in 30 days\n$3.77B distributed value, +17.8%\n\nmore people holding stocks that dont care what time it is\n\nwe like those odds. we like those people more"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM 1c",
+      "item": "1",
+      "chosen": "c",
+      "postedText": "conviction is cheap. liquidity nobody can switch off is the real long term thesis"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM D1 own 𝓶. we know that letter, we live there",
+      "item": "D1",
+      "chosen": "own",
+      "postedText": "𝓶. we know that letter, we live there"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM D2a",
+      "item": "D2",
+      "chosen": "a",
+      "postedText": "apple sitting in the back like the only kid who did the homework"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM D3b",
+      "item": "D3",
+      "chosen": "b",
+      "postedText": "two decades of tumult and tradfi still wants to take weekends off"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM D4 discard",
+      "item": "D4",
+      "chosen": "discard",
+      "discardReason": "descartado pelo Hadukem (sem motivo detalhado)"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM D5a (\"Gbit\" acima do texto = ruído/typo, ignorado)",
+      "item": "D5",
+      "chosen": "a",
+      "postedText": "last day of october, last day of the competition, last day of my coffee supply"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM DP1 discard ja tivemos uma reply para isso",
+      "item": "DP1",
+      "chosen": "discard",
+      "discardReason": "já tivemos uma reply para isso"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM DP2 discard perfil parece ser de bot",
+      "item": "DP2",
+      "chosen": "discard",
+      "discardReason": "perfil parece ser de bot"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM DP3 discard nao faz conexao com nós, com a mantle muito menos com stocks",
+      "item": "DP3",
+      "chosen": "discard",
+      "discardReason": "não faz conexão com nós, com a Mantle muito menos com stocks"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM DM1 caption + image prompt (colados, iguais ao rascunho)",
+      "item": "DM1",
+      "chosen": "chosen",
+      "postedText": "fluxionians when bybit types one curly 𝓶"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM DM2 discard melhor nao escrever muita coisa na imagem, podemos escrever fora da imagem, no texto do proprio twitter",
+      "item": "DM2",
+      "chosen": "discard",
+      "discardReason": "melhor não escrever muita coisa na imagem; dá pra escrever fora da imagem, no texto do próprio tweet"
+    },
+    {
+      "at": "2026-10-30T17:15:00.000Z",
+      "raw": "CLARIM 2a",
+      "item": "2",
+      "chosen": "a",
+      "postedText": "silver sponsor, gold-tier chai. have a gud one in mumbai"
+    }
+  ],
+  "style_rules": {
+    "image_text_2026-10-30": {
+      "pt": "Memes/imagens: pouco texto dentro da imagem. A caption pode ir fora da imagem, no texto do próprio tweet. Prompt só leva texto na imagem quando for curto e essencial.",
+      "source": "Hadukem, ESCOLHA DM2 30/10 (descarte)"
+    }
+  },
+  "quality_feedback": [
+    {
+      "item": "DP1",
+      "pt": "Já tínhamos uma reply sobre esse assunto — não repetir tema já respondido."
+    },
+    {
+      "item": "DP2",
+      "pt": "Fonte (@AnneMarieTrades) parece perfil de bot — checar a cara da conta antes de usar como gancho."
+    },
+    {
+      "item": "DP3",
+      "pt": "Sem conexão com a Fluxion, com a Mantle e muito menos com stocks — gancho precisa ligar a nós/Mantle/ações tokenizadas."
+    },
+    {
+      "item": "DM2",
+      "pt": "Menos texto dentro da imagem; caption vai no texto do tweet."
+    },
+    {
+      "item": "D4",
+      "pt": "Descartado sem motivo detalhado."
+    }
+  ],
+  "balanco_30_10": {
+    "as_of": "2026-10-30 14:15 Fortaleza",
+    "por_reporter": {
+      "Claude": {
+        "sugestoes": 1,
+        "usadas": 1,
+        "itens": "P1 usado"
+      },
+      "Diario": {
+        "sugestoes": 10,
+        "usadas": 5,
+        "itens": "usadas D1 own, D2a, D3b, D5a, DM1; descartadas D4, DP1, DP2, DP3, DM2"
+      },
+      "Bruno": {
+        "sugestoes": 1,
+        "usadas": 1,
+        "itens": "1c usado; tip 12h (@saylor/Binance) descartado pela Editora antes de virar item"
+      },
+      "Gleison": {
+        "sugestoes": 1,
+        "usadas": 1,
+        "itens": "2a usado; 12h nada novo"
+      },
+      "Mathias": {
+        "sugestoes": 0,
+        "usadas": 0,
+        "itens": "nenhum tip hoje até agora"
+      }
+    },
+    "total": {
+      "sugestoes": 13,
+      "usadas": 8
+    }
+  },
+  "pending": []
 }
