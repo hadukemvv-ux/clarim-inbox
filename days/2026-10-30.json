@@ -205,8 +205,8 @@
           "postedText": "fluxionians when bybit types one curly 𝓶",
           "discardReason": null,
           "status": "concluido",
-          "posted": false,
-          "next_step_pt": "Gerar a imagem com o prompt e postar com a caption (Hadukem posta)."
+          "posted": true,
+          "postedUrl": "https://x.com/Fluxion_network/status/2116216038128005482"
         },
         {
           "id": "DM2",
