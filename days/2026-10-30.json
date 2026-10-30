@@ -310,11 +310,11 @@
             "b": "amm for the everyday flow, atomic rfq for size, mantle underneath. fluxionians never asked for a closing bell anyway",
             "c": "proudlitely the spot where tokenized stocks stay awake. thx for the shoutout mantle fam"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "a",
+          "postedText": "markets clock out at 4pm. this stack doesn't even know what 4pm is",
           "discardReason": null,
           "posted": false,
-          "status": "pendente",
+          "status": "concluido",
           "note_pt": "a/c sem promo pesada; b usa AMM/Atomic RFQ do próprio post da Mantle. Preferir quote. Não reverificado no X pela Editora (dados do Gleison)."
         },
         {
@@ -329,11 +329,11 @@
             "b": "sending money home. family doesn't run on banking hours, the transfer shouldn't either",
             "c": "payroll friday. if it lands monday it's basically a rumor"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "c",
+          "postedText": "payroll friday. if it lands monday it's basically a rumor",
           "discardReason": null,
           "posted": false,
-          "status": "pendente",
+          "status": "concluido",
           "note_pt": "Fluxion/xStocks FORA da copy de propósito (US Virtual Accounts + ações tokenizadas pode soar como acesso pra US persons), igual ao item 13 de 28/10. Nenhuma opção cita Fluxion."
         }
       ],
@@ -344,7 +344,7 @@
       "notes_pt": "Ronda Gleison 15:00 (30/10): 2 tips → 3 (@Mantle_Official cita Fluxion) e 4 (@KiiChainio US Virtual Accounts, sem Fluxion). Fora: Bybit WSOT Preheat (já no Diário). Alpha_Bybit, xStocksFi, Grove, CIAN, Sky sem post novo desde 12h."
     }
   ],
-  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC). | Gleison 09h 30/10 → reply 2 (@Bybit_Official India Blockchain Week), pendente; sem presença Fluxion inventada. | Bruno 12h 30/10 → @saylor/Binance pós-incidente DESCARTADO (concorrente / incidente Binance; Diário já excluiu). Nenhum item novo. | Gleison 12h 30/10 → nada novo (Mantle WSOT já no Diário; Gleison viu reply da Fluxion no thread Bybit IBW). | Avaliação da equipe (Claude, 30/10): Bruno aprovado → só rondas 10:30 e 17:30 (+ Mag7 muito grande); Mathias em observação (sair do 24/7; 5 dias úteis); Gleison segue. Balanço diário: contagem por repórter sugestões → usadas. Ver artifacts/clarim-diario/2026-10-30-avaliacao-equipe.md | ESCOLHAS 30/10 ~14:15: P1 usar texto como está; 1c; 2a; D1 own ('𝓶. we know that letter, we live there'); D2a; D3b; D5a ('Gbit' = ruído); DM1 escolhido (gerar imagem + postar). Descartados: D4 (sem motivo), DP1 (já tivemos reply), DP2 (perfil parece bot), DP3 (sem conexão com nós/Mantle/stocks), DM2 (menos texto na imagem; caption no tweet). Nenhum postado com URL ainda (Hadukem posta). Nada pendente da manhã. | BALANÇO 30/10 (sugestões → usadas, até 14:15): Claude 1 → 1 (P1) · Diário 10 → 5 (D1 own, D2a, D3b, D5a, DM1) · Bruno 1 → 1 (1c; tip 12h descartado pela Editora, não conta) · Gleison 1 → 1 (2a; 12h vazio) · Mathias 0 → 0. Total 13 → 8. | FEEDBACK DE QUALIDADE: DP2 fonte com cara de bot (checar conta); DM2 menos texto na imagem, caption no tweet (→ style_rules.image_text_2026-10-30); DP3 sem ligação com Fluxion/Mantle/stocks; DP1 tema já respondido.",
+  "notes_pt": "P1 manhã 30/10 agendado em 29/10 à noite a partir do Claude (aprovado pelo Hadukem). Números conferidos no snapshot RWA.xyz de 28/10. | Bruno 09h 30/10 → reply 1 (@saylor vídeo earnings Q3), pendente. | Clarim Diário manhã 30/10 → D1–D5, DP1–DP3, DM1–DM2 pendentes (Binance hack fora; Mag7/dia vermelho não verificados; DP3 conferir Earn USDC). | Gleison 09h 30/10 → reply 2 (@Bybit_Official India Blockchain Week), pendente; sem presença Fluxion inventada. | Bruno 12h 30/10 → @saylor/Binance pós-incidente DESCARTADO (concorrente / incidente Binance; Diário já excluiu). Nenhum item novo. | Gleison 12h 30/10 → nada novo (Mantle WSOT já no Diário; Gleison viu reply da Fluxion no thread Bybit IBW). | Avaliação da equipe (Claude, 30/10): Bruno aprovado → só rondas 10:30 e 17:30 (+ Mag7 muito grande); Mathias em observação (sair do 24/7; 5 dias úteis); Gleison segue. Balanço diário: contagem por repórter sugestões → usadas. Ver artifacts/clarim-diario/2026-10-30-avaliacao-equipe.md | ESCOLHAS 30/10 ~14:15: P1 usar texto como está; 1c; 2a; D1 own ('𝓶. we know that letter, we live there'); D2a; D3b; D5a ('Gbit' = ruído); DM1 escolhido (gerar imagem + postar). Descartados: D4 (sem motivo), DP1 (já tivemos reply), DP2 (perfil parece bot), DP3 (sem conexão com nós/Mantle/stocks), DM2 (menos texto na imagem; caption no tweet). Nenhum postado com URL ainda (Hadukem posta). Nada pendente da manhã. | BALANÇO 30/10 (sugestões → usadas, até 14:15): Claude 1 → 1 (P1) · Diário 10 → 5 (D1 own, D2a, D3b, D5a, DM1) · Bruno 1 → 1 (1c; tip 12h descartado pela Editora, não conta) · Gleison 1 → 1 (2a; 12h vazio) · Mathias 0 → 0. Total 13 → 8. | FEEDBACK DE QUALIDADE: DP2 fonte com cara de bot (checar conta); DM2 menos texto na imagem, caption no tweet (→ style_rules.image_text_2026-10-30); DP3 sem ligação com Fluxion/Mantle/stocks; DP1 tema já respondido. | ESCOLHAS 15:45: 3a (@Mantle_Official) e 4c (@KiiChainio) escolhidos, sem URL ainda (Hadukem posta). BALANÇO atualizado: Gleison 3 → 3 · Total 15 → 10.",
   "page": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/0bdc3ebd-0aaf-4341-9fdd-a781ded62749",
   "reporter_tips": [
     {
@@ -522,7 +522,7 @@
     }
   ],
   "balanco_30_10": {
-    "as_of": "2026-10-30 14:15 Fortaleza",
+    "as_of": "2026-10-30 15:45 Fortaleza",
     "por_reporter": {
       "Claude": {
         "sugestoes": 1,
@@ -540,9 +540,9 @@
         "itens": "1c usado; tip 12h (@saylor/Binance) descartado pela Editora antes de virar item"
       },
       "Gleison": {
-        "sugestoes": 1,
-        "usadas": 1,
-        "itens": "2a usado; 12h nada novo"
+        "sugestoes": 3,
+        "usadas": 3,
+        "itens": "2a, 3a, 4c usados; 12h nada novo"
       },
       "Mathias": {
         "sugestoes": 0,
@@ -551,8 +551,8 @@
       }
     },
     "total": {
-      "sugestoes": 13,
-      "usadas": 8
+      "sugestoes": 15,
+      "usadas": 10
     }
   },
   "pending": []
