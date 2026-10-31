@@ -17,11 +17,13 @@
             "b": "fluxionians spotted billi from the mantle side. tell him the disguise needs a visor next year",
             "c": "best costume on the timeline and he's not even trying"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own",
+          "postedText": "just spotted billi from the mantle side. tell him the disguise needs a visor next year",
           "discardReason": null,
           "posted": false,
-          "status": "pendente"
+          "status": "concluido",
+          "postedUrl": null,
+          "note_pt": "ESCOLHA 31/10: own = edição leve da opção b (sem 'fluxionians' no início)."
         },
         {
           "id": "D2",
@@ -33,11 +35,12 @@
             "b": "fear days are when you find out which venues actually have depth. quotes that hold > vibes that dont",
             "c": "\"extreme fear\" on halloween weekend is the most on-brand chart of the year"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "c",
+          "postedText": "\"extreme fear\" on halloween weekend is the most on-brand chart of the year",
           "discardReason": null,
           "posted": false,
-          "status": "pendente"
+          "status": "concluido",
+          "postedUrl": null
         },
         {
           "id": "D3",
@@ -49,11 +52,13 @@
             "b": "tokenized stocks growing on mantle is basically our whole personality. proudly building the trading side of that list",
             "c": "most L2 recaps are a tvl screenshot. this one reads like a market structure memo"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "b",
+          "postedText": "tokenized stocks growing on mantle is basically our whole personality.\n\nproudly building the trading side of that list",
           "discardReason": null,
           "posted": false,
-          "status": "pendente"
+          "status": "concluido",
+          "postedUrl": null,
+          "note_pt": "ESCOLHA 31/10: Hadukem marcou D3b mas reescreveu o formato (quebra de linha + linha em branco entre as duas frases); postedText = texto dele."
         },
         {
           "id": "D4",
@@ -66,11 +71,12 @@
             "b": "wall st closed the month and went trick or treating. onchain the candles keep printing all weekend",
             "c": "the scariest part isn't the number. it's how many \"generational bottoms\" got called on the way down"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "a",
+          "postedText": "6.66% the week of halloween. the market's writers room is undefeated",
           "discardReason": null,
           "posted": false,
-          "status": "pendente"
+          "status": "concluido",
+          "postedUrl": null
         },
         {
           "id": "D5",
@@ -82,11 +88,13 @@
             "b": "and over on the bybit alpha side the menu is onchain. fluxionians already ordered",
             "c": "the soup joke is the best stock marketing of the week and its not close"
           },
-          "chosen": null,
-          "postedText": null,
+          "chosen": "a",
+          "postedText": "campbell's somewhere in that list going \"am i a joke to you\"",
           "discardReason": null,
-          "posted": false,
-          "status": "pendente"
+          "posted": true,
+          "status": "concluido",
+          "postedUrl": "https://x.com/Fluxion_network/status/2116608949835174399",
+          "note_pt": "ESCOLHA 31/10: Hadukem amou o ângulo (\"simplesmente amei isso\"); postou o comentário com gif nessa URL."
         }
       ],
       "posts": [
@@ -98,23 +106,26 @@
           "angle_pt": "quote do recap de outubro da Mantle",
           "text": "mantle's october recap, the line we read twice:\ntokenized stock supply on mantle +40% in six months\nmarkets keep moving onchain\nwe keep building the place where they actually trade\nwhat should come onchain next?",
           "context_pt": "Fonte: https://x.com/Mantle_Official/status/2116500479589196005 — item 1 do post: \"Tokenized stock circulating supply on Mantle grew 40% in six months, per @blockworksres\" (número verificado no post da Mantle; origem Blockworks Research). Por que agora: recap saiu às 09:00 de hoje, quote cedo pega a onda. O mesmo post diz xStocks AUM passou de $1B — deixei fora até conferir no próprio @xStocksFi.",
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own_text_as_drafted",
+          "postedText": "mantle's october recap, the line we read twice:\ntokenized stock supply on mantle +40% in six months\nmarkets keep moving onchain\nwe keep building the place where they actually trade\nwhat should come onchain next?",
           "discardReason": null,
           "posted": false,
-          "status": "pendente"
+          "status": "concluido",
+          "postedUrl": null,
+          "note_pt": "ESCOLHA 31/10: Hadukem colou o texto igual ao rascunho → usar como está (quote do recap da Mantle). Sem URL ainda."
         },
         {
           "id": "DP2",
-          "note_pt": "Halloween, pede print de candle, sem números",
+          "note_pt": "Halloween, pede print de candle, sem números | ESCOLHA 31/10: texto own diferente do draft do Diário (título em caps '(UP?)TOBER SURVIVAL CHECK' com abóboras, linhas espaçadas). Hadukem pediu para registrar também esse reply: https://x.com/Fluxion_network/status/2116611535221223476 (ele chamou de 'reply'; registrado como postedUrl).",
           "angle_pt": "Halloween, comunidade",
           "text": "october survival check 🎃\ndrop the scariest candle you saw this month\nno context. just the candle",
           "context_pt": "Por que agora: é Halloween e fechamento do mês. Pede print = reply com imagem, que o algoritmo gosta. Sem números. Diferente do P2 de ontem (fantasia bull/bear/bagholder).",
-          "chosen": null,
-          "postedText": null,
+          "chosen": "own",
+          "postedText": "🎃🎃(UP?)TOBER SURVIVAL CHECK 🎃🎃\n\ndrop the scariest candle you saw this month\n\nno context. just the candle",
           "discardReason": null,
-          "posted": false,
-          "status": "pendente"
+          "posted": true,
+          "status": "concluido",
+          "postedUrl": "https://x.com/Fluxion_network/status/2116611535221223476"
         },
         {
           "id": "DP3",
@@ -122,11 +133,12 @@
           "angle_pt": "semana de medo, mensagem central",
           "text": "fear weeks teach one thing fast\na listing is not a market\ndepth is. fills are. quotes that hold when it gets loud are\nfirst thing you check before a trade: price, depth or slippage?",
           "context_pt": "Por que agora: Fear & Greed em zona de medo no fechamento de 30/10 (print postado pela Barchart https://x.com/Barchart/status/2116371344803934511 — leitura exata NÃO VERIFICADA, por isso sem número). Usa a mensagem \"a listing is not a market\" e termina em pergunta para gerar replies.",
-          "chosen": null,
+          "chosen": "discard",
           "postedText": null,
-          "discardReason": null,
+          "discardReason": "muito cara de IA, os outros dois posts soaram bem melhores",
           "posted": false,
-          "status": "pendente"
+          "status": "descartado",
+          "postedUrl": null
         }
       ],
       "memes": [
@@ -180,9 +192,13 @@
             }
           ],
           "kind": "post",
-          "status": "pendente",
+          "status": "descartado",
           "posted": false,
-          "text": "october in one loop:\nbell at 9:30. bell at 4pm. earnings after hours. weekend\nonchain the pools never got the memo\nsee u in november, fluxionians"
+          "text": "october in one loop:\nbell at 9:30. bell at 4pm. earnings after hours. weekend\nonchain the pools never got the memo\nsee u in november, fluxionians",
+          "chosen": "discard",
+          "postedText": null,
+          "discardReason": "resumo mensal fraco — resumo não é pra ser um post de 2 linhas; é pra pegar momentos memoráveis, com um prompt GIGANTESCO de uma arte ou de imagem ou de vídeo. (Hadukem, literal: \"um resumo mensal fraco assim? resumo nao é pra ser um post de 2 linhas, é pra pegar momentos memoraveis, com um prompt GIGANTESCO de uma arte ou de imagem ou de video\")",
+          "postedUrl": null
         },
         {
           "id": "MO2",
@@ -203,9 +219,13 @@
             }
           ],
           "kind": "post",
-          "status": "pendente",
+          "status": "descartado",
           "posted": false,
-          "text": "october, tokenized stocks edition\n$STRCx crossed $158M+ and became the biggest tokenized equity by circulating mcap\nholders hit 4.51M\nsize is the headline. a market is what makes it usable\nthat part's our job: atomic rfq + amm depth on mantle"
+          "text": "october, tokenized stocks edition\n$STRCx crossed $158M+ and became the biggest tokenized equity by circulating mcap\nholders hit 4.51M\nsize is the headline. a market is what makes it usable\nthat part's our job: atomic rfq + amm depth on mantle",
+          "chosen": "discard",
+          "postedText": null,
+          "discardReason": "o post tá bom, mas o formato tem que ser de threads; basicamente a mesma reclamação do MO1, porém o texto aqui tá bem mais agradável. (Hadukem, literal: \"o post ta bom, mas o formato tem que ser de threads, basicamente a mesma reclamação do MO1, porem o texto aqui ta bem mais agradavel\")",
+          "postedUrl": null
         },
         {
           "id": "MO3",
@@ -222,17 +242,20 @@
             }
           ],
           "kind": "post",
-          "status": "pendente",
+          "status": "descartado",
           "posted": false,
-          "text": "october was a team effort\n500k fluxion points campaign wrapped with @Mantle_Official @grovedotfinance @CIAN_protocol\n@xStocksFi crossed $1B aum\nand fluxionians kept showing up on weekends\ngud month. ty"
+          "text": "october was a team effort\n500k fluxion points campaign wrapped with @Mantle_Official @grovedotfinance @CIAN_protocol\n@xStocksFi crossed $1B aum\nand fluxionians kept showing up on weekends\ngud month. ty",
+          "chosen": "discard",
+          "postedText": null,
+          "discardReason": "definitivamente seria a escolha de post dele, porém ficou extremamente enxuto e com falta de detalhes; já há sugestão de threads e comentários sobre eventos realmente significativos (ex.: vault da Grove), mas ainda não chegou num resultado que agrade. Hadukem vai tentar de novo o recap mensal com o Claude. (Hadukem, literal: \"definitivamente seria a minha escolha de post, porem ficou extremamente enxuto e com falta de detalhes, mas aqui ja temos sugestao de threads, comentarios sobre eventos realmente significativos (como o vault da grove por exemplo). mas ainda nao chegou em um resultado que me agrade.\")",
+          "postedUrl": null
         }
       ]
     }
   ],
-  "notes_pt": "",
+  "notes_pt": "ESCOLHAS Diário+posts 31/10 ~16:58 Fortaleza: D1 own ('just spotted billi from the mantle side. tell him the disguise needs a visor next year' = b levemente editada); D2c; D3b reescrito (tokenized stocks / whole personality, com linha em branco); D4a; D5a postado com gif https://x.com/Fluxion_network/status/2116608949835174399 (Hadukem amou); DP1 texto como draft (quote Mantle +40%); DP2 own '🎃🎃(UP?)TOBER SURVIVAL CHECK 🎃🎃' + reply https://x.com/Fluxion_network/status/2116611535221223476 ; DP3 descartado (muito cara de IA, os outros dois soaram melhores). DM1–DM2 seguem pendentes. | FEEDBACK MO (Resumo outubro) — MO1–MO3 TODOS descartados: monthly wrap NÃO pode ser tweet curto de 2 linhas; precisa pegar momentos memoráveis do mês + prompt GIGANTESCO de arte/imagem/vídeo. MO2 texto bem mais agradável mas DEVE ser thread. MO3 seria a escolha dele (já tinha sugestão de thread e eventos significativos como o vault da Grove) mas ficou enxuto demais / falta detalhe. Hadukem fará nova tentativa de recap mensal com o Claude — ler os discardReasons de MO1–MO3 (texto literal dele incluso). | BALANÇO 31/10 (Diário, sugestões → usadas): D1–D5 5 → 5 (1 own, 1 reescrita) · DP 3 → 2 (1 discard) · DM 2 → pendentes · MO 3 → 0. Total decidido 11 → 7.",
   "pending": [
-    "MO1",
-    "MO2",
-    "MO3"
+    "DM1",
+    "DM2"
   ]
 }
