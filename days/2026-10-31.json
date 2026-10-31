@@ -164,78 +164,6 @@
         {
           "id": "MO1",
           "angle_pt": "Wall St fechou / a gente não — DNA da série do sino",
-          "context_pt": "Fecha a série do sino de outubro (23/10 https://x.com/Fluxion_network/status/2113721029420011565, 26/10 https://x.com/Fluxion_network/status/2114858107134189742, 29/10 https://x.com/Fluxion_network/status/2115952669634547791). Sem números. Contexto de mês (Bruno/MAG7, só fundo): Fed, earnings de MSFT/GOOGL/AMZN depois do fechamento, Halloween Mode da Tesla — nada disso citado com número. Não implica acesso pra US persons.",
-          "options": [
-            {
-              "letter": "a",
-              "text": "october in one loop:\nbell at 9:30. bell at 4pm. earnings after hours. weekend\nonchain the pools never got the memo\nsee u in november, fluxionians"
-            },
-            {
-              "letter": "b",
-              "text": "wall st took every weekend off in october\nxStocks on mantle didn't take one\nsame plan for november"
-            },
-            {
-              "letter": "c",
-              "text": "october from the side of the market that doesn't close:\nfed day, big tech earnings, halloween weekend\nthe bell rang a lot. we didn't hear it"
-            }
-          ],
-          "kind": "post",
-          "status": "pendente",
-          "posted": false,
-          "text": "october in one loop:\nbell at 9:30. bell at 4pm. earnings after hours. weekend\nonchain the pools never got the memo\nsee u in november, fluxionians"
-        },
-        {
-          "id": "MO2",
-          "angle_pt": "Mês de marcos das ações tokenizadas: tamanho é manchete, mercado é o que torna usável",
-          "context_pt": "Fontes (verificados): $STRCx \"$158M+\" maior ação tokenizada por market cap em circulação — post Fluxion 08/10 https://x.com/Fluxion_network/status/2108269663008284927 ; 4,51M holders e $3,77B distribuídos — snapshot RWA.xyz via post Fluxion 30/10 https://x.com/Fluxion_network/status/2116167215070454206 . Sem métrica própria da Fluxion (TVL/volume/usuários). Não repete o post de 30/10: aqui é placar do mês + mensagem de execução. +40% supply ficou fora pra não colidir com DP1.",
-          "options": [
-            {
-              "letter": "a",
-              "text": "october, tokenized stocks edition\n$STRCx crossed $158M+ and became the biggest tokenized equity by circulating mcap\nholders hit 4.51M\nsize is the headline. a market is what makes it usable\nthat part's our job: atomic rfq + amm depth on mantle"
-            },
-            {
-              "letter": "b",
-              "text": "the october scoreboard isn't ours, it's the asset class's\n4.51M holders. $3.77B distributed\nnow the boring part that matters: quotes that hold and depth when it gets loud"
-            },
-            {
-              "letter": "c",
-              "text": "biggest tokenized equity this month: $STRCx at $158M+\nbiggest lesson: listing it is step one\nmaking it tradeable 24/7 is the job"
-            }
-          ],
-          "kind": "post",
-          "status": "pendente",
-          "posted": false,
-          "text": "october, tokenized stocks edition\n$STRCx crossed $158M+ and became the biggest tokenized equity by circulating mcap\nholders hit 4.51M\nsize is the headline. a market is what makes it usable\nthat part's our job: atomic rfq + amm depth on mantle"
-        },
-        {
-          "id": "MO3",
-          "angle_pt": "Obrigado comunidade/parceiros — (a) tweet único, (b) thread 1–4",
-          "context_pt": "Fontes: campanha 500k Fluxion Points encerrada com Mantle/Grove/CIAN — post Fluxion 05/10 https://x.com/Fluxion_network/status/2107118296541667752 ; $STRCx $158M+ https://x.com/Fluxion_network/status/2108269663008284927 ; 4,51M holders https://x.com/Fluxion_network/status/2116167215070454206 . Beat 3 da thread usa o contexto MAG7 do Bruno só como cenário (earnings depois do fechamento), sem números. Tags só de parceiros.",
-          "options": [
-            {
-              "letter": "a",
-              "text": "october was a team effort\n500k fluxion points campaign wrapped with @Mantle_Official @grovedotfinance @CIAN_protocol\n@xStocksFi kept the stocks onchain\nand fluxionians kept showing up on weekends\ngud month. ty"
-            },
-            {
-              "letter": "b",
-              "text": "1/ october recap 🧵 the month wall st kept clocking out\n\n2/ stocks: $STRCx crossed $158M+, biggest tokenized equity by circulating mcap. tokenized stock holders at 4.51M\n\n3/ earnings week: big tech reported after the bell. xStocks on mantle kept trading through it\n\n4/ community: 500k points campaign wrapped w/ @Mantle_Official @grovedotfinance @CIAN_protocol. fluxionians, ty. november's next"
-            }
-          ],
-          "kind": "post",
-          "status": "pendente",
-          "posted": false,
-          "text": "october was a team effort\n500k fluxion points campaign wrapped with @Mantle_Official @grovedotfinance @CIAN_protocol\n@xStocksFi kept the stocks onchain\nand fluxionians kept showing up on weekends\ngud month. ty"
-        }
-      ]
-    },
-    {
-      "slot": "manha",
-      "createdAt": "2026-10-31T10:55:00-03:00",
-      "source": "Editora Chefe (Bruna) · Resumo outubro",
-      "monthly": [
-        {
-          "id": "MO1",
-          "angle_pt": "Wall St fechou / a gente não — DNA da série do sino",
           "context_pt": "Fecha a série do sino de outubro (23/10 https://x.com/Fluxion_network/status/2113721029420011565, 26/10 https://x.com/Fluxion_network/status/2114858107134189742, 29/10 https://x.com/Fluxion_network/status/2115952669634547791). Sem números. Contexto de mês (Bruno/MAG7, só fundo): Fed, earnings de MSFT/GOOGL/AMZN depois do fechamento, Halloween Mode da Tesla — nada disso citado com número. Não implica acesso pra US persons. (c) Mathias: horário de verão dos EUA acaba 01/11 → a partir de 02/11 o pregão de NY fica 11:30–18:00 Fortaleza (era 10:30–17:00); na Fluxion o relógio não muda. Dado de calendário, sem número de mercado.",
           "options": [
             {
@@ -303,9 +231,6 @@
   ],
   "notes_pt": "",
   "pending": [
-    "MO1",
-    "MO2",
-    "MO3",
     "MO1",
     "MO2",
     "MO3"
