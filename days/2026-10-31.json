@@ -1,0 +1,62 @@
+{
+ "date": "2026-10-31",
+ "editions": [
+  {
+   "slot": "manha",
+   "createdAt": "2026-10-31T12:10:00.000Z",
+   "source": "Clarim Diário (routine 09:00)",
+   "artifact": "artifacts/clarim-diario/2026-10-31-manha.md",
+   "replies": [
+    {
+     "id": "R1",
+     "url": "https://x.com/Bybit_Official/status/2116440036384161963"
+    },
+    {
+     "id": "R2",
+     "url": "https://x.com/Barchart/status/2116371344803934511"
+    },
+    {
+     "id": "R3",
+     "url": "https://x.com/Mantle_Official/status/2116500479589196005"
+    },
+    {
+     "id": "R4",
+     "url": "https://x.com/Barchart/status/2116384552738345027",
+     "note_pt": "única com ângulo 24/7"
+    },
+    {
+     "id": "R5",
+     "url": "https://x.com/Bybit_Official/status/2116349440172691956"
+    }
+   ],
+   "posts": [
+    {
+     "id": "P1",
+     "source": "https://x.com/Mantle_Official/status/2116500479589196005",
+     "numbers_verified": true,
+     "numbers_check_pt": "+40% em 6 meses no supply de tokenized stocks na Mantle: item 1 do recap da Mantle (per Blockworks Research). xStocks AUM $1B deixado de fora."
+    },
+    {
+     "id": "P2",
+     "note_pt": "Halloween, pede print de candle, sem números"
+    },
+    {
+     "id": "P3",
+     "note_pt": "a listing is not a market; Fear&Greed sem número (NÃO VERIFICADO)"
+    }
+   ],
+   "memes": [
+    {
+     "id": "M1",
+     "example": "https://x.com/Bybit_Official/status/2116440036384161963"
+    },
+    {
+     "id": "M2",
+     "example": "https://x.com/Barchart/status/2116384552738345027"
+    }
+   ]
+  }
+ ],
+ "notes_pt": "",
+ "pending": []
+}
