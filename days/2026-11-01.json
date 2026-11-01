@@ -11,46 +11,86 @@
           "id": "D1",
           "url": "https://x.com/Bybit_Official/status/2116832874439540892",
           "account": "@Bybit_Official",
-          "context_pt": "WSOT 2026 sign-up; partner; (b) community/Bybit Alpha",
+          "context_pt": "Chamada de inscrição WSOT 2026 (07:01 Fortaleza, ~24,7k impressões, 25 replies). Parceiro; (b) comunidade leve.",
           "chosen": null,
           "posted": false,
-          "status": "pendente"
+          "status": "pendente",
+          "options": {
+            "a": "signing up before i talk myself out of it. last minute is my whole trading style",
+            "b": "gud luck to everyone entering. fluxionians in there, make the mantle side proud 🫡",
+            "c": "wsot season is when every bio on the timeline suddenly says \"trader\""
+          },
+          "postedText": null,
+          "discardReason": null,
+          "postedUrl": null
         },
         {
           "id": "D2",
           "url": "https://x.com/amonyconnect/status/2116770958350450906",
           "account": "@amonyconnect",
-          "context_pt": "DTCC Tokenization Service; (b) liquidez/execução",
+          "context_pt": "Fio DTCC Tokenization Service lançado 28/10 (confirmado DTCC) (02:54 Fortaleza, 31 replies, 53k followers). \"34 nomes\" do post NÃO entra na reply. (b) liquidez/execução.",
           "chosen": null,
           "posted": false,
-          "status": "pendente"
+          "status": "pendente",
+          "options": {
+            "a": "wall st plumbing just got a firmware update and most people will scroll right past it",
+            "b": "tokenizing is step one. the part nobody tweets about is where it trades and how deep the book is. thats where we live",
+            "c": "the same crowd that called tokenization a fad is now running the tokenization service. thats the whole story"
+          },
+          "postedText": null,
+          "discardReason": null,
+          "postedUrl": null
         },
         {
           "id": "D3",
           "url": "https://x.com/JusdieneFi/status/2116822043911922079",
           "account": "@JusdieneFi",
-          "context_pt": "Watchlist DeFi 2-8/11 tokenized equities #1; (b) Atomic RFQ",
+          "context_pt": "Watchlist semana 2–8/11 com tokenized equities em 1º (06:17 Fortaleza, 88 likes). (b) Atomic RFQ.",
           "chosen": null,
           "posted": false,
-          "status": "pendente"
+          "status": "pendente",
+          "options": {
+            "a": "a watchlist that isnt \"coins that will pump\" on a sunday? fren is built different",
+            "b": "gud list. one thing to add under tokenized equities: how size actually fills onchain. thats the question Atomic RFQ on mantle exists for",
+            "c": "tokenized equities at #1 on a defi watchlist. a year ago that slot was reserved for a dog coin"
+          },
+          "postedText": null,
+          "discardReason": null,
+          "postedUrl": null
         },
         {
           "id": "D4",
           "url": "https://x.com/unusual_whales/status/2116696976972804386",
           "account": "@unusual_whales",
-          "context_pt": "BCG CEO trust survey (números NÃO VERIFICADOS, fora da reply); (b) comunidade",
+          "context_pt": "CEOs acham que funcionários confiam neles mais do que de fato (22:01 sáb Fortaleza, ~343k impressões). Números BCG via unusual_whales NÃO VERIFICADOS — nenhuma reply cita número. (b) comunidade leve.",
           "chosen": null,
           "posted": false,
-          "status": "pendente"
+          "status": "pendente",
+          "options": {
+            "a": "the gap between those two numbers has a name. its called the all-hands meeting",
+            "b": "we skip the survey. fluxionians just tell us in the replies, loudly, every day",
+            "c": "ceo confidence might be the most lagging indicator ever invented"
+          },
+          "postedText": null,
+          "discardReason": null,
+          "postedUrl": null
         },
         {
           "id": "D5",
           "url": "https://x.com/sakazll/status/2116728829515342042",
           "account": "@sakazll",
-          "context_pt": "Chainlink 24/7 tokenized stocks; única (b) 24/7",
+          "context_pt": "\"Stocks close on Friday. Tokenized stocks dont.\" (00:07 Fortaleza). Conta pequena; assunto nosso; Chainlink confirmou 24/7 em 29/10. Única reply da edição com ângulo 24/7.",
           "chosen": null,
           "posted": false,
-          "status": "pendente"
+          "status": "pendente",
+          "options": {
+            "a": "stocks clocking out friday at 4 like they have a union",
+            "b": "weekend pricing was the missing piece. xStocks on mantle never clocked out, now the oracles dont either",
+            "c": "the weekend gap was never a feature. it was a 1970s scheduling problem"
+          },
+          "postedText": null,
+          "discardReason": null,
+          "postedUrl": null
         }
       ],
       "posts": [
@@ -58,36 +98,72 @@
           "id": "DP1",
           "source": "https://x.com/xStocksFi/status/2115826291903799729",
           "numbers_verified": true,
-          "angle_pt": "domingo + >50% volume xStocks fora do horário (Kraken)"
+          "angle_pt": "domingo + >50% volume xStocks fora do horário (Kraken)",
+          "text": "its sunday. nyse is asleep\n\nper xStocks, over half of xStocks volume on Kraken now trades outside traditional hours\n\nnights and weekends arent the off-season anymore\n\nwhat are you trading while wall st naps?",
+          "context_pt": "Fonte xStocks 29/10 — \"over 50%\" no Kraken. Domingo é o melhor dia. Não repete $1B AUM.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pendente",
+          "postedUrl": null
         },
         {
           "id": "DP2",
           "source": "https://x.com/chainlink/status/2115809875221524765",
           "numbers_verified": true,
-          "angle_pt": "Chainlink 24/7; Aave omitida (outra chain)"
+          "angle_pt": "Chainlink 24/7; Aave omitida (outra chain)",
+          "text": "weekend pricing for stocks used to be a meme\n\nthis week chainlink shipped 24/7 pricing for tokenized assets\n\nthe rails are being built for a market that never clocks out. but a listing is not a market. liquidity and execution still decide where it actually trades\n\nwhats still missing for you?",
+          "context_pt": "Anúncio Chainlink 29/10. Aave omitida (outra chain). Sem números.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pendente",
+          "postedUrl": null
         },
         {
           "id": "DP3",
           "source": null,
           "numbers_verified": true,
-          "angle_pt": "novo mês, pergunta de ticker, sem números"
+          "angle_pt": "novo mês, pergunta de ticker, sem números",
+          "text": "first sunday of november\n\nstocks closed friday. fluxionians didnt\n\ndrop the one ticker you want onchain on a sunday this month 👇",
+          "context_pt": "Primeiro fim de semana do mês; pergunta aberta. Sem números.",
+          "chosen": null,
+          "postedText": null,
+          "discardReason": null,
+          "posted": false,
+          "status": "pendente",
+          "postedUrl": null
         }
       ],
       "memes": [
         {
           "id": "DM1",
           "example": "https://x.com/itsmepris0ner/status/2116855146701340790",
-          "format_pt": "metas de novembro"
+          "format_pt": "metas de novembro",
+          "caption": "november goals:\n> touch grass\n> sleep before 3am\n> stop checking xStocks on a sunday\nprogress: 0/3",
+          "image_prompt": "Realistic magazine photo, 35mm lens, shallow depth of field. A real sunlit café table on a Sunday morning, warm natural window light, soft shadows, a ceramic coffee cup, a croissant on a plate, an open paper notebook with a pen (handwriting blurred and illegible), a phone face-up showing an out-of-focus price chart. Sitting next to the notebook is Fluxion's official mascot: a small glossy black vinyl-toy cat with three spiky ears, a white swirl logo on the forehead, a blue-to-purple glowing visor with cyan LED eyes, a softly glowing nebula belly and a flame-tipped tail, staring at the phone instead of the notebook. Real contact shadow and subtle reflection on the table. Neon glow only on the toy. No text in the image.\nAvoid: neon environments, glowing water, purple/cyan fantasy CGI backgrounds, oversaturated sci-fi, readable text or logos, extra mascots.",
+          "chosen": null,
+          "posted": false,
+          "status": "pendente",
+          "postedUrl": null
         },
         {
           "id": "DM2",
           "example": "https://x.com/kingsonnofweb3/status/2116786317136650348",
-          "format_pt": "POV locked in"
+          "format_pt": "POV locked in",
+          "caption": "pov: nyse closed friday and you're still locked in on sunday",
+          "image_prompt": "Realistic magazine photo, 35mm lens, shallow depth of field. A real home desk late on a Sunday night, a warm desk lamp, a laptop screen glowing with an out-of-focus trading chart, a half-empty mug and headphones, a window behind showing a quiet city street with a few lit windows. Fluxion's official mascot (small glossy black vinyl-toy cat, three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) sits upright in front of the laptop in an intense focused pose, the screen light reflecting on its visor. Real contact shadow on the desk. Neon glow only on the toy. No text in the image.\nAvoid: neon environments, glowing water, purple/cyan fantasy CGI backgrounds, oversaturated sci-fi, readable text on screen, extra mascots.",
+          "chosen": null,
+          "posted": false,
+          "status": "pendente",
+          "postedUrl": null
         }
       ]
     }
   ],
-  "notes_pt": "01/11 domingo manhã: parceiros quietos (só Bybit). Excluídos: hack Binance (concorrente/incidente), Aster, Matcha/Mantle, China crackdown. NÃO VERIFICADO: $4.64B tokenized stocks (Token Terminal via CryptoBriefing), +170% ETH, $678M->$3.2B. Balanço por repórter: edição feita pela Bruna direto no X (sem pacote de repórter nesta janela); contagem sugestões→usadas a preencher após ESCOLHAS.",
+  "notes_pt": "01/11 domingo manhã: parceiros quietos (só Bybit). Excluídos: hack Binance (concorrente/incidente), Aster, Matcha/Mantle, China crackdown. NÃO VERIFICADO: $4.64B tokenized stocks (Token Terminal via CryptoBriefing), +170% ETH, $678M->$3.2B. Balanço por repórter: edição feita pela Bruna direto no X (sem pacote de repórter nesta janela); contagem sugestões→usadas a preencher após ESCOLHAS. Page Clarim 01/11 publicada com packs Abrir (a/b/c, use/own/discard).",
   "pending": [
     "D1",
     "D2",
