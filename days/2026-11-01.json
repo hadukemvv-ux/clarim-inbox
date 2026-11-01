@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-01",
+  "editions": [
+    {
+      "slot": "manha",
+      "createdAt": "2026-11-01T12:15:00.000Z",
+      "source": "Clarim Diário (routine 09:00)",
+      "artifact": "artifacts/clarim-diario/2026-11-01-manha.md",
+      "replies": [
+        {
+          "id": "D1",
+          "url": "https://x.com/Bybit_Official/status/2116832874439540892",
+          "account": "@Bybit_Official",
+          "context_pt": "WSOT 2026 sign-up; partner; (b) community/Bybit Alpha",
+          "chosen": null,
+          "posted": false,
+          "status": "pendente"
+        },
+        {
+          "id": "D2",
+          "url": "https://x.com/amonyconnect/status/2116770958350450906",
+          "account": "@amonyconnect",
+          "context_pt": "DTCC Tokenization Service; (b) liquidez/execução",
+          "chosen": null,
+          "posted": false,
+          "status": "pendente"
+        },
+        {
+          "id": "D3",
+          "url": "https://x.com/JusdieneFi/status/2116822043911922079",
+          "account": "@JusdieneFi",
+          "context_pt": "Watchlist DeFi 2-8/11 tokenized equities #1; (b) Atomic RFQ",
+          "chosen": null,
+          "posted": false,
+          "status": "pendente"
+        },
+        {
+          "id": "D4",
+          "url": "https://x.com/unusual_whales/status/2116696976972804386",
+          "account": "@unusual_whales",
+          "context_pt": "BCG CEO trust survey (números NÃO VERIFICADOS, fora da reply); (b) comunidade",
+          "chosen": null,
+          "posted": false,
+          "status": "pendente"
+        },
+        {
+          "id": "D5",
+          "url": "https://x.com/sakazll/status/2116728829515342042",
+          "account": "@sakazll",
+          "context_pt": "Chainlink 24/7 tokenized stocks; única (b) 24/7",
+          "chosen": null,
+          "posted": false,
+          "status": "pendente"
+        }
+      ],
+      "posts": [
+        {
+          "id": "DP1",
+          "source": "https://x.com/xStocksFi/status/2115826291903799729",
+          "numbers_verified": true,
+          "angle_pt": "domingo + >50% volume xStocks fora do horário (Kraken)"
+        },
+        {
+          "id": "DP2",
+          "source": "https://x.com/chainlink/status/2115809875221524765",
+          "numbers_verified": true,
+          "angle_pt": "Chainlink 24/7; Aave omitida (outra chain)"
+        },
+        {
+          "id": "DP3",
+          "source": null,
+          "numbers_verified": true,
+          "angle_pt": "novo mês, pergunta de ticker, sem números"
+        }
+      ],
+      "memes": [
+        {
+          "id": "DM1",
+          "example": "https://x.com/itsmepris0ner/status/2116855146701340790",
+          "format_pt": "metas de novembro"
+        },
+        {
+          "id": "DM2",
+          "example": "https://x.com/kingsonnofweb3/status/2116786317136650348",
+          "format_pt": "POV locked in"
+        }
+      ]
+    }
+  ],
+  "notes_pt": "01/11 domingo manhã: parceiros quietos (só Bybit). Excluídos: hack Binance (concorrente/incidente), Aster, Matcha/Mantle, China crackdown. NÃO VERIFICADO: $4.64B tokenized stocks (Token Terminal via CryptoBriefing), +170% ETH, $678M->$3.2B. Balanço por repórter: edição feita pela Bruna direto no X (sem pacote de repórter nesta janela); contagem sugestões→usadas a preencher após ESCOLHAS.",
+  "pending": [
+    "D1",
+    "D2",
+    "D3",
+    "D4",
+    "D5",
+    "DP1",
+    "DP2",
+    "DP3",
+    "DM1",
+    "DM2"
+  ]
+}
