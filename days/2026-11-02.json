@@ -204,6 +204,24 @@
       "b": "350 companies reporting this week, per xStocks\n350 of them already tokenized, per xStocks\n\nthe interesting part isnt the count\nit's that after-hours headlines dont wait for monday's open anymore\n\nnyse clocks out at 6pm fortaleza. the book on mantle doesnt",
       "c": "earnings prints love after-hours\n\nxStocks says 350 names report this week and those tokens already exist\n\na listing is not a market — Atomic RFQ on fluxion is for when the print moves size and the bell already rang\n\nyou reacting tonight or waiting for the open?"
      }
+    },
+    {
+     "id": "DP5",
+     "source": "https://x.com/krakenlistings/status/2117308260898476417",
+     "text": null,
+     "context_pt": "Mathias 15h: Apple 1ª call novo CEO + Palantir ambos 17h ET after close. Post próprio, sem engajar krakenlistings. AAPLx ok (Mantle); PLTRx não confirmado em Fluxion/Mantle. Sem 24/7, sem cidade. Continua tip 12h / P8.",
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null,
+     "posted": false,
+     "status": "pendente",
+     "postedUrl": null,
+     "options": {
+      "a": "tonight after the bell:\napple's first earnings call under the new ceo\npalantir reports the same hour\n\nAAPLx on mantle via fluxion already has the book open when the print hits\nAtomic RFQ for when size shows up",
+      "b": "two prints. one window.\n\napple's first under the new ceo + palantir\nboth after the close\n\nthe headline lands. AAPLx on mantle via fluxion is still filling\nAtomic RFQ if size shows up",
+      "c": "apple's first call with the new ceo lands after the bell\npalantir same hour\n\nthe open can wait. AAPLx on mantle via fluxion doesnt need to\n\nwhich print are you watching?"
+     },
+     "note_pt": "URGENTE — postar antes do print (~19h Fortaleza). Fonte só referência; não engajar."
     }
    ],
    "memes": [
@@ -277,7 +295,7 @@
    ]
   }
  ],
- "notes_pt": "Correção relógio: sexta 30/10 a NYSE fechou 16h ET = 17h Fortaleza (EUA ainda em EDT); segunda 02/11 abre 9:30 ET (EST) = 11:30 Fortaleza. Mathias disse 18h — corrigido. Sem números de volume do fim de semana. Deixados de fora: Mantle growth (já outubro), defi_genx (não verificado), HYPERBEASTAI (rival), BlogPrezesa (quase advice), bigmelloww (emissores rivais). | Seg 02/11 08:05 (routine Weekend Resume): pacote do Mathias revisado e mantido (WR1 a/b/c), sem pedido de catch-up; Page 'Clarim Weekend Resume 02/11' entregue ao Hadukem. Sem tags Weekend Resume do Gleison. | Seg 02/11 ~10:55: Page 'Clarim · 02/11' (modal Abrir) com Diário D1–D5/DP1–DP3/DM1–DM2 + Bruno B1–B2 + WR1. NÃO VERIFICADO: Tickeron earnings, Solana 1,7M holders/$12,4B volume, Scott Melker Google -10%. Gleison 09h: D1/D4 sem reply Fluxion. | CLARIM 02/11 escolhas (Hadukem): D1b; D2a; D3 own (texto sem header CLARIM D3 — inferido do bloco entre D2 e D4); D4a; D5 discard (já respondemos + Mantle respondeu); D6 own (Atomic RFQ opened till the print hits); D7b; DP1 discard (AI + associa OKX); DP2 discard (já reply no MIP-36); DP3 discard (regra live: >30min fora; hot=URGENTE); DP4 discard (AI + Fortaleza/cidade proibido); DM1 discard; DM2 HOLD (postar depois quando tiver Codex); B1/B2 discard (hook ok, opções ruins); WR1 discard (AI + localização). Regras novas: NUNCA citar Fortaleza/cidade no copy; anti-dup mesma URL no mesmo dia entre reporters; lives só janela <30min ou chamada URGENTE. Pediu análise overlap reporters (demitir?) + reenvio opções resumo mensal outubro.",
+ "notes_pt": "Correção relógio: sexta 30/10 a NYSE fechou 16h ET = 17h Fortaleza (EUA ainda em EDT); segunda 02/11 abre 9:30 ET (EST) = 11:30 Fortaleza. Mathias disse 18h — corrigido. Sem números de volume do fim de semana. Deixados de fora: Mantle growth (já outubro), defi_genx (não verificado), HYPERBEASTAI (rival), BlogPrezesa (quase advice), bigmelloww (emissores rivais). | Seg 02/11 08:05 (routine Weekend Resume): pacote do Mathias revisado e mantido (WR1 a/b/c), sem pedido de catch-up; Page 'Clarim Weekend Resume 02/11' entregue ao Hadukem. Sem tags Weekend Resume do Gleison. | Seg 02/11 ~10:55: Page 'Clarim · 02/11' (modal Abrir) com Diário D1–D5/DP1–DP3/DM1–DM2 + Bruno B1–B2 + WR1. NÃO VERIFICADO: Tickeron earnings, Solana 1,7M holders/$12,4B volume, Scott Melker Google -10%. Gleison 09h: D1/D4 sem reply Fluxion. | CLARIM 02/11 escolhas (Hadukem): D1b; D2a; D3 own (texto sem header CLARIM D3 — inferido do bloco entre D2 e D4); D4a; D5 discard (já respondemos + Mantle respondeu); D6 own (Atomic RFQ opened till the print hits); D7b; DP1 discard (AI + associa OKX); DP2 discard (já reply no MIP-36); DP3 discard (regra live: >30min fora; hot=URGENTE); DP4 discard (AI + Fortaleza/cidade proibido); DM1 discard; DM2 HOLD (postar depois quando tiver Codex); B1/B2 discard (hook ok, opções ruins); WR1 discard (AI + localização). Regras novas: NUNCA citar Fortaleza/cidade no copy; anti-dup mesma URL no mesmo dia entre reporters; lives só janela <30min ou chamada URGENTE. Pediu análise overlap reporters (demitir?) + reenvio opções resumo mensal outubro. | Seg 02/11 ~15:10: Mathias 15h tip → DP5 (Apple new CEO call + Palantir 17h ET). AAPLx confirmado via Mantle; PLTRx sem menção Fluxion/Mantle — omitido. Sem engajar krakenlistings. Page Clarim · 02/11 atualizada.",
  "pending": [
   "DM2"
  ]

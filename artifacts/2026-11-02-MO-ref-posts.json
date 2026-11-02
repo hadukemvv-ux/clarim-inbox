@@ -1,0 +1,718 @@
+{
+ "date": "2026-11-02",
+ "title": "Clarim October wrap — QT reference pack",
+ "tz": "America/Fortaleza (UTC-3)",
+ "posts": {
+  "mantle_easy": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2105621195827908842",
+   "date_fortaleza": "2026-10-01 08:29",
+   "why": "Mantle original: \"POV: trading breaking news on tokenized equities off-market hours. 24/7/365 via @Fluxion_network AMM on Mantle. Easy mode.\"",
+   "role": "primary",
+   "verified": true
+  },
+  "flux_easy": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2105663776901239032",
+   "date_fortaleza": "2026-10-01 11:19",
+   "why": "Fluxion QT: \"Maximum effort on easy mode / We can just Mantle it 🏆\"",
+   "role": "alt (own)",
+   "verified": true
+  },
+  "flux_kii": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2106027172612001949",
+   "date_fortaleza": "2026-10-02 11:23",
+   "why": "KII/USDT0 \"DeFi Summer energy\": 434.15% APR, 24h vol ~$794K→~$1.83M, $1.54M+ from this pool",
+   "role": "primary (own; no Kii original found)",
+   "verified": true
+  },
+  "flux_kii_500": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2106027611172278325",
+   "date_fortaleza": "2026-10-02 11:24",
+   "why": "Thread reply: KII/USDT0 pool from @KiiChainio passed 500% APR",
+   "role": "alt (own)",
+   "verified": true
+  },
+  "flux_kii_bikini": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2112678804946911285",
+   "date_fortaleza": "2026-10-20 19:54",
+   "why": "Oct 20: \"Fluxionians enjoying the pool party on KII / USDT0 pool / time to take on the bikini\" (proves \"still going on the 20th\")",
+   "role": "alt (own)",
+   "verified": true
+  },
+  "flux_vault_end": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2107118296541667752",
+   "date_fortaleza": "2026-10-05 11:38",
+   "why": "500k Fluxion Points Mantle DeFi Vault campaign concluded; thanks @Mantle_Official @grovedotfinance @CIAN_protocol (thread explains layered vault)",
+   "role": "primary (own; no Grove/CIAN original in Oct)",
+   "verified": true
+  },
+  "flux_vault_launch": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2092637603455549947",
+   "date_fortaleza": "2026-08-26 12:37",
+   "why": "Aug 26 launch post: Mantle Vault live on Fluxion, up to 10.02% APR + 500k points (outside October, context only)",
+   "role": "alt (own, pre-October)",
+   "verified": true
+  },
+  "xstocks_strcx": {
+   "handle": "@xStocksFi",
+   "url": "https://x.com/xStocksFi/status/2108184197517255069",
+   "date_fortaleza": "2026-10-08 10:14",
+   "why": "xStocks original: $STRCx world's largest tokenized equity by circulating mcap, $158M+ of Strategy preferred onchain (681 likes)",
+   "role": "primary",
+   "verified": true
+  },
+  "flux_strcx": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2108269663008284927",
+   "date_fortaleza": "2026-10-08 15:53",
+   "why": "Fluxion take: size is the headline, a market makes it usable; Atomic RFQ + AMM depth (15 likes, best own post of month)",
+   "role": "alt (own)",
+   "verified": true
+  },
+  "xstocks_strcx_defi": {
+   "handle": "@xStocksFi",
+   "url": "https://x.com/xStocksFi/status/2109636071449665918",
+   "date_fortaleza": "2026-10-12 10:23",
+   "why": "xStocks: STRCx largest tokenized equity in DeFi, powering Pendle/Exponent rate markets",
+   "role": "extra",
+   "verified": true
+  },
+  "mantle_1100": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2108546712721850430",
+   "date_fortaleza": "2026-10-09 10:14",
+   "why": "Mantle: 1,100+ tokenized assets in under six months, issued by @xStocksFi, tradable on @Fluxion_network via AMM or RFQ",
+   "role": "primary",
+   "verified": true
+  },
+  "mantle_40": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2109622960248230189",
+   "date_fortaleza": "2026-10-12 09:31",
+   "why": "Mantle: tokenized stock circulating supply +40% in six months per @blockworksres; tradeable 24/7, LP on Fluxion",
+   "role": "primary",
+   "verified": true
+  },
+  "mantle_todo": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2109986244017197116",
+   "date_fortaleza": "2026-10-13 09:34",
+   "why": "Mantle to-do list for every asset class: item one \"Trade 24/7 on @Fluxion_network\"",
+   "role": "primary",
+   "verified": true
+  },
+  "flux_40_qt": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2110039719681659004",
+   "date_fortaleza": "2026-10-13 13:07",
+   "why": "Fluxion QT of the +40% post: next is execution",
+   "role": "alt (own)",
+   "verified": true
+  },
+  "mantle_q3": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2112876822753079611",
+   "date_fortaleza": "2026-10-21 09:01",
+   "why": "Mantle Q3 recap (Nansen): 1,473 tokenized assets, $476M distributed; thread names Grove, CIAN, Fluxion under Yield",
+   "role": "extra",
+   "verified": true
+  },
+  "mantle_q3_layers": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2112876835696697507",
+   "date_fortaleza": "2026-10-21 09:01",
+   "why": "Q3 thread layer 3 \"Yield → @grovedotfinance, @CIAN_protocol, @Fluxion_network\" (closest partner-side vault credit)",
+   "role": "extra",
+   "verified": true
+  },
+  "flux_bell_fri": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2113721029420011565",
+   "date_fortaleza": "2026-10-23 16:55",
+   "why": "Bell series #1: \"last bell of the week today at 4pm ET\" + week preview",
+   "role": "bell series",
+   "verified": true
+  },
+  "flux_bell_sun": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2114357773790044393",
+   "date_fortaleza": "2026-10-25 11:05",
+   "why": "Sunday preview: Fed Wed, MSFT+GOOGL same evening, AMZN+COIN Thu",
+   "role": "bell series",
+   "verified": true
+  },
+  "flux_bell_mon": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2114858107134189742",
+   "date_fortaleza": "2026-10-26 20:13",
+   "why": "\"monday bell just rang\": nasdaq/s&p/tesla/btc recap",
+   "role": "bell series",
+   "verified": true
+  },
+  "flux_fed": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2115443107370246371",
+   "date_fortaleza": "2026-10-28 10:58",
+   "why": "\"fed today at 2pm ET / pools at 2am: still open\"",
+   "role": "bell series",
+   "verified": true
+  },
+  "flux_bell_thread": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2115952669634547791",
+   "date_fortaleza": "2026-10-29 20:43",
+   "why": "Thread \"the bell rang at 4pm ET. the reports kept coming 🧵\": Amazon, Strategy, Alphabet, Apple next",
+   "role": "primary (own)",
+   "verified": true
+  },
+  "mantle_earnings_wk": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2114720930933158014",
+   "date_fortaleza": "2026-10-26 11:08",
+   "why": "Mantle: internet giants report this week; trade xStocks 24/7 on Fluxion right through the call",
+   "role": "partner",
+   "verified": true
+  },
+  "xstocks_googl": {
+   "handle": "@xStocksFi",
+   "url": "https://x.com/xStocksFi/status/2115503873633001525",
+   "date_fortaleza": "2026-10-28 15:00",
+   "why": "Alphabet reports after close; $GOOGLx 24/7",
+   "role": "partner",
+   "verified": true
+  },
+  "xstocks_msft": {
+   "handle": "@xStocksFi",
+   "url": "https://x.com/xStocksFi/status/2115515703193489472",
+   "date_fortaleza": "2026-10-28 15:47",
+   "why": "Microsoft reports after close; $MSFTx 24/7",
+   "role": "partner",
+   "verified": true
+  },
+  "mantle_amzn_mstr": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2115795098760085988",
+   "date_fortaleza": "2026-10-29 10:17",
+   "why": "Mantle: Amazon + Strategy report after close, trade them 24/7 on Fluxion via AMM + RFQ",
+   "role": "partner",
+   "verified": true
+  },
+  "xstocks_mstr": {
+   "handle": "@xStocksFi",
+   "url": "https://x.com/xStocksFi/status/2115874197532795162",
+   "date_fortaleza": "2026-10-29 15:31",
+   "why": "\"₿ig earnings day\": Strategy reports after close, MSTRx 24/7",
+   "role": "partner",
+   "verified": true
+  },
+  "strategy_q3": {
+   "handle": "@Strategy",
+   "url": "https://x.com/Strategy/status/2115897768409432353",
+   "date_fortaleza": "2026-10-29 17:05",
+   "why": "Strategy Q3 2026 results: $21B operating income, 848,517 BTC",
+   "role": "partner",
+   "verified": true
+  },
+  "amazon_q3": {
+   "handle": "@amazon",
+   "url": "https://x.com/amazon/status/2115901128944836692",
+   "date_fortaleza": "2026-10-29 17:18",
+   "why": "Amazon: Q3 2026 earnings are in",
+   "role": "partner",
+   "verified": true
+  },
+  "mantle_tech_stack": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2116193444607771002",
+   "date_fortaleza": "2026-10-30 12:40",
+   "why": "Mantle: full tech stack trades 24/7/365 on @Fluxion_network via AMM + Atomic RFQ, issued by @xStocksFi",
+   "role": "partner",
+   "verified": true
+  },
+  "strategy_daily": {
+   "handle": "@Strategy",
+   "url": "https://x.com/Strategy/status/2115451848261869619",
+   "date_fortaleza": "2026-10-28 11:33",
+   "why": "Strategy original: MSTR holders approved Daily Dividends amendment (99.3% in favor); STRC etc accrue every calendar day",
+   "role": "primary",
+   "verified": true
+  },
+  "strategy_daily_dates": {
+   "handle": "@Strategy",
+   "url": "https://x.com/Strategy/status/2115451850921324698",
+   "date_fortaleza": "2026-10-28 11:33",
+   "why": "Thread: every calendar day a record date; STRC first record Nov 1, pay Nov 2",
+   "role": "extra",
+   "verified": true
+  },
+  "xstocks_daily": {
+   "handle": "@xStocksFi",
+   "url": "https://x.com/xStocksFi/status/2115478522840166592",
+   "date_fortaleza": "2026-10-28 13:19",
+   "why": "xStocks: daily STRC dividends approved, STRCx accruing automatically in your balance",
+   "role": "alt (partner, mentions STRCx)",
+   "verified": true
+  },
+  "saylor_daily": {
+   "handle": "@saylor",
+   "url": "https://x.com/saylor/status/2115451822915928244",
+   "date_fortaleza": "2026-10-28 11:33",
+   "why": "Saylor same announcement (6.8k likes); Fluxion already QT'd this one",
+   "role": "alt",
+   "verified": true
+  },
+  "flux_daily_qt": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2115480013000630536",
+   "date_fortaleza": "2026-10-28 13:25",
+   "why": "Fluxion QT: \"dividends that count weekends too. the calendar finally caught up with the market\"",
+   "role": "alt (own)",
+   "verified": true
+  },
+  "flux_halloween": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2116610334677143734",
+   "date_fortaleza": "2026-10-31 16:16",
+   "why": "\"(UP?)TOBER SURVIVAL CHECK: drop the scariest candle you saw this month\"",
+   "role": "primary (own)",
+   "verified": true
+  },
+  "flux_halloween_ewz": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2116610919115489554",
+   "date_fortaleza": "2026-10-31 16:19",
+   "why": "Fluxion's own first reply: \"booooooooooooo $EWZ\" (candle image)",
+   "role": "alt (own)",
+   "verified": true
+  },
+  "mantle_oct_recap": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2116500479589196005",
+   "date_fortaleza": "2026-10-31 09:00",
+   "why": "Mantle October recap thread: double-digit growth, Reth, xStocks/Bybit/CIAN; item 1 = +40% tokenized stock supply per @blockworksres; item 6 = CIAN stablecoin yield deposits +29% to $107M (largest of any L2); item 14 xStocks AUM >$1B",
+   "role": "partner",
+   "verified": true
+  },
+  "flux_oct_recap_qt": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2116609351351779434",
+   "date_fortaleza": "2026-10-31 16:12",
+   "why": "Fluxion QT of Mantle recap: tokenized stock supply +40% in six months",
+   "role": "alt (own)",
+   "verified": true
+  },
+  "flux_holders": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2116167215070454206",
+   "date_fortaleza": "2026-10-30 10:55",
+   "why": "Own post: tokenized stocks 4.51M holders (+12%), $3.77B distributed (+17.8%)",
+   "role": "own",
+   "verified": true
+  },
+  "xstocks_bigweek": {
+   "handle": "@xStocksFi",
+   "url": "https://x.com/xStocksFi/status/2114768690361344064",
+   "date_fortaleza": "2026-10-26 14:18",
+   "why": "xStocks: biggest earnings week, 300+ cos incl Amazon, Alphabet, Microsoft, Visa, Exxon",
+   "role": "primary (partner)",
+   "verified": true
+  },
+  "flux_bossfight": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2114771861066396074",
+   "date_fortaleza": "2026-10-26 14:31",
+   "why": "Original \"visa and amazon dropping numbers the same week feels like a boss fight\" (QT of xStocks)",
+   "role": "primary (own, the original line)",
+   "verified": true
+  },
+  "mantle_mantle_bigtech": {
+   "handle": "@Mantle_Official",
+   "url": "https://x.com/Mantle_Official/status/2112968615033208902",
+   "date_fortaleza": "2026-10-21 15:05",
+   "why": "Mantle: big tech earnings, trade xStocks 24/7 on Fluxion with RFQ + AMM",
+   "role": "extra",
+   "verified": true
+  },
+  "phongle_strcx": {
+   "handle": "@phongle",
+   "url": "https://x.com/phongle/status/2108188484766761086",
+   "date_fortaleza": "2026-10-08 10:31",
+   "why": "Community receipt: QT of STRCx milestone \"Awesome.\" (1.29k likes)",
+   "role": "community",
+   "verified": true
+  },
+  "rekt_shoutout": {
+   "handle": "@rektdiomedes",
+   "url": "https://x.com/rektdiomedes/status/2111220526395879862",
+   "date_fortaleza": "2026-10-16 19:19",
+   "why": "Community: clip of benbybit keynote; Fluxion thanked on Oct 20",
+   "role": "community",
+   "verified": true
+  },
+  "flux_rekt_qt": {
+   "handle": "@Fluxion_network",
+   "url": "https://x.com/Fluxion_network/status/2112600616694681822",
+   "date_fortaleza": "2026-10-20 14:43",
+   "why": "Fluxion thanks @rektdiomedes: execution turns tokenized assets into instruments",
+   "role": "community (own)",
+   "verified": true
+  },
+  "heybeluga": {
+   "handle": "@heybeluga",
+   "url": "https://x.com/heybeluga/status/2114977056484147234",
+   "date_fortaleza": "2026-10-27 04:06",
+   "why": "Newsletter defending tokenized stocks vs WSJ ad; Fluxion QT'd it Oct 27",
+   "role": "community",
+   "verified": true
+  }
+ },
+ "beats": [
+  {
+   "beat": 1,
+   "title": "Oct 1 Mantle \"easy mode\"",
+   "refs": [
+    "mantle_easy",
+    "flux_easy"
+   ],
+   "supports": "A2, C2"
+  },
+  {
+   "beat": 2,
+   "title": "Oct 2 (+Oct 20) KII/USDT0 pool party",
+   "refs": [
+    "flux_kii",
+    "flux_kii_500",
+    "flux_kii_bikini"
+   ],
+   "supports": "A3, C3",
+   "flag": "No KiiChainio original about the pool found in Oct; only Fluxion own posts."
+  },
+  {
+   "beat": 3,
+   "title": "Oct 5 500k points Mantle DeFi Vault (Grove + CIAN)",
+   "refs": [
+    "flux_vault_end",
+    "mantle_q3_layers",
+    "mantle_oct_recap",
+    "flux_vault_launch"
+   ],
+   "supports": "A4, B7, C4",
+   "flag": "No Grove or CIAN own post about the vault/campaign in Oct (CIAN only RT'd Mantle roundup). Best partner-side credit = Mantle Q3 thread layer 3."
+  },
+  {
+   "beat": 4,
+   "title": "Oct 8 STRCx largest tokenized equity $158M+",
+   "refs": [
+    "xstocks_strcx",
+    "flux_strcx",
+    "xstocks_strcx_defi",
+    "phongle_strcx"
+   ],
+   "supports": "A5, B2, C5"
+  },
+  {
+   "beat": 5,
+   "title": "Oct 9–13 Mantle 1,100+ assets / +40% supply (blockworksres) / to-do list",
+   "refs": [
+    "mantle_1100",
+    "mantle_40",
+    "mantle_todo",
+    "flux_40_qt",
+    "mantle_q3"
+   ],
+   "supports": "A6, B4",
+   "flag": "No blockworksres original with the 40% stat found; Mantle 2109622960248230189 is the citing source. Note Mantle Q3 post (Oct 21) says 1,473 tokenized assets vs 1,100+ on Oct 9."
+  },
+  {
+   "beat": 6,
+   "title": "Oct 23–29 bell series / Fed + MSFT/GOOGL/AMZN/Strategy",
+   "refs": [
+    "flux_bell_thread",
+    "flux_bell_fri",
+    "flux_bell_sun",
+    "flux_bell_mon",
+    "flux_fed",
+    "mantle_earnings_wk",
+    "xstocks_googl",
+    "xstocks_msft",
+    "mantle_amzn_mstr",
+    "xstocks_mstr",
+    "strategy_q3",
+    "amazon_q3",
+    "mantle_tech_stack"
+   ],
+   "supports": "A7, B3, B5, C6"
+  },
+  {
+   "beat": 7,
+   "title": "Oct 28 MSTR daily dividends",
+   "refs": [
+    "strategy_daily",
+    "xstocks_daily",
+    "strategy_daily_dates",
+    "saylor_daily",
+    "flux_daily_qt"
+   ],
+   "supports": "A8, B6, C5"
+  },
+  {
+   "beat": 8,
+   "title": "Oct 31 Halloween scariest candle",
+   "refs": [
+    "flux_halloween",
+    "flux_halloween_ewz",
+    "mantle_oct_recap",
+    "flux_oct_recap_qt"
+   ],
+   "supports": "A9, C8",
+   "flag": "Halloween post got only 1 reply (Fluxion's own $EWZ) + a reply by @hadukemv, 0 quote posts; no community candle receipts to cite. \"you delivered\" (A9) is not backed by replies; consider softening."
+  },
+  {
+   "beat": 9,
+   "title": "Bonus: Visa+Amazon boss fight / Grove-CIAN / community receipts",
+   "refs": [
+    "flux_bossfight",
+    "xstocks_bigweek",
+    "amazon_q3",
+    "mantle_q3_layers",
+    "phongle_strcx",
+    "flux_rekt_qt",
+    "flux_holders"
+   ],
+   "supports": "C7 (+ extras)",
+   "flag": "No @Visa earnings post found in Oct 25–31 search."
+  }
+ ],
+ "mo_plan": {
+  "MO-A": [
+   {
+    "tweet": "A1",
+    "beat": "opener",
+    "qt": "no QT / hook tweet (optional: mantle_oct_recap)",
+    "qt_key": null,
+    "alts": []
+   },
+   {
+    "tweet": "A2",
+    "beat": "Oct 1 easy mode",
+    "qt": "https://x.com/Mantle_Official/status/2105621195827908842",
+    "qt_key": "mantle_easy",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2105663776901239032"
+    ]
+   },
+   {
+    "tweet": "A3",
+    "beat": "KII pool party",
+    "qt": "https://x.com/Fluxion_network/status/2106027172612001949",
+    "qt_key": "flux_kii",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2112678804946911285"
+    ]
+   },
+   {
+    "tweet": "A4",
+    "beat": "vault",
+    "qt": "https://x.com/Fluxion_network/status/2107118296541667752",
+    "qt_key": "flux_vault_end",
+    "alts": [
+     "https://x.com/Mantle_Official/status/2112876835696697507"
+    ]
+   },
+   {
+    "tweet": "A5",
+    "beat": "STRCx",
+    "qt": "https://x.com/xStocksFi/status/2108184197517255069",
+    "qt_key": "xstocks_strcx",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2108269663008284927"
+    ]
+   },
+   {
+    "tweet": "A6",
+    "beat": "1,100+/40%/to-do",
+    "qt": "https://x.com/Mantle_Official/status/2109986244017197116",
+    "qt_key": "mantle_todo",
+    "alts": [
+     "https://x.com/Mantle_Official/status/2109622960248230189",
+     "https://x.com/Mantle_Official/status/2108546712721850430"
+    ]
+   },
+   {
+    "tweet": "A7",
+    "beat": "bell series",
+    "qt": "https://x.com/Fluxion_network/status/2115952669634547791",
+    "qt_key": "flux_bell_thread",
+    "alts": [
+     "https://x.com/Mantle_Official/status/2115795098760085988",
+     "https://x.com/Fluxion_network/status/2115443107370246371"
+    ]
+   },
+   {
+    "tweet": "A8",
+    "beat": "daily dividends",
+    "qt": "https://x.com/Strategy/status/2115451848261869619",
+    "qt_key": "strategy_daily",
+    "alts": [
+     "https://x.com/xStocksFi/status/2115478522840166592"
+    ]
+   },
+   {
+    "tweet": "A9",
+    "beat": "Halloween",
+    "qt": "https://x.com/Fluxion_network/status/2116610334677143734",
+    "qt_key": "flux_halloween",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2116610919115489554"
+    ]
+   }
+  ],
+  "MO-B": [
+   {
+    "tweet": "B1",
+    "beat": "opener",
+    "qt": "no QT / hook tweet",
+    "qt_key": null,
+    "alts": []
+   },
+   {
+    "tweet": "B2",
+    "beat": "STRCx $158M+",
+    "qt": "https://x.com/xStocksFi/status/2108184197517255069",
+    "qt_key": "xstocks_strcx",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2108269663008284927"
+    ]
+   },
+   {
+    "tweet": "B3",
+    "beat": "RFQ + AMM on Mantle",
+    "qt": "https://x.com/Mantle_Official/status/2116193444607771002",
+    "qt_key": "mantle_tech_stack",
+    "alts": [
+     "https://x.com/Mantle_Official/status/2114720930933158014"
+    ]
+   },
+   {
+    "tweet": "B4",
+    "beat": "+40% / 4.51M holders",
+    "qt": "https://x.com/Mantle_Official/status/2109622960248230189",
+    "qt_key": "mantle_40",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2116167215070454206",
+     "https://x.com/Fluxion_network/status/2116609351351779434"
+    ]
+   },
+   {
+    "tweet": "B5",
+    "beat": "earnings after the bell",
+    "qt": "https://x.com/Fluxion_network/status/2115952669634547791",
+    "qt_key": "flux_bell_thread",
+    "alts": [
+     "https://x.com/xStocksFi/status/2114768690361344064",
+     "https://x.com/Mantle_Official/status/2115795098760085988"
+    ]
+   },
+   {
+    "tweet": "B6",
+    "beat": "daily dividends",
+    "qt": "https://x.com/Strategy/status/2115451848261869619",
+    "qt_key": "strategy_daily",
+    "alts": [
+     "https://x.com/xStocksFi/status/2115478522840166592"
+    ]
+   },
+   {
+    "tweet": "B7",
+    "beat": "thank-yous / november",
+    "qt": "https://x.com/Mantle_Official/status/2116500479589196005",
+    "qt_key": "mantle_oct_recap",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2107118296541667752"
+    ]
+   }
+  ],
+  "MO-C": [
+   {
+    "tweet": "C1",
+    "beat": "opener",
+    "qt": "no QT / hook tweet",
+    "qt_key": null,
+    "alts": []
+   },
+   {
+    "tweet": "C2",
+    "beat": "best opening line",
+    "qt": "https://x.com/Mantle_Official/status/2105621195827908842",
+    "qt_key": "mantle_easy",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2105663776901239032"
+    ]
+   },
+   {
+    "tweet": "C3",
+    "beat": "best pool party",
+    "qt": "https://x.com/Fluxion_network/status/2106027172612001949",
+    "qt_key": "flux_kii",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2112678804946911285"
+    ]
+   },
+   {
+    "tweet": "C4",
+    "beat": "best team-up",
+    "qt": "https://x.com/Fluxion_network/status/2107118296541667752",
+    "qt_key": "flux_vault_end",
+    "alts": [
+     "https://x.com/Mantle_Official/status/2112876835696697507"
+    ]
+   },
+   {
+    "tweet": "C5",
+    "beat": "heaviest ticker",
+    "qt": "https://x.com/xStocksFi/status/2108184197517255069",
+    "qt_key": "xstocks_strcx",
+    "alts": [
+     "https://x.com/xStocksFi/status/2115478522840166592"
+    ]
+   },
+   {
+    "tweet": "C6",
+    "beat": "longest week",
+    "qt": "https://x.com/Mantle_Official/status/2115795098760085988",
+    "qt_key": "mantle_amzn_mstr",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2115443107370246371",
+     "https://x.com/Fluxion_network/status/2115952669634547791"
+    ]
+   },
+   {
+    "tweet": "C7",
+    "beat": "boss fight",
+    "qt": "https://x.com/Fluxion_network/status/2114771861066396074",
+    "qt_key": "flux_bossfight",
+    "alts": [
+     "https://x.com/xStocksFi/status/2114768690361344064"
+    ]
+   },
+   {
+    "tweet": "C8",
+    "beat": "scariest candle / fluxionian of month",
+    "qt": "https://x.com/Fluxion_network/status/2116610334677143734",
+    "qt_key": "flux_halloween",
+    "alts": [
+     "https://x.com/Fluxion_network/status/2116610919115489554"
+    ]
+   }
+  ]
+ },
+ "warnings": [
+  "Day log 2026-10-31 lists Halloween post as https://x.com/Fluxion_network/status/2116611535221223476 — WRONG: that id is a Fluxion reply to @WatcherGuru (aapl/nvda). Correct Halloween post: 2116610334677143734."
+ ]
+}
