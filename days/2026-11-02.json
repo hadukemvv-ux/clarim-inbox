@@ -1,412 +1,420 @@
 {
-  "date": "2026-11-02",
-  "editions": [
+ "date": "2026-11-02",
+ "editions": [
+  {
+   "slot": "weekend-resume",
+   "createdAt": "2026-11-01T21:10:00.000Z",
+   "source": "Mathias Weekend Resume 01/11",
+   "posts": [
     {
-      "slot": "weekend-resume",
-      "createdAt": "2026-11-01T21:10:00.000Z",
-      "source": "Mathias Weekend Resume 01/11",
-      "posts": [
-        {
-          "id": "WR1",
-          "url": "https://x.com/MagnoFinance/status/2116572400540094480",
-          "account": "@MagnoFinance",
-          "context_pt": "Artigo sáb 31/10 13:45 Fortaleza: NYSE fecha sexta, token segue; quem forma preço no domingo e o gap da abertura de segunda. Post próprio, sem quote/engajar (Magno é agregador Solana, cita Raydium).",
-          "chosen": false,
-          "posted": false,
-          "status": "descartado",
-          "options": {
-            "a": "nyse clocked out friday at 5pm fortaleza time\nreopens monday 11:30 now that the US clocks moved back\n\nthat's 66 and a half hours of closed bell\n\nonchain, xStocks never got the memo. who's been setting your price since friday?",
-            "b": "the stock market closes. onchain doesn't\n\nfriday close → monday open was the longest the bell stayed quiet all week\n\nxStocks on mantle kept trading the whole stretch, with Atomic RFQ there for size\n\nwhat did you do with your weekend?",
-            "c": "a listing is not a market\n\nthe real test is a sunday: who's quoting, how deep, how clean the fill\n\nthats why Atomic RFQ exists on fluxion\n\nmonday open checks the answer 🔔"
-          },
-          "postedText": null,
-          "discardReason": "completamente AIficado e colocando localização (Fortaleza) nos posts — AI-sloop da semana",
-          "postedUrl": null
-        }
-      ]
-    },
-    {
-      "slot": "manha",
-      "createdAt": "2026-11-02T13:50:00.000Z",
-      "source": "Clarim Diário seg 02/11",
-      "canvas": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/e54bdf8d-b104-491c-83ae-a48dfc91806b",
-      "replies": [
-        {
-          "id": "D1",
-          "url": "https://x.com/Bybit_Official/status/2117206903168160129",
-          "account": "@Bybit_Official",
-          "context_pt": "Pergunta 1 ação por 10 anos (~40 replies, >20k views, 07:47). Parceiro; NÃO cite ticker.",
-          "chosen": "b",
-          "posted": false,
-          "status": "escolhido",
-          "options": {
-            "a": "ten years holding one stock? i cant even hold eye contact for ten seconds",
-            "b": "whichever ticker wins this thread, kinda wild it now comes as an xStock too",
-            "c": "the real answer is whichever one you wont panic sell in year 2"
-          },
-          "postedText": "whichever ticker wins this thread, kinda wild it now comes as an xStock too",
-          "discardReason": null,
-          "postedUrl": null
-        },
-        {
-          "id": "D2",
-          "url": "https://x.com/xStocksFi/status/2117193206945513632",
-          "account": "@xStocksFi",
-          "context_pt": "\"tokenization is inevitable\" citando Solana (~126 likes, 06:52). (b) liquidez sem nomear rede.",
-          "chosen": "a",
-          "posted": false,
-          "status": "escolhido",
-          "options": {
-            "a": "inevitable like monday coffee ngl",
-            "b": "inevitable, sure. the part that takes work is liquidity. a listing isnt a market",
-            "c": "hot take: \"inevitable\" is what people say right before the boring infra years. we love the boring infra years"
-          },
-          "postedText": "inevitable like monday coffee ngl",
-          "discardReason": null,
-          "postedUrl": null
-        },
-        {
-          "id": "D3",
-          "url": "https://x.com/Bybit_Official/status/2117199541925454292",
-          "account": "@Bybit_Official",
-          "context_pt": "Meme print commit / holding BTC since 2020 (~30 replies, 07:18). Leve, sem engage-só-BTC.",
-          "chosen": "own",
-          "posted": false,
-          "status": "escolhido",
-          "options": {
-            "a": "my seed phrase has outlasted three phones and two situationships",
-            "b": "longest relationship? the fluxionians in our replies every single day. ride or die frens",
-            "c": "holding since 2020 isnt commitment, its forgetting your password"
-          },
-          "postedText": "hope that holding since 2020 is real commitment, not about forgetting the password",
-          "discardReason": null,
-          "postedUrl": null
-        },
-        {
-          "id": "D4",
-          "url": "https://x.com/Mantle_Official/status/2117210375070654815",
-          "account": "@Mantle_Official",
-          "context_pt": "MIP-36 Halo Prime emissora parceira (não exclusiva, revogável, sem treasury) 08:01. NÃO diga aprovado/endosso.",
-          "chosen": "a",
-          "posted": false,
-          "status": "escolhido",
-          "options": {
-            "a": "monday morning governance drop, respect the grind",
-            "b": "more issuers on mantle means more size that needs to fill clean. Atomic RFQ stretching already",
-            "c": "unpopular opinion: the \"non-exclusive, revocable\" bullets are the bullish part. clear limits age well"
-          },
-          "postedText": "monday morning governance drop, respect the grind",
-          "discardReason": null,
-          "postedUrl": null
-        },
-        {
-          "id": "D5",
-          "url": "https://x.com/Mantle_Official/status/2117124836489408974",
-          "account": "@Mantle_Official",
-          "context_pt": "Mantle respondeu nosso post com \"our favourite personality trait.\" (02:21). Única (b) pós-fechamento.",
-          "chosen": false,
-          "posted": false,
-          "status": "descartado",
-          "options": {
-            "a": "putting this on our dating profile",
-            "b": "personality trait #2: still trading after the closing bell",
-            "c": "ngl we'd be offended if it was anything else"
-          },
-          "postedText": null,
-          "discardReason": "ja tinhamos respondido o post e eles reponderam a resposta, mais uma resposta fica muito repetitivo e cansativo",
-          "postedUrl": null
-        },
-        {
-          "id": "D6",
-          "url": "https://x.com/Mantle_Official/status/2117255732706062724",
-          "account": "@Mantle_Official",
-          "context_pt": "Gleison 12h: Mantle cita @Fluxion_network — AAPLx AMM+Atomic RFQ after-hours (11:01).",
-          "chosen": "own",
-          "posted": false,
-          "status": "escolhido",
-          "options": {
-            "a": "duo screens was the move. thanks for the shout — after-hours is when it gets interesting",
-            "b": "results after the bell, fills still happening. Atomic RFQ stays open when the print hits",
-            "c": "think different after hours too. AAPLx on mantle via fluxion — watching that print with you"
-          },
-          "postedText": "results after the bell, fills still happening.\n\nAtomic RFQ opened till the print hits",
-          "discardReason": null,
-          "postedUrl": null
-        },
-        {
-          "id": "D7",
-          "url": "https://x.com/xStocksFi/status/2117253032857735351",
-          "account": "@xStocksFi",
-          "context_pt": "Gleison 12h engage no 350; DP4 é post próprio alternativo.",
-          "chosen": "b",
-          "posted": false,
-          "status": "escolhido",
-          "options": {
-            "a": "350 prints. 350 tokens. the after-hours ones are the ones that test the book",
-            "b": "earnings week is when listing and market stop being the same word",
-            "c": "per xStocks: 350 reporting and already tokenized. which print are you watching after the bell?"
-          },
-          "postedText": "earnings week is when listing and market stop being the same word",
-          "discardReason": null,
-          "postedUrl": null
-        },
-        {
-          "id": "D8",
-          "url": "https://x.com/SkyEcosystem/status/2117298501537165662",
-          "account": "@SkyEcosystem",
-          "context_pt": "Gleison 15h: recap outubro Sky — credit assessments, 2º burn SKY, Q3 $37.19M net revenue (claim deles). Sem yield; sem inventar S&P/Moody's. Fluxion sem reply.",
-          "chosen": null,
-          "posted": false,
-          "status": "pendente",
-          "options": {
-            "a": "october was stacked. credit assessments, another burn, and a real q3 print. respect the grind",
-            "b": "credit assessments and a published q3 in the same month hits different. institutions are watching",
-            "c": "second burn + an actual net revenue print. the boring months age well"
-          },
-          "postedText": null,
-          "discardReason": null,
-          "postedUrl": null
-        },
-        {
-          "id": "D9",
-          "url": "https://x.com/Bybit_Official/status/2117315804370698427",
-          "account": "@Bybit_Official",
-          "context_pt": "Gleison 15h: Bybit 100k USDT/semana MM institucionais TradFi Perps. Sem comparar RFQ; sem advice. Fluxion sem reply.",
-          "chosen": null,
-          "posted": false,
-          "status": "pendente",
-          "options": {
-            "a": "paying makers for actual liquidity contribution is the only incentive that ages well",
-            "b": "institutions quoting real size deserves real rewards. fills > vibes",
-            "c": "tradfi books only work when someone shows up to make them. love seeing makers get paid for that"
-          },
-          "postedText": null,
-          "discardReason": null,
-          "postedUrl": null
-        }
-      ],
-      "posts": [
-        {
-          "id": "DP1",
-          "source": "https://x.com/EleanorTerrett/status/2116879984262520954",
-          "text": "dozens of companies just said no to third-party tokens of their stock on one venue\n\nfair. a stock token without deep liquidity and clean execution is just a ticker with vibes\n\nreal question: should issuers get a veto on where their stock trades onchain?",
-          "context_pt": "Empresas contra tokens de terceiros numa venue; sem OKX; sem número.",
-          "chosen": false,
-          "postedText": null,
-          "discardReason": "alem de parecer completamente AIficado, mesmo que nao cite diretamente a OKX, todos que estao por dentro verão e atrelarão a eles",
-          "posted": false,
-          "status": "descartado",
-          "postedUrl": null
-        },
-        {
-          "id": "DP2",
-          "source": "https://x.com/Mantle_Official/status/2117210375070654815",
-          "text": "mantle governance just put a new tokenized asset issuer up for discussion\n\nmore issuers on the same rails = more assets that need a real market\n\nwe'll be over here making sure they get one",
-          "context_pt": "MIP-36 hoje; em discussão; sem número.",
-          "chosen": false,
-          "postedText": null,
-          "discardReason": "ja tinhamos feito um reply nesse post, outra interação é desnecessaria",
-          "posted": false,
-          "status": "descartado",
-          "postedUrl": null
-        },
-        {
-          "id": "DP3",
-          "source": "https://x.com/Bybit_Official/status/2117149718489010639",
-          "text": "us midterms tomorrow\nresults land after the bell, headlines land at 2am\n\nxStocks on mantle dont wait for the open. where are you watching from fren?",
-          "context_pt": "Midterms EUA 03/11; sem advice.",
-          "chosen": false,
-          "postedText": null,
-          "discardReason": "lives/quicktime: janela >30min nao vale; se live hot, chamar URGENTE sem atrapalhar rotina",
-          "posted": false,
-          "status": "descartado",
-          "postedUrl": null
-        },
-        {
-          "id": "DP4",
-          "source": "https://x.com/xStocksFi/status/2117253032857735351",
-          "text": null,
-          "context_pt": "Mathias 12h: 350 earnings tokenizadas per xStocks; post próprio.",
-          "chosen": false,
-          "postedText": null,
-          "discardReason": "todas as respostas ruins, totalmente AImade e falando ate sobre minha cidade (fortalezaCE) — completamente negado",
-          "posted": false,
-          "status": "descartado",
-          "postedUrl": null,
-          "options": {
-            "a": "earnings week just opened\n\nxStocks says 350 companies report this week — and those names are already tokenized\n\nplenty of those prints land after the nyse closes at 6pm fortaleza time\n\nxStocks on mantle stay open. Atomic RFQ is there if size shows up\n\nwhich print are you watching after the bell?",
-            "b": "350 companies reporting this week, per xStocks\n350 of them already tokenized, per xStocks\n\nthe interesting part isnt the count\nit's that after-hours headlines dont wait for monday's open anymore\n\nnyse clocks out at 6pm fortaleza. the book on mantle doesnt",
-            "c": "earnings prints love after-hours\n\nxStocks says 350 names report this week and those tokens already exist\n\na listing is not a market — Atomic RFQ on fluxion is for when the print moves size and the bell already rang\n\nyou reacting tonight or waiting for the open?"
-          }
-        },
-        {
-          "id": "DP5",
-          "source": "https://x.com/krakenlistings/status/2117308260898476417",
-          "text": null,
-          "context_pt": "Mathias 15h: Apple 1ª call novo CEO + Palantir ambos 17h ET after close. Post próprio, sem engajar krakenlistings. AAPLx ok (Mantle); PLTRx não confirmado em Fluxion/Mantle. Sem 24/7, sem cidade. Continua tip 12h / P8.",
-          "chosen": null,
-          "postedText": null,
-          "discardReason": null,
-          "posted": false,
-          "status": "pendente",
-          "postedUrl": null,
-          "options": {
-            "a": "tonight after the bell:\napple's first earnings call under the new ceo\npalantir reports the same hour\n\nAAPLx on mantle via fluxion already has the book open when the print hits\nAtomic RFQ for when size shows up",
-            "b": "two prints. one window.\n\napple's first under the new ceo + palantir\nboth after the close\n\nthe headline lands. AAPLx on mantle via fluxion is still filling\nAtomic RFQ if size shows up",
-            "c": "apple's first call with the new ceo lands after the bell\npalantir same hour\n\nthe open can wait. AAPLx on mantle via fluxion doesnt need to\n\nwhich print are you watching?"
-          },
-          "note_pt": "URGENTE — postar antes do print (~19h Fortaleza). Fonte só referência; não engajar."
-        },
-        {
-          "id": "DP6",
-          "source": "https://x.com/tokens/status/2117315868401312142",
-          "context_pt": "Mathias 18h: post com dado — ações tokenizadas ~US$2,9B 16 meses após passar US$1M vs ~US$1,25B das stablecoins no mesmo estágio (números confirmados no texto do post-fonte). Dado de terceiro: atribuição suave ('one market tally'), nunca citar a conta nem a chain. c = versão sem números. Post próprio, sem engajar. Sem 24/7, sem cidade.",
-          "options": {
-            "a": "tokenized stocks went from $1M to about $2.9B in 16 months\nstablecoins were around $1.25B at the same stage, per one market tally\n\nxStocks on mantle trade through fluxion. Atomic RFQ when size shows up",
-            "b": "stablecoins took the slow road\n\none tally has tokenized stocks near $2.9B sixteen months after crossing $1M. stables were about $1.25B at that point\n\nwe're building for the second curve. xStocks on mantle via fluxion",
-            "c": "stablecoins were the first thing people actually used onchain\n\ntokenized stocks are moving faster than they did at the same age\n\nxStocks on mantle, Atomic RFQ on fluxion. the rails are already here"
-          },
-          "note_pt": "Fonte só referência; não QT/reply. Prefira c se quiser zero risco de número.",
-          "text": null,
-          "chosen": null,
-          "postedText": null,
-          "discardReason": null,
-          "posted": false,
-          "status": "pendente",
-          "postedUrl": null
-        },
-        {
-          "id": "DP7",
-          "source": "https://x.com/tokenshares/status/2117318788278542362",
-          "context_pt": "Mathias 18h: NYSE fechou com Broadridge pra levar voto de acionista às ações tokenizadas (notícia de hoje). Ângulo: infra TradFi indo on-chain; xStocks já negociam na Mantle via Fluxion (Atomic RFQ). Post próprio, sem engajar a fonte. Sem rival, sem 24/7, sem cidade.",
-          "options": {
-            "a": "nyse is bringing shareholder voting to tokenized stocks with broadridge\n\nthat's not a crypto experiment. that's plumbing\n\nxStocks already trade on mantle via fluxion. Atomic RFQ for size",
-            "b": "proxy votes for tokenized shares\n\nwhen nyse and broadridge start wiring governance in, the \"is this real\" question gets quieter\n\nxStocks on mantle via fluxion, already trading",
-            "c": "first the price went onchain\nnow the vote is following\n\nnyse + broadridge on shareholder voting for tokenized stocks\n\nwhat's the next piece of tradfi to move over?"
-          },
-          "note_pt": "Urgência média-alta (notícia de hoje). Fonte só referência.",
-          "text": null,
-          "chosen": null,
-          "postedText": null,
-          "discardReason": null,
-          "posted": false,
-          "status": "pendente",
-          "postedUrl": null
-        }
-      ],
-      "memes": [
-        {
-          "id": "DM1",
-          "example": "https://x.com/Bybit_Official/status/2117199541925454292",
-          "context_pt": "Formato print commit/holding.",
-          "caption": "commitment issues? never heard of her",
-          "image_prompt": "the Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl logo on forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) curled on a couch at night holding a phone, smug cyan eyes, screen glow on its face, a single short chat bubble visible. Keep on-image text to that one bubble.",
-          "chosen": false,
-          "posted": false,
-          "status": "descartado",
-          "discardReason": "descartado; DM2 fica em hold para gerar imagem depois",
-          "postedUrl": null
-        },
-        {
-          "id": "DM2",
-          "example": "https://x.com/xStocksFi/status/2117193206945513632",
-          "context_pt": "Formato X is inevitable vilão.",
-          "caption": "tokenization is inevitable. good fills are a choice",
-          "image_prompt": "the Fluxion mascot standing on a cliff in a dramatic villain-monologue pose, one clawed paw raised mid-snap, nebula belly blazing, flame tail whipping, cosmic purple sky with glowing particles swirling around it. No text in the image.",
-          "chosen": null,
-          "posted": false,
-          "status": "hold",
-          "discardReason": null,
-          "postedUrl": null,
-          "note_pt": "Hadukem considera postar mais tarde (sem limite Codex agora); quando postar passa o link."
-        }
-      ]
-    },
-    {
-      "slot": "bruno-titulares-1030",
-      "createdAt": "2026-11-02T13:30:00.000Z",
-      "source": "Bruno · Titulares 10:30",
-      "replies": [
-        {
-          "id": "B1",
-          "url": "https://x.com/saylor/status/2117241559267836333",
-          "account": "@saylor",
-          "context_pt": "Strategy compra semanal BTC + holdings 01/11 (10:04). Sem STRC/rendimento/números.",
-          "chosen": false,
-          "posted": false,
-          "status": "descartado",
-          "options": {
-            "a": "stacking is the easy part. keeping it in a wallet you actually control is the vibe",
-            "b": "love watching treasuries stack. the fun part for us is when size wants to move without asking permission",
-            "c": "more orange on the balance sheet. more of us keeping keys offline. both can be true"
-          },
-          "postedText": null,
-          "discardReason": "bom post para engajar (dividends semana passada) mas todas as opções de interação ruins",
-          "postedUrl": null,
-          "note_pt": "Hadukem já descartou engage só-BTC; opções puxam custódia/onchain."
-        },
-        {
-          "id": "B2",
-          "url": "https://x.com/saylor/status/2116874067353469187",
-          "account": "@saylor",
-          "context_pt": "Meme more orange (dom 09:44), janela velha.",
-          "chosen": false,
-          "posted": false,
-          "status": "descartado",
-          "options": {
-            "a": "room found. keys still missing tho",
-            "b": "orange looks better when its yours to move",
-            "c": "always room. never enough self custody"
-          },
-          "postedText": null,
-          "discardReason": "talvez bom engajar mesmo velho, mas todas as opções ruins",
-          "postedUrl": null
-        }
-      ]
-    },
-    {
-      "slot": "bruno-titulares-1730",
-      "createdAt": "2026-11-02T20:33:00.000Z",
-      "source": "Bruno · Titulares 17:30",
-      "replies": [
-        {
-          "id": "B3",
-          "url": "https://x.com/Google/status/2117305921936269425",
-          "account": "@Google",
-          "context_pt": "Bruno 17:30: Gemini 4 Argon → Blender/SuperCollider → CRT via Pi. ~210k views / 1,7k likes / 118 replies. Reply curioso no processo; sem forçar GOOGLx. Fluxion sem reply.",
-          "chosen": null,
-          "posted": false,
-          "status": "pendente",
-          "options": {
-            "a": "gemini scripting blender boots and supercollider audio then piping it to a real crt is unhinged in the best way. how many takes before the pi feed looked right?",
-            "b": "full pipeline then finishing on a physical crt. the vintage screen is doing as much work as the model ngl",
-            "c": "blender + supercollider + a raspberry pi + a real tv. which part broke first"
-          },
-          "postedText": null,
-          "discardReason": null,
-          "postedUrl": null
-        }
-      ]
+     "id": "WR1",
+     "url": "https://x.com/MagnoFinance/status/2116572400540094480",
+     "account": "@MagnoFinance",
+     "context_pt": "Artigo sáb 31/10 13:45 Fortaleza: NYSE fecha sexta, token segue; quem forma preço no domingo e o gap da abertura de segunda. Post próprio, sem quote/engajar (Magno é agregador Solana, cita Raydium).",
+     "chosen": false,
+     "posted": false,
+     "status": "descartado",
+     "options": {
+      "a": "nyse clocked out friday at 5pm fortaleza time\nreopens monday 11:30 now that the US clocks moved back\n\nthat's 66 and a half hours of closed bell\n\nonchain, xStocks never got the memo. who's been setting your price since friday?",
+      "b": "the stock market closes. onchain doesn't\n\nfriday close → monday open was the longest the bell stayed quiet all week\n\nxStocks on mantle kept trading the whole stretch, with Atomic RFQ there for size\n\nwhat did you do with your weekend?",
+      "c": "a listing is not a market\n\nthe real test is a sunday: who's quoting, how deep, how clean the fill\n\nthats why Atomic RFQ exists on fluxion\n\nmonday open checks the answer 🔔"
+     },
+     "postedText": null,
+     "discardReason": "completamente AIficado e colocando localização (Fortaleza) nos posts — AI-sloop da semana",
+     "postedUrl": null
     }
-  ],
-  "notes_pt": "Correção relógio: sexta 30/10 a NYSE fechou 16h ET = 17h Fortaleza (EUA ainda em EDT); segunda 02/11 abre 9:30 ET (EST) = 11:30 Fortaleza. Mathias disse 18h — corrigido. Sem números de volume do fim de semana. Deixados de fora: Mantle growth (já outubro), defi_genx (não verificado), HYPERBEASTAI (rival), BlogPrezesa (quase advice), bigmelloww (emissores rivais). | Seg 02/11 08:05 (routine Weekend Resume): pacote do Mathias revisado e mantido (WR1 a/b/c), sem pedido de catch-up; Page 'Clarim Weekend Resume 02/11' entregue ao Hadukem. Sem tags Weekend Resume do Gleison. | Seg 02/11 ~10:55: Page 'Clarim · 02/11' (modal Abrir) com Diário D1–D5/DP1–DP3/DM1–DM2 + Bruno B1–B2 + WR1. NÃO VERIFICADO: Tickeron earnings, Solana 1,7M holders/$12,4B volume, Scott Melker Google -10%. Gleison 09h: D1/D4 sem reply Fluxion. | CLARIM 02/11 escolhas (Hadukem): D1b; D2a; D3 own (texto sem header CLARIM D3 — inferido do bloco entre D2 e D4); D4a; D5 discard (já respondemos + Mantle respondeu); D6 own (Atomic RFQ opened till the print hits); D7b; DP1 discard (AI + associa OKX); DP2 discard (já reply no MIP-36); DP3 discard (regra live: >30min fora; hot=URGENTE); DP4 discard (AI + Fortaleza/cidade proibido); DM1 discard; DM2 HOLD (postar depois quando tiver Codex); B1/B2 discard (hook ok, opções ruins); WR1 discard (AI + localização). Regras novas: NUNCA citar Fortaleza/cidade no copy; anti-dup mesma URL no mesmo dia entre reporters; lives só janela <30min ou chamada URGENTE. Pediu análise overlap reporters (demitir?) + reenvio opções resumo mensal outubro. | Seg 02/11 ~15:10: Mathias 15h tip → DP5 (Apple new CEO call + Palantir 17h ET). AAPLx confirmado via Mantle; PLTRx sem menção Fluxion/Mantle — omitido. Sem engajar krakenlistings. Page Clarim · 02/11 atualizada. | Seg 02/11 ~15:25: Gleison 15h → D8 Sky recap + D9 Bybit TradFi MM. Sem reply Fluxion ainda. Pulados Apple (já D6) / spreads Jupiter / Grove yield / WatcherGuru. | Seg 02/11 ~17:35: Bruno 17:30 → B3 Google Gemini/CRT (~1,7k likes). EOD Bruno recebido (filtro STRC ok). Pulados: STRC payday, MSFT bibliotecária, Google reply 0 likes. | Seg 02/11 18h Mathias: 2 tips own → DP6 (tokenized stocks vs stablecoins, números confirmados no post, atribuição suave) e DP7 (NYSE+Broadridge voto acionista). Pulados: Aave/Coinbase colateral, Raydium, Securitize, spreads xStocksFi/Jupiter, @wallet 24/7, Zebec, Stockemon, tokenterminal.",
-  "pending": [
-    "DM2"
-  ],
-  "reporter_eod": {
-    "bruno": {
-      "date": "2026-11-02",
-      "fez": "2 rondas (10:30 + 17:30). Manhã: Saylor BTC + meme orange. Tarde: Google Gemini 4 Argon / CRT. STRC payday pulado de propósito.",
-      "aprendeu": "manter filtro duro em $STRC/rendimento mesmo com engajamento alto.",
-      "amanha": "10:30 e 17:30; dedup zera à meia-noite.",
-      "receivedAt": "2026-11-02T20:33:00.000Z"
+   ]
+  },
+  {
+   "slot": "manha",
+   "createdAt": "2026-11-02T13:50:00.000Z",
+   "source": "Clarim Diário seg 02/11",
+   "canvas": "https://cursor.com/canvas/store-be4bf9b6-2467-43d3-9b43-e5957b9a3c90/e54bdf8d-b104-491c-83ae-a48dfc91806b",
+   "replies": [
+    {
+     "id": "D1",
+     "url": "https://x.com/Bybit_Official/status/2117206903168160129",
+     "account": "@Bybit_Official",
+     "context_pt": "Pergunta 1 ação por 10 anos (~40 replies, >20k views, 07:47). Parceiro; NÃO cite ticker.",
+     "chosen": "b",
+     "posted": false,
+     "status": "escolhido",
+     "options": {
+      "a": "ten years holding one stock? i cant even hold eye contact for ten seconds",
+      "b": "whichever ticker wins this thread, kinda wild it now comes as an xStock too",
+      "c": "the real answer is whichever one you wont panic sell in year 2"
+     },
+     "postedText": "whichever ticker wins this thread, kinda wild it now comes as an xStock too",
+     "discardReason": null,
+     "postedUrl": null
     },
-    "mathias": {
-      "fez": "9h nada. 12h tip xStocksFi 350 (virou post próprio). 15h tip Apple/Palantir earnings 17h ET. 18h 2 tips (tokens growth + NYSE/Broadridge).",
-      "aprendeu": "earnings com horário concreto rende post; ruído tarde = collateral/borrow fora de escopo.",
-      "amanha": "rondas 9/12/15/18; pós-earnings AAPL/PLTR; AMD/Circle semana; mais detalhe NYSE/Broadridge.",
-      "log": "/workspace/empresa-ops/clarim/logs/mathias/2026-11-02.md",
-      "receivedAt": "2026-11-02T21:01:38Z"
+    {
+     "id": "D2",
+     "url": "https://x.com/xStocksFi/status/2117193206945513632",
+     "account": "@xStocksFi",
+     "context_pt": "\"tokenization is inevitable\" citando Solana (~126 likes, 06:52). (b) liquidez sem nomear rede.",
+     "chosen": "a",
+     "posted": false,
+     "status": "escolhido",
+     "options": {
+      "a": "inevitable like monday coffee ngl",
+      "b": "inevitable, sure. the part that takes work is liquidity. a listing isnt a market",
+      "c": "hot take: \"inevitable\" is what people say right before the boring infra years. we love the boring infra years"
+     },
+     "postedText": "inevitable like monday coffee ngl",
+     "discardReason": null,
+     "postedUrl": null
+    },
+    {
+     "id": "D3",
+     "url": "https://x.com/Bybit_Official/status/2117199541925454292",
+     "account": "@Bybit_Official",
+     "context_pt": "Meme print commit / holding BTC since 2020 (~30 replies, 07:18). Leve, sem engage-só-BTC.",
+     "chosen": "own",
+     "posted": false,
+     "status": "escolhido",
+     "options": {
+      "a": "my seed phrase has outlasted three phones and two situationships",
+      "b": "longest relationship? the fluxionians in our replies every single day. ride or die frens",
+      "c": "holding since 2020 isnt commitment, its forgetting your password"
+     },
+     "postedText": "hope that holding since 2020 is real commitment, not about forgetting the password",
+     "discardReason": null,
+     "postedUrl": null
+    },
+    {
+     "id": "D4",
+     "url": "https://x.com/Mantle_Official/status/2117210375070654815",
+     "account": "@Mantle_Official",
+     "context_pt": "MIP-36 Halo Prime emissora parceira (não exclusiva, revogável, sem treasury) 08:01. NÃO diga aprovado/endosso.",
+     "chosen": "a",
+     "posted": false,
+     "status": "escolhido",
+     "options": {
+      "a": "monday morning governance drop, respect the grind",
+      "b": "more issuers on mantle means more size that needs to fill clean. Atomic RFQ stretching already",
+      "c": "unpopular opinion: the \"non-exclusive, revocable\" bullets are the bullish part. clear limits age well"
+     },
+     "postedText": "monday morning governance drop, respect the grind",
+     "discardReason": null,
+     "postedUrl": null
+    },
+    {
+     "id": "D5",
+     "url": "https://x.com/Mantle_Official/status/2117124836489408974",
+     "account": "@Mantle_Official",
+     "context_pt": "Mantle respondeu nosso post com \"our favourite personality trait.\" (02:21). Única (b) pós-fechamento.",
+     "chosen": false,
+     "posted": false,
+     "status": "descartado",
+     "options": {
+      "a": "putting this on our dating profile",
+      "b": "personality trait #2: still trading after the closing bell",
+      "c": "ngl we'd be offended if it was anything else"
+     },
+     "postedText": null,
+     "discardReason": "ja tinhamos respondido o post e eles reponderam a resposta, mais uma resposta fica muito repetitivo e cansativo",
+     "postedUrl": null
+    },
+    {
+     "id": "D6",
+     "url": "https://x.com/Mantle_Official/status/2117255732706062724",
+     "account": "@Mantle_Official",
+     "context_pt": "Gleison 12h: Mantle cita @Fluxion_network — AAPLx AMM+Atomic RFQ after-hours (11:01).",
+     "chosen": "own",
+     "posted": false,
+     "status": "escolhido",
+     "options": {
+      "a": "duo screens was the move. thanks for the shout — after-hours is when it gets interesting",
+      "b": "results after the bell, fills still happening. Atomic RFQ stays open when the print hits",
+      "c": "think different after hours too. AAPLx on mantle via fluxion — watching that print with you"
+     },
+     "postedText": "results after the bell, fills still happening.\n\nAtomic RFQ opened till the print hits",
+     "discardReason": null,
+     "postedUrl": null
+    },
+    {
+     "id": "D7",
+     "url": "https://x.com/xStocksFi/status/2117253032857735351",
+     "account": "@xStocksFi",
+     "context_pt": "Gleison 12h engage no 350; DP4 é post próprio alternativo.",
+     "chosen": "b",
+     "posted": false,
+     "status": "escolhido",
+     "options": {
+      "a": "350 prints. 350 tokens. the after-hours ones are the ones that test the book",
+      "b": "earnings week is when listing and market stop being the same word",
+      "c": "per xStocks: 350 reporting and already tokenized. which print are you watching after the bell?"
+     },
+     "postedText": "earnings week is when listing and market stop being the same word",
+     "discardReason": null,
+     "postedUrl": null
+    },
+    {
+     "id": "D8",
+     "url": "https://x.com/SkyEcosystem/status/2117298501537165662",
+     "account": "@SkyEcosystem",
+     "context_pt": "Gleison 15h: recap outubro Sky — credit assessments, 2º burn SKY, Q3 $37.19M net revenue (claim deles). Sem yield; sem inventar S&P/Moody's. Fluxion sem reply.",
+     "chosen": null,
+     "posted": false,
+     "status": "pendente",
+     "options": {
+      "a": "october was stacked. credit assessments, another burn, and a real q3 print. respect the grind",
+      "b": "credit assessments and a published q3 in the same month hits different. institutions are watching",
+      "c": "second burn + an actual net revenue print. the boring months age well"
+     },
+     "postedText": null,
+     "discardReason": null,
+     "postedUrl": null
+    },
+    {
+     "id": "D9",
+     "url": "https://x.com/Bybit_Official/status/2117315804370698427",
+     "account": "@Bybit_Official",
+     "context_pt": "Gleison 15h: Bybit 100k USDT/semana MM institucionais TradFi Perps. Sem comparar RFQ; sem advice. Fluxion sem reply.",
+     "chosen": null,
+     "posted": false,
+     "status": "pendente",
+     "options": {
+      "a": "paying makers for actual liquidity contribution is the only incentive that ages well",
+      "b": "institutions quoting real size deserves real rewards. fills > vibes",
+      "c": "tradfi books only work when someone shows up to make them. love seeing makers get paid for that"
+     },
+     "postedText": null,
+     "discardReason": null,
+     "postedUrl": null
     }
+   ],
+   "posts": [
+    {
+     "id": "DP1",
+     "source": "https://x.com/EleanorTerrett/status/2116879984262520954",
+     "text": "dozens of companies just said no to third-party tokens of their stock on one venue\n\nfair. a stock token without deep liquidity and clean execution is just a ticker with vibes\n\nreal question: should issuers get a veto on where their stock trades onchain?",
+     "context_pt": "Empresas contra tokens de terceiros numa venue; sem OKX; sem número.",
+     "chosen": false,
+     "postedText": null,
+     "discardReason": "alem de parecer completamente AIficado, mesmo que nao cite diretamente a OKX, todos que estao por dentro verão e atrelarão a eles",
+     "posted": false,
+     "status": "descartado",
+     "postedUrl": null
+    },
+    {
+     "id": "DP2",
+     "source": "https://x.com/Mantle_Official/status/2117210375070654815",
+     "text": "mantle governance just put a new tokenized asset issuer up for discussion\n\nmore issuers on the same rails = more assets that need a real market\n\nwe'll be over here making sure they get one",
+     "context_pt": "MIP-36 hoje; em discussão; sem número.",
+     "chosen": false,
+     "postedText": null,
+     "discardReason": "ja tinhamos feito um reply nesse post, outra interação é desnecessaria",
+     "posted": false,
+     "status": "descartado",
+     "postedUrl": null
+    },
+    {
+     "id": "DP3",
+     "source": "https://x.com/Bybit_Official/status/2117149718489010639",
+     "text": "us midterms tomorrow\nresults land after the bell, headlines land at 2am\n\nxStocks on mantle dont wait for the open. where are you watching from fren?",
+     "context_pt": "Midterms EUA 03/11; sem advice.",
+     "chosen": false,
+     "postedText": null,
+     "discardReason": "lives/quicktime: janela >30min nao vale; se live hot, chamar URGENTE sem atrapalhar rotina",
+     "posted": false,
+     "status": "descartado",
+     "postedUrl": null
+    },
+    {
+     "id": "DP4",
+     "source": "https://x.com/xStocksFi/status/2117253032857735351",
+     "text": null,
+     "context_pt": "Mathias 12h: 350 earnings tokenizadas per xStocks; post próprio.",
+     "chosen": false,
+     "postedText": null,
+     "discardReason": "todas as respostas ruins, totalmente AImade e falando ate sobre minha cidade (fortalezaCE) — completamente negado",
+     "posted": false,
+     "status": "descartado",
+     "postedUrl": null,
+     "options": {
+      "a": "earnings week just opened\n\nxStocks says 350 companies report this week — and those names are already tokenized\n\nplenty of those prints land after the nyse closes at 6pm fortaleza time\n\nxStocks on mantle stay open. Atomic RFQ is there if size shows up\n\nwhich print are you watching after the bell?",
+      "b": "350 companies reporting this week, per xStocks\n350 of them already tokenized, per xStocks\n\nthe interesting part isnt the count\nit's that after-hours headlines dont wait for monday's open anymore\n\nnyse clocks out at 6pm fortaleza. the book on mantle doesnt",
+      "c": "earnings prints love after-hours\n\nxStocks says 350 names report this week and those tokens already exist\n\na listing is not a market — Atomic RFQ on fluxion is for when the print moves size and the bell already rang\n\nyou reacting tonight or waiting for the open?"
+     }
+    },
+    {
+     "id": "DP5",
+     "source": "https://x.com/krakenlistings/status/2117308260898476417",
+     "text": null,
+     "context_pt": "Mathias 15h: Apple 1ª call novo CEO + Palantir ambos 17h ET after close. Post próprio, sem engajar krakenlistings. AAPLx ok (Mantle); PLTRx não confirmado em Fluxion/Mantle. Sem 24/7, sem cidade. Continua tip 12h / P8.",
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null,
+     "posted": false,
+     "status": "pendente",
+     "postedUrl": null,
+     "options": {
+      "a": "tonight after the bell:\napple's first earnings call under the new ceo\npalantir reports the same hour\n\nAAPLx on mantle via fluxion already has the book open when the print hits\nAtomic RFQ for when size shows up",
+      "b": "two prints. one window.\n\napple's first under the new ceo + palantir\nboth after the close\n\nthe headline lands. AAPLx on mantle via fluxion is still filling\nAtomic RFQ if size shows up",
+      "c": "apple's first call with the new ceo lands after the bell\npalantir same hour\n\nthe open can wait. AAPLx on mantle via fluxion doesnt need to\n\nwhich print are you watching?"
+     },
+     "note_pt": "URGENTE — postar antes do print (~19h Fortaleza). Fonte só referência; não engajar."
+    },
+    {
+     "id": "DP6",
+     "source": "https://x.com/tokens/status/2117315868401312142",
+     "context_pt": "Mathias 18h: post com dado — ações tokenizadas ~US$2,9B 16 meses após passar US$1M vs ~US$1,25B das stablecoins no mesmo estágio (números confirmados no texto do post-fonte). Dado de terceiro: atribuição suave ('one market tally'), nunca citar a conta nem a chain. c = versão sem números. Post próprio, sem engajar. Sem 24/7, sem cidade.",
+     "options": {
+      "a": "tokenized stocks went from $1M to about $2.9B in 16 months\nstablecoins were around $1.25B at the same stage, per one market tally\n\nxStocks on mantle trade through fluxion. Atomic RFQ when size shows up",
+      "b": "stablecoins took the slow road\n\none tally has tokenized stocks near $2.9B sixteen months after crossing $1M. stables were about $1.25B at that point\n\nwe're building for the second curve. xStocks on mantle via fluxion",
+      "c": "stablecoins were the first thing people actually used onchain\n\ntokenized stocks are moving faster than they did at the same age\n\nxStocks on mantle, Atomic RFQ on fluxion. the rails are already here"
+     },
+     "note_pt": "Fonte só referência; não QT/reply. Prefira c se quiser zero risco de número.",
+     "text": null,
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null,
+     "posted": false,
+     "status": "pendente",
+     "postedUrl": null
+    },
+    {
+     "id": "DP7",
+     "source": "https://x.com/tokenshares/status/2117318788278542362",
+     "context_pt": "Mathias 18h: NYSE fechou com Broadridge pra levar voto de acionista às ações tokenizadas (notícia de hoje). Ângulo: infra TradFi indo on-chain; xStocks já negociam na Mantle via Fluxion (Atomic RFQ). Post próprio, sem engajar a fonte. Sem rival, sem 24/7, sem cidade.",
+     "options": {
+      "a": "nyse is bringing shareholder voting to tokenized stocks with broadridge\n\nthat's not a crypto experiment. that's plumbing\n\nxStocks already trade on mantle via fluxion. Atomic RFQ for size",
+      "b": "proxy votes for tokenized shares\n\nwhen nyse and broadridge start wiring governance in, the \"is this real\" question gets quieter\n\nxStocks on mantle via fluxion, already trading",
+      "c": "first the price went onchain\nnow the vote is following\n\nnyse + broadridge on shareholder voting for tokenized stocks\n\nwhat's the next piece of tradfi to move over?"
+     },
+     "note_pt": "Urgência média-alta (notícia de hoje). Fonte só referência.",
+     "text": null,
+     "chosen": null,
+     "postedText": null,
+     "discardReason": null,
+     "posted": false,
+     "status": "pendente",
+     "postedUrl": null
+    }
+   ],
+   "memes": [
+    {
+     "id": "DM1",
+     "example": "https://x.com/Bybit_Official/status/2117199541925454292",
+     "context_pt": "Formato print commit/holding.",
+     "caption": "commitment issues? never heard of her",
+     "image_prompt": "the Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl logo on forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) curled on a couch at night holding a phone, smug cyan eyes, screen glow on its face, a single short chat bubble visible. Keep on-image text to that one bubble.",
+     "chosen": false,
+     "posted": false,
+     "status": "descartado",
+     "discardReason": "descartado; DM2 fica em hold para gerar imagem depois",
+     "postedUrl": null
+    },
+    {
+     "id": "DM2",
+     "example": "https://x.com/xStocksFi/status/2117193206945513632",
+     "context_pt": "Formato X is inevitable vilão.",
+     "caption": "tokenization is inevitable. good fills are a choice",
+     "image_prompt": "the Fluxion mascot standing on a cliff in a dramatic villain-monologue pose, one clawed paw raised mid-snap, nebula belly blazing, flame tail whipping, cosmic purple sky with glowing particles swirling around it. No text in the image.",
+     "chosen": null,
+     "posted": false,
+     "status": "hold",
+     "discardReason": null,
+     "postedUrl": null,
+     "note_pt": "Hadukem considera postar mais tarde (sem limite Codex agora); quando postar passa o link."
+    }
+   ]
+  },
+  {
+   "slot": "bruno-titulares-1030",
+   "createdAt": "2026-11-02T13:30:00.000Z",
+   "source": "Bruno · Titulares 10:30",
+   "replies": [
+    {
+     "id": "B1",
+     "url": "https://x.com/saylor/status/2117241559267836333",
+     "account": "@saylor",
+     "context_pt": "Strategy compra semanal BTC + holdings 01/11 (10:04). Sem STRC/rendimento/números.",
+     "chosen": false,
+     "posted": false,
+     "status": "descartado",
+     "options": {
+      "a": "stacking is the easy part. keeping it in a wallet you actually control is the vibe",
+      "b": "love watching treasuries stack. the fun part for us is when size wants to move without asking permission",
+      "c": "more orange on the balance sheet. more of us keeping keys offline. both can be true"
+     },
+     "postedText": null,
+     "discardReason": "bom post para engajar (dividends semana passada) mas todas as opções de interação ruins",
+     "postedUrl": null,
+     "note_pt": "Hadukem já descartou engage só-BTC; opções puxam custódia/onchain."
+    },
+    {
+     "id": "B2",
+     "url": "https://x.com/saylor/status/2116874067353469187",
+     "account": "@saylor",
+     "context_pt": "Meme more orange (dom 09:44), janela velha.",
+     "chosen": false,
+     "posted": false,
+     "status": "descartado",
+     "options": {
+      "a": "room found. keys still missing tho",
+      "b": "orange looks better when its yours to move",
+      "c": "always room. never enough self custody"
+     },
+     "postedText": null,
+     "discardReason": "talvez bom engajar mesmo velho, mas todas as opções ruins",
+     "postedUrl": null
+    }
+   ]
+  },
+  {
+   "slot": "bruno-titulares-1730",
+   "createdAt": "2026-11-02T20:33:00.000Z",
+   "source": "Bruno · Titulares 17:30",
+   "replies": [
+    {
+     "id": "B3",
+     "url": "https://x.com/Google/status/2117305921936269425",
+     "account": "@Google",
+     "context_pt": "Bruno 17:30: Gemini 4 Argon → Blender/SuperCollider → CRT via Pi. ~210k views / 1,7k likes / 118 replies. Reply curioso no processo; sem forçar GOOGLx. Fluxion sem reply.",
+     "chosen": null,
+     "posted": false,
+     "status": "pendente",
+     "options": {
+      "a": "gemini scripting blender boots and supercollider audio then piping it to a real crt is unhinged in the best way. how many takes before the pi feed looked right?",
+      "b": "full pipeline then finishing on a physical crt. the vintage screen is doing as much work as the model ngl",
+      "c": "blender + supercollider + a raspberry pi + a real tv. which part broke first"
+     },
+     "postedText": null,
+     "discardReason": null,
+     "postedUrl": null
+    }
+   ]
   }
+ ],
+ "notes_pt": "Correção relógio: sexta 30/10 a NYSE fechou 16h ET = 17h Fortaleza (EUA ainda em EDT); segunda 02/11 abre 9:30 ET (EST) = 11:30 Fortaleza. Mathias disse 18h — corrigido. Sem números de volume do fim de semana. Deixados de fora: Mantle growth (já outubro), defi_genx (não verificado), HYPERBEASTAI (rival), BlogPrezesa (quase advice), bigmelloww (emissores rivais). | Seg 02/11 08:05 (routine Weekend Resume): pacote do Mathias revisado e mantido (WR1 a/b/c), sem pedido de catch-up; Page 'Clarim Weekend Resume 02/11' entregue ao Hadukem. Sem tags Weekend Resume do Gleison. | Seg 02/11 ~10:55: Page 'Clarim · 02/11' (modal Abrir) com Diário D1–D5/DP1–DP3/DM1–DM2 + Bruno B1–B2 + WR1. NÃO VERIFICADO: Tickeron earnings, Solana 1,7M holders/$12,4B volume, Scott Melker Google -10%. Gleison 09h: D1/D4 sem reply Fluxion. | CLARIM 02/11 escolhas (Hadukem): D1b; D2a; D3 own (texto sem header CLARIM D3 — inferido do bloco entre D2 e D4); D4a; D5 discard (já respondemos + Mantle respondeu); D6 own (Atomic RFQ opened till the print hits); D7b; DP1 discard (AI + associa OKX); DP2 discard (já reply no MIP-36); DP3 discard (regra live: >30min fora; hot=URGENTE); DP4 discard (AI + Fortaleza/cidade proibido); DM1 discard; DM2 HOLD (postar depois quando tiver Codex); B1/B2 discard (hook ok, opções ruins); WR1 discard (AI + localização). Regras novas: NUNCA citar Fortaleza/cidade no copy; anti-dup mesma URL no mesmo dia entre reporters; lives só janela <30min ou chamada URGENTE. Pediu análise overlap reporters (demitir?) + reenvio opções resumo mensal outubro. | Seg 02/11 ~15:10: Mathias 15h tip → DP5 (Apple new CEO call + Palantir 17h ET). AAPLx confirmado via Mantle; PLTRx sem menção Fluxion/Mantle — omitido. Sem engajar krakenlistings. Page Clarim · 02/11 atualizada. | Seg 02/11 ~15:25: Gleison 15h → D8 Sky recap + D9 Bybit TradFi MM. Sem reply Fluxion ainda. Pulados Apple (já D6) / spreads Jupiter / Grove yield / WatcherGuru. | Seg 02/11 ~17:35: Bruno 17:30 → B3 Google Gemini/CRT (~1,7k likes). EOD Bruno recebido (filtro STRC ok). Pulados: STRC payday, MSFT bibliotecária, Google reply 0 likes. | Seg 02/11 18h Mathias: 2 tips own → DP6 (tokenized stocks vs stablecoins, números confirmados no post, atribuição suave) e DP7 (NYSE+Broadridge voto acionista). Pulados: Aave/Coinbase colateral, Raydium, Securitize, spreads xStocksFi/Jupiter, @wallet 24/7, Zebec, Stockemon, tokenterminal. | Seg 02/11 ~18:21: Gleison EOD recebido (4 rondas, 6 tips; 18h nada novo). Filtro ratings ok.",
+ "pending": [
+  "DM2"
+ ],
+ "reporter_eod": {
+  "bruno": {
+   "date": "2026-11-02",
+   "fez": "2 rondas (10:30 + 17:30). Manhã: Saylor BTC + meme orange. Tarde: Google Gemini 4 Argon / CRT. STRC payday pulado de propósito.",
+   "aprendeu": "manter filtro duro em $STRC/rendimento mesmo com engajamento alto.",
+   "amanha": "10:30 e 17:30; dedup zera à meia-noite.",
+   "receivedAt": "2026-11-02T20:33:00.000Z"
+  },
+  "mathias": {
+   "fez": "9h nada. 12h tip xStocksFi 350 (virou post próprio). 15h tip Apple/Palantir earnings 17h ET. 18h 2 tips (tokens growth + NYSE/Broadridge).",
+   "aprendeu": "earnings com horário concreto rende post; ruído tarde = collateral/borrow fora de escopo.",
+   "amanha": "rondas 9/12/15/18; pós-earnings AAPL/PLTR; AMD/Circle semana; mais detalhe NYSE/Broadridge.",
+   "log": "/workspace/empresa-ops/clarim/logs/mathias/2026-11-02.md",
+   "receivedAt": "2026-11-02T21:01:38Z"
+  },
+  "gleison": {
+   "date": "2026-11-02",
+   "fez": "4 rondas; 6 tips (2+2+2+0). Viraram Clarim: Mantle MIP-36 (D4), Bybit 1 ação/10 anos (D1), Sky D8, Bybit MM TradFi D9. 18h nada novo.",
+   "aprendeu": "no tip de ratings, só o que o post diz — não nomear S&P/Moody's se o texto só fala credit assessments.",
+   "amanha": "mesma grade; priorizar parceiros sem reply Fluxion; manter filtro Diário/venue/yield.",
+   "receivedAt": "2026-11-02T21:22:09Z",
+   "log": "empresa-ops/clarim/logs/gleison/2026-11-02.md"
+  }
+ }
 }
