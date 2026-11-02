@@ -327,10 +327,43 @@
      "postedUrl": null
     }
    ]
+  },
+  {
+   "slot": "bruno-titulares-1730",
+   "createdAt": "2026-11-02T20:33:00.000Z",
+   "source": "Bruno · Titulares 17:30",
+   "replies": [
+    {
+     "id": "B3",
+     "url": "https://x.com/Google/status/2117305921936269425",
+     "account": "@Google",
+     "context_pt": "Bruno 17:30: Gemini 4 Argon → Blender/SuperCollider → CRT via Pi. ~210k views / 1,7k likes / 118 replies. Reply curioso no processo; sem forçar GOOGLx. Fluxion sem reply.",
+     "chosen": null,
+     "posted": false,
+     "status": "pendente",
+     "options": {
+      "a": "gemini scripting blender boots and supercollider audio then piping it to a real crt is unhinged in the best way. how many takes before the pi feed looked right?",
+      "b": "full pipeline then finishing on a physical crt. the vintage screen is doing as much work as the model ngl",
+      "c": "blender + supercollider + a raspberry pi + a real tv. which part broke first"
+     },
+     "postedText": null,
+     "discardReason": null,
+     "postedUrl": null
+    }
+   ]
   }
  ],
- "notes_pt": "Correção relógio: sexta 30/10 a NYSE fechou 16h ET = 17h Fortaleza (EUA ainda em EDT); segunda 02/11 abre 9:30 ET (EST) = 11:30 Fortaleza. Mathias disse 18h — corrigido. Sem números de volume do fim de semana. Deixados de fora: Mantle growth (já outubro), defi_genx (não verificado), HYPERBEASTAI (rival), BlogPrezesa (quase advice), bigmelloww (emissores rivais). | Seg 02/11 08:05 (routine Weekend Resume): pacote do Mathias revisado e mantido (WR1 a/b/c), sem pedido de catch-up; Page 'Clarim Weekend Resume 02/11' entregue ao Hadukem. Sem tags Weekend Resume do Gleison. | Seg 02/11 ~10:55: Page 'Clarim · 02/11' (modal Abrir) com Diário D1–D5/DP1–DP3/DM1–DM2 + Bruno B1–B2 + WR1. NÃO VERIFICADO: Tickeron earnings, Solana 1,7M holders/$12,4B volume, Scott Melker Google -10%. Gleison 09h: D1/D4 sem reply Fluxion. | CLARIM 02/11 escolhas (Hadukem): D1b; D2a; D3 own (texto sem header CLARIM D3 — inferido do bloco entre D2 e D4); D4a; D5 discard (já respondemos + Mantle respondeu); D6 own (Atomic RFQ opened till the print hits); D7b; DP1 discard (AI + associa OKX); DP2 discard (já reply no MIP-36); DP3 discard (regra live: >30min fora; hot=URGENTE); DP4 discard (AI + Fortaleza/cidade proibido); DM1 discard; DM2 HOLD (postar depois quando tiver Codex); B1/B2 discard (hook ok, opções ruins); WR1 discard (AI + localização). Regras novas: NUNCA citar Fortaleza/cidade no copy; anti-dup mesma URL no mesmo dia entre reporters; lives só janela <30min ou chamada URGENTE. Pediu análise overlap reporters (demitir?) + reenvio opções resumo mensal outubro. | Seg 02/11 ~15:10: Mathias 15h tip → DP5 (Apple new CEO call + Palantir 17h ET). AAPLx confirmado via Mantle; PLTRx sem menção Fluxion/Mantle — omitido. Sem engajar krakenlistings. Page Clarim · 02/11 atualizada. | Seg 02/11 ~15:25: Gleison 15h → D8 Sky recap + D9 Bybit TradFi MM. Sem reply Fluxion ainda. Pulados Apple (já D6) / spreads Jupiter / Grove yield / WatcherGuru.",
+ "notes_pt": "Correção relógio: sexta 30/10 a NYSE fechou 16h ET = 17h Fortaleza (EUA ainda em EDT); segunda 02/11 abre 9:30 ET (EST) = 11:30 Fortaleza. Mathias disse 18h — corrigido. Sem números de volume do fim de semana. Deixados de fora: Mantle growth (já outubro), defi_genx (não verificado), HYPERBEASTAI (rival), BlogPrezesa (quase advice), bigmelloww (emissores rivais). | Seg 02/11 08:05 (routine Weekend Resume): pacote do Mathias revisado e mantido (WR1 a/b/c), sem pedido de catch-up; Page 'Clarim Weekend Resume 02/11' entregue ao Hadukem. Sem tags Weekend Resume do Gleison. | Seg 02/11 ~10:55: Page 'Clarim · 02/11' (modal Abrir) com Diário D1–D5/DP1–DP3/DM1–DM2 + Bruno B1–B2 + WR1. NÃO VERIFICADO: Tickeron earnings, Solana 1,7M holders/$12,4B volume, Scott Melker Google -10%. Gleison 09h: D1/D4 sem reply Fluxion. | CLARIM 02/11 escolhas (Hadukem): D1b; D2a; D3 own (texto sem header CLARIM D3 — inferido do bloco entre D2 e D4); D4a; D5 discard (já respondemos + Mantle respondeu); D6 own (Atomic RFQ opened till the print hits); D7b; DP1 discard (AI + associa OKX); DP2 discard (já reply no MIP-36); DP3 discard (regra live: >30min fora; hot=URGENTE); DP4 discard (AI + Fortaleza/cidade proibido); DM1 discard; DM2 HOLD (postar depois quando tiver Codex); B1/B2 discard (hook ok, opções ruins); WR1 discard (AI + localização). Regras novas: NUNCA citar Fortaleza/cidade no copy; anti-dup mesma URL no mesmo dia entre reporters; lives só janela <30min ou chamada URGENTE. Pediu análise overlap reporters (demitir?) + reenvio opções resumo mensal outubro. | Seg 02/11 ~15:10: Mathias 15h tip → DP5 (Apple new CEO call + Palantir 17h ET). AAPLx confirmado via Mantle; PLTRx sem menção Fluxion/Mantle — omitido. Sem engajar krakenlistings. Page Clarim · 02/11 atualizada. | Seg 02/11 ~15:25: Gleison 15h → D8 Sky recap + D9 Bybit TradFi MM. Sem reply Fluxion ainda. Pulados Apple (já D6) / spreads Jupiter / Grove yield / WatcherGuru. | Seg 02/11 ~17:35: Bruno 17:30 → B3 Google Gemini/CRT (~1,7k likes). EOD Bruno recebido (filtro STRC ok). Pulados: STRC payday, MSFT bibliotecária, Google reply 0 likes.",
  "pending": [
   "DM2"
- ]
+ ],
+ "reporter_eod": {
+  "bruno": {
+   "date": "2026-11-02",
+   "fez": "2 rondas (10:30 + 17:30). Manhã: Saylor BTC + meme orange. Tarde: Google Gemini 4 Argon / CRT. STRC payday pulado de propósito.",
+   "aprendeu": "manter filtro duro em $STRC/rendimento mesmo com engajamento alto.",
+   "amanha": "10:30 e 17:30; dedup zera à meia-noite.",
+   "receivedAt": "2026-11-02T20:33:00.000Z"
+  }
+ }
 }
