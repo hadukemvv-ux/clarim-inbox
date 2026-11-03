@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-03",
+  "editions": [
+    {
+      "slot": "mathias-0900",
+      "createdAt": "2026-11-03T12:00:00.000Z",
+      "source": "Mathias · Concorrência xStocks ronda 9h 03/11",
+      "canvas": null,
+      "posts": [
+        {
+          "id": "DP1",
+          "url": "https://x.com/tokenterminal/status/2117586501509026274",
+          "account": "@tokenterminal",
+          "text": null,
+          "options": {
+            "a": "$121.8M of xStocks are already sitting in DeFi, per Token Terminal\n\ntokenized stocks that just sit in a wallet were never the point. they get used\n\non mantle, fluxion is where they find liquidity, with Atomic RFQ for size",
+            "b": "per Token Terminal, holders have moved $121.8M of xStocks into DeFi\n\nthat's what composable looks like. a stock you can actually put to work\n\nfluxion on mantle: liquidity + Atomic RFQ when the size gets real",
+            "c": "$121.8M\n\nthat's how much xStocks holders have put into DeFi so far (Token Terminal data)\n\nnot a museum piece. a building block\n\nwhere are yours working?"
+          },
+          "context_pt": "Mathias 9h: Token Terminal publicou que holders depositaram US$121,8M em xStocks em venues DeFi (confirmado no texto do post). Gancho de composabilidade: xStock não fica parado, vira ativo DeFi; na Fluxion/Mantle com liquidez + Atomic RFQ. Post próprio, sem engajar/quotar @tokenterminal.",
+          "status": "pendente",
+          "chosen": null,
+          "note_pt": "Só o número absoluto (US$121,8M). NÃO usar os 41% nem o total do setor (US$297,4M), nem comparar emissores/venues. Atribuição leve à Token Terminal ok; sem rival, sem cidade, sem slogan 24/7.",
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        }
+      ]
+    }
+  ],
+  "notes_pt": [
+    "Mathias 9h tip (tokenterminal US$121,8M xStocks em DeFi) → DP1"
+  ]
+}
