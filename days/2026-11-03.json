@@ -27,9 +27,166 @@
           "discardReason": null
         }
       ]
+    },
+    {
+      "slot": "manha",
+      "createdAt": "2026-11-03T12:15:00.000Z",
+      "source": "Clarim Diário ter 03/11",
+      "replies": [
+        {
+          "id": "D1",
+          "url": "https://x.com/Mantle_Official/status/2117576917574672508",
+          "account": "@Mantle_Official",
+          "context_pt": "Mantle 11:17Z: 'Wall Street's new FOMO', Franklin Templeton levando livros pra Mantle com Bybit. Parceiro core, fresco. b = liquidez/execução.",
+          "options": {
+            "a": "wall street catching FOMO is the most crypto thing wall street has ever done",
+            "b": "getting the books onchain is the easy part. the flex is liquidity deep enough to fill size clean on mantle",
+            "c": "early movers win, sure. but the moat is whoever still has a real bid at 3am on a sunday"
+          },
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "D2",
+          "url": "https://x.com/Bybit_Official/status/2117557399657590828",
+          "account": "@Bybit_Official",
+          "context_pt": "Bybit 10:00Z jogo 'pause at the perfect moment' (~69 replies). Engajamento leve; b leve/comunidade.",
+          "options": {
+            "a": "paused it perfect on the first try. ngl my entries never hit like that",
+            "b": "fluxionians in the replies bout to turn this into a full tournament fr",
+            "c": "this is just a reflex test for everyone who swears they'd have sold the top"
+          },
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "D3",
+          "url": "https://x.com/Bybit_Official/status/2117542299928334797",
+          "account": "@Bybit_Official",
+          "context_pt": "Bybit 09:00Z: Ben Zhou na HK FinTech Week sobre convergência TradFi + ativos digitais; painel de infraestrutura/liquidez. b = Bybit Alpha + xStocks.",
+          "options": {
+            "a": "tradfi and digital assets converging. my portfolio did that merger years ago",
+            "b": "xStocks on mantle through bybit alpha is that convergence, already live. gud to see it on the main stage",
+            "c": "infra panels are cool but the real test is who keeps quoting when volatility hits"
+          },
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "D4",
+          "url": "https://x.com/SkyEcosystem/status/2117572240099115357",
+          "account": "@SkyEcosystem",
+          "context_pt": "Sky 10:58Z relatório Q3: 6º trimestre seguido de receita líquida positiva (números no post primário). Parceiro do Fluxion Earn; b = Earn sem prometer rendimento.",
+          "options": {
+            "a": "six straight positive quarters. some of us cant do six straight days at the gym",
+            "b": "boring revenue, growing reserves. exactly what you want sitting under onchain stablecoin yield like fluxion earn",
+            "c": "defi protocols dropping quarterly reports like public companies now. the tradfi cosplay is gettin proudlitely real"
+          },
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "D5",
+          "url": "https://x.com/Bybit_Official/status/2117587848631144524",
+          "account": "@Bybit_Official",
+          "context_pt": "Bybit 12:01Z WSOT 2026 'all anyone can think about'. Postado agora, janela aberta. b leve (execução), sem promo pesada sob competição deles.",
+          "options": {
+            "a": "my pnl is also all anyone can think about. different reasons tho",
+            "b": "execution over vibes, every season. fluxionians already know",
+            "c": "hot take: the leaderboard is half skill, half not panic closing at the first wick"
+          },
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        }
+      ],
+      "posts": [
+        {
+          "id": "DP2",
+          "source": "https://x.com/Mantle_Official/status/2117576917574672508",
+          "text": "wall street's new FOMO isn't a coin. it's getting the books onchain\n\nthe token part is easy\nliquidity and execution is where it gets real\n\nwhich tradfi giant moves next?",
+          "context_pt": "Quote do post Mantle/Franklin Templeton; sem número; pergunta final pra puxar reply.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "DP3",
+          "source": "https://x.com/unusual_whales/status/2117379943684591842",
+          "text": "apple reported after the close yesterday\n\nthe timeline reacted in minutes\nthe opening bell made everyone wait till 9:30\n\nwhich earnings print would you have traded at night if you could?",
+          "context_pt": "Gancho Apple Q4 após fechamento; SEM números (fonte é resumo do unusual_whales, não primária).",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "DP4",
+          "source": "https://x.com/SkyEcosystem/status/2117572240099115357",
+          "text": "sky just posted its sixth straight quarter of positive net revenue\n\nsteady, boring numbers are lowkey the most bullish thing in defi rn\n\nthats the kind of rails we want under fluxion earn",
+          "context_pt": "Número 'sexto trimestre' vem do post primário da Sky. Sem promessa de rendimento.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [
+        {
+          "id": "DM3",
+          "example": "https://x.com/Bybit_Official/status/2117557399657590828",
+          "context_pt": "Formato 'pause no momento perfeito' (freeze-frame).",
+          "caption": "me pausing the chart right before the earnings candle like i planned it",
+          "image_prompt": "the Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl logo on forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) frozen mid-pounce in front of a giant glowing candlestick chart, one paw hovering on a big pause button, a single huge green candle frozen halfway up, motion streaks stopped in place, dramatic freeze-frame lighting. No other on-image text.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "DM4",
+          "example": "https://x.com/Bybit_Official/status/2117406401374863363",
+          "context_pt": "Formato 'quote com o último print de gráfico do seu rolo de câmera'.",
+          "caption": "my camera roll is 90% charts and 10% proof i was right once",
+          "image_prompt": "the Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl logo on forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) sitting at a desk buried under a pile of printed chart screenshots, holding one crumpled print up proudly, cyan eyes squinting smug, desk lamp glow, papers spilling onto the floor. No on-image text.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedUrl": null,
+          "discardReason": null
+        }
+      ]
     }
   ],
   "notes_pt": [
-    "Mathias 9h tip (tokenterminal US$121,8M xStocks em DeFi) → DP1"
+    "Mathias 9h tip (tokenterminal US$121,8M xStocks em DeFi) → DP1",
+    "Diário 03/11 manhã: D1–D5, DP2–DP4, DM3–DM4. Evitados: tokenterminal (já DP1 Mathias), posts de ranking com chains rivais, hack Binance/MercadoBitcoin (incidente), Hayes BTC-only. NÃO VERIFICADO: 'tokenized equities US$3,8B / +590% YTD' (Trireme/Wojtas, não primário) — não virou post."
   ]
 }
