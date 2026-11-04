@@ -272,7 +272,7 @@
    "turned_into": [
     "E2"
    ],
-   "note_pt": "Packet entregue 17:33 Fortaleza, lido na caixa as 17:40. Conferi os 5 links dele na status page do X as 17:4x (hora e contadores batem com o que ele passou). Veredito: 1 entrou (KorFND Bitpanda 15:14:30Z + Kraken 14:21:43Z -> E2 da edicao das 18:00), 1 segurado (Google TTS -> H5, material de reply, nao de edicao), 2 descartados (Robinhood Advisor Network e Robinhood x SkyfiApp, em discarded_tips).",
+   "note_pt": "Packet entregue 17:33 Fortaleza, lido na caixa as 17:40. Conferi os 5 links dele na status page do X as 17:4x (hora e contadores batem com o que ele passou). Veredito: 1 entrou (KorFND Bitpanda 15:14:30Z + Kraken 14:21:43Z -> E2 da edicao das 18:00), 1 segurado (Google TTS -> H5, material de reply, nao de edicao), 2 descartados (Robinhood Advisor Network e Robinhood x SkyfiApp, em discarded_tips). | REENVIO 20:52Z (build 17:52 Fortaleza): mesmos 4 status ids, contadores mais altos (Google 516/58/95/16, Robinhood 134/10/41, KorFND 195/8/13) e a reply com o preco do Skyfi em URL propria (https://x.com/RobinhoodApp/status/2118056355822964805). Denylist reconferida URL por URL: zero colisao. Nada mudou de veredito: o 3 continua como E2, o 1 held (H5) e os dois da Robinhood descartados. O grep 0 do Bruno veio de clone anterior ao commit cf05219 (17:46:50 -03), que ja esta em origin/main.",
    "urls": [
     "https://x.com/Google/status/2118027058794148099",
     "https://x.com/RobinhoodApp/status/2118070176860029089",
@@ -328,7 +328,14 @@
    "slot": "17:30",
    "handle": "@RobinhoodApp",
    "url": "https://x.com/RobinhoodApp/status/2118056354657014043",
-   "reason_pt": "Earth Intelligence da @SkyfiApp no chat da Robinhood (19:02:41Z). Mesma casa concorrente-adjacente; e o gancho 'agente com ferramenta paga' seria sobre a Robinhood, nao sobre a Fluxion. O preco de US$ 10/mes que o Bruno citou veio de uma reply sem URL propria — NAO VERIFICADO; o texto do post so diz 'free for a month'. Fica como observacao do dia."
+   "reason_pt": "Earth Intelligence da @SkyfiApp no chat da Robinhood (19:02:41Z). Mesma casa concorrente-adjacente (a Robinhood tambem vende acao tokenizada na UE); e o gancho 'agente com ferramenta paga' seria sobre a Robinhood, nao sobre a Fluxion. Correcao registrada no reenvio das 17:30: o preco de US$ 10/mes nao e mais NAO VERIFICADO — tem URL propria, reply da propria conta em https://x.com/RobinhoodApp/status/2118056355822964805 (19:02:41Z), texto 'Free for a month, then $10/mo. Auto-renews until canceled. Terms apply.'. O motivo do descarte nao muda."
+  },
+  {
+   "reporter": "Bruno",
+   "slot": "17:30",
+   "handle": "@Strategy",
+   "url": "https://x.com/Strategy/status/2118036238741688626",
+   "reason_pt": "'$STRC has hit $100.00' (17:42Z, 4.006 likes na leitura do Bruno). Fora pela regra Saylor: pauta BTC-only nao rende post da Fluxion. URL diferente da https://x.com/Strategy/status/2117984838829371836 ja descartada pela pre-varredura das 13:1x — mesmo veredito, link novo."
   }
  ],
  "pending": [],
@@ -379,9 +386,9 @@
    "id": "H5",
    "url": "https://x.com/Google/status/2118027058794148099",
    "account": "@Google",
-   "context_pt": "Voice Remixing do Gemini 3.8 Flash TTS: 2.000+ vozes prontas, prompt para timbre, tom, ritmo e sotaque (17:06:16Z, 510 likes / 57 RT / 95 replies / 16 quotes).",
+   "context_pt": "Voice Remixing do Gemini 3.8 Flash TTS: 2.000+ vozes prontas, prompt para timbre, tom, ritmo e sotaque (17:06:16Z; relido 20:5xZ: 516 likes / 58 RT / 95 replies / 16 quotes).",
    "status": "held",
-   "note_pt": "Segurado para reply, nao para edicao: janela boa (3,6h, 95 replies) mas o assunto e MAG7/produto de IA, sem gancho de mercado onchain que nao seja forcar. Se o Hadukem quiser, a linha de reply esta pronta: 'your accent is now a prompt. wonder what else people will expect to be prompterable by friday'. Fonte: packet das 17:30 do Bruno, verificada por mim as 17:4x."
+   "note_pt": "Segurado para reply, nao para edicao: janela boa (3,6h, 95 replies) mas o assunto e MAG7/produto de IA, sem gancho de mercado onchain que nao seja forcar. Se o Hadukem quiser, a linha de reply esta pronta: 'your accent is now a prompt. wonder what else people will expect to be prompterable by friday'. Fonte: packet das 17:30 do Bruno, verificada por mim as 17:4x. Bruno reenviou o packet as 20:52Z (17:52 Fortaleza) com os mesmos 4 ids e contadores mais altos; releitura minha na status page confirma 516/58/95/16. Veredito inalterado: reply-only."
   }
  ],
  "carryover": [
