@@ -1,605 +1,605 @@
 {
- "date": "2026-11-04",
- "editions": [
-  {
-   "slot": "manha",
-   "createdAt": "2026-11-04T12:00:00.000Z",
-   "source": "Clarim Diário qua 04/11 — reconstruído dos pacotes; conta/hora/URL de cada item verificadas pelo @bruno lendo o post às 14:1x",
-   "canvas": null,
-   "posts": [
+  "date": "2026-11-04",
+  "editions": [
     {
-     "id": "D1",
-     "url": "https://x.com/Mantle_Official/status/2118010440496333094",
-     "account": "@Mantle_Official",
-     "text": null,
-     "options": {},
-     "context_pt": "Mantle 16:00Z: música/licença/royalty onchain; $KOR ao vivo na Fluxion e na Bybit. Parceiro core.",
-     "status": "desconhecido",
-     "chosen": null,
-     "note_pt": "Opções a/b/c não recuperadas (texto não ficou legível nesta máquina). Sem registro de escolha nem de post: @Fluxion_network não postou em 04/11 (último post 03/11 18:02 UTC).",
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
+      "slot": "manha",
+      "createdAt": "2026-11-04T12:00:00.000Z",
+      "source": "Clarim Diário qua 04/11 — reconstruído dos pacotes; conta/hora/URL de cada item verificadas pelo @bruno lendo o post às 14:1x",
+      "canvas": null,
+      "posts": [
+        {
+          "id": "D1",
+          "url": "https://x.com/Mantle_Official/status/2118010440496333094",
+          "account": "@Mantle_Official",
+          "text": null,
+          "options": {},
+          "context_pt": "Mantle 16:00Z: música/licença/royalty onchain; $KOR ao vivo na Fluxion e na Bybit. Parceiro core.",
+          "status": "desconhecido",
+          "chosen": null,
+          "note_pt": "Opções a/b/c não recuperadas (texto não ficou legível nesta máquina). Sem letra escolhida e sem post deste item em 04/11 — correção aplicada: o @Fluxion_network POSTOU em 04/11 às 21:12:25Z (https://x.com/Fluxion_network/status/2118089004465758562), texto próprio da Fluxion, que não corresponde a nenhuma das opções escritas. Ver `corrections` e `fluxion_posts_2026-11-04`.",
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "D2",
+          "url": "https://x.com/KorProtocol/status/2118011655628230908",
+          "account": "@KorProtocol",
+          "text": null,
+          "options": {},
+          "context_pt": "KorProtocol 16:05Z: $KOR integrado à Mantle, pool de $KOR ao vivo na Fluxion.",
+          "status": "desconhecido",
+          "chosen": null,
+          "note_pt": "Opções a/b/c não recuperadas. Sem registro de escolha nem de post em 04/11.",
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "D3",
+          "url": "https://x.com/Bybit_Official/status/2117980185844699220",
+          "account": "@Bybit_Official",
+          "text": null,
+          "options": {},
+          "context_pt": "Bybit 14:00Z: $KOR listado na Bybit Spot; pool de prêmio de 40.000.000 KOR (número do post).",
+          "status": "desconhecido",
+          "chosen": null,
+          "note_pt": "Opções a/b/c não recuperadas. Sem registro de escolha nem de post em 04/11.",
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "D4",
+          "url": "https://x.com/xStocksFi/status/2117966533137936654",
+          "account": "@xStocksFi",
+          "text": null,
+          "options": {},
+          "context_pt": "xStocksFi 13:05Z: resultado Q3 da Circle, $CRCLx negociado onchain. Circle Q3 $865M contra $784M (número do post, não do release).",
+          "status": "desconhecido",
+          "chosen": null,
+          "note_pt": "Opções a/b/c não recuperadas. Slot em aberto: 13:05Z = 10:05 Fortaleza, depois de uma edição das 09:00.",
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "D5",
+          "url": "https://x.com/Mantle_Official/status/2117965367717011741",
+          "account": "@Mantle_Official",
+          "text": null,
+          "options": {},
+          "context_pt": "Mantle 13:01Z: FlashProve, provas de IA verificáveis; Mantle como L2 com zkSNARKs em produção.",
+          "status": "desconhecido",
+          "chosen": null,
+          "note_pt": "Opções a/b/c não recuperadas. Slot em aberto: 13:01Z = 10:01 Fortaleza, depois de uma edição das 09:00.",
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        }
+      ]
     },
     {
-     "id": "D2",
-     "url": "https://x.com/KorProtocol/status/2118011655628230908",
-     "account": "@KorProtocol",
-     "text": null,
-     "options": {},
-     "context_pt": "KorProtocol 16:05Z: $KOR integrado à Mantle, pool de $KOR ao vivo na Fluxion.",
-     "status": "desconhecido",
-     "chosen": null,
-     "note_pt": "Opções a/b/c não recuperadas. Sem registro de escolha nem de post em 04/11.",
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
-    },
-    {
-     "id": "D3",
-     "url": "https://x.com/Bybit_Official/status/2117980185844699220",
-     "account": "@Bybit_Official",
-     "text": null,
-     "options": {},
-     "context_pt": "Bybit 14:00Z: $KOR listado na Bybit Spot; pool de prêmio de 40.000.000 KOR (número do post).",
-     "status": "desconhecido",
-     "chosen": null,
-     "note_pt": "Opções a/b/c não recuperadas. Sem registro de escolha nem de post em 04/11.",
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
-    },
-    {
-     "id": "D4",
-     "url": "https://x.com/xStocksFi/status/2117966533137936654",
-     "account": "@xStocksFi",
-     "text": null,
-     "options": {},
-     "context_pt": "xStocksFi 13:05Z: resultado Q3 da Circle, $CRCLx negociado onchain. Circle Q3 $865M contra $784M (número do post, não do release).",
-     "status": "desconhecido",
-     "chosen": null,
-     "note_pt": "Opções a/b/c não recuperadas. Slot em aberto: 13:05Z = 10:05 Fortaleza, depois de uma edição das 09:00.",
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
-    },
-    {
-     "id": "D5",
-     "url": "https://x.com/Mantle_Official/status/2117965367717011741",
-     "account": "@Mantle_Official",
-     "text": null,
-     "options": {},
-     "context_pt": "Mantle 13:01Z: FlashProve, provas de IA verificáveis; Mantle como L2 com zkSNARKs em produção.",
-     "status": "desconhecido",
-     "chosen": null,
-     "note_pt": "Opções a/b/c não recuperadas. Slot em aberto: 13:01Z = 10:01 Fortaleza, depois de uma edição das 09:00.",
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
+      "slot": "18h",
+      "createdAt": "2026-11-04T20:47:00.000Z",
+      "source": "Edicao das 18:00 montada as 17:47 Fortaleza com dois tips ja verificados por mim lendo o post: E1 = @SkyEcosystem Q3 (packet das 15:00 do Gleison) e E2 = $KOR na Kraken+Bitpanda (packet das 17:30 do Bruno). O packet das 18:00 do Gleison ainda nao tinha caido na hora da montagem; se trouxer item novo, entra como E3 antes da publicacao.",
+      "canvas": null,
+      "posts": [
+        {
+          "id": "E1",
+          "url": "https://x.com/SkyEcosystem/status/2117990716073005191",
+          "account": "@SkyEcosystem",
+          "text": "The Sky Ecosystem Q3 2026 Report is live.\n\nQ3 marked the sixth consecutive quarter of positive Net Revenue on Sky Protocol, reaching $37.19M, up 11.8% from Q2.\n\nWatch the overview below, then explore the results in the full report ↓",
+          "context_pt": "Sky Q3 2026 (14:41:51Z = 11:41 Fortaleza): sexto trimestre seguido de receita liquida positiva, US$ 37,19 mi, +11,8% sobre o Q2. Parceiro do Fluxion Earn (USDC/USDT0 com Grove, CIAN e Sky, sem alavancagem).",
+          "options": {
+            "a": "six consecutive quarters of positive net revenue and the report has 36 likes. finance is the one genre where the receipts are quieter than the vibes",
+            "b": "sky Q3: sixth straight quarter of positive net revenue, $37.19M, up 11.8% on Q2\n\nthats the paper behind the usdc side of fluxion earn — sky, grove, cian, no leverage, no borrow. yield you can read a report about",
+            "c": "everyone screenshots a liquidation. nobody screenshots six straight quarters of positive net revenue. one of those compounds, the other one just gets retweeted"
+          },
+          "verified_pt": "Reli o post na status page às 17:4x (minha leitura, UA de browser): autor @SkyEcosystem, 2026-11-04 14:41:51Z, texto do post traz US$ 37,19 mi, +11,8% sobre o Q2 e 'sixth consecutive quarter of positive Net Revenue'. Nada de terceiro: os numeros estao no proprio post. Origem: packet das 15:00 do Gleison (ele nao conseguiu ler o texto; a citacao agora e do post).",
+          "metrics": {
+            "likes": 36,
+            "rt": 2,
+            "replies": 2,
+            "quotes": 0,
+            "age_h_at_check": 6.04
+          },
+          "status": "aguardando_escolha",
+          "chosen": null,
+          "note_pt": "Reporter: Gleison (slot 15:00). Angulo escolhido: o yield do Fluxion Earn tem papel passado — lucro liquido positivo por 6 trimestres, nao promessa. Nunca dizer 'yield garantido'; manter 'no leverage, no borrow'.",
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "E2",
+          "url": "https://x.com/KorFND/status/2117998932358058357",
+          "secondaryUrls": [
+            "https://x.com/KorFND/status/2117985649781616935"
+          ],
+          "account": "@KorFND",
+          "text": "$KOR is live on @Bitpanda_global. / $KOR is live on @krakenfx.",
+          "context_pt": "$KOR saiu em tres venues em uma tarde: Bybit Spot 14:00Z (D3 ja usada), Kraken 14:21:43Z, Bitpanda 15:14:30Z — e o pool abriu na Fluxion as 16:05Z (D2 ja usada). Tip novo com URLs proprias (Kraken + Bitpanda), entao passa pela denylist do dia. Volume negociado: NAO VERIFICADO, nao entra.",
+          "options": {
+            "a": "$KOR is collecting venues today like gym badges. three before dinner and the day isnt done",
+            "b": "$KOR listed on three venues today, and the pool opened on fluxion inside the same hour, on mantle, while the order books were still warming up\n\na listing is not a market. liquidity and execution are\n\nwhere does it actually trade at 3am?",
+            "c": "listing day is the easy part. come back in a week and look at the spread at 3am. listings are announcements, markets are habits"
+          },
+          "verified_pt": "Reli os dois posts na status page às 17:4x: Kraken 14:21:43Z, 182 likes / 4 RT / 12 replies; Bitpanda 15:14:30Z, 195 likes / 8 RT / 13 replies. Bate com o packet do Bruno. As URLs de Bybit (D3) e do pool na Fluxion (D2) nao voltam — denylist do dia.",
+          "metrics": {
+            "kraken": {
+              "likes": 182,
+              "rt": 4,
+              "replies": 12,
+              "utc": "2026-11-04 14:21:43Z"
+            },
+            "bitpanda": {
+              "likes": 195,
+              "rt": 8,
+              "replies": 13,
+              "utc": "2026-11-04 15:14:30Z"
+            }
+          },
+          "status": "aguardando_escolha",
+          "chosen": null,
+          "note_pt": "Reporter: Bruno (slot 17:30). Se for post, QT do post da Bitpanda (E2 qual principal) para dar recibo; nao nomear Kraken/Bitpanda na copy (regra: venue rival nao entra em copy da Fluxion). Bybit pode ser nomeada por ser parceira.",
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        }
+      ]
     }
-   ]
-  },
-  {
-   "slot": "18h",
-   "createdAt": "2026-11-04T20:47:00.000Z",
-   "source": "Edicao das 18:00 montada as 17:47 Fortaleza com dois tips ja verificados por mim lendo o post: E1 = @SkyEcosystem Q3 (packet das 15:00 do Gleison) e E2 = $KOR na Kraken+Bitpanda (packet das 17:30 do Bruno). O packet das 18:00 do Gleison ainda nao tinha caido na hora da montagem; se trouxer item novo, entra como E3 antes da publicacao.",
-   "canvas": null,
-   "posts": [
+  ],
+  "escolhas_log": [
     {
-     "id": "E1",
-     "url": "https://x.com/SkyEcosystem/status/2117990716073005191",
-     "account": "@SkyEcosystem",
-     "text": "The Sky Ecosystem Q3 2026 Report is live.\n\nQ3 marked the sixth consecutive quarter of positive Net Revenue on Sky Protocol, reaching $37.19M, up 11.8% from Q2.\n\nWatch the overview below, then explore the results in the full report ↓",
-     "context_pt": "Sky Q3 2026 (14:41:51Z = 11:41 Fortaleza): sexto trimestre seguido de receita liquida positiva, US$ 37,19 mi, +11,8% sobre o Q2. Parceiro do Fluxion Earn (USDC/USDT0 com Grove, CIAN e Sky, sem alavancagem).",
-     "options": {
-      "a": "six consecutive quarters of positive net revenue and the report has 36 likes. finance is the one genre where the receipts are quieter than the vibes",
-      "b": "sky Q3: sixth straight quarter of positive net revenue, $37.19M, up 11.8% on Q2\n\nthats the paper behind the usdc side of fluxion earn — sky, grove, cian, no leverage, no borrow. yield you can read a report about",
-      "c": "everyone screenshots a liquidation. nobody screenshots six straight quarters of positive net revenue. one of those compounds, the other one just gets retweeted"
-     },
-     "verified_pt": "Reli o post na status page às 17:4x (minha leitura, UA de browser): autor @SkyEcosystem, 2026-11-04 14:41:51Z, texto do post traz US$ 37,19 mi, +11,8% sobre o Q2 e 'sixth consecutive quarter of positive Net Revenue'. Nada de terceiro: os numeros estao no proprio post. Origem: packet das 15:00 do Gleison (ele nao conseguiu ler o texto; a citacao agora e do post).",
-     "metrics": {
-      "likes": 36,
-      "rt": 2,
-      "replies": 2,
-      "quotes": 0,
-      "age_h_at_check": 6.04
-     },
-     "status": "aguardando_escolha",
-     "chosen": null,
-     "note_pt": "Reporter: Gleison (slot 15:00). Angulo escolhido: o yield do Fluxion Earn tem papel passado — lucro liquido positivo por 6 trimestres, nao promessa. Nunca dizer 'yield garantido'; manter 'no leverage, no borrow'.",
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
+      "at": "2026-11-04T22:30:00.000Z",
+      "edicao": "18h",
+      "itens": [
+        "E1",
+        "E2"
+      ],
+      "chosen": null,
+      "posted": true,
+      "postedUrl": "https://x.com/Fluxion_network/status/2118089004465758562",
+      "status_pt": "post_proprio_sem_letra_escolhida",
+      "note_pt": "Nenhuma letra (a/b/c) escolhida pelo Hadukem foi registrada para E1/E2 ate esta gravacao; mas houve POST em 04/11: https://x.com/Fluxion_network/status/2118089004465758562 as 21:12:25Z (18:12 Fortaleza), texto proprio da Fluxion sobre o dia 1 do $KOR na Fluxion, que nao corresponde a nenhuma das opcoes escritas. Registrado como fato, nao como escolha inferida."
+    }
+  ],
+  "style_rules": {
+    "denylist_url_2026-11-04": {
+      "pt": "Link que já saiu numa edição do Clarim Diário não volta em outra edição do mesmo dia. Se o assunto andar, o tip é o post novo, com link próprio.",
+      "source": "Hadukem, 04/11/2026"
+    },
+    "rondas_2026-11-04": {
+      "pt": "Ronda das 09:00 extinta: o conteúdo da manhã entra na ronda das 12:00. Grade fica 12:00 · 15:00 · 18:00 · 21:00 (Fortaleza).",
+      "source": "Hadukem, 04/11/2026"
+    },
+    "anti_dup_urls_2026-11-04": {
+      "pt": "URLs que ja rodaram numa edicao de 04/11 — nao podem voltar em nenhuma edicao do mesmo dia. Lista montada por mim as 17:47 a partir das edicoes registradas (manha D1-D5 + 18h E1-E2); conferir contra esta lista antes de cada publicacao.",
+      "urls": [
+        "https://x.com/Mantle_Official/status/2118010440496333094",
+        "https://x.com/KorProtocol/status/2118011655628230908",
+        "https://x.com/Bybit_Official/status/2117980185844699220",
+        "https://x.com/xStocksFi/status/2117966533137936654",
+        "https://x.com/Mantle_Official/status/2117965367717011741",
+        "https://x.com/SkyEcosystem/status/2117990716073005191",
+        "https://x.com/KorFND/status/2117998932358058357",
+        "https://x.com/KorFND/status/2117985649781616935"
+      ]
+    }
+  },
+  "quality_feedback": [],
+  "reporter_tips": [
+    {
+      "at": "2026-11-04T12:50:00.000Z",
+      "reporter": "Bruno",
+      "slot": "10:30",
+      "tips": 0,
+      "turned_into": [],
+      "note_pt": "Nenhum packet saiu: a ronda das 10:30 não ficou registrada (a caixa subiu ~12:42) e a das 17:30 ainda não tinha acontecido."
     },
     {
-     "id": "E2",
-     "url": "https://x.com/KorFND/status/2117998932358058357",
-     "secondaryUrls": [
-      "https://x.com/KorFND/status/2117985649781616935"
-     ],
-     "account": "@KorFND",
-     "text": "$KOR is live on @Bitpanda_global. / $KOR is live on @krakenfx.",
-     "context_pt": "$KOR saiu em tres venues em uma tarde: Bybit Spot 14:00Z (D3 ja usada), Kraken 14:21:43Z, Bitpanda 15:14:30Z — e o pool abriu na Fluxion as 16:05Z (D2 ja usada). Tip novo com URLs proprias (Kraken + Bitpanda), entao passa pela denylist do dia. Volume negociado: NAO VERIFICADO, nao entra.",
-     "options": {
-      "a": "$KOR is collecting venues today like gym badges. three before dinner and the day isnt done",
-      "b": "$KOR listed on three venues today, and the pool opened on fluxion inside the same hour, on mantle, while the order books were still warming up\n\na listing is not a market. liquidity and execution are\n\nwhere does it actually trade at 3am?",
-      "c": "listing day is the easy part. come back in a week and look at the spread at 3am. listings are announcements, markets are habits"
-     },
-     "verified_pt": "Reli os dois posts na status page às 17:4x: Kraken 14:21:43Z, 182 likes / 4 RT / 12 replies; Bitpanda 15:14:30Z, 195 likes / 8 RT / 13 replies. Bate com o packet do Bruno. As URLs de Bybit (D3) e do pool na Fluxion (D2) nao voltam — denylist do dia.",
-     "metrics": {
-      "kraken": {
-       "likes": 182,
-       "rt": 4,
-       "replies": 12,
-       "utc": "2026-11-04 14:21:43Z"
+      "at": "2026-11-04T13:13:00.000Z",
+      "reporter": "Gleison",
+      "slot": "12:00",
+      "tips": 0,
+      "turned_into": [],
+      "note_pt": "Zero: X inacessível 12:49–13:13 (curl timeout/000). Primeira packet dele sai na ronda das 15:00."
+    },
+    {
+      "at": "2026-11-04T12:39:00.000Z",
+      "reporter": "Mathias",
+      "slot": "12:00",
+      "tips": 0,
+      "turned_into": [],
+      "note_pt": "A ronda de 12:00 não existiu: o aviso das 12:39 caiu depois da janela 12:00±15. Primeira ronda nova 05/11 12:00."
+    },
+    {
+      "at": "2026-11-04T16:13:00.000Z",
+      "reporter": "Diário (pré-ronda 13:1x)",
+      "slot": "13:00",
+      "tips": 4,
+      "turned_into": [],
+      "note_pt": "Varredura das 13:1x que NÃO foi enviada como packet — entra como observação/tip, não como edição. https://x.com/KorProtocol/status/2117983650109358431 (KOR na Bybit, campanha de 40M $KOR, 14:13Z) · https://x.com/KorFND/status/2117981129043239206 (claims do airdrop abertos, 14:03Z) · https://x.com/KorProtocol/status/2117981391388610878 (aponta os claims, 14:04Z) · https://x.com/Mantle_Official/status/2117940016357990408 (MIP-35, orçamento do 4º ano, em votação, 11:20Z). Números verificáveis: 40M $KOR no pool da Bybit; claims até segunda 09/11 14:00 UTC; ciclo orçamentário jul/2026–jun/2027."
+    },
+    {
+      "at": "2026-11-04T17:22:00.000Z",
+      "reporter": "Gleison",
+      "slot": "15:00",
+      "tips": 5,
+      "turned_into": [
+        "E1"
+      ],
+      "note_pt": "Ronda das 15:00 entregue adiantada, 14:22 Fortaleza (packet do Gleison). Cinco tips, nenhuma ja usada na edicao de hoje — URL por URL: @SkyEcosystem https://x.com/SkyEcosystem/status/2117990716073005191 (Resultado do Q3 2026 da Sky: receita liquida US$ 37,19 mi, +11,8% sobre o Q2, sexto trimestre seguido positivo) · @KorFND https://x.com/KorFND/status/2117981129043239206 (Claims do airdrop do $KOR abertos ate segunda 09/11, 14:00 UTC) · @KorProtocol https://x.com/KorProtocol/status/2117981391388610878 (Aviso de que so links oficiais valem no claim do $KOR) · @Bybit_Official https://x.com/Bybit_Official/status/2118010634864349479 (Guia de montagem de squad do WSOT 2026, com live amanha no X) · @Mantle_Official https://x.com/Mantle_Official/status/2117940016357990408 (Votacao aberta da MIP-35, orcamento do quarto ano da Mantle (jul/2026-jun/2027)). URLs conferidas por mim as 14:4x Fortaleza pelo oembed publico do X (HTTP 200, autor e URL canonica conferem); nao consegui ler o texto dos posts, entao o texto acima e o resumo do Gleison, nao citacao. Duas delas ja estavam no held do Bruno e ficam so cruzadas, sem duplicar: 2117981391388610878 = H3 e 2117940016357990408 = H4. A dos claims (2117981129043239206) e o mesmo status do H2. | 17:47: reli eu mesma o post da Sky na status page — o texto confirma receita liquida US$ 37,19 mi, +11,8% sobre o Q2 e sexto trimestre seguido positivo, entao a citacao agora e do post, nao mais resumo do reporter. Virou E1 da edicao das 18:00. Os outros quatro tips dele ficaram: claims (H2), aviso de links oficiais (H3), guia do WSOT e MIP-35 (H4) — candidatos da ronda das 21:00.",
+      "urls": [
+        "https://x.com/SkyEcosystem/status/2117990716073005191",
+        "https://x.com/KorFND/status/2117981129043239206",
+        "https://x.com/KorProtocol/status/2117981391388610878",
+        "https://x.com/Bybit_Official/status/2118010634864349479",
+        "https://x.com/Mantle_Official/status/2117940016357990408"
+      ],
+      "tips_list": [
+        {
+          "handle": "@SkyEcosystem",
+          "url": "https://x.com/SkyEcosystem/status/2117990716073005191",
+          "topic_pt": "Resultado do Q3 2026 da Sky: receita liquida US$ 37,19 mi, +11,8% sobre o Q2, sexto trimestre seguido positivo.",
+          "status_pt": "novo — nenhuma URL da edicao de hoje repete esta"
+        },
+        {
+          "handle": "@KorFND",
+          "url": "https://x.com/KorFND/status/2117981129043239206",
+          "topic_pt": "Claims do airdrop do $KOR abertos ate segunda 09/11, 14:00 UTC.",
+          "status_pt": "cruzado com o held H2 (mesmo status id); o Gleison escreveu @KORProtocol, mas o autor do post e KOR Foundation e a URL canonica e x.com/KorFND/... — atribuicao corrigida para @KorFND"
+        },
+        {
+          "handle": "@KorProtocol",
+          "url": "https://x.com/KorProtocol/status/2117981391388610878",
+          "topic_pt": "Aviso de que so links oficiais valem no claim do $KOR.",
+          "status_pt": "cruzado com o held H3 — mesmo status, nao duplicar"
+        },
+        {
+          "handle": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2118010634864349479",
+          "topic_pt": "Guia de montagem de squad do WSOT 2026, com live amanha no X.",
+          "status_pt": "novo — nenhuma URL da edicao de hoje repete esta"
+        },
+        {
+          "handle": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2117940016357990408",
+          "topic_pt": "Votacao aberta da MIP-35, orcamento do quarto ano da Mantle (jul/2026-jun/2027).",
+          "status_pt": "cruzado com o held H4 — mesmo status, nao duplicar; conta Mantle, portanto fora do furo watch-only do Mathias"
+        }
+      ]
+    },
+    {
+      "at": "2026-11-04T20:33:00.000Z",
+      "reporter": "Bruno",
+      "slot": "17:30",
+      "tips": 4,
+      "turned_into": [
+        "E2"
+      ],
+      "note_pt": "Packet entregue 17:33 Fortaleza, lido na caixa as 17:40. Conferi os 5 links dele na status page do X as 17:4x (hora e contadores batem com o que ele passou). Veredito: 1 entrou (KorFND Bitpanda 15:14:30Z + Kraken 14:21:43Z -> E2 da edicao das 18:00), 1 segurado (Google TTS -> H5, material de reply, nao de edicao), 2 descartados (Robinhood Advisor Network e Robinhood x SkyfiApp, em discarded_tips). | REENVIO 20:52Z (build 17:52 Fortaleza): mesmos 4 status ids, contadores mais altos (Google 516/58/95/16, Robinhood 134/10/41, KorFND 195/8/13) e a reply com o preco do Skyfi em URL propria (https://x.com/RobinhoodApp/status/2118056355822964805). Denylist reconferida URL por URL: zero colisao. Nada mudou de veredito: o 3 continua como E2, o 1 held (H5) e os dois da Robinhood descartados. O grep 0 do Bruno veio de clone anterior ao commit cf05219 (17:46:50 -03), que ja esta em origin/main.",
+      "urls": [
+        "https://x.com/Google/status/2118027058794148099",
+        "https://x.com/RobinhoodApp/status/2118070176860029089",
+        "https://x.com/KorFND/status/2117998932358058357",
+        "https://x.com/KorFND/status/2117985649781616935",
+        "https://x.com/RobinhoodApp/status/2118056354657014043"
+      ],
+      "tips_list": [
+        {
+          "handle": "@Google",
+          "url": "https://x.com/Google/status/2118027058794148099",
+          "topic_pt": "Voice Remixing do Gemini 3.8 Flash TTS no AI Studio e na API: 2.000+ vozes de biblioteca e prompts para timbre, tom, ritmo e sotaque (17:06:16Z).",
+          "status_pt": "segurado (H5) — reply-only: 510 likes / 57 RT / 95 replies / 16 quotes em 3,6h, mas nao e parceiro nem mercado; sem angulo Fluxion que nao seja forcar"
+        },
+        {
+          "handle": "@RobinhoodApp",
+          "url": "https://x.com/RobinhoodApp/status/2118070176860029089",
+          "topic_pt": "Advisor Network: cliente da Robinhood pareado com consultor financeiro independente (19:57:36Z, 45 min antes da ronda).",
+          "status_pt": "descartado — concorrente-adjacente (Robinhood tambem vende acao tokenizada na UE), angulo so existiria como alfinetada e a never-list proibe citar concorrente negativamente; 56 likes / 3 RT / 30 replies em 45 min"
+        },
+        {
+          "handle": "@KorFND",
+          "url": "https://x.com/KorFND/status/2117998932358058357",
+          "topic_pt": "$KOR na Bitpanda (15:14:30Z, 195 likes / 8 RT / 13 replies) e na Kraken (14:21:43Z, 182 / 4 / 12) — terceira e quarta venue do dia contando Bybit (D3) e o pool na Fluxion (D2).",
+          "status_pt": "ENTROU — E2 da edicao das 18:00; as duas URLs sao novas, entao passam pela denylist do dia. Volume: NAO VERIFICADO, fora da copy"
+        },
+        {
+          "handle": "@RobinhoodApp",
+          "url": "https://x.com/RobinhoodApp/status/2118056354657014043",
+          "topic_pt": "Earth Intelligence da @SkyfiApp dentro do chat da Robinhood: imagem de satelite no agente (19:02:41Z, 128 likes / 10 RT / 41 replies). Preco (US$ 10/mes) so apareceu em reply, sem URL propria.",
+          "status_pt": "descartado — mesma casa concorrente-adjacente; o post so diz 'free for a month', o preco da reply nao tem URL (NAO VERIFICADO); fica como observacao do dia"
+        }
+      ]
+    },
+    {
+      "at": "2026-11-04T22:06:00.000Z",
+      "reporter": "Mathias",
+      "slot": "19:00 (confirmacao)",
+      "tips": 0,
+      "turned_into": [],
+      "urls": [],
+      "note_pt": "Confirmou em 04/11 19:0x Fortaleza: nada hoje - nenhum tip e nenhuma observacao watch-only de xStocks fora da Mantle. Nao houve ronda (o aceite da ronda unica caiu 12:39, depois da janela 12:00 +-15) e nao fez varredura de tarde/noite. Primeira ronda unica: 05/11 12:00. Log do dia: clarim/logs/mathias/2026-11-04.md."
+    },
+    {
+      "at": "2026-11-04T22:15:00.000Z",
+      "reporter": "Gleison",
+      "slot": "18:00",
+      "tips": 0,
+      "turned_into": [],
+      "note_pt": "Ronda das 18:00 NAO saiu — resposta do @gleison as 19:1x: nenhuma varredura foi feita na janela; o ultimo trabalho da maquina dele tinha sido o packet das 15:00 (14:22). Para a lacuna nao ficar sem lastro ele rodou a ronda atrasada as 19:0x-19:12 e o resultado e 0 tips de edicao. Varreu Mantle_Official, KorProtocol, KorFND, Bybit_Official, xStocksFi e SkyEcosystem pelo xread: o ultimo post de substancia de cada uma ja esta no arquivo do dia ou na denylist (Sky 14:41Z, KorProtocol 16:05Z, Mantle 16:00Z, KorFND 15:14Z, Bybit 16:01Z, xStocks 13:05Z). Depois das 16:05Z os parceiros so postaram duas coisas, as duas da Bybit, e as duas estao em discarded_tips.",
+      "urls": [],
+      "tips_list": []
+    }
+  ],
+  "discarded_tips": [
+    {
+      "reporter": "Diário (pré-ronda 13:1x)",
+      "slot": "13:00",
+      "handle": "@Strategy",
+      "url": "https://x.com/Strategy/status/2117984838829371836",
+      "reason_pt": "Estrutura de capital com exposição a $BTC (14:18Z) — fora pela regra Saylor: pauta BTC-only não rende post da Fluxion."
+    },
+    {
+      "reporter": "Bruno",
+      "slot": "17:30",
+      "handle": "@RobinhoodApp",
+      "url": "https://x.com/RobinhoodApp/status/2118070176860029089",
+      "reason_pt": "Advisor Network (19:57:36Z). Concorrente-adjacente: a Robinhood tambem vende acao tokenizada na UE. O unico angulo seria alfinetar ('o app vende o humano do lado'), e a never-list proibe citar concorrente negativamente. Engajamento baixo para o porte da conta: 56 likes / 3 RT / 30 replies em 45 min."
+    },
+    {
+      "reporter": "Bruno",
+      "slot": "17:30",
+      "handle": "@RobinhoodApp",
+      "url": "https://x.com/RobinhoodApp/status/2118056354657014043",
+      "reason_pt": "Earth Intelligence da @SkyfiApp no chat da Robinhood (19:02:41Z). Mesma casa concorrente-adjacente (a Robinhood tambem vende acao tokenizada na UE); e o gancho 'agente com ferramenta paga' seria sobre a Robinhood, nao sobre a Fluxion. Correcao registrada no reenvio das 17:30: o preco de US$ 10/mes nao e mais NAO VERIFICADO — tem URL propria, reply da propria conta em https://x.com/RobinhoodApp/status/2118056355822964805 (19:02:41Z), texto 'Free for a month, then $10/mo. Auto-renews until canceled. Terms apply.'. O motivo do descarte nao muda."
+    },
+    {
+      "reporter": "Bruno",
+      "slot": "17:30",
+      "handle": "@Strategy",
+      "url": "https://x.com/Strategy/status/2118036238741688626",
+      "reason_pt": "'$STRC has hit $100.00' (17:42Z, 4.006 likes na leitura do Bruno). Fora pela regra Saylor: pauta BTC-only nao rende post da Fluxion. URL diferente da https://x.com/Strategy/status/2117984838829371836 ja descartada pela pre-varredura das 13:1x — mesmo veredito, link novo."
+    },
+    {
+      "reporter": "Gleison",
+      "slot": "18:00 (ronda atrasada, 19:0x-19:12)",
+      "handle": "@Bybit_Official",
+      "url": "https://x.com/Bybit_Official/status/2118040582878548416",
+      "reason_pt": "Isca de engajamento / post de imagem-video sem assunto — nao rende thread nem reply com a Fluxion. The only peaks we're chasing. (post de video)",
+      "post_at": "2026-11-04T18:00:00Z",
+      "counts_22h": "31 curtidas / 12 replies (relidos por mim no embed publico as 22:2xZ; bateram com os numeros do Gleison)"
+    },
+    {
+      "reporter": "Gleison",
+      "slot": "18:00 (ronda atrasada, 19:0x-19:12)",
+      "handle": "@Bybit_Official",
+      "url": "https://x.com/Bybit_Official/status/2118070528221061428",
+      "reason_pt": "Isca de engajamento / post de imagem-video sem assunto — nao rende thread nem reply com a Fluxion. This or that: checking the market with a clear reason / or / opening it just because you're bored",
+      "post_at": "2026-11-04T19:59:00Z",
+      "counts_22h": "26 curtidas / 18 replies (relidos por mim no embed publico as 22:2xZ; bateram com os numeros do Gleison)"
+    }
+  ],
+  "pending": [],
+  "held": [
+    {
+      "reporter": "Bruno",
+      "slot": "13:1x (pre-varredura)",
+      "id": "H1",
+      "url": "https://x.com/KorProtocol/status/2117983650109358431",
+      "account": "@KorProtocol",
+      "context_pt": "$KOR na Bybit, campanha/pool de 40.000.000 KOR (14:13Z).",
+      "status": "held",
+      "note_pt": "Segurado: pool de 40M KOR ja aparece na D3 pela conta da Bybit; entra so com angulo novo. Aviso do Bruno: as duas URLs da edicao de hoje, 16:00Z (Mantle D1) e 16:05Z (KorProtocol D2), esquentaram depois e seguem bloqueadas pela denylist de URL do dia."
+    },
+    {
+      "reporter": "Bruno",
+      "slot": "13:1x (pre-varredura)",
+      "id": "H2",
+      "url": "https://x.com/KorFND/status/2117981129043239206",
+      "account": "@KorFND",
+      "context_pt": "Claims do airdrop do $KOR abertos (14:03Z); prazo segunda 09/11 14:00 UTC.",
+      "status": "held",
+      "note_pt": "Segurado: prazo util de claim, mas dependia do aviso de links oficiais (H3) para nao mandar holder em link errado. Fonte: pre-varredura do Bruno das 13:1x, mesmas 4 URLs ja registradas em reporter_tips."
+    },
+    {
+      "reporter": "Bruno",
+      "slot": "13:1x (pre-varredura)",
+      "id": "H3",
+      "url": "https://x.com/KorProtocol/status/2117981391388610878",
+      "account": "@KorProtocol",
+      "context_pt": "Post do KOR apontando os claims (14:04Z).",
+      "status": "held",
+      "note_pt": "Segurado: reply-copy/aviso operacional, nao material de thread. Fonte: pre-varredura do Bruno das 13:1x, mesmas 4 URLs ja registradas em reporter_tips."
+    },
+    {
+      "reporter": "Bruno",
+      "slot": "13:1x (pre-varredura)",
+      "id": "H4",
+      "url": "https://x.com/Mantle_Official/status/2117940016357990408",
+      "account": "@Mantle_Official",
+      "context_pt": "MIP-35, orcamento do 4o ano (jul/2026-jun/2027) em votacao (11:20Z).",
+      "status": "held",
+      "note_pt": "Segurado: governance e assunto de comunidade, nao de mercado; voltar se a votacao esquentar. Fonte: pre-varredura do Bruno das 13:1x, mesmas 4 URLs ja registradas em reporter_tips."
+    },
+    {
+      "reporter": "Bruno",
+      "slot": "17:30",
+      "id": "H5",
+      "url": "https://x.com/Google/status/2118027058794148099",
+      "account": "@Google",
+      "context_pt": "Voice Remixing do Gemini 3.8 Flash TTS: 2.000+ vozes prontas, prompt para timbre, tom, ritmo e sotaque (17:06:16Z; relido 20:5xZ: 516 likes / 58 RT / 95 replies / 16 quotes).",
+      "status": "held",
+      "note_pt": "Segurado para reply, nao para edicao: janela boa (3,6h, 95 replies) mas o assunto e MAG7/produto de IA, sem gancho de mercado onchain que nao seja forcar. Se o Hadukem quiser, a linha de reply esta pronta: 'your accent is now a prompt. wonder what else people will expect to be prompterable by friday'. Fonte: packet das 17:30 do Bruno, verificada por mim as 17:4x. Bruno reenviou o packet as 20:52Z (17:52 Fortaleza) com os mesmos 4 ids e contadores mais altos; releitura minha na status page confirma 516/58/95/16. Veredito inalterado: reply-only."
+    }
+  ],
+  "carryover": [
+    {
+      "from": "2026-11-04",
+      "items": [
+        "gleison-18:00",
+        "gleison-21:00",
+        "mathias-05/11-12:00",
+        "mathias-observacao-05/11-09:00"
+      ],
+      "status_pt": "Rondas entregues em 04/11: 15:00 do Gleison (as 14:22; um tip virou E1) e 17:30 do Bruno (as 17:33; 4 tips: E2, H5 e dois descartados). Seguem em aberto do dia: 18:00 e 21:00 do Gleison; primeira ronda do Mathias em 05/11 12:00 (o aviso de 04/11 12:39 caiu fora da janela) e a checagem da observacao dele em 05/11 ~09:00. Estado as 19:3x Fortaleza (flush das 19:00): a ronda das 18:00 do Gleison nao estava na caixa ate esta gravacao - fica lacuna declarada do dia, nao zero; 21:00 do Gleison e as rondas do Mathias seguem em aberto. Corrigido nesta gravacao: houve post da @Fluxion_network em 04/11 (21:12:25Z), ver fluxion_posts_2026-11-04.",
+      "done": [
+        "gleison-15:00",
+        "bruno-17:30"
+      ],
+      "done_after": [
+        {
+          "item": "gleison-18:00",
+          "at": "2026-11-04T22:15:00.000Z",
+          "tips": 0,
+          "note_pt": "Fechado sem packet: ronda nao saiu e a revarredura das 19:0x-19:12 deu 0 tips de edicao. Nada a esperar das 18:00; as duas unicas postagens novas de parceiro (Bybit 18:00Z e 19:59Z) foram descartadas por nao render pauta."
+        }
+      ]
+    }
+  ],
+  "reporter_eod": {},
+  "page": null,
+  "notes_pt": "Dia 04/11 reconstruído às 14:2x a partir dos pacotes dos repórteres, só com o que sobreviveu do dia — zero invenção. Edição manhã: D1–D5 são as 5 URLs que a Editora passou ao @bruno às 13:13 como edição de 04/11; o @bruno verificou cada uma lendo o post às 14:1x, com conta e hora UTC. O que NÃO foi recuperado e por isso não está nos itens: o texto das opções a/b/c, qual foi o `chosen` e `postedText`/`postedUrl` — não estão legíveis em lugar nenhum, e o @Fluxion_network não postou nada em 04/11 (último post 03/11 18:02 UTC), então não dá para reconstruir o postado pela timeline; por isso `status` = desconhecido e `options` = {}. `createdAt` é o horário nominal da edição (09:00 Fortaleza), não um timestamp lido; `canvas` não recuperado. Ressalva de slot: D4 e D5 são de 13:01–13:05 UTC (10:01–10:05 Fortaleza), depois de uma edição das 09:00 — a qual slot pertencem fica em aberto. Ressalva de contagem: o @bruno registrou 5 itens onde o log fala em anti-dup de 7; as outras 2 ele não tem. | Tips do dia: zero dos três (detalhe em `reporter_tips`). O material de pré-ronda das 13:1x não foi enviado como packet: entrou como observação, não como edição. | Também do dia, já registrado no espelho antes desta reconstrução: Hadukem decidiu por lista em texto (anti-dup de 7 itens + liberação de 3 itens segurados de 29/10, já fora da janela de 12h); a denylist de URL passou a valer; a ronda única do Mathias fica 12:00 Fortaleza a partir de 05/11. | Chaves vazias nesta gravacao, e o que significam: escolhas_log = [] porque nao existe registro de escolha do Hadukem em 04/11 (a edicao saiu pelo DM das 09:00 e o texto das opcoes a/b/c nao foi recuperado); quality_feedback = [] porque nenhum feedback dele foi registrado hoje; page = null porque o codigo CLARIM/canvas do dia nao foi recuperado; reporter_eod = {} porque o EOD dos reporteres ainda nao tinha chegado na hora desta gravacao (entra no fechamento das 21:30). held = 4 candidatos do Bruno da pre-varredura das 13:1x, segurados hoje. | Atualizado as 14:4x (Fortaleza): o reporter_tips do Gleison, slot 15:00, deixou de dizer 'URLs nao capturadas' e passou a ter as 5 URLs do packet, com cross-ref do que ja estava em held. | Atualizado as 17:47 (Fortaleza): edicao das 18h montada com E1 (Sky Q3, do packet das 15:00 do Gleison) e E2 ($KOR na Kraken e na Bitpanda, do packet das 17:30 do Bruno), ambas com a/b/c em ingles escritas por mim e as duas URLs relidas na status page do X as 17:4x (hora e contadores conferidos, e nao oembed). E1 e E2 estao 'aguardando_escolha': nada foi postado. `style_rules.anti_dup_urls_2026-11-04` passa a listar as 7 URLs que rodaram hoje (D1-D5 + E1-E2) para a checagem de denylist virar mecanica. Google TTS segue em held (H5) como reply-only; os dois posts da Robinhood foram descartados com motivo em `discarded_tips` (concorrente-adjacente; preco do SkyfiApp so em reply, NAO VERIFICADO). | Atualizado as 12:57 (Fortaleza): carryover corrigido — 15:00 do Gleison e 17:30 do Bruno saem de pendente e entram em done, porque os dois pacotes estao no arquivo. URLs do packet das 17:30 reconferidas uma a uma por syndication/oembed: E2 principal = @KorFND post Bitpanda 15:14:30Z, secondary = @KorFND post Kraken 14:21:43Z, H5 = @Google 17:06:16Z, descartados = @RobinhoodApp 19:02:41Z e 19:57:36Z; todos os handles batem com o autor do post e nenhum item do arquivo atribui a @KorProtocol um post do @KorFND. Nenhuma URL repetida entre a edicao da manha e a das 18h. | Flush das 19:00 (gravado 19:3x Fortaleza, antes da leitura das 19:47): arquivo relido na origem (sha c0603090df43) e mesclado sem remover nada. CORRECAO DE FATO: o texto anterior dizia que o @Fluxion_network nao postou em 04/11 - postou, as 21:12:25Z: https://x.com/Fluxion_network/status/2118089004465758562 ('day one for $kor on fluxion / $2.6m+ volume and 6,100+ trades on the kor/usdt0 pool'), post proprio, sem letra escolhida entre as opcoes a/b/c de E1/E2. O `posted=False` dos itens D1-D5/E1/E2 continua porque nenhum deles foi escolhido e postado. Entrou tambem: confirmacao do Mathias de que nao houve tip hoje, minhas leituras de contador as 19:0x (chave reads_2026-11-04_19h) e o registro do post proprio (chave fluxion_posts_2026-11-04). NAO entrou: ronda das 18:00 do Gleison - nao estava na caixa ate esta gravacao, lacuna declarada. | Flush das 19:0x (2a gravacao, 22:2xZ): entrou a confirmacao do @mathias (nada hoje, primeira ronda 05/11 12:00) e a do @gleison (18:00 nao saiu; revarredura das 19:1x deu 0 tips; as duas postagens novas da Bybit descartadas com contador conferido por mim). Nada apagado; chaves antigas intactas.",
+  "reads_2026-11-04_19h": {
+    "read_at_pt": "04/11/2026 19:0x-19:3x Fortaleza (22:0x-22:3xZ)",
+    "source_pt": "endpoint publico de embed do X (cdn.syndication.twimg.com/tweet-result), um GET por status id; conta e created_at conferem com o item. A linha FLUX foi conferida duas vezes: minha e do @bruno.",
+    "note_pt": "Contadores sao leitura pontual, nao do reporter. Chaves D1-D5/E1/E2/H1-H5 = os itens do arquivo; FLUX = post proprio da @Fluxion_network. @bruno leu os mesmos ids as 22:04Z e os numeros batem: Google 551 lk/97 rp (H5), KorFND Bitpanda 194/14, KorFND Kraken 183/12, Fluxion FLUX 1/0.",
+    "reads": {
+      "D1": {
+        "status_id": "2118010440496333094",
+        "account": "@Mantle_Official",
+        "created_at_utc": "2026-11-04T16:00:14.000Z",
+        "likes": 41,
+        "replies": 4
       },
-      "bitpanda": {
-       "likes": 195,
-       "rt": 8,
-       "replies": 13,
-       "utc": "2026-11-04 15:14:30Z"
+      "D2": {
+        "status_id": "2118011655628230908",
+        "account": "@KorProtocol",
+        "created_at_utc": "2026-11-04T16:05:04.000Z",
+        "likes": 103,
+        "replies": 28
+      },
+      "D3": {
+        "status_id": "2117980185844699220",
+        "account": "@Bybit_Official",
+        "created_at_utc": "2026-11-04T14:00:01.000Z",
+        "likes": 70,
+        "replies": 20
+      },
+      "D4": {
+        "status_id": "2117966533137936654",
+        "account": "@xStocksFi",
+        "created_at_utc": "2026-11-04T13:05:46.000Z",
+        "likes": 124,
+        "replies": 11
+      },
+      "D5": {
+        "status_id": "2117965367717011741",
+        "account": "@Mantle_Official",
+        "created_at_utc": "2026-11-04T13:01:08.000Z",
+        "likes": 46,
+        "replies": 6
+      },
+      "E1": {
+        "status_id": "2117990716073005191",
+        "account": "@SkyEcosystem",
+        "created_at_utc": "2026-11-04T14:41:51.000Z",
+        "likes": 40,
+        "replies": 2
+      },
+      "E2_bitpanda": {
+        "status_id": "2117998932358058357",
+        "account": "@KorFND",
+        "created_at_utc": "2026-11-04T15:14:30.000Z",
+        "likes": 194,
+        "replies": 14
+      },
+      "E2_kraken": {
+        "status_id": "2117985649781616935",
+        "account": "@KorFND",
+        "created_at_utc": "2026-11-04T14:21:43.000Z",
+        "likes": 183,
+        "replies": 12
+      },
+      "H1": {
+        "status_id": "2117983650109358431",
+        "account": "@KorProtocol",
+        "created_at_utc": "2026-11-04T14:13:47.000Z",
+        "likes": 140,
+        "replies": 43
+      },
+      "H2": {
+        "status_id": "2117981129043239206",
+        "account": "@KorFND",
+        "created_at_utc": "2026-11-04T14:03:46.000Z",
+        "likes": 62,
+        "replies": 61
+      },
+      "H3": {
+        "status_id": "2117981391388610878",
+        "account": "@KorProtocol",
+        "created_at_utc": "2026-11-04T14:04:48.000Z",
+        "likes": 68,
+        "replies": 45
+      },
+      "H4": {
+        "status_id": "2117940016357990408",
+        "account": "@Mantle_Official",
+        "created_at_utc": "2026-11-04T11:20:23.000Z",
+        "likes": 34,
+        "replies": 3
+      },
+      "H5": {
+        "status_id": "2118027058794148099",
+        "account": "@Google",
+        "created_at_utc": "2026-11-04T17:06:16.000Z",
+        "likes": 551,
+        "replies": 97
+      },
+      "FLUX": {
+        "status_id": "2118089004465758562",
+        "account": "@Fluxion_network",
+        "created_at_utc": "2026-11-04T21:12:25.000Z",
+        "likes": 1,
+        "replies": 0
       }
-     },
-     "status": "aguardando_escolha",
-     "chosen": null,
-     "note_pt": "Reporter: Bruno (slot 17:30). Se for post, QT do post da Bitpanda (E2 qual principal) para dar recibo; nao nomear Kraken/Bitpanda na copy (regra: venue rival nao entra em copy da Fluxion). Bybit pode ser nomeada por ser parceira.",
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
     }
-   ]
-  }
- ],
- "escolhas_log": [
-  {
-   "at": "2026-11-04T22:30:00.000Z",
-   "edicao": "18h",
-   "itens": [
-    "E1",
-    "E2"
-   ],
-   "chosen": null,
-   "posted": true,
-   "postedUrl": "https://x.com/Fluxion_network/status/2118089004465758562",
-   "status_pt": "post_proprio_sem_letra_escolhida",
-   "note_pt": "Nenhuma letra (a/b/c) escolhida pelo Hadukem foi registrada para E1/E2 ate esta gravacao; mas houve POST em 04/11: https://x.com/Fluxion_network/status/2118089004465758562 as 21:12:25Z (18:12 Fortaleza), texto proprio da Fluxion sobre o dia 1 do $KOR na Fluxion, que nao corresponde a nenhuma das opcoes escritas. Registrado como fato, nao como escolha inferida."
-  }
- ],
- "style_rules": {
-  "denylist_url_2026-11-04": {
-   "pt": "Link que já saiu numa edição do Clarim Diário não volta em outra edição do mesmo dia. Se o assunto andar, o tip é o post novo, com link próprio.",
-   "source": "Hadukem, 04/11/2026"
   },
-  "rondas_2026-11-04": {
-   "pt": "Ronda das 09:00 extinta: o conteúdo da manhã entra na ronda das 12:00. Grade fica 12:00 · 15:00 · 18:00 · 21:00 (Fortaleza).",
-   "source": "Hadukem, 04/11/2026"
+  "fluxion_posts_2026-11-04": {
+    "source_pt": "Eu li o post no embed publico do X (created_at 21:12:25Z, 1 like/0 replies as 22:0xZ) e vi a timeline do @Fluxion_network pelo leitor r.jina.ai; @bruno confirmou o mesmo id e os mesmos contadores as 22:04Z. x.com nao responde da minha maquina nesta janela (HTTP 000).",
+    "posts": [
+      {
+        "url": "https://x.com/Fluxion_network/status/2118089004465758562",
+        "created_at_utc": "2026-11-04T21:12:25.000Z",
+        "created_at_pt": "04/11/2026 18:12 Fortaleza",
+        "account": "@Fluxion_network",
+        "text": "day one for $kor on fluxion\n$2.6m+ volume and 6,100+ trades on the kor/usdt0 pool\n@korprotocol, now native on @mantle_official",
+        "media": "video",
+        "engagement_22_0xZ": {
+          "likes": 1,
+          "replies": 0
+        },
+        "note_pt": "Primeiro post da Fluxion desde 03/11 18:02Z. NAO e nenhuma das opcoes a/b/c de E1/E2 — e post proprio, com o volume do pool kor/usdt0 no dia 1 ($2.6m+ volume, 6,100+ trades). O numero tem fonte propria: veio da conta da Fluxion, nao do reporter."
+      }
+    ]
   },
-  "anti_dup_urls_2026-11-04": {
-   "pt": "URLs que ja rodaram numa edicao de 04/11 — nao podem voltar em nenhuma edicao do mesmo dia. Lista montada por mim as 17:47 a partir das edicoes registradas (manha D1-D5 + 18h E1-E2); conferir contra esta lista antes de cada publicacao.",
-   "urls": [
-    "https://x.com/Mantle_Official/status/2118010440496333094",
-    "https://x.com/KorProtocol/status/2118011655628230908",
-    "https://x.com/Bybit_Official/status/2117980185844699220",
-    "https://x.com/xStocksFi/status/2117966533137936654",
-    "https://x.com/Mantle_Official/status/2117965367717011741",
-    "https://x.com/SkyEcosystem/status/2117990716073005191",
-    "https://x.com/KorFND/status/2117998932358058357",
-    "https://x.com/KorFND/status/2117985649781616935"
-   ]
-  }
- },
- "quality_feedback": [],
- "reporter_tips": [
-  {
-   "at": "2026-11-04T12:50:00.000Z",
-   "reporter": "Bruno",
-   "slot": "10:30",
-   "tips": 0,
-   "turned_into": [],
-   "note_pt": "Nenhum packet saiu: a ronda das 10:30 não ficou registrada (a caixa subiu ~12:42) e a das 17:30 ainda não tinha acontecido."
-  },
-  {
-   "at": "2026-11-04T13:13:00.000Z",
-   "reporter": "Gleison",
-   "slot": "12:00",
-   "tips": 0,
-   "turned_into": [],
-   "note_pt": "Zero: X inacessível 12:49–13:13 (curl timeout/000). Primeira packet dele sai na ronda das 15:00."
-  },
-  {
-   "at": "2026-11-04T12:39:00.000Z",
-   "reporter": "Mathias",
-   "slot": "12:00",
-   "tips": 0,
-   "turned_into": [],
-   "note_pt": "A ronda de 12:00 não existiu: o aviso das 12:39 caiu depois da janela 12:00±15. Primeira ronda nova 05/11 12:00."
-  },
-  {
-   "at": "2026-11-04T16:13:00.000Z",
-   "reporter": "Diário (pré-ronda 13:1x)",
-   "slot": "13:00",
-   "tips": 4,
-   "turned_into": [],
-   "note_pt": "Varredura das 13:1x que NÃO foi enviada como packet — entra como observação/tip, não como edição. https://x.com/KorProtocol/status/2117983650109358431 (KOR na Bybit, campanha de 40M $KOR, 14:13Z) · https://x.com/KorFND/status/2117981129043239206 (claims do airdrop abertos, 14:03Z) · https://x.com/KorProtocol/status/2117981391388610878 (aponta os claims, 14:04Z) · https://x.com/Mantle_Official/status/2117940016357990408 (MIP-35, orçamento do 4º ano, em votação, 11:20Z). Números verificáveis: 40M $KOR no pool da Bybit; claims até segunda 09/11 14:00 UTC; ciclo orçamentário jul/2026–jun/2027."
-  },
-  {
-   "at": "2026-11-04T17:22:00.000Z",
-   "reporter": "Gleison",
-   "slot": "15:00",
-   "tips": 5,
-   "turned_into": [
-    "E1"
-   ],
-   "note_pt": "Ronda das 15:00 entregue adiantada, 14:22 Fortaleza (packet do Gleison). Cinco tips, nenhuma ja usada na edicao de hoje — URL por URL: @SkyEcosystem https://x.com/SkyEcosystem/status/2117990716073005191 (Resultado do Q3 2026 da Sky: receita liquida US$ 37,19 mi, +11,8% sobre o Q2, sexto trimestre seguido positivo) · @KorFND https://x.com/KorFND/status/2117981129043239206 (Claims do airdrop do $KOR abertos ate segunda 09/11, 14:00 UTC) · @KorProtocol https://x.com/KorProtocol/status/2117981391388610878 (Aviso de que so links oficiais valem no claim do $KOR) · @Bybit_Official https://x.com/Bybit_Official/status/2118010634864349479 (Guia de montagem de squad do WSOT 2026, com live amanha no X) · @Mantle_Official https://x.com/Mantle_Official/status/2117940016357990408 (Votacao aberta da MIP-35, orcamento do quarto ano da Mantle (jul/2026-jun/2027)). URLs conferidas por mim as 14:4x Fortaleza pelo oembed publico do X (HTTP 200, autor e URL canonica conferem); nao consegui ler o texto dos posts, entao o texto acima e o resumo do Gleison, nao citacao. Duas delas ja estavam no held do Bruno e ficam so cruzadas, sem duplicar: 2117981391388610878 = H3 e 2117940016357990408 = H4. A dos claims (2117981129043239206) e o mesmo status do H2. | 17:47: reli eu mesma o post da Sky na status page — o texto confirma receita liquida US$ 37,19 mi, +11,8% sobre o Q2 e sexto trimestre seguido positivo, entao a citacao agora e do post, nao mais resumo do reporter. Virou E1 da edicao das 18:00. Os outros quatro tips dele ficaram: claims (H2), aviso de links oficiais (H3), guia do WSOT e MIP-35 (H4) — candidatos da ronda das 21:00.",
-   "urls": [
-    "https://x.com/SkyEcosystem/status/2117990716073005191",
-    "https://x.com/KorFND/status/2117981129043239206",
-    "https://x.com/KorProtocol/status/2117981391388610878",
-    "https://x.com/Bybit_Official/status/2118010634864349479",
-    "https://x.com/Mantle_Official/status/2117940016357990408"
-   ],
-   "tips_list": [
+  "corrections": [
     {
-     "handle": "@SkyEcosystem",
-     "url": "https://x.com/SkyEcosystem/status/2117990716073005191",
-     "topic_pt": "Resultado do Q3 2026 da Sky: receita liquida US$ 37,19 mi, +11,8% sobre o Q2, sexto trimestre seguido positivo.",
-     "status_pt": "novo — nenhuma URL da edicao de hoje repete esta"
-    },
-    {
-     "handle": "@KorFND",
-     "url": "https://x.com/KorFND/status/2117981129043239206",
-     "topic_pt": "Claims do airdrop do $KOR abertos ate segunda 09/11, 14:00 UTC.",
-     "status_pt": "cruzado com o held H2 (mesmo status id); o Gleison escreveu @KORProtocol, mas o autor do post e KOR Foundation e a URL canonica e x.com/KorFND/... — atribuicao corrigida para @KorFND"
-    },
-    {
-     "handle": "@KorProtocol",
-     "url": "https://x.com/KorProtocol/status/2117981391388610878",
-     "topic_pt": "Aviso de que so links oficiais valem no claim do $KOR.",
-     "status_pt": "cruzado com o held H3 — mesmo status, nao duplicar"
-    },
-    {
-     "handle": "@Bybit_Official",
-     "url": "https://x.com/Bybit_Official/status/2118010634864349479",
-     "topic_pt": "Guia de montagem de squad do WSOT 2026, com live amanha no X.",
-     "status_pt": "novo — nenhuma URL da edicao de hoje repete esta"
-    },
-    {
-     "handle": "@Mantle_Official",
-     "url": "https://x.com/Mantle_Official/status/2117940016357990408",
-     "topic_pt": "Votacao aberta da MIP-35, orcamento do quarto ano da Mantle (jul/2026-jun/2027).",
-     "status_pt": "cruzado com o held H4 — mesmo status, nao duplicar; conta Mantle, portanto fora do furo watch-only do Mathias"
+      "at": "2026-11-04T22:32:00.000Z",
+      "where": "days/2026-11-04.json (notes_pt, D1-D5 note_pt) + artifacts/clarim-diario/2026-11-04-manha.md + -18h.md",
+      "wrong_pt": "Dizia que o @Fluxion_network nao postou em 04/11 (ultimo post 03/11 18:02 UTC).",
+      "right_pt": "Postou: https://x.com/Fluxion_network/status/2118089004465758562 as 21:12:25Z (18:12 Fortaleza) — \"day one for $kor on fluxion\", $2.6m+ volume e 6.100+ trades no pool kor/usdt0, @korprotocol agora nativo na @mantle_official, com video. Contadores as 22:04Z: 1 curtida, 0 RT, 0 reply, 0 quote (leitura do @bruno) e 1 curtida na minha as 22:1xZ.",
+      "source_pt": "embed publico do X (cdn.syndication.twimg.com/tweet-result, HTTP 200, autor @Fluxion_network, created_at 2026-11-04T21:12:25.000Z) + leitura independente do @bruno as 22:03-22:05Z.",
+      "effect_pt": "Nenhum item D1-D5/E1-E2 teve letra escolhida nem foi postado como escrito; o post do dia e proprio da Fluxion. `posted` dos itens segue false."
     }
-   ]
-  },
-  {
-   "at": "2026-11-04T20:33:00.000Z",
-   "reporter": "Bruno",
-   "slot": "17:30",
-   "tips": 4,
-   "turned_into": [
-    "E2"
-   ],
-   "note_pt": "Packet entregue 17:33 Fortaleza, lido na caixa as 17:40. Conferi os 5 links dele na status page do X as 17:4x (hora e contadores batem com o que ele passou). Veredito: 1 entrou (KorFND Bitpanda 15:14:30Z + Kraken 14:21:43Z -> E2 da edicao das 18:00), 1 segurado (Google TTS -> H5, material de reply, nao de edicao), 2 descartados (Robinhood Advisor Network e Robinhood x SkyfiApp, em discarded_tips). | REENVIO 20:52Z (build 17:52 Fortaleza): mesmos 4 status ids, contadores mais altos (Google 516/58/95/16, Robinhood 134/10/41, KorFND 195/8/13) e a reply com o preco do Skyfi em URL propria (https://x.com/RobinhoodApp/status/2118056355822964805). Denylist reconferida URL por URL: zero colisao. Nada mudou de veredito: o 3 continua como E2, o 1 held (H5) e os dois da Robinhood descartados. O grep 0 do Bruno veio de clone anterior ao commit cf05219 (17:46:50 -03), que ja esta em origin/main.",
-   "urls": [
-    "https://x.com/Google/status/2118027058794148099",
-    "https://x.com/RobinhoodApp/status/2118070176860029089",
-    "https://x.com/KorFND/status/2117998932358058357",
-    "https://x.com/KorFND/status/2117985649781616935",
-    "https://x.com/RobinhoodApp/status/2118056354657014043"
-   ],
-   "tips_list": [
-    {
-     "handle": "@Google",
-     "url": "https://x.com/Google/status/2118027058794148099",
-     "topic_pt": "Voice Remixing do Gemini 3.8 Flash TTS no AI Studio e na API: 2.000+ vozes de biblioteca e prompts para timbre, tom, ritmo e sotaque (17:06:16Z).",
-     "status_pt": "segurado (H5) — reply-only: 510 likes / 57 RT / 95 replies / 16 quotes em 3,6h, mas nao e parceiro nem mercado; sem angulo Fluxion que nao seja forcar"
-    },
-    {
-     "handle": "@RobinhoodApp",
-     "url": "https://x.com/RobinhoodApp/status/2118070176860029089",
-     "topic_pt": "Advisor Network: cliente da Robinhood pareado com consultor financeiro independente (19:57:36Z, 45 min antes da ronda).",
-     "status_pt": "descartado — concorrente-adjacente (Robinhood tambem vende acao tokenizada na UE), angulo so existiria como alfinetada e a never-list proibe citar concorrente negativamente; 56 likes / 3 RT / 30 replies em 45 min"
-    },
-    {
-     "handle": "@KorFND",
-     "url": "https://x.com/KorFND/status/2117998932358058357",
-     "topic_pt": "$KOR na Bitpanda (15:14:30Z, 195 likes / 8 RT / 13 replies) e na Kraken (14:21:43Z, 182 / 4 / 12) — terceira e quarta venue do dia contando Bybit (D3) e o pool na Fluxion (D2).",
-     "status_pt": "ENTROU — E2 da edicao das 18:00; as duas URLs sao novas, entao passam pela denylist do dia. Volume: NAO VERIFICADO, fora da copy"
-    },
-    {
-     "handle": "@RobinhoodApp",
-     "url": "https://x.com/RobinhoodApp/status/2118056354657014043",
-     "topic_pt": "Earth Intelligence da @SkyfiApp dentro do chat da Robinhood: imagem de satelite no agente (19:02:41Z, 128 likes / 10 RT / 41 replies). Preco (US$ 10/mes) so apareceu em reply, sem URL propria.",
-     "status_pt": "descartado — mesma casa concorrente-adjacente; o post so diz 'free for a month', o preco da reply nao tem URL (NAO VERIFICADO); fica como observacao do dia"
-    }
-   ]
-  },
-  {
-   "at": "2026-11-04T22:06:00.000Z",
-   "reporter": "Mathias",
-   "slot": "19:00 (confirmacao)",
-   "tips": 0,
-   "turned_into": [],
-   "urls": [],
-   "note_pt": "Confirmou em 04/11 19:0x Fortaleza: nada hoje - nenhum tip e nenhuma observacao watch-only de xStocks fora da Mantle. Nao houve ronda (o aceite da ronda unica caiu 12:39, depois da janela 12:00 +-15) e nao fez varredura de tarde/noite. Primeira ronda unica: 05/11 12:00. Log do dia: clarim/logs/mathias/2026-11-04.md."
-  },
-  {
-   "at": "2026-11-04T22:15:00.000Z",
-   "reporter": "Gleison",
-   "slot": "18:00",
-   "tips": 0,
-   "turned_into": [],
-   "note_pt": "Ronda das 18:00 NAO saiu — resposta do @gleison as 19:1x: nenhuma varredura foi feita na janela; o ultimo trabalho da maquina dele tinha sido o packet das 15:00 (14:22). Para a lacuna nao ficar sem lastro ele rodou a ronda atrasada as 19:0x-19:12 e o resultado e 0 tips de edicao. Varreu Mantle_Official, KorProtocol, KorFND, Bybit_Official, xStocksFi e SkyEcosystem pelo xread: o ultimo post de substancia de cada uma ja esta no arquivo do dia ou na denylist (Sky 14:41Z, KorProtocol 16:05Z, Mantle 16:00Z, KorFND 15:14Z, Bybit 16:01Z, xStocks 13:05Z). Depois das 16:05Z os parceiros so postaram duas coisas, as duas da Bybit, e as duas estao em discarded_tips.",
-   "urls": [],
-   "tips_list": []
-  }
- ],
- "discarded_tips": [
-  {
-   "reporter": "Diário (pré-ronda 13:1x)",
-   "slot": "13:00",
-   "handle": "@Strategy",
-   "url": "https://x.com/Strategy/status/2117984838829371836",
-   "reason_pt": "Estrutura de capital com exposição a $BTC (14:18Z) — fora pela regra Saylor: pauta BTC-only não rende post da Fluxion."
-  },
-  {
-   "reporter": "Bruno",
-   "slot": "17:30",
-   "handle": "@RobinhoodApp",
-   "url": "https://x.com/RobinhoodApp/status/2118070176860029089",
-   "reason_pt": "Advisor Network (19:57:36Z). Concorrente-adjacente: a Robinhood tambem vende acao tokenizada na UE. O unico angulo seria alfinetar ('o app vende o humano do lado'), e a never-list proibe citar concorrente negativamente. Engajamento baixo para o porte da conta: 56 likes / 3 RT / 30 replies em 45 min."
-  },
-  {
-   "reporter": "Bruno",
-   "slot": "17:30",
-   "handle": "@RobinhoodApp",
-   "url": "https://x.com/RobinhoodApp/status/2118056354657014043",
-   "reason_pt": "Earth Intelligence da @SkyfiApp no chat da Robinhood (19:02:41Z). Mesma casa concorrente-adjacente (a Robinhood tambem vende acao tokenizada na UE); e o gancho 'agente com ferramenta paga' seria sobre a Robinhood, nao sobre a Fluxion. Correcao registrada no reenvio das 17:30: o preco de US$ 10/mes nao e mais NAO VERIFICADO — tem URL propria, reply da propria conta em https://x.com/RobinhoodApp/status/2118056355822964805 (19:02:41Z), texto 'Free for a month, then $10/mo. Auto-renews until canceled. Terms apply.'. O motivo do descarte nao muda."
-  },
-  {
-   "reporter": "Bruno",
-   "slot": "17:30",
-   "handle": "@Strategy",
-   "url": "https://x.com/Strategy/status/2118036238741688626",
-   "reason_pt": "'$STRC has hit $100.00' (17:42Z, 4.006 likes na leitura do Bruno). Fora pela regra Saylor: pauta BTC-only nao rende post da Fluxion. URL diferente da https://x.com/Strategy/status/2117984838829371836 ja descartada pela pre-varredura das 13:1x — mesmo veredito, link novo."
-  },
-  {
-   "reporter": "Gleison",
-   "slot": "18:00 (ronda atrasada, 19:0x-19:12)",
-   "handle": "@Bybit_Official",
-   "url": "https://x.com/Bybit_Official/status/2118040582878548416",
-   "reason_pt": "Isca de engajamento / post de imagem-video sem assunto — nao rende thread nem reply com a Fluxion. The only peaks we're chasing. (post de video)",
-   "post_at": "2026-11-04T18:00:00Z",
-   "counts_22h": "31 curtidas / 12 replies (relidos por mim no embed publico as 22:2xZ; bateram com os numeros do Gleison)"
-  },
-  {
-   "reporter": "Gleison",
-   "slot": "18:00 (ronda atrasada, 19:0x-19:12)",
-   "handle": "@Bybit_Official",
-   "url": "https://x.com/Bybit_Official/status/2118070528221061428",
-   "reason_pt": "Isca de engajamento / post de imagem-video sem assunto — nao rende thread nem reply com a Fluxion. This or that: checking the market with a clear reason / or / opening it just because you're bored",
-   "post_at": "2026-11-04T19:59:00Z",
-   "counts_22h": "26 curtidas / 18 replies (relidos por mim no embed publico as 22:2xZ; bateram com os numeros do Gleison)"
-  }
- ],
- "pending": [],
- "held": [
-  {
-   "reporter": "Bruno",
-   "slot": "13:1x (pre-varredura)",
-   "id": "H1",
-   "url": "https://x.com/KorProtocol/status/2117983650109358431",
-   "account": "@KorProtocol",
-   "context_pt": "$KOR na Bybit, campanha/pool de 40.000.000 KOR (14:13Z).",
-   "status": "held",
-   "note_pt": "Segurado: pool de 40M KOR ja aparece na D3 pela conta da Bybit; entra so com angulo novo. Aviso do Bruno: as duas URLs da edicao de hoje, 16:00Z (Mantle D1) e 16:05Z (KorProtocol D2), esquentaram depois e seguem bloqueadas pela denylist de URL do dia."
-  },
-  {
-   "reporter": "Bruno",
-   "slot": "13:1x (pre-varredura)",
-   "id": "H2",
-   "url": "https://x.com/KorFND/status/2117981129043239206",
-   "account": "@KorFND",
-   "context_pt": "Claims do airdrop do $KOR abertos (14:03Z); prazo segunda 09/11 14:00 UTC.",
-   "status": "held",
-   "note_pt": "Segurado: prazo util de claim, mas dependia do aviso de links oficiais (H3) para nao mandar holder em link errado. Fonte: pre-varredura do Bruno das 13:1x, mesmas 4 URLs ja registradas em reporter_tips."
-  },
-  {
-   "reporter": "Bruno",
-   "slot": "13:1x (pre-varredura)",
-   "id": "H3",
-   "url": "https://x.com/KorProtocol/status/2117981391388610878",
-   "account": "@KorProtocol",
-   "context_pt": "Post do KOR apontando os claims (14:04Z).",
-   "status": "held",
-   "note_pt": "Segurado: reply-copy/aviso operacional, nao material de thread. Fonte: pre-varredura do Bruno das 13:1x, mesmas 4 URLs ja registradas em reporter_tips."
-  },
-  {
-   "reporter": "Bruno",
-   "slot": "13:1x (pre-varredura)",
-   "id": "H4",
-   "url": "https://x.com/Mantle_Official/status/2117940016357990408",
-   "account": "@Mantle_Official",
-   "context_pt": "MIP-35, orcamento do 4o ano (jul/2026-jun/2027) em votacao (11:20Z).",
-   "status": "held",
-   "note_pt": "Segurado: governance e assunto de comunidade, nao de mercado; voltar se a votacao esquentar. Fonte: pre-varredura do Bruno das 13:1x, mesmas 4 URLs ja registradas em reporter_tips."
-  },
-  {
-   "reporter": "Bruno",
-   "slot": "17:30",
-   "id": "H5",
-   "url": "https://x.com/Google/status/2118027058794148099",
-   "account": "@Google",
-   "context_pt": "Voice Remixing do Gemini 3.8 Flash TTS: 2.000+ vozes prontas, prompt para timbre, tom, ritmo e sotaque (17:06:16Z; relido 20:5xZ: 516 likes / 58 RT / 95 replies / 16 quotes).",
-   "status": "held",
-   "note_pt": "Segurado para reply, nao para edicao: janela boa (3,6h, 95 replies) mas o assunto e MAG7/produto de IA, sem gancho de mercado onchain que nao seja forcar. Se o Hadukem quiser, a linha de reply esta pronta: 'your accent is now a prompt. wonder what else people will expect to be prompterable by friday'. Fonte: packet das 17:30 do Bruno, verificada por mim as 17:4x. Bruno reenviou o packet as 20:52Z (17:52 Fortaleza) com os mesmos 4 ids e contadores mais altos; releitura minha na status page confirma 516/58/95/16. Veredito inalterado: reply-only."
-  }
- ],
- "carryover": [
-  {
-   "from": "2026-11-04",
-   "items": [
-    "gleison-18:00",
-    "gleison-21:00",
-    "mathias-05/11-12:00",
-    "mathias-observacao-05/11-09:00"
-   ],
-   "status_pt": "Rondas entregues em 04/11: 15:00 do Gleison (as 14:22; um tip virou E1) e 17:30 do Bruno (as 17:33; 4 tips: E2, H5 e dois descartados). Seguem em aberto do dia: 18:00 e 21:00 do Gleison; primeira ronda do Mathias em 05/11 12:00 (o aviso de 04/11 12:39 caiu fora da janela) e a checagem da observacao dele em 05/11 ~09:00. Estado as 19:3x Fortaleza (flush das 19:00): a ronda das 18:00 do Gleison nao estava na caixa ate esta gravacao - fica lacuna declarada do dia, nao zero; 21:00 do Gleison e as rondas do Mathias seguem em aberto. Corrigido nesta gravacao: houve post da @Fluxion_network em 04/11 (21:12:25Z), ver fluxion_posts_2026-11-04.",
-   "done": [
-    "gleison-15:00",
-    "bruno-17:30"
-   ],
-   "done_after": [
-    {
-     "item": "gleison-18:00",
-     "at": "2026-11-04T22:15:00.000Z",
-     "tips": 0,
-     "note_pt": "Fechado sem packet: ronda nao saiu e a revarredura das 19:0x-19:12 deu 0 tips de edicao. Nada a esperar das 18:00; as duas unicas postagens novas de parceiro (Bybit 18:00Z e 19:59Z) foram descartadas por nao render pauta."
-    }
-   ]
-  }
- ],
- "reporter_eod": {},
- "page": null,
- "notes_pt": "Dia 04/11 reconstruído às 14:2x a partir dos pacotes dos repórteres, só com o que sobreviveu do dia — zero invenção. Edição manhã: D1–D5 são as 5 URLs que a Editora passou ao @bruno às 13:13 como edição de 04/11; o @bruno verificou cada uma lendo o post às 14:1x, com conta e hora UTC. O que NÃO foi recuperado e por isso não está nos itens: o texto das opções a/b/c, qual foi o `chosen` e `postedText`/`postedUrl` — não estão legíveis em lugar nenhum, e o @Fluxion_network não postou nada em 04/11 (último post 03/11 18:02 UTC), então não dá para reconstruir o postado pela timeline; por isso `status` = desconhecido e `options` = {}. `createdAt` é o horário nominal da edição (09:00 Fortaleza), não um timestamp lido; `canvas` não recuperado. Ressalva de slot: D4 e D5 são de 13:01–13:05 UTC (10:01–10:05 Fortaleza), depois de uma edição das 09:00 — a qual slot pertencem fica em aberto. Ressalva de contagem: o @bruno registrou 5 itens onde o log fala em anti-dup de 7; as outras 2 ele não tem. | Tips do dia: zero dos três (detalhe em `reporter_tips`). O material de pré-ronda das 13:1x não foi enviado como packet: entrou como observação, não como edição. | Também do dia, já registrado no espelho antes desta reconstrução: Hadukem decidiu por lista em texto (anti-dup de 7 itens + liberação de 3 itens segurados de 29/10, já fora da janela de 12h); a denylist de URL passou a valer; a ronda única do Mathias fica 12:00 Fortaleza a partir de 05/11. | Chaves vazias nesta gravacao, e o que significam: escolhas_log = [] porque nao existe registro de escolha do Hadukem em 04/11 (a edicao saiu pelo DM das 09:00 e o texto das opcoes a/b/c nao foi recuperado); quality_feedback = [] porque nenhum feedback dele foi registrado hoje; page = null porque o codigo CLARIM/canvas do dia nao foi recuperado; reporter_eod = {} porque o EOD dos reporteres ainda nao tinha chegado na hora desta gravacao (entra no fechamento das 21:30). held = 4 candidatos do Bruno da pre-varredura das 13:1x, segurados hoje. | Atualizado as 14:4x (Fortaleza): o reporter_tips do Gleison, slot 15:00, deixou de dizer 'URLs nao capturadas' e passou a ter as 5 URLs do packet, com cross-ref do que ja estava em held. | Atualizado as 17:47 (Fortaleza): edicao das 18h montada com E1 (Sky Q3, do packet das 15:00 do Gleison) e E2 ($KOR na Kraken e na Bitpanda, do packet das 17:30 do Bruno), ambas com a/b/c em ingles escritas por mim e as duas URLs relidas na status page do X as 17:4x (hora e contadores conferidos, e nao oembed). E1 e E2 estao 'aguardando_escolha': nada foi postado. `style_rules.anti_dup_urls_2026-11-04` passa a listar as 7 URLs que rodaram hoje (D1-D5 + E1-E2) para a checagem de denylist virar mecanica. Google TTS segue em held (H5) como reply-only; os dois posts da Robinhood foram descartados com motivo em `discarded_tips` (concorrente-adjacente; preco do SkyfiApp so em reply, NAO VERIFICADO). | Atualizado as 12:57 (Fortaleza): carryover corrigido — 15:00 do Gleison e 17:30 do Bruno saem de pendente e entram em done, porque os dois pacotes estao no arquivo. URLs do packet das 17:30 reconferidas uma a uma por syndication/oembed: E2 principal = @KorFND post Bitpanda 15:14:30Z, secondary = @KorFND post Kraken 14:21:43Z, H5 = @Google 17:06:16Z, descartados = @RobinhoodApp 19:02:41Z e 19:57:36Z; todos os handles batem com o autor do post e nenhum item do arquivo atribui a @KorProtocol um post do @KorFND. Nenhuma URL repetida entre a edicao da manha e a das 18h. | Flush das 19:00 (gravado 19:3x Fortaleza, antes da leitura das 19:47): arquivo relido na origem (sha c0603090df43) e mesclado sem remover nada. CORRECAO DE FATO: o texto anterior dizia que o @Fluxion_network nao postou em 04/11 - postou, as 21:12:25Z: https://x.com/Fluxion_network/status/2118089004465758562 ('day one for $kor on fluxion / $2.6m+ volume and 6,100+ trades on the kor/usdt0 pool'), post proprio, sem letra escolhida entre as opcoes a/b/c de E1/E2. O `posted=False` dos itens D1-D5/E1/E2 continua porque nenhum deles foi escolhido e postado. Entrou tambem: confirmacao do Mathias de que nao houve tip hoje, minhas leituras de contador as 19:0x (chave reads_2026-11-04_19h) e o registro do post proprio (chave fluxion_posts_2026-11-04). NAO entrou: ronda das 18:00 do Gleison - nao estava na caixa ate esta gravacao, lacuna declarada. | Flush das 19:0x (2a gravacao, 22:2xZ): entrou a confirmacao do @mathias (nada hoje, primeira ronda 05/11 12:00) e a do @gleison (18:00 nao saiu; revarredura das 19:1x deu 0 tips; as duas postagens novas da Bybit descartadas com contador conferido por mim). Nada apagado; chaves antigas intactas.",
- "reads_2026-11-04_19h": {
-  "read_at_pt": "04/11/2026 19:0x-19:3x Fortaleza (22:0x-22:3xZ)",
-  "source_pt": "endpoint publico de embed do X (cdn.syndication.twimg.com/tweet-result), um GET por status id; conta e created_at conferem com o item. A linha FLUX foi conferida duas vezes: minha e do @bruno.",
-  "note_pt": "Contadores sao leitura pontual, nao do reporter. Chaves D1-D5/E1/E2/H1-H5 = os itens do arquivo; FLUX = post proprio da @Fluxion_network. @bruno leu os mesmos ids as 22:04Z e os numeros batem: Google 551 lk/97 rp (H5), KorFND Bitpanda 194/14, KorFND Kraken 183/12, Fluxion FLUX 1/0.",
-  "reads": {
-   "D1": {
-    "status_id": "2118010440496333094",
-    "account": "@Mantle_Official",
-    "created_at_utc": "2026-11-04T16:00:14.000Z",
-    "likes": 41,
-    "replies": 4
-   },
-   "D2": {
-    "status_id": "2118011655628230908",
-    "account": "@KorProtocol",
-    "created_at_utc": "2026-11-04T16:05:04.000Z",
-    "likes": 103,
-    "replies": 28
-   },
-   "D3": {
-    "status_id": "2117980185844699220",
-    "account": "@Bybit_Official",
-    "created_at_utc": "2026-11-04T14:00:01.000Z",
-    "likes": 70,
-    "replies": 20
-   },
-   "D4": {
-    "status_id": "2117966533137936654",
-    "account": "@xStocksFi",
-    "created_at_utc": "2026-11-04T13:05:46.000Z",
-    "likes": 124,
-    "replies": 11
-   },
-   "D5": {
-    "status_id": "2117965367717011741",
-    "account": "@Mantle_Official",
-    "created_at_utc": "2026-11-04T13:01:08.000Z",
-    "likes": 46,
-    "replies": 6
-   },
-   "E1": {
-    "status_id": "2117990716073005191",
-    "account": "@SkyEcosystem",
-    "created_at_utc": "2026-11-04T14:41:51.000Z",
-    "likes": 40,
-    "replies": 2
-   },
-   "E2_bitpanda": {
-    "status_id": "2117998932358058357",
-    "account": "@KorFND",
-    "created_at_utc": "2026-11-04T15:14:30.000Z",
-    "likes": 194,
-    "replies": 14
-   },
-   "E2_kraken": {
-    "status_id": "2117985649781616935",
-    "account": "@KorFND",
-    "created_at_utc": "2026-11-04T14:21:43.000Z",
-    "likes": 183,
-    "replies": 12
-   },
-   "H1": {
-    "status_id": "2117983650109358431",
-    "account": "@KorProtocol",
-    "created_at_utc": "2026-11-04T14:13:47.000Z",
-    "likes": 140,
-    "replies": 43
-   },
-   "H2": {
-    "status_id": "2117981129043239206",
-    "account": "@KorFND",
-    "created_at_utc": "2026-11-04T14:03:46.000Z",
-    "likes": 62,
-    "replies": 61
-   },
-   "H3": {
-    "status_id": "2117981391388610878",
-    "account": "@KorProtocol",
-    "created_at_utc": "2026-11-04T14:04:48.000Z",
-    "likes": 68,
-    "replies": 45
-   },
-   "H4": {
-    "status_id": "2117940016357990408",
-    "account": "@Mantle_Official",
-    "created_at_utc": "2026-11-04T11:20:23.000Z",
-    "likes": 34,
-    "replies": 3
-   },
-   "H5": {
-    "status_id": "2118027058794148099",
-    "account": "@Google",
-    "created_at_utc": "2026-11-04T17:06:16.000Z",
-    "likes": 551,
-    "replies": 97
-   },
-   "FLUX": {
-    "status_id": "2118089004465758562",
-    "account": "@Fluxion_network",
-    "created_at_utc": "2026-11-04T21:12:25.000Z",
-    "likes": 1,
-    "replies": 0
-   }
-  }
- },
- "fluxion_posts_2026-11-04": {
-  "source_pt": "Eu li o post no embed publico do X (created_at 21:12:25Z, 1 like/0 replies as 22:0xZ) e vi a timeline do @Fluxion_network pelo leitor r.jina.ai; @bruno confirmou o mesmo id e os mesmos contadores as 22:04Z. x.com nao responde da minha maquina nesta janela (HTTP 000).",
-  "posts": [
-   {
-    "url": "https://x.com/Fluxion_network/status/2118089004465758562",
-    "created_at_utc": "2026-11-04T21:12:25.000Z",
-    "created_at_pt": "04/11/2026 18:12 Fortaleza",
-    "account": "@Fluxion_network",
-    "text": "day one for $kor on fluxion\n$2.6m+ volume and 6,100+ trades on the kor/usdt0 pool\n@korprotocol, now native on @mantle_official",
-    "media": "video",
-    "engagement_22_0xZ": {
-     "likes": 1,
-     "replies": 0
-    },
-    "note_pt": "Primeiro post da Fluxion desde 03/11 18:02Z. NAO e nenhuma das opcoes a/b/c de E1/E2 — e post proprio, com o volume do pool kor/usdt0 no dia 1 ($2.6m+ volume, 6,100+ trades). O numero tem fonte propria: veio da conta da Fluxion, nao do reporter."
-   }
   ]
- },
- "corrections": [
-  {
-   "at": "2026-11-04T22:32:00.000Z",
-   "where": "days/2026-11-04.json (notes_pt, D1-D5 note_pt) + artifacts/clarim-diario/2026-11-04-manha.md + -18h.md",
-   "wrong_pt": "Dizia que o @Fluxion_network nao postou em 04/11 (ultimo post 03/11 18:02 UTC).",
-   "right_pt": "Postou: https://x.com/Fluxion_network/status/2118089004465758562 as 21:12:25Z (18:12 Fortaleza) — \"day one for $kor on fluxion\", $2.6m+ volume e 6.100+ trades no pool kor/usdt0, @korprotocol agora nativo na @mantle_official, com video. Contadores as 22:04Z: 1 curtida, 0 RT, 0 reply, 0 quote (leitura do @bruno) e 1 curtida na minha as 22:1xZ.",
-   "source_pt": "embed publico do X (cdn.syndication.twimg.com/tweet-result, HTTP 200, autor @Fluxion_network, created_at 2026-11-04T21:12:25.000Z) + leitura independente do @bruno as 22:03-22:05Z.",
-   "effect_pt": "Nenhum item D1-D5/E1-E2 teve letra escolhida nem foi postado como escrito; o post do dia e proprio da Fluxion. `posted` dos itens segue false."
-  }
- ]
 }
