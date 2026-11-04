@@ -555,5 +555,15 @@
     "note_pt": "Primeiro post da Fluxion desde 03/11 18:02Z. NAO e nenhuma das opcoes a/b/c de E1/E2 — e post proprio, com o volume do pool kor/usdt0 no dia 1 ($2.6m+ volume, 6,100+ trades). O numero tem fonte propria: veio da conta da Fluxion, nao do reporter."
    }
   ]
- }
+ },
+ "corrections": [
+  {
+   "at": "2026-11-04T22:32:00.000Z",
+   "where": "days/2026-11-04.json (notes_pt, D1-D5 note_pt) + artifacts/clarim-diario/2026-11-04-manha.md + -18h.md",
+   "wrong_pt": "Dizia que o @Fluxion_network nao postou em 04/11 (ultimo post 03/11 18:02 UTC).",
+   "right_pt": "Postou: https://x.com/Fluxion_network/status/2118089004465758562 as 21:12:25Z (18:12 Fortaleza) — \"day one for $kor on fluxion\", $2.6m+ volume e 6.100+ trades no pool kor/usdt0, @korprotocol agora nativo na @mantle_official, com video. Contadores as 22:04Z: 1 curtida, 0 RT, 0 reply, 0 quote (leitura do @bruno) e 1 curtida na minha as 22:1xZ.",
+   "source_pt": "embed publico do X (cdn.syndication.twimg.com/tweet-result, HTTP 200, autor @Fluxion_network, created_at 2026-11-04T21:12:25.000Z) + leitura independente do @bruno as 22:03-22:05Z.",
+   "effect_pt": "Nenhum item D1-D5/E1-E2 teve letra escolhida nem foi postado como escrito; o post do dia e proprio da Fluxion. `posted` dos itens segue false."
+  }
+ ]
 }
