@@ -136,7 +136,46 @@
       "slot": "15:00",
       "tips": 5,
       "turned_into": [],
-      "note_pt": "Ronda das 15:00 entregue adiantada, 14:22 Fortaleza. Assuntos: resultado Q3 da Sky (receita liquida US$ 37,19 mi, +11,8%), claims do $KOR abertos ate 09/11 14:00 UTC, aviso de links oficiais do claim do KOR, guia de squad do WSOT 2026 da Bybit, e MIP-35 da Mantle. URLs exatas do packet nao capturadas nesta maquina: entram em update quando o packet chegar, sem inventar link. Pelas contas do proprio Gleison, nenhuma delas repete URL ja usada na edicao de hoje."
+      "note_pt": "Ronda das 15:00 entregue adiantada, 14:22 Fortaleza (packet do Gleison). Cinco tips, nenhuma ja usada na edicao de hoje — URL por URL: @SkyEcosystem https://x.com/SkyEcosystem/status/2117990716073005191 (Resultado do Q3 2026 da Sky: receita liquida US$ 37,19 mi, +11,8% sobre o Q2, sexto trimestre seguido positivo) · @KorFND https://x.com/KorFND/status/2117981129043239206 (Claims do airdrop do $KOR abertos ate segunda 09/11, 14:00 UTC) · @KorProtocol https://x.com/KorProtocol/status/2117981391388610878 (Aviso de que so links oficiais valem no claim do $KOR) · @Bybit_Official https://x.com/Bybit_Official/status/2118010634864349479 (Guia de montagem de squad do WSOT 2026, com live amanha no X) · @Mantle_Official https://x.com/Mantle_Official/status/2117940016357990408 (Votacao aberta da MIP-35, orcamento do quarto ano da Mantle (jul/2026-jun/2027)). URLs conferidas por mim as 14:4x Fortaleza pelo oembed publico do X (HTTP 200, autor e URL canonica conferem); nao consegui ler o texto dos posts, entao o texto acima e o resumo do Gleison, nao citacao. Duas delas ja estavam no held do Bruno e ficam so cruzadas, sem duplicar: 2117981391388610878 = H3 e 2117940016357990408 = H4. A dos claims (2117981129043239206) e o mesmo status do H2.",
+      "urls": [
+        "https://x.com/SkyEcosystem/status/2117990716073005191",
+        "https://x.com/KorFND/status/2117981129043239206",
+        "https://x.com/KorProtocol/status/2117981391388610878",
+        "https://x.com/Bybit_Official/status/2118010634864349479",
+        "https://x.com/Mantle_Official/status/2117940016357990408"
+      ],
+      "tips_list": [
+        {
+          "handle": "@SkyEcosystem",
+          "url": "https://x.com/SkyEcosystem/status/2117990716073005191",
+          "topic_pt": "Resultado do Q3 2026 da Sky: receita liquida US$ 37,19 mi, +11,8% sobre o Q2, sexto trimestre seguido positivo.",
+          "status_pt": "novo — nenhuma URL da edicao de hoje repete esta"
+        },
+        {
+          "handle": "@KorFND",
+          "url": "https://x.com/KorFND/status/2117981129043239206",
+          "topic_pt": "Claims do airdrop do $KOR abertos ate segunda 09/11, 14:00 UTC.",
+          "status_pt": "cruzado com o held H2 (mesmo status id); o Gleison escreveu @KORProtocol, mas o autor do post e KOR Foundation e a URL canonica e x.com/KorFND/... — atribuicao corrigida para @KorFND"
+        },
+        {
+          "handle": "@KorProtocol",
+          "url": "https://x.com/KorProtocol/status/2117981391388610878",
+          "topic_pt": "Aviso de que so links oficiais valem no claim do $KOR.",
+          "status_pt": "cruzado com o held H3 — mesmo status, nao duplicar"
+        },
+        {
+          "handle": "@Bybit_Official",
+          "url": "https://x.com/Bybit_Official/status/2118010634864349479",
+          "topic_pt": "Guia de montagem de squad do WSOT 2026, com live amanha no X.",
+          "status_pt": "novo — nenhuma URL da edicao de hoje repete esta"
+        },
+        {
+          "handle": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2117940016357990408",
+          "topic_pt": "Votacao aberta da MIP-35, orcamento do quarto ano da Mantle (jul/2026-jun/2027).",
+          "status_pt": "cruzado com o held H4 — mesmo status, nao duplicar; conta Mantle, portanto fora do furo watch-only do Mathias"
+        }
+      ]
     }
   ],
   "discarded_tips": [
@@ -207,5 +246,5 @@
   ],
   "reporter_eod": {},
   "page": null,
-  "notes_pt": "Dia 04/11 reconstruído às 14:2x a partir dos pacotes dos repórteres, só com o que sobreviveu do dia — zero invenção. Edição manhã: D1–D5 são as 5 URLs que a Editora passou ao @bruno às 13:13 como edição de 04/11; o @bruno verificou cada uma lendo o post às 14:1x, com conta e hora UTC. O que NÃO foi recuperado e por isso não está nos itens: o texto das opções a/b/c, qual foi o `chosen` e `postedText`/`postedUrl` — não estão legíveis em lugar nenhum, e o @Fluxion_network não postou nada em 04/11 (último post 03/11 18:02 UTC), então não dá para reconstruir o postado pela timeline; por isso `status` = desconhecido e `options` = {}. `createdAt` é o horário nominal da edição (09:00 Fortaleza), não um timestamp lido; `canvas` não recuperado. Ressalva de slot: D4 e D5 são de 13:01–13:05 UTC (10:01–10:05 Fortaleza), depois de uma edição das 09:00 — a qual slot pertencem fica em aberto. Ressalva de contagem: o @bruno registrou 5 itens onde o log fala em anti-dup de 7; as outras 2 ele não tem. | Tips do dia: zero dos três (detalhe em `reporter_tips`). O material de pré-ronda das 13:1x não foi enviado como packet: entrou como observação, não como edição. | Também do dia, já registrado no espelho antes desta reconstrução: Hadukem decidiu por lista em texto (anti-dup de 7 itens + liberação de 3 itens segurados de 29/10, já fora da janela de 12h); a denylist de URL passou a valer; a ronda única do Mathias fica 12:00 Fortaleza a partir de 05/11. | Chaves vazias nesta gravacao, e o que significam: escolhas_log = [] porque nao existe registro de escolha do Hadukem em 04/11 (a edicao saiu pelo DM das 09:00 e o texto das opcoes a/b/c nao foi recuperado); quality_feedback = [] porque nenhum feedback dele foi registrado hoje; page = null porque o codigo CLARIM/canvas do dia nao foi recuperado; reporter_eod = {} porque o EOD dos reporteres ainda nao tinha chegado na hora desta gravacao (entra no fechamento das 21:30). held = 4 candidatos do Bruno da pre-varredura das 13:1x, segurados hoje."
+  "notes_pt": "Dia 04/11 reconstruído às 14:2x a partir dos pacotes dos repórteres, só com o que sobreviveu do dia — zero invenção. Edição manhã: D1–D5 são as 5 URLs que a Editora passou ao @bruno às 13:13 como edição de 04/11; o @bruno verificou cada uma lendo o post às 14:1x, com conta e hora UTC. O que NÃO foi recuperado e por isso não está nos itens: o texto das opções a/b/c, qual foi o `chosen` e `postedText`/`postedUrl` — não estão legíveis em lugar nenhum, e o @Fluxion_network não postou nada em 04/11 (último post 03/11 18:02 UTC), então não dá para reconstruir o postado pela timeline; por isso `status` = desconhecido e `options` = {}. `createdAt` é o horário nominal da edição (09:00 Fortaleza), não um timestamp lido; `canvas` não recuperado. Ressalva de slot: D4 e D5 são de 13:01–13:05 UTC (10:01–10:05 Fortaleza), depois de uma edição das 09:00 — a qual slot pertencem fica em aberto. Ressalva de contagem: o @bruno registrou 5 itens onde o log fala em anti-dup de 7; as outras 2 ele não tem. | Tips do dia: zero dos três (detalhe em `reporter_tips`). O material de pré-ronda das 13:1x não foi enviado como packet: entrou como observação, não como edição. | Também do dia, já registrado no espelho antes desta reconstrução: Hadukem decidiu por lista em texto (anti-dup de 7 itens + liberação de 3 itens segurados de 29/10, já fora da janela de 12h); a denylist de URL passou a valer; a ronda única do Mathias fica 12:00 Fortaleza a partir de 05/11. | Chaves vazias nesta gravacao, e o que significam: escolhas_log = [] porque nao existe registro de escolha do Hadukem em 04/11 (a edicao saiu pelo DM das 09:00 e o texto das opcoes a/b/c nao foi recuperado); quality_feedback = [] porque nenhum feedback dele foi registrado hoje; page = null porque o codigo CLARIM/canvas do dia nao foi recuperado; reporter_eod = {} porque o EOD dos reporteres ainda nao tinha chegado na hora desta gravacao (entra no fechamento das 21:30). held = 4 candidatos do Bruno da pre-varredura das 13:1x, segurados hoje. | Atualizado as 14:4x (Fortaleza): o reporter_tips do Gleison, slot 15:00, deixou de dizer 'URLs nao capturadas' e passou a ter as 5 URLs do packet, com cross-ref do que ja estava em held."
 }
