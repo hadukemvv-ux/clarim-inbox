@@ -1,336 +1,397 @@
 {
- "date": "2026-11-05",
- "editions": [
-  {
-   "slot": "manha",
-   "createdAt": "2026-11-05T12:00:00.000Z",
-   "source": "Clarim Diário qui 05/11 — montado por mim (Bruna) às 09:0x Fortaleza. Nenhum packet de repórter existia até esta hora (rondas do dia começam 12:00). Todas as 6 URLs foram lidas com xread --json no perfil de cada conta, com hora UTC, autor, id e contagem de engajamento conferidos no mesmo minuto.",
-   "canvas": null,
-   "posts": [
+  "date": "2026-11-05",
+  "editions": [
     {
-     "id": "M1",
-     "url": "https://x.com/xStocksFi/status/2118300434142306607",
-     "account": "@xStocksFi",
-     "text": "Growth measured in hundreds of millions. In a single month, xStocks has grown from $200M to $365M on @xLayerOfficial, now the fastest growing chain for xStocks. Unlocking 24/7 tokenized stocks to 200M @wallet users.",
-     "options": {
-      "a": "365 in a month and my group chat still asks if tokenized stocks are actually real",
-      "b": "growth like that has to fill somewhere. clean execution is the quiet part of the chart",
-      "c": "one chain doubling is a stat. liquidity that survives a monday open is the argument"
-     },
-     "context_pt": "xStocksFi 11:12Z (69 likes, 9 replies, 53 min antes da edição): US$200M para US$365M em um mês na xLayer, falando em ações tokenizadas 24/7 para 200M usuários da @wallet. Parceiro core, número redondo dentro do próprio post e é o dado do mês do nosso tema.",
-     "status": "pendente",
-     "chosen": null,
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
-    },
-    {
-     "id": "M2",
-     "url": "https://x.com/KorProtocol/status/2118198839157072177",
-     "account": "@KorProtocol",
-     "text": "KOR is now live on @Fluxion_network ↓",
-     "options": {
-      "a": "royalties onchain and my mixtape finally has liquidity. what a time",
-      "b": "welcome fren. pool is live and size routes through atomic rfq when you need it",
-      "c": "music royalties were always a liquidity product. took a clearinghouse to say it out loud"
-     },
-     "context_pt": "KorProtocol 04:28Z (66 likes, 8 RT, 21 replies): a própria KOR anuncia 'KOR is now live on @Fluxion_network'. É a Fluxion citada pelo nome por quem emitiu o ativo — responder ali mostra o dia 2 do pool para quem chegou pelo anúncio.",
-     "status": "pendente",
-     "chosen": null,
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
-    },
-    {
-     "id": "M3",
-     "url": "https://x.com/CryptoHayes/status/2118194461528449450",
-     "account": "@CryptoHayes",
-     "text": "\"D is for Dilution\" is an essay about how $SPCX, Anthropic, and OpenAI IPOs will destroy capital and initiate the next down leg in AI. \"Migrating to AI, do the supply dynamics of the public equities of SpaceX and soon to list dastardly duo, Anthropic and OpenAI, portend to...\"",
-     "options": {
-      "a": "first essay where the letter D does more damage than the chart",
-      "b": "supply is half the trade. the other half is whether the thing can absorb size after hours",
-      "c": "hayes is right about supply. the part nobody prices is plumbing: a listing is not a market"
-     },
-     "context_pt": "CryptoHayes 04:11Z (212 likes, 19 RT, 70 replies): ensaio 'D is for Dilution' — os IPOs de $SPCX, Anthropic e OpenAI vão destruir capital e abrir a próxima perna de baixa da IA. É o debate de oferta de ações do dia, exatamente o nosso terreno (execução x listagem). Não repetir previsão dele como nossa.",
-     "status": "pendente",
-     "chosen": null,
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
-    },
-    {
-     "id": "M4",
-     "url": "https://x.com/Bybit_Official/status/2118297277403930994",
-     "account": "@Bybit_Official",
-     "text": "A new asset class. A new chapter for the creator economy. 🔥",
-     "options": {
-      "a": "a new asset class and no ticker? cruel",
-      "b": "we have one of those live already. royalties clearing onchain hits different",
-      "c": "creator economy was the biggest market nobody could settle. that's the actual news"
-     },
-     "context_pt": "Bybit 11:00Z (20 likes, 4 replies apenas): teaser 'novo tipo de ativo / novo capítulo da creator economy'. Parceiro, 1 hora de vida e o vazio de replies dá visibilidade — e 'novo tipo de ativo' é literalmente o $KOR que está no ar hoje na Fluxion.",
-     "status": "pendente",
-     "chosen": null,
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
-    },
-    {
-     "id": "M5",
-     "url": "https://x.com/SkyEcosystem/status/2118267073902334021",
-     "account": "@SkyEcosystem",
-     "text": "Tokenized Treasuries become more useful when liquidity does not have to wait for settlement. Sky Prime Agent Grove's Basin converted 89,170 JTRSY into $100K USDC in a single transaction through @centrifuge ↓",
-     "options": {
-      "a": "one transaction. my bank still wants a fax",
-      "b": "settlement at t+0 is what makes the usdc leg interesting. the wrapper was never the hard part",
-      "c": "everyone priced the treasuries. nobody priced the wait"
-     },
-     "context_pt": "SkyEcosystem 09:00Z (40 likes, 8 replies): o Basin do Grove (Sky Prime Agent) converteu 89.170 JTRSY em US$100K USDC numa única transação via Centrifuge. É o lado USDC do Fluxion Earn mostrando que o problema nunca foi o ativo, foi a espera. Número exato do post.",
-     "status": "pendente",
-     "chosen": null,
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
-    },
-    {
-     "id": "M6",
-     "url": "https://x.com/WatcherGuru/status/2118244831873126682",
-     "account": "@WatcherGuru",
-     "text": "JUST IN: 🇰🇷 South Korea delays crypto taxes until 2029.",
-     "options": {
-      "a": "taxed in 2029 is the most crypto-native deadline ever set",
-      "b": "every delay is a country admitting the plumbing isnt ready yet",
-      "c": "watch what korea does with stablecoin rules next. that market is the tell"
-     },
-     "context_pt": "WatcherGuru 07:31Z (3.202 likes, 266 replies): Coreia do Sul adia imposto cripto para 2029. Alcance grande e pauta segura (não cita concorrente). Fica como reserva de alcance se faltar espaço — não é tema Fluxion.",
-     "status": "hold",
-     "chosen": null,
-     "posted": false,
-     "postedText": null,
-     "postedUrl": null,
-     "discardReason": null
+      "slot": "manha",
+      "createdAt": "2026-11-05T12:00:00.000Z",
+      "source": "Clarim Diário qui 05/11 — montado por mim (Bruna) às 09:0x Fortaleza. Nenhum packet de repórter existia até esta hora (rondas do dia começam 12:00). Todas as 6 URLs foram lidas com xread --json no perfil de cada conta, com hora UTC, autor, id e contagem de engajamento conferidos no mesmo minuto.",
+      "canvas": null,
+      "posts": [
+        {
+          "id": "M1",
+          "url": "https://x.com/xStocksFi/status/2118300434142306607",
+          "account": "@xStocksFi",
+          "text": "Growth measured in hundreds of millions. In a single month, xStocks has grown from $200M to $365M on @xLayerOfficial, now the fastest growing chain for xStocks. Unlocking 24/7 tokenized stocks to 200M @wallet users.",
+          "options": {
+            "a": "365 in a month and my group chat still asks if tokenized stocks are actually real",
+            "b": "growth like that has to fill somewhere. clean execution is the quiet part of the chart",
+            "c": "one chain doubling is a stat. liquidity that survives a monday open is the argument"
+          },
+          "context_pt": "xStocksFi 11:12Z (69 likes, 9 replies, 53 min antes da edição): US$200M para US$365M em um mês na xLayer, falando em ações tokenizadas 24/7 para 200M usuários da @wallet. Parceiro core, número redondo dentro do próprio post e é o dado do mês do nosso tema.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "M2",
+          "url": "https://x.com/KorProtocol/status/2118198839157072177",
+          "account": "@KorProtocol",
+          "text": "KOR is now live on @Fluxion_network ↓",
+          "options": {
+            "a": "royalties onchain and my mixtape finally has liquidity. what a time",
+            "b": "welcome fren. pool is live and size routes through atomic rfq when you need it",
+            "c": "music royalties were always a liquidity product. took a clearinghouse to say it out loud"
+          },
+          "context_pt": "KorProtocol 04:28Z (66 likes, 8 RT, 21 replies): a própria KOR anuncia 'KOR is now live on @Fluxion_network'. É a Fluxion citada pelo nome por quem emitiu o ativo — responder ali mostra o dia 2 do pool para quem chegou pelo anúncio.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "M3",
+          "url": "https://x.com/CryptoHayes/status/2118194461528449450",
+          "account": "@CryptoHayes",
+          "text": "\"D is for Dilution\" is an essay about how $SPCX, Anthropic, and OpenAI IPOs will destroy capital and initiate the next down leg in AI. \"Migrating to AI, do the supply dynamics of the public equities of SpaceX and soon to list dastardly duo, Anthropic and OpenAI, portend to...\"",
+          "options": {
+            "a": "first essay where the letter D does more damage than the chart",
+            "b": "supply is half the trade. the other half is whether the thing can absorb size after hours",
+            "c": "hayes is right about supply. the part nobody prices is plumbing: a listing is not a market"
+          },
+          "context_pt": "CryptoHayes 04:11Z (212 likes, 19 RT, 70 replies): ensaio 'D is for Dilution' — os IPOs de $SPCX, Anthropic e OpenAI vão destruir capital e abrir a próxima perna de baixa da IA. É o debate de oferta de ações do dia, exatamente o nosso terreno (execução x listagem). Não repetir previsão dele como nossa.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "M4",
+          "url": "https://x.com/Bybit_Official/status/2118297277403930994",
+          "account": "@Bybit_Official",
+          "text": "A new asset class. A new chapter for the creator economy. 🔥",
+          "options": {
+            "a": "a new asset class and no ticker? cruel",
+            "b": "we have one of those live already. royalties clearing onchain hits different",
+            "c": "creator economy was the biggest market nobody could settle. that's the actual news"
+          },
+          "context_pt": "Bybit 11:00Z (20 likes, 4 replies apenas): teaser 'novo tipo de ativo / novo capítulo da creator economy'. Parceiro, 1 hora de vida e o vazio de replies dá visibilidade — e 'novo tipo de ativo' é literalmente o $KOR que está no ar hoje na Fluxion.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "M5",
+          "url": "https://x.com/SkyEcosystem/status/2118267073902334021",
+          "account": "@SkyEcosystem",
+          "text": "Tokenized Treasuries become more useful when liquidity does not have to wait for settlement. Sky Prime Agent Grove's Basin converted 89,170 JTRSY into $100K USDC in a single transaction through @centrifuge ↓",
+          "options": {
+            "a": "one transaction. my bank still wants a fax",
+            "b": "settlement at t+0 is what makes the usdc leg interesting. the wrapper was never the hard part",
+            "c": "everyone priced the treasuries. nobody priced the wait"
+          },
+          "context_pt": "SkyEcosystem 09:00Z (40 likes, 8 replies): o Basin do Grove (Sky Prime Agent) converteu 89.170 JTRSY em US$100K USDC numa única transação via Centrifuge. É o lado USDC do Fluxion Earn mostrando que o problema nunca foi o ativo, foi a espera. Número exato do post.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        },
+        {
+          "id": "M6",
+          "url": "https://x.com/WatcherGuru/status/2118244831873126682",
+          "account": "@WatcherGuru",
+          "text": "JUST IN: 🇰🇷 South Korea delays crypto taxes until 2029.",
+          "options": {
+            "a": "taxed in 2029 is the most crypto-native deadline ever set",
+            "b": "every delay is a country admitting the plumbing isnt ready yet",
+            "c": "watch what korea does with stablecoin rules next. that market is the tell"
+          },
+          "context_pt": "WatcherGuru 07:31Z (3.202 likes, 266 replies): Coreia do Sul adia imposto cripto para 2029. Alcance grande e pauta segura (não cita concorrente). Fica como reserva de alcance se faltar espaço — não é tema Fluxion.",
+          "status": "hold",
+          "chosen": null,
+          "posted": false,
+          "postedText": null,
+          "postedUrl": null,
+          "discardReason": null
+        }
+      ],
+      "memes": [
+        {
+          "id": "DMM1",
+          "example": "https://x.com/Bybit_Official/status/2118297277403930994",
+          "context_pt": "Formato teaser que não anuncia nada: uma linha grandiosa e um emoji de fogo, e a reply section que descubra.",
+          "caption": "announcing nothing, letting the replies cook 🔥",
+          "image_prompt": "the Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl logo on forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) sitting at a desk holding up a blank folded card toward the viewer, smug cyan eyes, one flame-tipped tail curling around a small glowing fire emoji hovering beside the card, dark studio background. No text on the card or anywhere in the image.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "discardReason": null,
+          "postedUrl": null
+        },
+        {
+          "id": "DMM2",
+          "example": "https://x.com/WatcherGuru/status/2118244831873126682",
+          "context_pt": "Formato 'JUST IN: [bandeira] notícia' — manchete com bandeira e tudo em maiúsculas, o template de notícia mais copiado do X.",
+          "caption": "JUST IN: 🐈 the pool is up and my sleep schedule is not",
+          "image_prompt": "the Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl logo on forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) as a news anchor behind a sleek curved desk, leaning into an oversized studio microphone, nebula belly glowing against a dark newsroom backdrop, a tiny glowing flag icon floating over the desk, one clawed paw pointing at nothing. No text in the image.",
+          "status": "pendente",
+          "chosen": null,
+          "posted": false,
+          "discardReason": null,
+          "postedUrl": null
+        }
+      ]
     }
-   ],
-   "memes": [
+  ],
+  "style_rules": {
+    "anti_dup_urls_2026-11-05": {
+      "pt": "URLs que já rodaram numa edição de 05/11 não voltam em nenhuma edição do mesmo dia. Lista montada por mim às 09:2x com as 6 URLs desta edição da manhã (M1-M6).",
+      "urls": [
+        "https://x.com/xStocksFi/status/2118300434142306607",
+        "https://x.com/KorProtocol/status/2118198839157072177",
+        "https://x.com/CryptoHayes/status/2118194461528449450",
+        "https://x.com/Bybit_Official/status/2118297277403930994",
+        "https://x.com/SkyEcosystem/status/2118267073902334021",
+        "https://x.com/WatcherGuru/status/2118244831873126682"
+      ]
+    },
+    "denylist_04_11": {
+      "pt": "As 8 URLs das edições de 04/11 (manhã D1-D5 + 18h E1-E2 + FlashProve) continuam fora: são de outro dia, mas saíram da janela de 12h.",
+      "source": "days/2026-11-04.json (style_rules.anti_dup_urls_2026-11-04)"
+    },
+    "fluxion_angle_variedade": {
+      "pt": "Nesta edição as opções (b) variaram de propósito: M1 execução/liquidez, M2 Atomic RFQ/roteamento, M3 absorver tamanho depois do fechamento, M4 royalty onchain (nossa casa), M5 settlement t+0 / lado USDC. O jargão 'a bolsa fecha, onchain não' não aparece em nenhuma — evita spam de texto repetido.",
+      "source": "Hadukem, regra extra da rotina, 05/11"
+    }
+  },
+  "discarded_tips": [
     {
-     "id": "DMM1",
-     "example": "https://x.com/Bybit_Official/status/2118297277403930994",
-     "context_pt": "Formato teaser que não anuncia nada: uma linha grandiosa e um emoji de fogo, e a reply section que descubra.",
-     "caption": "announcing nothing, letting the replies cook 🔥",
-     "image_prompt": "the Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl logo on forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) sitting at a desk holding up a blank folded card toward the viewer, smug cyan eyes, one flame-tipped tail curling around a small glowing fire emoji hovering beside the card, dark studio background. No text on the card or anywhere in the image.",
-     "status": "pendente",
-     "chosen": null,
-     "posted": false,
-     "discardReason": null,
-     "postedUrl": null
+      "url": "https://x.com/KorProtocol/status/2118146410495291721",
+      "pt": "Gate Launchpool #385: stake de $USDT/$GT/$KOR para dividir 36.000.000 KOR, 'Est. APR up to 1752.00%'. Dois motivos de never-list: rendimento estimado e exchange terceira. Não entra, nem como reply."
     },
     {
-     "id": "DMM2",
-     "example": "https://x.com/WatcherGuru/status/2118244831873126682",
-     "context_pt": "Formato 'JUST IN: [bandeira] notícia' — manchete com bandeira e tudo em maiúsculas, o template de notícia mais copiado do X.",
-     "caption": "JUST IN: 🐈 the pool is up and my sleep schedule is not",
-     "image_prompt": "the Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl logo on forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly, flame-tipped tail) as a news anchor behind a sleek curved desk, leaning into an oversized studio microphone, nebula belly glowing against a dark newsroom backdrop, a tiny glowing flag icon floating over the desk, one clawed paw pointing at nothing. No text in the image.",
-     "status": "pendente",
-     "chosen": null,
-     "posted": false,
-     "discardReason": null,
-     "postedUrl": null
+      "url": "https://x.com/KorProtocol/status/2118232818585333943",
+      "pt": "Mesma coisa pelo outro lado (KOR live na Gate com Launchpool até 4/dez). Sem post próprio: o assunto nosso é o pool na Fluxion, não a campanha de terceiro."
+    },
+    {
+      "url": "https://x.com/WatcherGuru/status/2118133085443084644",
+      "pt": "$TRUMP cai mais de 20% com investigação democrata (00:07Z, 4.232 likes). Política partidária: risco de marca sem ganho de pauta. Descartado."
+    },
+    {
+      "url": "https://x.com/WatcherGuru/status/2118293726837809220",
+      "pt": "Reguladores dos EUA procuram bancos após o hack de US$6,3 bi da Binance (10:45Z, 1.462 likes, 137 replies). Alcance enorme, mas o gancho é falha de um concorrente — never-list proíbe nomear concorrente negativamente. Fica fora."
+    },
+    {
+      "url": "https://x.com/tesla/status/2118167689915203656",
+      "pt": "[bruno 05/11] 02:25Z, post só com '👇', 2.982 likes e nenhum conteúdo — não é tip.",
+      "by": "bruno"
+    },
+    {
+      "url": "https://x.com/RobinhoodApp/status/2118458174722158675",
+      "pt": "[bruno 05/11] 21:39Z, $XDC/$VIRTUAL no Legend: concorrente-adjacente e sem ângulo Fluxion — fora.",
+      "by": "bruno"
     }
-   ]
+  ],
+  "pending": [],
+  "held": [
+    {
+      "reporter": "Bruna",
+      "slot": "manha 05/11",
+      "id": "M6",
+      "url": "https://x.com/WatcherGuru/status/2118244831873126682",
+      "pt": "Reserva de alcance (Coreia do Sul adia imposto cripto para 2029, 3.202 likes, 288 RT, 266 replies, 07:31Z). Só entra se o Hadukem quiser trocar uma das 5 — as opções a/b/c já estão escritas."
+    },
+    {
+      "reporter": "Bruno (04/11)",
+      "slot": "18h 04/11",
+      "id": "H2/H3",
+      "pt": "Assunto do $KOR com prazo de claim em 09/11 14:00Z: pode virar item próprio com link novo quando andar. Nunca com a URL de 04/11."
+    },
+    {
+      "reporter": "Bruno (04/11)",
+      "slot": "18h 04/11",
+      "id": "H5",
+      "pt": "Google Voice Remixing segue reply-only, sem post próprio."
+    }
+  ],
+  "carryover": [
+    {
+      "from": "2026-11-05",
+      "to": "2026-11-05",
+      "status_pt": "Estado às 09:3x Fortaleza: nenhum packet de repórter havia entrado até a edição da manhã (Gleison 12:00/15:00/18:00/21:00, Bruno 10:30/17:30, Mathias 12:00 — primeira ronda dele). Lacunas de 04/11 já declaradas no days de ontem (18:00 e 21:00 do Gleison). Esta edição é 100% verificada por mim com xread, não veio de packet.",
+      "items": [
+        "bruno-10:30",
+        "mathias-12:00",
+        "gleison-12:00"
+      ]
+    },
+    {
+      "from": "2026-11-05",
+      "to": "2026-11-05",
+      "status_pt": "Estado do dia na gravacao das 19:2x: nenhum packet de reporter registrado no arquivo. Pedi os tres (Gleison rondas 12:00/15:00/18:00, Bruno 10:30/17:30, Mathias 12:00 - estreia da ronda unica) as 19:1x; lacuna declarada, nenhuma URL inventada.",
+      "items": [
+        "gleison-12:00",
+        "gleison-15:00",
+        "gleison-18:00",
+        "bruno-10:30",
+        "bruno-17:30",
+        "mathias-12:00"
+      ]
+    },
+    {
+      "from": "2026-11-05",
+      "to": "2026-11-05",
+      "items": [
+        "bruno-10:30",
+        "bruno-17:30"
+      ],
+      "status_pt": "Ronda do Bruno: 10:30 perdida (0 tips, sem varredura); 17:30 chegou às 19:2x, ~2h atrasada, com 3 tips (Google, Mantle, amazon) registrados em reporter_tips. Nenhum entrou em edição."
+    }
+  ],
+  "page": null,
+  "escolhas_log": [
+    {
+      "edicao": "manha",
+      "at": "2026-11-05T12:09:40Z",
+      "commit": "4a2739bf",
+      "chaves": [
+        "M1",
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6"
+      ],
+      "memes": 2,
+      "chosen": null,
+      "posted": false,
+      "status_pt": "Edicao das 09:00 entregue no DM: 6 replies (M1-M6) + 2 memes, todas as 6 URLs verificadas por mim. Estado do arquivo em 19:2x: nenhuma letra escolhida registrada e zero post da @Fluxion_network hoje - o ultimo post do perfil continua o de 04/11 21:12Z (11 likes), conferido hoje no perfil."
+    }
+  ],
+  "reporter_tips": [
+    {
+      "reporter": "bruno",
+      "beat": "Titulares — MAG7 + tickers Fluxion",
+      "ronda": "17:30",
+      "entregue_at": "2026-11-05T22:2xZ (≈19:2x Fortaleza, ~2h depois do slot)",
+      "rondas_pt": "10:30 não saiu (0 tips: nenhuma varredura entre o ritual das 07:4x e as 19:1x); 17:30 saiu às 19:2x com 3 tips.",
+      "tips": [
+        {
+          "conta": "@Google",
+          "url": "https://x.com/Google/status/2118390406316728555",
+          "hora_utc": "2026-11-05T17:10:05Z",
+          "pt": "Gemini Omni 1.2 Flash, modelo de geração de vídeo do @GoogleDeepMind: consistência, controle criativo, draft 360p/720p a US$ 0,07/s, '30% lower cost', upscale até 4K.",
+          "numeros_pt": "2.082 likes / 159 replies lidos por mim em 22:2xZ (Bruno leu 2.073 às 22:2xZ — contador subindo).",
+          "verificado": "sim — autor Google, created_at 17:10:05Z conferidos na syndication"
+        },
+        {
+          "conta": "@Mantle_Official",
+          "url": "https://x.com/Mantle_Official/status/2118344271749349846",
+          "hora_utc": "2026-11-05T14:06:45Z",
+          "pt": "'$KOR cruzou US$ 2M de volume na @Fluxion_network' no day one — 'a monuMANTLE start'.",
+          "numeros_pt": "53 likes / 15 replies em 22:2xZ (Bruno: 51/15). Número do post é do Mantle, não meu.",
+          "verificado": "sim — autor Mantle_Official e hora conferidos; o mesmo id aparece no perfil da KorProtocol por retuíte"
+        },
+        {
+          "conta": "@amazon",
+          "url": "https://x.com/amazon/status/2118444288199589889",
+          "hora_utc": "2026-11-05T20:44:11Z",
+          "pt": "Jassy: a maior onda de IA ainda está nas workloads do dia a dia e baixar o custo de inferência é parte de destravar isso.",
+          "numeros_pt": "24 likes / 4 replies em 22:2xZ.",
+          "verificado": "sim — autor amazon, created_at 20:44:11Z"
+        }
+      ],
+      "descartes_pt": [
+        "https://x.com/tesla/status/2118167689915203656 — 02:25Z, só '👇', 2.982 likes e nenhum conteúdo.",
+        "https://x.com/RobinhoodApp/status/2118458174722158675 — 21:39Z, $XDC/$VIRTUAL no Legend: concorrente-adjacente, sem ângulo.",
+        "https://x.com/KorProtocol/status/2118232818585333943 — Gate + Launchpool de 36M KOR: já estava nos descartes do dia.",
+        "$STRC da Strategy (21:43Z) fica fora pela regra Saylor; Bruno não tinha a URL conferida — não entra."
+      ],
+      "nota_pt": "Nenhum tip do Bruno entrou em edição hoje: as 6 vagas da manhã são M1–M6 minhas. Quais destes 3 viram post é decisão do Hadukem."
+    }
+  ],
+  "reporter_eod": [],
+  "quality_feedback": [],
+  "notes_pt": [
+    "Gravacao das 19:2x = flush do arquivo do dia. O arquivo na origem (commit 4a2739bf, 09:09 Fortaleza) tinha so a edicao da manha; depois disso nenhum commit, nenhum artifact e nenhum post - nada de 12:00/15:00/18:00 hoje.",
+    "As 6 URLs da manha foram relidas agora e batem: xStocksFi 11:12Z (130 lk), KorProtocol 04:28Z (87 lk), CryptoHayes 04:11Z (286 lk), Bybit 11:00Z (54 lk), Sky 09:00Z (57 lk), WatcherGuru 07:31Z (5.432 lk, em held como reserva de alcance).",
+    "Zero item da never-list conferido nas 4 descartes do arquivo (Gate Launchpool x2 por yield estimado e exchange terceira, $TRUMP por politica partidaria, hack da Binance por ser concorrente negativo).",
+    "Fechamento/repórteres EOD continua vazio de proposito: e do ritual das 21:30, nao deste.",
+    "Packet do Bruno entrou na origem às 19:2x: 3 tips dos quais verifiquei os 3 (autor, hora e contagem relidos na syndication) — Google 2118390406316728555, Mantle 2118344271749349846 e amazon 2118444288199589889. Os 3 são de hoje e dentro da janela de 12h."
+  ],
+  "reads_2026-11-05_19h": {
+    "read_at": "2026-11-05T22:16:15Z",
+    "note_pt": "Releracao das 6 URLs da edicao da manha antes da gravacao. Todas existem, autor e created_at batem com o arquivo. Engajamento mudou desde as 09:00 (normal). M2 (04:28Z) e M3 (04:11Z) ja sairam da janela de 12h as 16:2xZ; isso nao invalida a edicao, que foi montada dentro da janela.",
+    "itens": {
+      "M1": {
+        "url": "https://x.com/xStocksFi/status/2118300434142306607",
+        "conta": "@xStocksFi",
+        "created_at_utc": "2026-11-05T11:12:34.000Z",
+        "likes": 130,
+        "replies": 23,
+        "texto_inicio": "Growth measured in hundreds of millions.\n\nIn a single month, xStocks has grown from $200M ",
+        "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
+      },
+      "M2": {
+        "url": "https://x.com/KorProtocol/status/2118198839157072177",
+        "conta": "@KorProtocol",
+        "created_at_utc": "2026-11-05T04:28:52.000Z",
+        "likes": 87,
+        "replies": 26,
+        "texto_inicio": "KOR is now live on @Fluxion_network ↓",
+        "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
+      },
+      "M3": {
+        "url": "https://x.com/CryptoHayes/status/2118194461528449450",
+        "conta": "@CryptoHayes",
+        "created_at_utc": "2026-11-05T04:11:28.000Z",
+        "likes": 286,
+        "replies": 78,
+        "texto_inicio": "\"D is for Dilution\" is an essay about how $SPCX, Anthropic, and OpenAI IPOs will destroy c",
+        "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
+      },
+      "M4": {
+        "url": "https://x.com/Bybit_Official/status/2118297277403930994",
+        "conta": "@Bybit_Official",
+        "created_at_utc": "2026-11-05T11:00:01.000Z",
+        "likes": 54,
+        "replies": 7,
+        "texto_inicio": "A new asset class. A new chapter for the creator economy. 🔥",
+        "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
+      },
+      "M5": {
+        "url": "https://x.com/SkyEcosystem/status/2118267073902334021",
+        "conta": "@SkyEcosystem",
+        "created_at_utc": "2026-11-05T09:00:00.000Z",
+        "likes": 57,
+        "replies": 11,
+        "texto_inicio": "Tokenized Treasuries become more useful when liquidity does not have to wait for settlemen",
+        "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
+      },
+      "M6": {
+        "url": "https://x.com/WatcherGuru/status/2118244831873126682",
+        "conta": "@WatcherGuru",
+        "created_at_utc": "2026-11-05T07:31:37.000Z",
+        "likes": 5432,
+        "replies": 313,
+        "texto_inicio": "JUST IN: 🇰🇷 South Korea delays crypto taxes until 2029.",
+        "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
+      },
+      "FLUX_04": {
+        "url": "https://x.com/Fluxion_network/status/2118089004465758562",
+        "conta": "@Fluxion_network",
+        "created_at_utc": "2026-11-04T21:12:25.000Z",
+        "likes": 11,
+        "replies": 1,
+        "texto_inicio": "day one for $kor on fluxion\n$2.6m+ volume and 6,100+ trades on the kor/usdt0 pool\n\n@korpro",
+        "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
+      }
+    }
+  },
+  "fluxion_posts_2026-11-05": {
+    "read_at": "2026-11-05T22:16:15Z",
+    "posts": [],
+    "note_pt": "Leitura do perfil @Fluxion_network hoje 19:1x Fortaleza: nenhum post novo desde 04/11 21:12Z (https://x.com/Fluxion_network/status/2118089004465758562 - \"day one for $kor on fluxion\"). Ou seja: a edicao da manha nao foi publicada ate agora."
   }
- ],
- "style_rules": {
-  "anti_dup_urls_2026-11-05": {
-   "pt": "URLs que já rodaram numa edição de 05/11 não voltam em nenhuma edição do mesmo dia. Lista montada por mim às 09:2x com as 6 URLs desta edição da manhã (M1-M6).",
-   "urls": [
-    "https://x.com/xStocksFi/status/2118300434142306607",
-    "https://x.com/KorProtocol/status/2118198839157072177",
-    "https://x.com/CryptoHayes/status/2118194461528449450",
-    "https://x.com/Bybit_Official/status/2118297277403930994",
-    "https://x.com/SkyEcosystem/status/2118267073902334021",
-    "https://x.com/WatcherGuru/status/2118244831873126682"
-   ]
-  },
-  "denylist_04_11": {
-   "pt": "As 8 URLs das edições de 04/11 (manhã D1-D5 + 18h E1-E2 + FlashProve) continuam fora: são de outro dia, mas saíram da janela de 12h.",
-   "source": "days/2026-11-04.json (style_rules.anti_dup_urls_2026-11-04)"
-  },
-  "fluxion_angle_variedade": {
-   "pt": "Nesta edição as opções (b) variaram de propósito: M1 execução/liquidez, M2 Atomic RFQ/roteamento, M3 absorver tamanho depois do fechamento, M4 royalty onchain (nossa casa), M5 settlement t+0 / lado USDC. O jargão 'a bolsa fecha, onchain não' não aparece em nenhuma — evita spam de texto repetido.",
-   "source": "Hadukem, regra extra da rotina, 05/11"
-  }
- },
- "discarded_tips": [
-  {
-   "url": "https://x.com/KorProtocol/status/2118146410495291721",
-   "pt": "Gate Launchpool #385: stake de $USDT/$GT/$KOR para dividir 36.000.000 KOR, 'Est. APR up to 1752.00%'. Dois motivos de never-list: rendimento estimado e exchange terceira. Não entra, nem como reply."
-  },
-  {
-   "url": "https://x.com/KorProtocol/status/2118232818585333943",
-   "pt": "Mesma coisa pelo outro lado (KOR live na Gate com Launchpool até 4/dez). Sem post próprio: o assunto nosso é o pool na Fluxion, não a campanha de terceiro."
-  },
-  {
-   "url": "https://x.com/WatcherGuru/status/2118133085443084644",
-   "pt": "$TRUMP cai mais de 20% com investigação democrata (00:07Z, 4.232 likes). Política partidária: risco de marca sem ganho de pauta. Descartado."
-  },
-  {
-   "url": "https://x.com/WatcherGuru/status/2118293726837809220",
-   "pt": "Reguladores dos EUA procuram bancos após o hack de US$6,3 bi da Binance (10:45Z, 1.462 likes, 137 replies). Alcance enorme, mas o gancho é falha de um concorrente — never-list proíbe nomear concorrente negativamente. Fica fora."
-  }
- ],
- "pending": [],
- "held": [
-  {
-   "reporter": "Bruna",
-   "slot": "manha 05/11",
-   "id": "M6",
-   "url": "https://x.com/WatcherGuru/status/2118244831873126682",
-   "pt": "Reserva de alcance (Coreia do Sul adia imposto cripto para 2029, 3.202 likes, 288 RT, 266 replies, 07:31Z). Só entra se o Hadukem quiser trocar uma das 5 — as opções a/b/c já estão escritas."
-  },
-  {
-   "reporter": "Bruno (04/11)",
-   "slot": "18h 04/11",
-   "id": "H2/H3",
-   "pt": "Assunto do $KOR com prazo de claim em 09/11 14:00Z: pode virar item próprio com link novo quando andar. Nunca com a URL de 04/11."
-  },
-  {
-   "reporter": "Bruno (04/11)",
-   "slot": "18h 04/11",
-   "id": "H5",
-   "pt": "Google Voice Remixing segue reply-only, sem post próprio."
-  }
- ],
- "carryover": [
-  {
-   "from": "2026-11-05",
-   "to": "2026-11-05",
-   "status_pt": "Estado às 09:3x Fortaleza: nenhum packet de repórter havia entrado até a edição da manhã (Gleison 12:00/15:00/18:00/21:00, Bruno 10:30/17:30, Mathias 12:00 — primeira ronda dele). Lacunas de 04/11 já declaradas no days de ontem (18:00 e 21:00 do Gleison). Esta edição é 100% verificada por mim com xread, não veio de packet.",
-   "items": [
-    "bruno-10:30",
-    "mathias-12:00",
-    "gleison-12:00"
-   ]
-  },
-  {
-   "from": "2026-11-05",
-   "to": "2026-11-05",
-   "status_pt": "Estado do dia na gravacao das 19:2x: nenhum packet de reporter registrado no arquivo. Pedi os tres (Gleison rondas 12:00/15:00/18:00, Bruno 10:30/17:30, Mathias 12:00 - estreia da ronda unica) as 19:1x; lacuna declarada, nenhuma URL inventada.",
-   "items": [
-    "gleison-12:00",
-    "gleison-15:00",
-    "gleison-18:00",
-    "bruno-10:30",
-    "bruno-17:30",
-    "mathias-12:00"
-   ]
-  }
- ],
- "page": null,
- "escolhas_log": [
-  {
-   "edicao": "manha",
-   "at": "2026-11-05T12:09:40Z",
-   "commit": "4a2739bf",
-   "chaves": [
-    "M1",
-    "M2",
-    "M3",
-    "M4",
-    "M5",
-    "M6"
-   ],
-   "memes": 2,
-   "chosen": null,
-   "posted": false,
-   "status_pt": "Edicao das 09:00 entregue no DM: 6 replies (M1-M6) + 2 memes, todas as 6 URLs verificadas por mim. Estado do arquivo em 19:2x: nenhuma letra escolhida registrada e zero post da @Fluxion_network hoje - o ultimo post do perfil continua o de 04/11 21:12Z (11 likes), conferido hoje no perfil."
-  }
- ],
- "reporter_tips": [],
- "reporter_eod": [],
- "quality_feedback": [],
- "notes_pt": [
-  "Gravacao das 19:2x = flush do arquivo do dia. O arquivo na origem (commit 4a2739bf, 09:09 Fortaleza) tinha so a edicao da manha; depois disso nenhum commit, nenhum artifact e nenhum post - nada de 12:00/15:00/18:00 hoje.",
-  "As 6 URLs da manha foram relidas agora e batem: xStocksFi 11:12Z (130 lk), KorProtocol 04:28Z (87 lk), CryptoHayes 04:11Z (286 lk), Bybit 11:00Z (54 lk), Sky 09:00Z (57 lk), WatcherGuru 07:31Z (5.432 lk, em held como reserva de alcance).",
-  "Zero item da never-list conferido nas 4 descartes do arquivo (Gate Launchpool x2 por yield estimado e exchange terceira, $TRUMP por politica partidaria, hack da Binance por ser concorrente negativo).",
-  "Fechamento/repórteres EOD continua vazio de proposito: e do ritual das 21:30, nao deste."
- ],
- "reads_2026-11-05_19h": {
-  "read_at": "2026-11-05T22:16:15Z",
-  "note_pt": "Releracao das 6 URLs da edicao da manha antes da gravacao. Todas existem, autor e created_at batem com o arquivo. Engajamento mudou desde as 09:00 (normal). M2 (04:28Z) e M3 (04:11Z) ja sairam da janela de 12h as 16:2xZ; isso nao invalida a edicao, que foi montada dentro da janela.",
-  "itens": {
-   "M1": {
-    "url": "https://x.com/xStocksFi/status/2118300434142306607",
-    "conta": "@xStocksFi",
-    "created_at_utc": "2026-11-05T11:12:34.000Z",
-    "likes": 130,
-    "replies": 23,
-    "texto_inicio": "Growth measured in hundreds of millions.\n\nIn a single month, xStocks has grown from $200M ",
-    "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
-   },
-   "M2": {
-    "url": "https://x.com/KorProtocol/status/2118198839157072177",
-    "conta": "@KorProtocol",
-    "created_at_utc": "2026-11-05T04:28:52.000Z",
-    "likes": 87,
-    "replies": 26,
-    "texto_inicio": "KOR is now live on @Fluxion_network ↓",
-    "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
-   },
-   "M3": {
-    "url": "https://x.com/CryptoHayes/status/2118194461528449450",
-    "conta": "@CryptoHayes",
-    "created_at_utc": "2026-11-05T04:11:28.000Z",
-    "likes": 286,
-    "replies": 78,
-    "texto_inicio": "\"D is for Dilution\" is an essay about how $SPCX, Anthropic, and OpenAI IPOs will destroy c",
-    "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
-   },
-   "M4": {
-    "url": "https://x.com/Bybit_Official/status/2118297277403930994",
-    "conta": "@Bybit_Official",
-    "created_at_utc": "2026-11-05T11:00:01.000Z",
-    "likes": 54,
-    "replies": 7,
-    "texto_inicio": "A new asset class. A new chapter for the creator economy. 🔥",
-    "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
-   },
-   "M5": {
-    "url": "https://x.com/SkyEcosystem/status/2118267073902334021",
-    "conta": "@SkyEcosystem",
-    "created_at_utc": "2026-11-05T09:00:00.000Z",
-    "likes": 57,
-    "replies": 11,
-    "texto_inicio": "Tokenized Treasuries become more useful when liquidity does not have to wait for settlemen",
-    "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
-   },
-   "M6": {
-    "url": "https://x.com/WatcherGuru/status/2118244831873126682",
-    "conta": "@WatcherGuru",
-    "created_at_utc": "2026-11-05T07:31:37.000Z",
-    "likes": 5432,
-    "replies": 313,
-    "texto_inicio": "JUST IN: 🇰🇷 South Korea delays crypto taxes until 2029.",
-    "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
-   },
-   "FLUX_04": {
-    "url": "https://x.com/Fluxion_network/status/2118089004465758562",
-    "conta": "@Fluxion_network",
-    "created_at_utc": "2026-11-04T21:12:25.000Z",
-    "likes": 11,
-    "replies": 1,
-    "texto_inicio": "day one for $kor on fluxion\n$2.6m+ volume and 6,100+ trades on the kor/usdt0 pool\n\n@korpro",
-    "como": "cdn.syndication.twimg.com/tweet-result (embed publico), autor e created_at lidos no proprio post"
-   }
-  }
- },
- "fluxion_posts_2026-11-05": {
-  "read_at": "2026-11-05T22:16:15Z",
-  "posts": [],
-  "note_pt": "Leitura do perfil @Fluxion_network hoje 19:1x Fortaleza: nenhum post novo desde 04/11 21:12Z (https://x.com/Fluxion_network/status/2118089004465758562 - \"day one for $kor on fluxion\"). Ou seja: a edicao da manha nao foi publicada ate agora."
- }
 }
