@@ -18,12 +18,13 @@
       "c": "one chain doubling is a stat. liquidity that survives a monday open is the argument"
      },
      "context_pt": "xStocksFi 11:12Z (69 likes, 9 replies, 53 min antes da edição): US$200M para US$365M em um mês na xLayer, falando em ações tokenizadas 24/7 para 200M usuários da @wallet. Parceiro core, número redondo dentro do próprio post e é o dado do mês do nosso tema.",
-     "status": "pendente",
+     "status": "descartado",
      "chosen": null,
      "posted": false,
      "postedText": null,
      "postedUrl": null,
-     "discardReason": null
+     "discardReason": "fora — Hadukem 06/11 14:44 (sem motivo escrito)",
+     "why_pt": null
     },
     {
      "id": "M2",
@@ -36,12 +37,13 @@
       "c": "music royalties were always a liquidity product. took a clearinghouse to say it out loud"
      },
      "context_pt": "KorProtocol 04:28Z (66 likes, 8 RT, 21 replies): a própria KOR anuncia 'KOR is now live on @Fluxion_network'. É a Fluxion citada pelo nome por quem emitiu o ativo — responder ali mostra o dia 2 do pool para quem chegou pelo anúncio.",
-     "status": "pendente",
+     "status": "descartado",
      "chosen": null,
      "posted": false,
      "postedText": null,
      "postedUrl": null,
-     "discardReason": null
+     "discardReason": "fora — Hadukem 06/11 14:44 (sem motivo escrito)",
+     "why_pt": null
     },
     {
      "id": "M3",
@@ -54,12 +56,13 @@
       "c": "hayes is right about supply. the part nobody prices is plumbing: a listing is not a market"
      },
      "context_pt": "CryptoHayes 04:11Z (212 likes, 19 RT, 70 replies): ensaio 'D is for Dilution' — os IPOs de $SPCX, Anthropic e OpenAI vão destruir capital e abrir a próxima perna de baixa da IA. É o debate de oferta de ações do dia, exatamente o nosso terreno (execução x listagem). Não repetir previsão dele como nossa.",
-     "status": "pendente",
-     "chosen": null,
+     "status": "escolhido",
+     "chosen": "c",
      "posted": false,
      "postedText": null,
      "postedUrl": null,
-     "discardReason": null
+     "discardReason": null,
+     "why_pt": null
     },
     {
      "id": "M4",
@@ -72,12 +75,13 @@
       "c": "creator economy was the biggest market nobody could settle. that's the actual news"
      },
      "context_pt": "Bybit 11:00Z (20 likes, 4 replies apenas): teaser 'novo tipo de ativo / novo capítulo da creator economy'. Parceiro, 1 hora de vida e o vazio de replies dá visibilidade — e 'novo tipo de ativo' é literalmente o $KOR que está no ar hoje na Fluxion.",
-     "status": "pendente",
+     "status": "descartado",
      "chosen": null,
      "posted": false,
      "postedText": null,
      "postedUrl": null,
-     "discardReason": null
+     "discardReason": "fora — Hadukem 06/11 14:44 (sem motivo escrito)",
+     "why_pt": null
     },
     {
      "id": "M5",
@@ -90,12 +94,13 @@
       "c": "everyone priced the treasuries. nobody priced the wait"
      },
      "context_pt": "SkyEcosystem 09:00Z (40 likes, 8 replies): o Basin do Grove (Sky Prime Agent) converteu 89.170 JTRSY em US$100K USDC numa única transação via Centrifuge. É o lado USDC do Fluxion Earn mostrando que o problema nunca foi o ativo, foi a espera. Número exato do post.",
-     "status": "pendente",
+     "status": "descartado",
      "chosen": null,
      "posted": false,
      "postedText": null,
      "postedUrl": null,
-     "discardReason": null
+     "discardReason": "fora — Hadukem 06/11 14:44 (sem motivo escrito)",
+     "why_pt": null
     },
     {
      "id": "M6",
@@ -108,12 +113,13 @@
       "c": "watch what korea does with stablecoin rules next. that market is the tell"
      },
      "context_pt": "WatcherGuru 07:31Z (3.202 likes, 266 replies): Coreia do Sul adia imposto cripto para 2029. Alcance grande e pauta segura (não cita concorrente). Fica como reserva de alcance se faltar espaço — não é tema Fluxion.",
-     "status": "hold",
-     "chosen": null,
+     "status": "escolhido",
+     "chosen": "a",
      "posted": false,
      "postedText": null,
      "postedUrl": null,
-     "discardReason": null
+     "discardReason": null,
+     "why_pt": null
     }
    ],
    "memes": [
@@ -290,6 +296,23 @@
    "chosen": null,
    "posted": false,
    "status_pt": "Fechamento de 05/11 feito a mao: a rotina das 21:30 falhou (not_logged_in) e o reporter_eod estava vazio. Nenhuma letra a/b/c foi escolhida hoje pelo Hadukem (edicao da manha com 6 replies + 2 memes parada) e a @Fluxion_network nao postou nada em 05/11 — ultimo post segue o de 04/11 21:12Z."
+  },
+  {
+   "edicao": "manha",
+   "at": "2026-11-06T17:44:00Z",
+   "commit": null,
+   "chosen": {
+    "M3": "c",
+    "M6": "a"
+   },
+   "descartados": [
+    "M1",
+    "M2",
+    "M4",
+    "M5"
+   ],
+   "own_post_pt": "não postar",
+   "status_pt": "Escolhas do Hadukem registradas em 06/11 14:44 Fortaleza no bloco do DM: M3=c (hot take, CryptoHayes), M6=a (piada, WatcherGuru Coreia), M1/M2/M4/M5 fora, post próprio = não postar. Motivo de cada um: pendente (o campo porque passa a existir nos blocos a partir de hoje). M3 é de 05/11 04:11Z e M6 de 05/11 07:31Z: os dois estão ~34h e ~31h fora da janela de 12h, então não recomendo responder agora — texto fica guardado para o próximo post do mesmo tema."
   }
  ],
  "reporter_tips": [
@@ -488,7 +511,8 @@
   "Packet do Bruno entrou na origem às 19:2x: 3 tips dos quais verifiquei os 3 (autor, hora e contagem relidos na syndication) — Google 2118390406316728555, Mantle 2118344271749349846 e amazon 2118444288199589889. Os 3 são de hoje e dentro da janela de 12h.",
   "reporter_tips de 05/11 até 19:3x: 1 packet — bruno 17:30 (3 tips, as 3 verificadas por mim na syndication: autor e hora batem) — e 2 lacunas declaradas, gleison e mathias, que não responderam ao pedido das 19:1x. Nada inventado.",
   "Fechamento das 21:30 feito manualmente as 22:4x (a rotina 01a1a73d falhou com not_logged_in): entraram o packet das 19:35 do Gleison (5 tips) e a reentrega do Mathias (2 links), o EOD dos tres e o carryover de 06/11. Todas as URLs novas passaram pela syndication; o tip 4 do Gleison veio como Sky e e @OseroHQ — corrigido aqui.",
-  "05/11 fechado: 1 edicao (manha, 6 replies M1-M6 + 2 memes, 0 escolhida, 0 postada), 3 reporter_tips (bruno 17:30, gleison 21:00 antecipada, mathias 12:00), 0 post da Fluxion no dia. page continua null (canvas nao recuperada)."
+  "05/11 fechado: 1 edicao (manha, 6 replies M1-M6 + 2 memes, 0 escolhida, 0 postada), 3 reporter_tips (bruno 17:30, gleison 21:00 antecipada, mathias 12:00), 0 post da Fluxion no dia. page continua null (canvas nao recuperada).",
+  "06/11 14:44 Fortaleza: escolhas do dia 05/11 marcadas (M3 c, M6 a, resto fora, post próprio não). Nenhum item foi postado; os dois escolhidos estão fora da janela de 12h desde a manhã de 06/11."
  ],
  "reads_2026-11-05_19h": {
   "read_at": "2026-11-05T22:16:15Z",
