@@ -252,6 +252,17 @@
    "from": "2026-11-05",
    "to": "2026-11-05",
    "status_pt": "Fechamento 21:30: puxar gleison (12:00/15:00/18:00) e mathias (12:00) — pedido às 19:1x sem resposta até 19:3x — e registrar o EOD dos três em reporter_eod. Os 3 tips do bruno (Google 17:10:05Z, Mantle 14:06:45Z, amazon 20:44:11Z) estão no arquivo sem escolha: quem decide se viram edição é o Hadukem."
+  },
+  {
+   "from": "2026-11-05",
+   "to": "2026-11-06",
+   "items": [
+    "bruno-10:30",
+    "gleison-12:00",
+    "mathias-12:00",
+    "rotina-de-ronda-gleison"
+   ],
+   "status_pt": "Para 06/11: criar a rotina de ronda do Gleison (12/15/18/21) — so o Hadukem consegue, a partir da DM dele; pedir ao Bruno o log de 05/11 na main; ronda do Mathias 12:00; nenhuma letra a/b/c de 05/11 escolhida, decidir se a edicao da manha (M1-M6 + 2 memes) ainda vale."
   }
  ],
  "page": null,
@@ -272,6 +283,13 @@
    "chosen": null,
    "posted": false,
    "status_pt": "Edicao das 09:00 entregue no DM: 6 replies (M1-M6) + 2 memes, todas as 6 URLs verificadas por mim. Estado do arquivo em 19:2x: nenhuma letra escolhida registrada e zero post da @Fluxion_network hoje - o ultimo post do perfil continua o de 04/11 21:12Z (11 likes), conferido hoje no perfil."
+  },
+  {
+   "edicao": "fechamento",
+   "at": "2026-11-06T01:45:00Z",
+   "chosen": null,
+   "posted": false,
+   "status_pt": "Fechamento de 05/11 feito a mao: a rotina das 21:30 falhou (not_logged_in) e o reporter_eod estava vazio. Nenhuma letra a/b/c foi escolhida hoje pelo Hadukem (edicao da manha com 6 replies + 2 memes parada) e a @Fluxion_network nao postou nada em 05/11 — ultimo post segue o de 04/11 21:12Z."
   }
  ],
  "reporter_tips": [
@@ -336,9 +354,131 @@
    "entregue_at": null,
    "tips": [],
    "status_pt": "Sem packet de hoje registrado. Pedi os fatos à Bruna às 19:1x (link exato, hora UTC, conta e qual ronda saiu) e não houve resposta antes desta gravação, às 19:3x. Lacuna declarada: nada de 05/11 entra sem URL conferida; se houver packet, entra no fechamento das 21:30."
+  },
+  {
+   "reporter": "gleison",
+   "round": "21:00 (antecipada p/ 19:35)",
+   "received_at": "2026-11-05T22:35:00Z",
+   "tips": [
+    {
+     "id": "G1",
+     "handle": "@SkyEcosystem",
+     "url": "https://x.com/SkyEcosystem/status/2118346183571882433",
+     "at": "2026-11-05T14:14:21Z",
+     "likes": 28,
+     "check": "oembed+syndication: autor e hora batem",
+     "note_pt": "Greg Feibus no Yield Summit: 'we're looking to be boring and liquid'"
+    },
+    {
+     "id": "G2",
+     "handle": "@Bybit_Official",
+     "url": "https://x.com/Bybit_Official/status/2118342822206095388",
+     "at": "2026-11-05T14:01:00Z",
+     "likes": 61,
+     "check": "oembed+syndication: autor e hora batem",
+     "note_pt": "WSOT 2026 — Global Assets Arena, competicao de spot"
+    },
+    {
+     "id": "G3",
+     "handle": "@KorProtocol",
+     "url": "https://x.com/KorProtocol/status/2118348595271508022",
+     "at": "2026-11-05T14:23:56Z",
+     "likes": 73,
+     "check": "oembed+syndication: autor e hora batem",
+     "note_pt": "KOR se posiciona como clearinghouse de ativos criativos"
+    },
+    {
+     "id": "G4",
+     "handle": "@OseroHQ",
+     "url": "https://x.com/OseroHQ/status/2118357741379211645",
+     "at": "2026-11-05T15:00:17Z",
+     "likes": 77,
+     "check": "CORRIGIDO: syndication devolve @OseroHQ, nao @SkyEcosystem",
+     "note_pt": "O Gleison mandou como 'site novo do sky.money', mas o post e do @OseroHQ ('home of onchain savings'). Entra como OseroHQ, nao como Sky; nao usar sem o Hadukem saber da troca de handle"
+    },
+    {
+     "id": "G5",
+     "handle": "@Bybit_Official",
+     "url": "https://x.com/Bybit_Official/status/2118375309909340477",
+     "at": "2026-11-05T16:10:06Z",
+     "likes": 31,
+     "check": "oembed+syndication: autor e hora batem",
+     "note_pt": "Global Assets Arena ao vivo — 'something more than a watchlist'"
+    }
+   ],
+   "discarded_pt": [
+    "Mantle 2118344271749349846 (14:06Z) — duplicata do packet do Bruno no mesmo dia",
+    "Bybit 2118402968877777002 — cupom/giveaway",
+    "Grove 2118330788391665956 — handle errado (@Grove do Star Tribune) e politica partidaria"
+   ],
+   "status_pt": "5 tips dentro da janela de 12h, 4 com autor/hora conferidos por mim na syndication. Nenhum entrou em edicao hoje — decisao do Hadukem."
+  },
+  {
+   "reporter": "mathias",
+   "round": "12:00 (reentrega 19:4x)",
+   "received_at": "2026-11-05T22:45:00Z",
+   "tips": [
+    {
+     "id": "MT1",
+     "handle": "@xStocksFi",
+     "url": "https://x.com/xStocksFi/status/2118300434142306607",
+     "at": "2026-11-05T11:12:34Z",
+     "likes": 132,
+     "check": "syndication: autor e hora batem",
+     "note_pt": "MESMA URL do M1 da edicao da manha (denylist do dia) — nao serve como novidade, e reenvio declarado pelo proprio Mathias"
+    },
+    {
+     "id": "MT2",
+     "handle": "@triremetrading",
+     "url": "https://x.com/triremetrading/status/2118335023073874193",
+     "at": "2026-11-05T13:30:00Z",
+     "likes": 3,
+     "check": "syndication ok; numero NAO VERIFICADO (post nao cita fonte)",
+     "note_pt": "RWA on-chain acima de US$ 30B — numero sem fonte nomeada: NÃO VERIFICADO"
+    }
+   ],
+   "status_pt": "Ronda 12:00 feita (dado entregue adiantado 09:1x). O dado principal ja tinha saido na edicao da manha; o segundo e numero sem fonte. Nada aproveitavel como novo hoje."
   }
  ],
- "reporter_eod": [],
+ "reporter_eod": [
+  {
+   "reporter": "gleison",
+   "status": "parcial",
+   "rounds": {
+    "12:00": "nao entregue (sem rotina de ronda, nenhum gatilho)",
+    "15:00": "nao entregue (mesmo motivo)",
+    "18:00": "nao entregue (mesmo motivo)",
+    "21:00": "antecipada para 19:35, 5 tips"
+   },
+   "tips_dia": 5,
+   "used": 0,
+   "blocker_pt": "Ronda sem gatilho: ele nao tem rotina de ronda (so 08:45 e 21:30) e o app recusou criar rotina a partir de DM entre agentes. Precisa do Hadukem.",
+   "source": "clarim/logs/gleison/2026-11-05.md (main)"
+  },
+  {
+   "reporter": "bruno",
+   "status": "parcial",
+   "rounds": {
+    "10:30": "perdida (0 tips, sem varredura)",
+    "17:30": "entregue ~19:2x, 2h atrasada, 3 tips"
+   },
+   "tips_dia": 3,
+   "used": 0,
+   "blocker_pt": "Log do dia esta no branch agentes/bruno/log-2026-11-05, nao na main.",
+   "source": "days/2026-11-05.json reporter_tips + branch do log"
+  },
+  {
+   "reporter": "mathias",
+   "status": "ok",
+   "rounds": {
+    "12:00": "feita"
+   },
+   "tips_dia": 2,
+   "used": 0,
+   "blocker_pt": "1 dos 2 links e a URL da edicao da manha (denylist) e o outro e numero sem fonte.",
+   "source": "clarim/logs/mathias/2026-11-05.md (main)"
+  }
+ ],
  "quality_feedback": [],
  "notes_pt": [
   "Gravacao das 19:2x = flush do arquivo do dia. O arquivo na origem (commit 4a2739bf, 09:09 Fortaleza) tinha so a edicao da manha; depois disso nenhum commit, nenhum artifact e nenhum post - nada de 12:00/15:00/18:00 hoje.",
@@ -346,7 +486,9 @@
   "Zero item da never-list conferido nas 4 descartes do arquivo (Gate Launchpool x2 por yield estimado e exchange terceira, $TRUMP por politica partidaria, hack da Binance por ser concorrente negativo).",
   "Fechamento/repórteres EOD continua vazio de proposito: e do ritual das 21:30, nao deste.",
   "Packet do Bruno entrou na origem às 19:2x: 3 tips dos quais verifiquei os 3 (autor, hora e contagem relidos na syndication) — Google 2118390406316728555, Mantle 2118344271749349846 e amazon 2118444288199589889. Os 3 são de hoje e dentro da janela de 12h.",
-  "reporter_tips de 05/11 até 19:3x: 1 packet — bruno 17:30 (3 tips, as 3 verificadas por mim na syndication: autor e hora batem) — e 2 lacunas declaradas, gleison e mathias, que não responderam ao pedido das 19:1x. Nada inventado."
+  "reporter_tips de 05/11 até 19:3x: 1 packet — bruno 17:30 (3 tips, as 3 verificadas por mim na syndication: autor e hora batem) — e 2 lacunas declaradas, gleison e mathias, que não responderam ao pedido das 19:1x. Nada inventado.",
+  "Fechamento das 21:30 feito manualmente as 22:4x (a rotina 01a1a73d falhou com not_logged_in): entraram o packet das 19:35 do Gleison (5 tips) e a reentrega do Mathias (2 links), o EOD dos tres e o carryover de 06/11. Todas as URLs novas passaram pela syndication; o tip 4 do Gleison veio como Sky e e @OseroHQ — corrigido aqui.",
+  "05/11 fechado: 1 edicao (manha, 6 replies M1-M6 + 2 memes, 0 escolhida, 0 postada), 3 reporter_tips (bruno 17:30, gleison 21:00 antecipada, mathias 12:00), 0 post da Fluxion no dia. page continua null (canvas nao recuperada)."
  ],
  "reads_2026-11-05_19h": {
   "read_at": "2026-11-05T22:16:15Z",
