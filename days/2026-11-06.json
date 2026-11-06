@@ -1,0 +1,137 @@
+{
+ "date": "2026-11-06",
+ "editions": [
+  {
+   "slot": "manha",
+   "createdAt": "2026-11-06T13:05:00.000Z",
+   "source": "Clarim Diário sex 06/11 — montado por mim (Bruna) às 10:0x Fortaleza, atrasado ~1h. Nenhum packet de repórter existia ainda (rondas começam 12:00). As 5 URLs foram lidas com xread --json agora (janela 00:50Z→12:55Z, 12h), hora UTC, autor, id e engajamento conferidos no mesmo minuto.",
+   "canvas": null,
+   "posts": [
+    {
+     "id": "E1",
+     "account": "@Bybit_Official",
+     "url": "https://x.com/Bybit_Official/status/2118644668351053975",
+     "when_utc": "2026-11-06 10:00 UTC",
+     "eng": "35 likes / 4 rt / 11 rep",
+     "text": "The next big names could be on your radar before they hit the public markets. Explore trending pre-IPO assets with the new Bybit Pre-IPO page.",
+     "pt": "Bybit lançou a página de ativos pré-IPO: 'the next big names before they hit the public markets'.",
+     "options": {
+      "a": "pre-IPO, IPO, post-IPO. the only label that matters is whether you can sell it at 3am",
+      "b": "pre-ipo access is the headline. whether it can still trade after the bell is the product",
+      "c": "the rails are old wine, the venue is new. watch what happens when the first one gaps overnight"
+     }
+    },
+    {
+     "id": "E2",
+     "account": "@xStocksFi",
+     "url": "https://x.com/xStocksFi/status/2118677309368795492",
+     "when_utc": "2026-11-06 12:10 UTC",
+     "eng": "80 likes / 3 rt / 19 rep",
+     "text": "not stopping until we tokenize the world",
+     "pt": "xStocksFi, linha de marca: 'not stopping until we tokenize the world'.",
+     "options": {
+      "a": "tokenize the world and still nobody can explain where the settlement happens. love it",
+      "b": "tokenize all of it. we will keep the after-hours part boring and liquid",
+      "c": "the world is the easy part. the 3am bid is the hard one"
+     }
+    },
+    {
+     "id": "E3",
+     "account": "@Mantle_Official",
+     "url": "https://x.com/Mantle_Official/status/2118572795861086411",
+     "when_utc": "2026-11-06 05:14 UTC",
+     "eng": "38 likes / 4 rt / 3 rep",
+     "text": "Mantle Network remained fully operational throughout the state-root bug recently disclosed in the upstream Reth client. Yesterday, our team moved quickly and proactively shipped a fix in op-reth mantle-v1.6.3, which backports the upstream patch. User assets are safe.",
+     "pt": "Mantle seguiu operando durante o bug de state-root do Reth e já publicou op-reth mantle-v1.6.3 com o patch.",
+     "options": {
+      "a": "an upstream client bug that woke nobody up. that is the flex",
+      "b": "chain stayed up through an upstream reth bug. boring uptime is what a venue is actually built on",
+      "c": "the quiet part of a dex is the client patch shipped before anyone noticed. liquidity is downstream of uptime"
+     }
+    },
+    {
+     "id": "E4",
+     "account": "@WatcherGuru",
+     "url": "https://x.com/WatcherGuru/status/2118670681261134232",
+     "when_utc": "2026-11-06 11:43 UTC",
+     "eng": "3004 likes / 504 rt / 187 rep",
+     "text": "JUST IN: 128 Japanese credit unions hit by widespread outages, leaving customers unable to withdraw cash or conduct transactions.",
+     "pt": "128 cooperativas de crédito japonesas fora do ar; clientes sem saque nem transação.",
+     "options": {
+      "a": "128 credit unions down and gas still confirmed in two seconds",
+      "b": "the banks go dark on a friday morning. tokenized equities keep settling at 3am. different rails",
+      "c": "people never stop needing to move their money. they just lose the ability to"
+     }
+    },
+    {
+     "id": "E5",
+     "account": "@WatcherGuru",
+     "url": "https://x.com/WatcherGuru/status/2118651788949630989",
+     "when_utc": "2026-11-06 10:28 UTC",
+     "eng": "2406 likes / 378 rt / 215 rep",
+     "text": "JUST IN: South Korean crypto exchange Gopax halts withdrawals following hacking threat.",
+     "pt": "Exchange sul-coreana Gopax parou saques após ameaça de hack.",
+     "options": {
+      "a": "withdrawals paused is the fastest education on what custody means",
+      "b": "custody is the whole argument. a dex has no withdrawals to pause, only a book to fill",
+      "c": "halting withdrawals is not a hack, it is a design. nobody wants to say that part"
+     }
+    }
+   ],
+   "own_post_options": {
+    "A": "pre-ipo is the new listing. the real question is what happens after the bell.",
+    "B": "tokenized equities were never about the ticker. they are about the hours the market is closed.",
+    "C": "não postar hoje"
+   },
+   "notes_pt": "Fluxion não posta desde 04/11 21:12Z (~40h). Descarte de hoje: Mantle 11:58Z (Charlie Knight / Team1USA, 10 likes, tom de comunidade, sem gancho de mercado); 4 posts do WatcherGuru de crime/hack (FBI, Solana/China, Coreia) e CryptoHayes 11:01Z (flop_labs devnet, airdrop) — sem gancho de execução; unusual_whales 12:18Z/12:37Z (AI custo/empregos) — big tech sem mercado tokenizado."
+  }
+ ],
+ "style_rules": {
+  "anti_dup_urls_2026-11-06": {
+   "pt": "URLs da edição de 06/11 não voltam em nenhuma outra edição do mesmo dia.",
+   "urls": [
+    "https://x.com/Bybit_Official/status/2118644668351053975",
+    "https://x.com/xStocksFi/status/2118677309368795492",
+    "https://x.com/Mantle_Official/status/2118572795861086411",
+    "https://x.com/WatcherGuru/status/2118670681261134232",
+    "https://x.com/WatcherGuru/status/2118651788949630989"
+   ]
+  },
+  "denylist_05_11": {
+   "pt": "As 6 da manhã de 05/11 e as 5 do packet das 19:35 seguem fora (outro dia e/ou fora da janela).",
+   "source": "days/2026-11-05.json"
+  }
+ },
+ "reporter_tips": {
+  "gleison": {
+   "packets": 0,
+   "tips": [],
+   "entregue_at": null
+  },
+  "bruno": {
+   "packets": 0,
+   "tips": [],
+   "entregue_at": null
+  },
+  "mathias": {
+   "packets": 0,
+   "tips": [
+    {
+     "url": "https://x.com/xStocksFi/status/2118300434142306607",
+     "pt": "xStocksFi: US$200M → US$365M em um mês na xLayer",
+     "status": "usado como M1 na edição de 05/11"
+    }
+   ]
+  }
+ },
+ "pending": [
+  {
+   "pt": "Escolha a/b/c de E1-E5 e o post próprio (A/B/C). Nenhuma escolha registrada até 10:0x.",
+   "owner": "hadukem"
+  }
+ ],
+ "held": [],
+ "carryover": [],
+ "page": null,
+ "notes_pt": "Edição das 09:00 saiu às 10:0x (atraso de ~1h). Escolhas abertas."
+}
