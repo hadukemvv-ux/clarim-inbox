@@ -1,0 +1,126 @@
+{
+ "date": "2026-11-07",
+ "editions": [
+  {
+   "slot": "manha",
+   "createdAt": "2026-11-07T14:15:00.000Z",
+   "source": "Clarim Diário sáb 07/11 — disparo avulso pedido pelo Hadukem (10:53) porque a mesa não entregou nada de manhã. Ronda avulsa dos 3 repórteres às 10:57-11:03 (Gleison, Bruno, Mathias). Beats deles vieram secos: nenhum post de parceiro/MAG7/xStocks fora da Mantle dentro da janela de 12h. Completei a edição com varredura própria no @WatcherGuru via xread (11:13Z) e conferi os dois links abrindo cada URL (texto, hora UTC e engajamento no mesmo minuto).",
+   "canvas": null,
+   "posts": [
+    {
+     "id": "E1",
+     "account": "@WatcherGuru",
+     "url": "https://x.com/WatcherGuru/status/2119024746201583678",
+     "when_utc": "2026-11-07 11:10 UTC",
+     "eng": "2408 likes / 212 rt / 208 rep (11:13 UTC)",
+     "text": "JUST IN: 🇺🇸🇨🇳 US reportedly approved Nvidia $NVDA chip sales to Chinese firms with empty offices and suspicious ties.",
+     "pt": "EUA teriam aprovado venda de chips da Nvidia para empresas chinesas com escritórios vazios e vínculos suspeitos. NVDA é o ticker mais quente do fim de semana.",
+     "options": {
+      "a": "approved to sell chips to firms whose offices are empty. the office was the product",
+      "b": "headline lands on a saturday. the ticker sits still until monday. that gap is the whole argument for a market that never closes",
+      "c": "approving the sale and checking the buyer are two different jobs. only one of them got done before the ink dried"
+     }
+    },
+    {
+     "id": "E2",
+     "account": "@WatcherGuru",
+     "url": "https://x.com/WatcherGuru/status/2118902136096379063",
+     "when_utc": "2026-11-07 03:03 UTC",
+     "eng": "13802 likes / 881 rt / 605 rep (11:13 UTC)",
+     "text": "JUST IN: 🇺🇸🇨🇳 US intelligence finds Nvidia $NVDA CEO Jensen Huang had a 'romantic relationship' with a Chinese spy, FT reports.",
+     "pt": "FT: inteligência dos EUA aponta relacionamento do CEO da Nvidia com uma espiã chinesa. 13,8 mil likes, maior engajamento do dia no X de mercado.",
+     "options": {
+      "a": "two huangs don't make a right. the replies are funnier than the story",
+      "b": "a story like this breaks at 3am. monday's open is 53 hours away. onchain, nobody waits for a bell to price news",
+      "c": "the relationship is the headline, the clearance is the story. nobody asking who signed off on the chips"
+     }
+    }
+   ],
+   "own_post_options": {
+    "A": "mantle dex volume: $15m to $28m in one week. +87%, no announcement, no thread. liquidity is quieter than headlines and it compounds.",
+    "B": "a headline at 3am, a market that opens on monday. the difference between those two clocks is the entire product.",
+    "C": "não postar hoje"
+   },
+   "notes_pt": "Edição de 2 tips, ambas do @WatcherGuru (não é da casa, mas é a única coisa viva na janela: os 3 repórteres varreram 25+ contas e acharam zero post de parceiro, MAG7 ou xStocks dentro de 12h). Base do post próprio A é número da própria Mantle (06/11 15:01Z, US$ 15 mi → 28 mi, +87% WoW), verificado pelo Gleison — fora da janela, por isso não virou tip. Bybit 10:00Z (2119006950616715507, teaser WSOT sem texto) ficou como oportunidade de reply, não de edição; o giveaway do WSOT (07:59Z) está fora pela never-list."
+  }
+ ],
+ "style_rules": {
+  "anti_dup_urls_2026-11-07": {
+   "pt": "URLs da edição de 07/11 não voltam em nenhuma outra edição do mesmo dia.",
+   "urls": [
+    "https://x.com/WatcherGuru/status/2119024746201583678",
+    "https://x.com/WatcherGuru/status/2118902136096379063"
+   ]
+  },
+  "denylist_06_11": {
+   "pt": "As 5 da manhã de 06/11 (Bybit pre-IPO, xStocksFi 'tokenize the world', Mantle state-root, 2x WatcherGuru) seguem fora.",
+   "source": "days/2026-11-06.json"
+  }
+ },
+ "reporter_tips": {
+  "gleison": {
+   "packets": 1,
+   "entregue_at": "2026-11-07T13:58:00.000Z",
+   "tips": [
+    {
+     "url": "https://x.com/Bybit_Official/status/2119006950616715507",
+     "pt": "Bybit 10:00Z, teaser WSOT 2026 sem texto (43 likes / 14 rep)",
+     "status": "reply opportunity — fraco para edição"
+    },
+    {
+     "url": "https://x.com/Mantle_Official/status/2118720409990533357",
+     "pt": "Mantle: volume de DEX +87% WoW, US$ 15 mi → 28 mi (22h59, fora da janela)",
+     "status": "held — base do post próprio A"
+    }
+   ],
+   "lacunas": "Grove (@grovedotfinance), CIAN (@cianglobal, exit 2) e KiiChain sem leitura (handles errados / edge); x.com/search sem login, menções da comunidade sem varredura."
+  },
+  "bruno": {
+   "packets": 1,
+   "entregue_at": "2026-11-07T13:58:00.000Z",
+   "tips": [
+    {
+     "url": "https://x.com/Bybit_Official/status/2118976499176837401",
+     "pt": "Bybit 07:59Z, giveaway WSOT 2026, 500 USDT (414 likes / 209 rep)",
+     "status": "fora pela never-list (giveaway), não citado na edição"
+    }
+   ],
+   "lacunas": "MAG7 sem post próprio em 12h (mais novo: Tesla 06/11 15:02Z). 16 contas lidas, @cianglobal exit 2."
+  },
+  "mathias": {
+   "packets": 1,
+   "entregue_at": "2026-11-07T13:58:00.000Z",
+   "tips": [
+    {
+     "url": "https://x.com/DinariGlobal/status/2118853664232374570",
+     "pt": "Dinari 06/11 23:50Z: ANT entra onchain como dShare no dia em que começar a negociar (14h, fora da janela)",
+     "status": "held — 2h fora da janela, ângulo pronto"
+    }
+   ],
+   "lacunas": "Zero post de xStocks fora da Mantle em 12h; Ondo/Backed/Swarm parados há meses; tZERO sem post legível."
+  }
+ },
+ "pending": [
+  {
+   "pt": "Escolher a/b/c de E1-E2 e o post próprio (A/B/C). Sem escolha registrada até 14:15Z.",
+   "owner": "hadukem"
+  }
+ ],
+ "held": [
+  {
+   "url": "https://x.com/Mantle_Official/status/2118720409990533357",
+   "when_utc": "2026-11-06 15:01 UTC",
+   "pt": "Volume de DEX da Mantle +87% WoW, US$ 15 mi → 28 mi (número da própria Mantle). Fora da janela por 22h59.",
+   "why": "Melhor gancho Fluxion do dia; serve para tip na edição de amanhã ou para o post próprio de hoje."
+  },
+  {
+   "url": "https://x.com/DinariGlobal/status/2118853664232374570",
+   "when_utc": "2026-11-06 23:50 UTC",
+   "pt": "Dinari: ANT entra onchain como dShare no mesmo dia em que começar a negociar; 724+ ações e ETFs onchain (número do próprio perfil).",
+   "why": "14h, 2h fora da janela. Mathias deixou o ângulo pronto se a mesa decidir esticar."
+  }
+ ],
+ "carryover": [],
+ "page": null,
+ "notes_pt": "Disparo avulso (fora da grade) pedido pelo Hadukem às 10:53; edição montada 11:15. Nada foi publicado como @Fluxion_network — só o Hadukem posta, pelos códigos CLARIM."
+}
