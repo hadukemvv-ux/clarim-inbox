@@ -102,8 +102,12 @@
  },
  "pending": [
   {
-   "pt": "Escolher a/b/c de E1-E2 e o post próprio (A/B/C). Sem escolha registrada até 14:15Z.",
+   "pt": "E1/E2 e o post próprio ficaram sem escolha no dia. Os dois tips são de 11:10Z e 03:03Z, então em 08/11 já estão fora da janela de 12h: o texto serve, mas como reply sai tarde — decisão do Hadukem se viram post ou se são descartados.",
    "owner": "hadukem"
+  },
+  {
+   "pt": "Página da edição (`artifacts/clarim-diario/2026-11-07-manha.md`) subida na origem no mesmo commit do fechamento; a branch local `agentes/bruna/edicao-07-11-manha` (commit be11e60) fica como cópia.",
+   "owner": "bruna"
   }
  ],
  "held": [
@@ -120,7 +124,69 @@
    "why": "14h, 2h fora da janela. Mathias deixou o ângulo pronto se a mesa decidir esticar."
   }
  ],
- "carryover": [],
+ "carryover": [
+  {
+   "url": "https://x.com/Mantle_Official/status/2118720409990533357",
+   "pt": "Volume de DEX da Mantle: US$ 15 mi → 28 mi, +87% WoW (número da própria Mantle, 06/11 15:01Z).",
+   "why": "Fora de janela para reply, mas número próprio da casa e ainda atual como base de post próprio — não depende de 12h."
+  }
+ ],
  "page": null,
- "notes_pt": "Disparo avulso (fora da grade) pedido pelo Hadukem às 10:53; edição montada 11:15. Nada foi publicado como @Fluxion_network — só o Hadukem posta, pelos códigos CLARIM."
+ "notes_pt": "Fechamento de 21:30: arquivo mesclado sobre o que a edição da manhã já tinha gravado (editions, style_rules, reporter_tips e held preservados). Reconstrução: reporter_eod montado a partir dos três packets de 10:58 Fortaleza; discarded_tips e quality_feedback escritos agora; carryover leva só o número da Mantle, que ainda vale como base de post próprio. Ficou de fora: o giveaway do WSOT (never-list) e o teaser de 10:00Z (reply, não edição). Nenhuma escolha do Hadukem foi registrada: o card clicável foi reenviado às 21:10, 20 min antes do fechamento, e ele não escolheu letra nem escreveu porquê — por isso `escolhas_log` vai com uma linha de fechamento e `page` continua null. A edição da manhã foi um disparo avulso pedido por ele às 10:53, fora da grade.",
+ "reporter_eod": {
+  "gleison": {
+   "packets": 1,
+   "rondas": "1 ronda avulsa (10:57-11:03), pedida no disparo único",
+   "entregue_at": "2026-11-07T13:58:00.000Z",
+   "tips": 2,
+   "resumo": "Bybit teaser WSOT 10:00Z (reply opportunity) + Mantle volume de DEX +87% WoW (held, base do post próprio A).",
+   "lacunas_declaradas": "Grove/CIAN/KiiChain sem leitura (handles errados, @cianglobal exit 2); busca do X sem login; menções da comunidade sem varredura."
+  },
+  "bruno": {
+   "packets": 1,
+   "rondas": "1 ronda avulsa (10:57-11:03)",
+   "entregue_at": "2026-11-07T13:58:00.000Z",
+   "tips": 1,
+   "resumo": "Bybit giveaway WSOT 07:59Z (fora pela never-list). MAG7 sem post próprio dentro de 12h: 16 contas lidas, o mais novo era Tesla de 06/11 15:02Z.",
+   "lacunas_declaradas": "Nenhum post próprio de MAG7 dentro da janela; @cianglobal exit 2."
+  },
+  "mathias": {
+   "packets": 1,
+   "rondas": "1 ronda avulsa (10:57-11:03)",
+   "entregue_at": "2026-11-07T13:58:00.000Z",
+   "tips": 1,
+   "resumo": "Dinari 06/11 23:50Z: ANT entra onchain como dShare (held, 2h fora da janela). Zero post de xStocks fora da Mantle em 12h.",
+   "lacunas_declaradas": "Ondo/Backed/Swarm parados há meses; tZERO sem post legível."
+  },
+  "mesa": "Os três entregaram 1 packet cada, todos no mesmo minuto (13:58Z / 10:58 Fortaleza), com lacuna declarada e sem URL inventada. Beats secos: nenhum post de parceiro core, MAG7 ou xStocks fora da Mantle dentro de 12h."
+ },
+ "escolhas_log": [
+  {
+   "tipo": "fechamento",
+   "escolha": "nenhuma",
+   "pt": "O card clicável (E1 a/b/c, E2 a/b/c, post próprio A/B/C) foi reenviado no DM às 21:10 Fortaleza, ~20 min antes deste fechamento. Até 21:30 nenhuma letra foi escolhida e nenhum porquê foi escrito.",
+   "porque": "porquê não informado"
+  }
+ ],
+ "quality_feedback": [
+  {
+   "pt": "Beats vieram secos e os três declararam a lacuna em vez de inventar — correto. Repetição a corrigir: @cianglobal aparece com exit 2 em dois repórteres pelo segundo dia; ou se corrige o handle, ou se tira da varredura.",
+   "para": [
+    "gleison",
+    "bruno"
+   ]
+  }
+ ],
+ "discarded_tips": [
+  {
+   "url": "https://x.com/Bybit_Official/status/2118976499176837401",
+   "pt": "Giveaway do WSOT 2026 (07:59Z, 500 USDT).",
+   "why": "Never-list: giveaway não entra na edição."
+  },
+  {
+   "url": "https://x.com/Bybit_Official/status/2119006950616715507",
+   "pt": "Teaser do WSOT 2026 (10:00Z, sem texto).",
+   "why": "Oportunidade de reply no dia, não material de edição."
+  }
+ ]
 }
