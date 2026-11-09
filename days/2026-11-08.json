@@ -1,244 +1,364 @@
 {
-  "date": "2026-11-08",
-  "editions": [
+ "date": "2026-11-08",
+ "editions": [
+  {
+   "slot": "manha",
+   "createdAt": "2026-11-08T12:00:00.000Z",
+   "source": "Clarim Diário dom 08/11 — varredura própria no X via xread em 28 contas, janela 08/11 00:00Z→12:00Z. Nenhum packet de repórter entrou nesta edição: as rondas de domingo não entregaram antes das 09:00 (lacuna declarada).",
+   "window": {
+    "from": "2026-11-08T00:00:00Z",
+    "to": "2026-11-08T12:00:00Z"
+   },
+   "replies": [
     {
-      "slot": "manha",
-      "createdAt": "2026-11-08T12:00:00.000Z",
-      "source": "Clarim Diário dom 08/11 — varredura própria no X via xread em 28 contas, janela 08/11 00:00Z→12:00Z. Nenhum packet de repórter entrou nesta edição: as rondas de domingo não entregaram antes das 09:00 (lacuna declarada).",
-      "window": {
-        "from": "2026-11-08T00:00:00Z",
-        "to": "2026-11-08T12:00:00Z"
-      },
-      "replies": [
-        {
-          "code": "E1",
-          "handle": "@lookonchain",
-          "when_utc": "2026-11-08 10:00 UTC",
-          "url": "https://x.com/lookonchain/status/2119369461614653617",
-          "pt": "Hacker vende ETH pra comprar ZEC: 1.670 ETH (US$ 3,73 mi) saíram do TornadoCash em 20h, passaram pela Hyperliquid e viraram 2.959 ZEC (US$ 3,73 mi). Números da própria Lookonchain. Melhor oportunidade do dia (225 likes, 70 replies).",
-          "a": "washed it, then spent the whole bag on the shiniest thing in the room. poetic",
-          "b": "3.7m through two venues in 20 hours and the book never flinched. depth is the real infra — it's the only reason size can move at any hour on @Fluxion_network",
-          "c": "smart money that ends up in the loudest trade of the week is just lucky money"
-        },
-        {
-          "code": "E2",
-          "handle": "@Bybit_Official",
-          "when_utc": "2026-11-08 02:00 UTC",
-          "url": "https://x.com/Bybit_Official/status/2119248542665433162",
-          "pt": "Post-meme da Bybit sobre 'esperar sinais pra saber se deve operar'. Feito pra reply: é pergunta implícita e o engajamento é alto pro tamanho da conta.",
-          "a": "the signs: one green candle, a twitter poll, and your group chat agreeing for once",
-          "b": "waiting for an omen is what you do when the venue can't quote you size. @Fluxion_network on @Mantle_Official just shows the depth and lets atomic rfq take it",
-          "c": "no sign is also a sign. usually the expensive one"
-        },
-        {
-          "code": "E3",
-          "handle": "@lookonchain",
-          "when_utc": "2026-11-08 01:40 UTC",
-          "url": "https://x.com/lookonchain/status/2119243679823212614",
-          "pt": "Carteira nova recebe 3.100 ETH do TornadoCash, vende por 6,92 mi USDC e abre 20x long em BTC e 20x short em ETH ao mesmo tempo. Post com pouco engajamento — reply aparece fácil.",
-          "a": "20x long and 20x short in the same wallet. that's not a thesis, that's a coin flip with two receipts",
-          "b": "two 12.8m legs opened in one go and the venue took both sides without breaking. that's what a real book looks like at 2am",
-          "c": "long btc short eth at 20x is just leverage cosplaying as a market view"
-        },
-        {
-          "code": "E4",
-          "handle": "@Bybit_Official",
-          "when_utc": "2026-11-08 06:01 UTC",
-          "url": "https://x.com/Bybit_Official/status/2119309190497718683",
-          "pt": "Bybit chamando pro live de amanhã sobre montar squad pro WSOT 2026 (iPhones e red packets). Conta parceira, gancho de comunidade.",
-          "a": "a winning squad is 4 people who all believe they're the captain and one who actually reads the rules",
-          "b": "squads and venues fail the same way: vibes, no execution. that's why our side of the @Alpha_Bybit line runs through the @Fluxion_network book — the fills are the proof",
-          "c": "every wsot squad has one guy who's only there for the red packets"
-        },
-        {
-          "code": "E5",
-          "handle": "@Bybit_Official",
-          "when_utc": "2026-11-08 08:00 UTC",
-          "url": "https://x.com/Bybit_Official/status/2119339139212480696",
-          "pt": "Post curto de posicionamento da Bybit: 'the best moves are made with confidence'. Serve pra reply de provocação sem falar de produto.",
-          "a": "confidence is just leverage with good posture",
-          "b": "confidence is cheaper when you can see the book before you click. a listing is not a market — depth and fills are",
-          "c": "the best moves are the ones you can still explain to yourself at 3am"
-        }
-      ],
-      "own_posts": [
-        {
-          "code": "M1",
-          "source_url": "https://x.com/Mantle_Official/status/2118720409990533357",
-          "source_when": "2026-11-06 15:01 UTC",
-          "text": "mantle dex volume: $15m to $28m in one week. +87%.\n\nnot a campaign. capital finding pools that actually hold it.\nfluxion runs on that same rail — where the pools are is where the fills are.",
-          "pt": "Número da própria Mantle, verificado no post original. Já estava em carryover porque saiu da janela de reply, mas como post próprio segue atual."
-        },
-        {
-          "code": "M2",
-          "source_url": null,
-          "source_when": null,
-          "text": "anyone can list a token.\n\nhard part is fills at 3am, size through atomic rfq, and a pool that's still deep when the news drops.\na listing is not a market. liquidity and execution are.",
-          "pt": "Post de posicionamento puro, sem número. Usa a mensagem central do brief sem o bordão de abertura."
-        },
-        {
-          "code": "M3",
-          "source_url": null,
-          "source_when": null,
-          "text": "sunday morning and the only thing on a schedule is brunch.\nxstocks on @Mantle_Official trade straight through on @Fluxion_network — same tickers, no monday queue.",
-          "pt": "Gancho de domingo com xStocks; sem número, sem previsão. Vale pro fim de semana."
-        }
-      ],
-      "memes": [
-        {
-          "code": "DMM1",
-          "format": "expectativa vs realidade, gato sentado esperando o sino",
-          "example": "https://x.com/Bybit_Official/status/2119248542665433162",
-          "caption": "waiting for the market to open like it's not already 3am somewhere",
-          "scene": "Fluxion mascot — glossy black vinyl-toy cat, three spiky ears, white swirl on the forehead — sitting cross-legged in a dark room lit only by the cyan glow of its visor, staring at a wall clock with no hands. Flame-tipped tail flickers like a candle. Photo-real, low light, shallow depth of field."
-        },
-        {
-          "code": "DMM2",
-          "format": "this is fine: sala em chamas, personagem sereno",
-          "example": null,
-          "caption": "everything is fine. pool is deep, fills are there, i checked twice",
-          "scene": "Fluxion mascot at a desk with a mug, calm cyan eyes on the visor, room behind it filled with slow glowing purple nebula smoke instead of fire. Glowing nebula belly pulses softly. Photo-real, dramatic rim light, tiny text."
-        }
-      ]
+     "code": "E1",
+     "handle": "@lookonchain",
+     "when_utc": "2026-11-08 10:00 UTC",
+     "url": "https://x.com/lookonchain/status/2119369461614653617",
+     "pt": "Hacker vende ETH pra comprar ZEC: 1.670 ETH (US$ 3,73 mi) saíram do TornadoCash em 20h, passaram pela Hyperliquid e viraram 2.959 ZEC (US$ 3,73 mi). Números da própria Lookonchain. Melhor oportunidade do dia (225 likes, 70 replies).",
+     "a": "washed it, then spent the whole bag on the shiniest thing in the room. poetic",
+     "b": "3.7m through two venues in 20 hours and the book never flinched. depth is the real infra — it's the only reason size can move at any hour on @Fluxion_network",
+     "c": "smart money that ends up in the loudest trade of the week is just lucky money"
+    },
+    {
+     "code": "E2",
+     "handle": "@Bybit_Official",
+     "when_utc": "2026-11-08 02:00 UTC",
+     "url": "https://x.com/Bybit_Official/status/2119248542665433162",
+     "pt": "Post-meme da Bybit sobre 'esperar sinais pra saber se deve operar'. Feito pra reply: é pergunta implícita e o engajamento é alto pro tamanho da conta.",
+     "a": "the signs: one green candle, a twitter poll, and your group chat agreeing for once",
+     "b": "waiting for an omen is what you do when the venue can't quote you size. @Fluxion_network on @Mantle_Official just shows the depth and lets atomic rfq take it",
+     "c": "no sign is also a sign. usually the expensive one"
+    },
+    {
+     "code": "E3",
+     "handle": "@lookonchain",
+     "when_utc": "2026-11-08 01:40 UTC",
+     "url": "https://x.com/lookonchain/status/2119243679823212614",
+     "pt": "Carteira nova recebe 3.100 ETH do TornadoCash, vende por 6,92 mi USDC e abre 20x long em BTC e 20x short em ETH ao mesmo tempo. Post com pouco engajamento — reply aparece fácil.",
+     "a": "20x long and 20x short in the same wallet. that's not a thesis, that's a coin flip with two receipts",
+     "b": "two 12.8m legs opened in one go and the venue took both sides without breaking. that's what a real book looks like at 2am",
+     "c": "long btc short eth at 20x is just leverage cosplaying as a market view"
+    },
+    {
+     "code": "E4",
+     "handle": "@Bybit_Official",
+     "when_utc": "2026-11-08 06:01 UTC",
+     "url": "https://x.com/Bybit_Official/status/2119309190497718683",
+     "pt": "Bybit chamando pro live de amanhã sobre montar squad pro WSOT 2026 (iPhones e red packets). Conta parceira, gancho de comunidade.",
+     "a": "a winning squad is 4 people who all believe they're the captain and one who actually reads the rules",
+     "b": "squads and venues fail the same way: vibes, no execution. that's why our side of the @Alpha_Bybit line runs through the @Fluxion_network book — the fills are the proof",
+     "c": "every wsot squad has one guy who's only there for the red packets"
+    },
+    {
+     "code": "E5",
+     "handle": "@Bybit_Official",
+     "when_utc": "2026-11-08 08:00 UTC",
+     "url": "https://x.com/Bybit_Official/status/2119339139212480696",
+     "pt": "Post curto de posicionamento da Bybit: 'the best moves are made with confidence'. Serve pra reply de provocação sem falar de produto.",
+     "a": "confidence is just leverage with good posture",
+     "b": "confidence is cheaper when you can see the book before you click. a listing is not a market — depth and fills are",
+     "c": "the best moves are the ones you can still explain to yourself at 3am"
     }
-  ],
-  "style_rules": {
-    "anti_dup_urls_2026-11-08": {
-      "pt": "URLs da edição de 08/11 não voltam em nenhuma outra edição do mesmo dia.",
-      "urls": [
-        "https://x.com/lookonchain/status/2119369461614653617",
-        "https://x.com/Bybit_Official/status/2119248542665433162",
-        "https://x.com/lookonchain/status/2119243679823212614",
-        "https://x.com/Bybit_Official/status/2119309190497718683",
-        "https://x.com/Bybit_Official/status/2119339139212480696"
-      ]
+   ],
+   "own_posts": [
+    {
+     "code": "M1",
+     "source_url": "https://x.com/Mantle_Official/status/2118720409990533357",
+     "source_when": "2026-11-06 15:01 UTC",
+     "text": "mantle dex volume: $15m to $28m in one week. +87%.\n\nnot a campaign. capital finding pools that actually hold it.\nfluxion runs on that same rail — where the pools are is where the fills are.",
+     "pt": "Número da própria Mantle, verificado no post original. Já estava em carryover porque saiu da janela de reply, mas como post próprio segue atual."
     },
-    "denylist_07_11": {
-      "pt": "Os dois do WatcherGuru de 07/11 (NVDA chips China, NVDA Jensen) seguem fora.",
-      "source": "days/2026-11-07.json"
+    {
+     "code": "M2",
+     "source_url": null,
+     "source_when": null,
+     "text": "anyone can list a token.\n\nhard part is fills at 3am, size through atomic rfq, and a pool that's still deep when the news drops.\na listing is not a market. liquidity and execution are.",
+     "pt": "Post de posicionamento puro, sem número. Usa a mensagem central do brief sem o bordão de abertura."
     },
-    "variedade_b": {
-      "pt": "Ângulos (b) desta edição: profundidade de book, cotação/rfq, liquidez em duas pontas, parceria Alpha_Bybit, 'listing não é mercado'. O bordão 'a bolsa fecha, onchain continua' não foi usado como abertura em nenhuma."
+    {
+     "code": "M3",
+     "source_url": null,
+     "source_when": null,
+     "text": "sunday morning and the only thing on a schedule is brunch.\nxstocks on @Mantle_Official trade straight through on @Fluxion_network — same tickers, no monday queue.",
+     "pt": "Gancho de domingo com xStocks; sem número, sem previsão. Vale pro fim de semana."
     }
-  },
-  "reporter_tips": [],
-  "discarded_tips": [
+   ],
+   "memes": [
     {
-      "url": "https://x.com/WatcherGuru/status/2119137427587821891",
-      "pt": "Musk/California/Texas (SpaceX e TSLA) — 07/11 19:35Z, fora da janela de 12h."
+     "code": "DMM1",
+     "format": "expectativa vs realidade, gato sentado esperando o sino",
+     "example": "https://x.com/Bybit_Official/status/2119248542665433162",
+     "caption": "waiting for the market to open like it's not already 3am somewhere",
+     "scene": "Fluxion mascot — glossy black vinyl-toy cat, three spiky ears, white swirl on the forehead — sitting cross-legged in a dark room lit only by the cyan glow of its visor, staring at a wall clock with no hands. Flame-tipped tail flickers like a candle. Photo-real, low light, shallow depth of field."
     },
     {
-      "url": "https://x.com/Bybit_Official/status/2119339139224961110",
-      "pt": "Bybit Card cashback — anúncio de produto sem gancho de conversa; ficou de fora das 5 melhores."
-    },
-    {
-      "url": "https://x.com/Securitize/status/2118826737488253257",
-      "pt": "Securitize (dois posts) — fora da janela de 12h."
-    },
-    {
-      "url": "https://x.com/SuperstateInc/status/2118753049686765610",
-      "pt": "Superstate, US$ 8,6 bi de roubo em 2026 — fora da janela e número de terceiro sem fonte primária na varredura."
-    },
-    {
-      "url": "https://x.com/SkyEcosystem/status/2118697883121914148",
-      "pt": "Sky/Galaxy US$ 100 mi em sUSDS — fora da janela de 12h."
+     "code": "DMM2",
+     "format": "this is fine: sala em chamas, personagem sereno",
+     "example": null,
+     "caption": "everything is fine. pool is deep, fills are there, i checked twice",
+     "scene": "Fluxion mascot at a desk with a mug, calm cyan eyes on the visor, room behind it filled with slow glowing purple nebula smoke instead of fire. Glowing nebula belly pulses softly. Photo-real, dramatic rim light, tiny text."
     }
-  ],
-  "pending": [
-    {
-      "pt": "E1/E2 e o post próprio de 07/11 ficaram sem escolha do Hadukem. Os dois tips já saíram da janela de 12h: o texto serve, mas como reply sai tarde — decidir se viram post ou descartar.",
-      "owner": "hadukem"
-    },
-    {
-      "pt": "Nenhum packet de repórter chegou para 08/11 antes das 09:00; a edição saiu só com a minha varredura. Se as rondas de domingo entregarem, os tips entram no fecho.",
-      "owner": "bruna"
-    }
-  ],
-  "held": [],
-  "carryover": [
-    {
-      "url": "https://x.com/Mantle_Official/status/2118720409990533357",
-      "pt": "Volume de DEX da Mantle +87% WoW ($15 mi→$28 mi) — usado hoje como post próprio M1; sai do carryover quando o Hadukem decidir."
-    }
-  ],
-  "reporter_eod": [],
-  "escolhas_log": [],
-  "quality_feedback": [
-    {
-      "para": [
-        "gleison",
-        "bruno",
-        "mathias"
-      ],
-      "pt": "Domingo sem packet até as 09:00. Sem repreensão — a grade de domingo é mais leve — mas a edição saiu só da varredura da mesa: o beat de parceiros (Bybit, Mantle, xStocks, Grove, Sky, KiiChain) ficou descoberto."
-    }
-  ],
-  "page": {
-    "date": "2026-11-08",
-    "edition": "manha",
-    "status": "aguardando escolha do Hadukem",
-    "note_pt": "Cinco blocos de reply (E1–E5) com link do post de destino e as três opções. Escolhe pelo código; ninguém da mesa posta como @Fluxion_network.",
-    "replies": [
-      {
-        "code": "E1",
-        "link": "https://x.com/lookonchain/status/2119369461614653617",
-        "a": "washed it, then spent the whole bag on the shiniest thing in the room. poetic",
-        "b": "3.7m through two venues in 20 hours and the book never flinched. depth is the real infra — it's the only reason size can move at any hour on @Fluxion_network",
-        "c": "smart money that ends up in the loudest trade of the week is just lucky money"
-      },
-      {
-        "code": "E2",
-        "link": "https://x.com/Bybit_Official/status/2119248542665433162",
-        "a": "the signs: one green candle, a twitter poll, and your group chat agreeing for once",
-        "b": "waiting for an omen is what you do when the venue can't quote you size. @Fluxion_network on @Mantle_Official just shows the depth and lets atomic rfq take it",
-        "c": "no sign is also a sign. usually the expensive one"
-      },
-      {
-        "code": "E3",
-        "link": "https://x.com/lookonchain/status/2119243679823212614",
-        "a": "20x long and 20x short in the same wallet. that's not a thesis, that's a coin flip with two receipts",
-        "b": "two 12.8m legs opened in one go and the venue took both sides without breaking. that's what a real book looks like at 2am",
-        "c": "long btc short eth at 20x is just leverage cosplaying as a market view"
-      },
-      {
-        "code": "E4",
-        "link": "https://x.com/Bybit_Official/status/2119309190497718683",
-        "a": "a winning squad is 4 people who all believe they're the captain and one who actually reads the rules",
-        "b": "squads and venues fail the same way: vibes, no execution. that's why our side of the @Alpha_Bybit line runs through the @Fluxion_network book — the fills are the proof",
-        "c": "every wsot squad has one guy who's only there for the red packets"
-      },
-      {
-        "code": "E5",
-        "link": "https://x.com/Bybit_Official/status/2119339139212480696",
-        "a": "confidence is just leverage with good posture",
-        "b": "confidence is cheaper when you can see the book before you click. a listing is not a market — depth and fills are",
-        "c": "the best moves are the ones you can still explain to yourself at 3am"
-      }
-    ],
-    "posts": [
-      {
-        "code": "M1",
-        "text": "mantle dex volume: $15m to $28m in one week. +87%.\n\nnot a campaign. capital finding pools that actually hold it.\nfluxion runs on that same rail — where the pools are is where the fills are.",
-        "src": "https://x.com/Mantle_Official/status/2118720409990533357"
-      },
-      {
-        "code": "M2",
-        "text": "anyone can list a token.\n\nhard part is fills at 3am, size through atomic rfq, and a pool that's still deep when the news drops.\na listing is not a market. liquidity and execution are."
-      },
-      {
-        "code": "M3",
-        "text": "sunday morning and the only thing on a schedule is brunch.\nxstocks on @Mantle_Official trade straight through on @Fluxion_network — same tickers, no monday queue."
-      }
-    ],
-    "memes": [
-      {
-        "code": "DMM1",
-        "caption": "waiting for the market to open like it's not already 3am somewhere"
-      },
-      {
-        "code": "DMM2",
-        "caption": "everything is fine. pool is deep, fills are there, i checked twice"
-      }
-    ]
+   ]
   }
+ ],
+ "style_rules": {
+  "anti_dup_urls_2026-11-08": {
+   "pt": "URLs da edição de 08/11 não voltam em nenhuma outra edição do mesmo dia.",
+   "urls": [
+    "https://x.com/lookonchain/status/2119369461614653617",
+    "https://x.com/Bybit_Official/status/2119248542665433162",
+    "https://x.com/lookonchain/status/2119243679823212614",
+    "https://x.com/Bybit_Official/status/2119309190497718683",
+    "https://x.com/Bybit_Official/status/2119339139212480696"
+   ]
+  },
+  "denylist_07_11": {
+   "pt": "Os dois do WatcherGuru de 07/11 (NVDA chips China, NVDA Jensen) seguem fora.",
+   "source": "days/2026-11-07.json"
+  },
+  "variedade_b": {
+   "pt": "Ângulos (b) desta edição: profundidade de book, cotação/rfq, liquidez em duas pontas, parceria Alpha_Bybit, 'listing não é mercado'. O bordão 'a bolsa fecha, onchain continua' não foi usado como abertura em nenhuma."
+  }
+ },
+ "reporter_tips": [],
+ "discarded_tips": [
+  {
+   "url": "https://x.com/WatcherGuru/status/2119137427587821891",
+   "pt": "Musk/California/Texas (SpaceX e TSLA) — 07/11 19:35Z, fora da janela de 12h."
+  },
+  {
+   "url": "https://x.com/Bybit_Official/status/2119339139224961110",
+   "pt": "Bybit Card cashback — anúncio de produto sem gancho de conversa; ficou de fora das 5 melhores."
+  },
+  {
+   "url": "https://x.com/Securitize/status/2118826737488253257",
+   "pt": "Securitize (dois posts) — fora da janela de 12h."
+  },
+  {
+   "url": "https://x.com/SuperstateInc/status/2118753049686765610",
+   "pt": "Superstate, US$ 8,6 bi de roubo em 2026 — fora da janela e número de terceiro sem fonte primária na varredura."
+  },
+  {
+   "url": "https://x.com/SkyEcosystem/status/2118697883121914148",
+   "pt": "Sky/Galaxy US$ 100 mi em sUSDS — fora da janela de 12h."
+  },
+  {
+   "url": null,
+   "pt": "Dois posts da @RobinhoodApp no fim de semana (07/11 \"now that's an upgrade\"; 08/11 \"his biggest board yet\") — ad e engajamento, sem ticker, número ou dado.",
+   "why": "Sem substância, e o beat tem ordem de não engajar promo própria da Robinhood. Sem id de status no log do repórter, então não há link para registrar."
+  }
+ ],
+ "pending": [
+  {
+   "pt": "E1–E5, M1–M3 e DMM1–DMM2 do domingo ficaram sem escolha. As cinco replies são de 01:40Z a 10:00Z de 08/11, então em 09/11 já estão fora da janela de 12h: servem como post, não como reply — decidir se descarta.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "Edição de segunda 09/11 às 08:00 (Weekend Resume) já com material verificado: par Dinari/Anthropic como furo, Superstate para a opção de segurança, Mantle +87% com texto novo, e os ganchos leves da tarde (Bybit Estocolmo, enquete Bybit, Microsoft/Mercedes F1).",
+   "owner": "bruna"
+  },
+  {
+   "pt": "PR #58 do empresa-ops (log de 07/11) segue aberto: a aprovação do merge expirou em 24h sem decisão. Head `ac2f7fc`, +34/−0. Não repito o pedido; fica para o Hadukem decidir.",
+   "owner": "hadukem"
+  }
+ ],
+ "held": [],
+ "carryover": [
+  {
+   "url": "https://x.com/DinariGlobal/status/2118853664232374570",
+   "pt": "Dinari: Anthropic onchain como dShare no dia em que ANT começar a negociar (06/11 23:50Z).",
+   "why": "Furo da edição de segunda 08:00; a copy usa o tema (listagem saindo no dia do evento), sem prometer jurisdição."
+  },
+  {
+   "url": "https://x.com/DinariGlobal/status/2118813337199018332",
+   "pt": "\"Anthropic planeja IPO antes do Thanksgiving a US$ 1,5 tri, diz o FT\" (06/11 21:10Z, 5.719 likes).",
+   "why": "É o alcance da história e o par do tip acima. Número do FT, atribuído, sem projeção nossa."
+  },
+  {
+   "url": "https://x.com/SuperstateInc/status/2118753049686765610",
+   "pt": "Roubo de cripto em recorde de US$ 8,6 bi em 2026 até outubro (06/11 17:11Z).",
+   "why": "Rende a opção de segurança: ativo bearer x ação tokenizada com registro em transfer agent, sem falar de preço."
+  },
+  {
+   "url": "https://x.com/Mantle_Official/status/2118720409990533357",
+   "pt": "Volume de DEX da Mantle +87% WoW, US$ 15 mi → 28 mi (06/11 15:01Z).",
+   "why": "Número próprio e ainda atual, mas já foi opção de post no domingo (M1): se voltar, precisa de texto novo, sem repetir a frase."
+  },
+  {
+   "url": "https://x.com/Bybit_Official/status/2119460187018764751",
+   "pt": "Bybit no Aberto de Estocolmo, 16:01Z — ativação IRL de parceiro.",
+   "why": "Reply leve para a edição de segunda, sem preço e sem notícia dura."
+  },
+  {
+   "url": "https://x.com/Bybit_Official/status/2119520079826063616",
+   "pt": "Enquete da Bybit (\"sua jornada financeira em três palavras\"), 19:59Z.",
+   "why": "Gancho de reply leve para a voz Fluxion; não é notícia."
+  },
+  {
+   "url": "https://x.com/Microsoft/status/2119526837751857312",
+   "pt": "Microsoft celebra a Mercedes-AMG F1 campeã de construtores de 2026, 20:25Z.",
+   "why": "Único post fresco do MAG7 no domingo; gancho leve e positivo para a edição de segunda."
+  }
+ ],
+ "reporter_eod": {
+  "gleison": {
+   "packets": 2,
+   "rondas": "15:00 (janela 15:00Z→18:05Z) e 18:00 (18:05Z→22:12Z)",
+   "tips": [
+    {
+     "url": "https://x.com/Bybit_Official/status/2119460187018764751",
+     "pt": "Bybit em quadra no Aberto de Estocolmo (merch, fan booth, VIP box), 16:01Z — ativação IRL de parceiro.",
+     "status": "candidato a reply leve na edição de segunda [WR]"
+    },
+    {
+     "url": "https://x.com/Bybit_Official/status/2119520079826063616",
+     "pt": "Bybit abre enquete de comunidade (\"sua jornada financeira em três palavras\"), 19:59Z, 26 replies.",
+     "status": "reply leve, sem notícia dura"
+    }
+   ],
+   "resumo": "Duas rondas, dois tips, os dois da Bybit e nenhum dentro da edição da manhã (que já tinha saído).",
+   "lacunas_declaradas": "Sky, KiiChain, Grove e CIAN não relidos nas duas rondas (zerados desde 06/11).",
+   "log": "clarim/logs/gleison/2026-11-08.md, PR #66"
+  },
+  "bruno": {
+   "packets": 1,
+   "rondas": "10:30 (seca) e 17:30 (1 tip)",
+   "tips": [
+    {
+     "url": "https://x.com/Microsoft/status/2119526837751857312",
+     "pt": "Microsoft celebra a Mercedes-AMG F1 campeã de construtores de 2026, 20:25Z — parceria de marca do MAG7, gancho leve e positivo.",
+     "status": "candidato a gancho leve na edição de segunda"
+    }
+   ],
+   "resumo": "Ronda das 10:30 seca (MAG7 mudo no domingo); a das 17:30 achou o post da Microsoft de 23 minutos antes.",
+   "lacunas_declaradas": "MAG7 inteiro mudo no domingo, exceto Microsoft; Apple com feed vazio.",
+   "log": "agentes/bruno/log-2026-11-08"
+  },
+  "mathias": {
+   "packets": 1,
+   "rondas": "Weekend Resume, domingo 18:40 (janela sexta 21:00Z → domingo 21:33Z)",
+   "tips": [
+    {
+     "url": "https://x.com/DinariGlobal/status/2118853664232374570",
+     "pt": "Dinari: Anthropic vai onchain como dShare no mesmo dia em que ANT começar a negociar (06/11 23:50Z).",
+     "status": "furo da edição de segunda, conferido por mim no xread"
+    },
+    {
+     "url": "https://x.com/DinariGlobal/status/2118813337199018332",
+     "pt": "\"Anthropic planeja IPO antes do Thanksgiving a US$ 1,5 tri, diz o FT\" (06/11 21:10Z, 5.719 likes) — o alcance da história.",
+     "status": "par do tip acima; número do FT, vai atribuído"
+    },
+    {
+     "url": "https://x.com/Mantle_Official/status/2118720409990533357",
+     "pt": "Volume de DEX da Mantle +87% WoW, US$ 15 mi → 28 mi (06/11 15:01Z).",
+     "status": "já foi opção de post próprio (M1) no domingo; volta com texto novo"
+    },
+    {
+     "url": "https://x.com/SuperstateInc/status/2118753049686765610",
+     "pt": "Roubo de cripto em recorde de US$ 8,6 bi em 2026 até outubro (06/11 17:11Z) — ângulo ativo bearer x ação tokenizada com transfer agent.",
+     "status": "opção b/c de segurança, sem falar de preço"
+    }
+   ],
+   "resumo": "Os 4 tips foram conferidos por mim, um por um, no xread às 19:20 (link exato, texto e números). Viram a edição de segunda às 08:00.",
+   "lacunas_declaradas": "xStocks fora da Mantle mudo desde sexta; Robinhood postou nos dois dias mas é ad/engajamento sem ticker nem número.",
+   "log": "clarim/logs/mathias/2026-11-08.md"
+  },
+  "mesa": "Domingo invertido em relação a sábado: a edição da manhã saiu só da minha varredura (nenhum packet antes das 09:00) e os repórteres entregaram à tarde — Gleison 2 packets, Bruno 1 tip, Mathias o Weekend Resume com 4 tips. Nada disso entrou na edição de domingo; tudo está no carryover para a de segunda, às 08:00."
+ },
+ "escolhas_log": [
+  {
+   "tipo": "fechamento",
+   "escolha": "nenhuma",
+   "pt": "Card de escolhas do domingo (E1–E5, M1–M3, DMM1–DMM2) entregue no DM no formato corrigido — letra uma por linha e campo de porquê por item. Até 21:30 nenhuma letra foi marcada e nenhum porquê foi escrito.",
+   "porque": "porquê não informado"
+  }
+ ],
+ "quality_feedback": [
+  {
+   "para": [
+    "gleison",
+    "bruno",
+    "mathias"
+   ],
+   "pt": "Domingo com a edição já fechada às 09:10 e as rondas chegando à tarde: funcionou como cobertura, mas não serve para a edição da manhã. Quem entrega depois das 09:00 entrega para o dia seguinte.",
+   "dia": "2026-11-08"
+  },
+  {
+   "para": [
+    "gleison"
+   ],
+   "pt": "Sky, KiiChain, Grove e CIAN ficaram sem releitura nas duas rondas de hoje, e já vinham zerados desde 06/11. Terceiro dia sem olhar quatro contas do próprio beat.",
+   "dia": "2026-11-08"
+  }
+ ],
+ "page": {
+  "date": "2026-11-08",
+  "edition": "manha",
+  "status": "aguardando escolha do Hadukem",
+  "note_pt": "Cinco blocos de reply (E1–E5) com link do post de destino e as três opções. Escolhe pelo código; ninguém da mesa posta como @Fluxion_network.",
+  "replies": [
+   {
+    "code": "E1",
+    "link": "https://x.com/lookonchain/status/2119369461614653617",
+    "a": "washed it, then spent the whole bag on the shiniest thing in the room. poetic",
+    "b": "3.7m through two venues in 20 hours and the book never flinched. depth is the real infra — it's the only reason size can move at any hour on @Fluxion_network",
+    "c": "smart money that ends up in the loudest trade of the week is just lucky money"
+   },
+   {
+    "code": "E2",
+    "link": "https://x.com/Bybit_Official/status/2119248542665433162",
+    "a": "the signs: one green candle, a twitter poll, and your group chat agreeing for once",
+    "b": "waiting for an omen is what you do when the venue can't quote you size. @Fluxion_network on @Mantle_Official just shows the depth and lets atomic rfq take it",
+    "c": "no sign is also a sign. usually the expensive one"
+   },
+   {
+    "code": "E3",
+    "link": "https://x.com/lookonchain/status/2119243679823212614",
+    "a": "20x long and 20x short in the same wallet. that's not a thesis, that's a coin flip with two receipts",
+    "b": "two 12.8m legs opened in one go and the venue took both sides without breaking. that's what a real book looks like at 2am",
+    "c": "long btc short eth at 20x is just leverage cosplaying as a market view"
+   },
+   {
+    "code": "E4",
+    "link": "https://x.com/Bybit_Official/status/2119309190497718683",
+    "a": "a winning squad is 4 people who all believe they're the captain and one who actually reads the rules",
+    "b": "squads and venues fail the same way: vibes, no execution. that's why our side of the @Alpha_Bybit line runs through the @Fluxion_network book — the fills are the proof",
+    "c": "every wsot squad has one guy who's only there for the red packets"
+   },
+   {
+    "code": "E5",
+    "link": "https://x.com/Bybit_Official/status/2119339139212480696",
+    "a": "confidence is just leverage with good posture",
+    "b": "confidence is cheaper when you can see the book before you click. a listing is not a market — depth and fills are",
+    "c": "the best moves are the ones you can still explain to yourself at 3am"
+   }
+  ],
+  "posts": [
+   {
+    "code": "M1",
+    "text": "mantle dex volume: $15m to $28m in one week. +87%.\n\nnot a campaign. capital finding pools that actually hold it.\nfluxion runs on that same rail — where the pools are is where the fills are.",
+    "src": "https://x.com/Mantle_Official/status/2118720409990533357"
+   },
+   {
+    "code": "M2",
+    "text": "anyone can list a token.\n\nhard part is fills at 3am, size through atomic rfq, and a pool that's still deep when the news drops.\na listing is not a market. liquidity and execution are."
+   },
+   {
+    "code": "M3",
+    "text": "sunday morning and the only thing on a schedule is brunch.\nxstocks on @Mantle_Official trade straight through on @Fluxion_network — same tickers, no monday queue."
+   }
+  ],
+  "memes": [
+   {
+    "code": "DMM1",
+    "caption": "waiting for the market to open like it's not already 3am somewhere"
+   },
+   {
+    "code": "DMM2",
+    "caption": "everything is fine. pool is deep, fills are there, i checked twice"
+   }
+  ]
+ },
+ "notes_pt": "Fechamento de 21:30: arquivo mesclado sobre a edição da manhã, que já estava gravada desde 09:10 (commit 92bb934) — `editions`, `style_rules`, `page` e `discarded_tips` preservados, e as listas só cresceram. Reconstrução: `reporter_eod` montado pelos logs dos três no empresa-ops (Gleison 2 packets à tarde, Bruno 1 tip às 17:30, Mathias o Weekend Resume às 18:40); `carryover` e `pending` reescritos com o material que vai para a edição de segunda às 08:00. Ficou de fora: as cinco replies do domingo não tiveram escolha e já saíram da janela de 12h — o texto serve como post, não como reply; os ads da Robinhood foram descartados por falta de substância. Nenhuma escolha do Hadukem no dia: `escolhas_log` foi com uma linha de fechamento e 'porquê não informado', e `page` continua como estava (aguardando escolha). @Fluxion_network não publicou nada em 08/11 — o último post segue sendo o de 06/11 13:30Z."
 }
