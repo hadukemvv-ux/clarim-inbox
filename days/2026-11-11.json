@@ -1,0 +1,171 @@
+{
+ "date": "2026-11-11",
+ "editions": [
+  {
+   "slot": "manha",
+   "hora_local": "09:03",
+   "janela_utc": "2026-11-11T00:03Z -> 2026-11-11T12:03Z",
+   "total_na_janela": 25,
+   "lacuna": "Sem posts dentro da janela de @Mantle_Official, @Alpha_Bybit, @grovedotfinance, @CIAN_protocol, @SkyEcosystem, @KiiChainio, @Securitize, @Superstate, @DefiLlama e @HesterPeirce. O ultimo post da Mantle e anterior a janela. Lacuna declarada.",
+   "codes": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "M1",
+    "M2",
+    "M3",
+    "DMM1",
+    "DMM2"
+   ],
+   "page_codes_gerados": 10
+  }
+ ],
+ "page": {
+  "status": "aguardando escolha do Hadukem (a/b/c ou nenhuma por item do bloco E; M e DMM aprovacao separada)",
+  "date": "2026-11-11",
+  "slot": "manha",
+  "items": [
+   {
+    "code": "E1",
+    "alvo": "@xStocksFi",
+    "link": "https://x.com/xStocksFi/status/2120437586468765750",
+    "pt": "xStocks tokenizou 200+ acoes listadas no Reino Unido e na UE via parceria com a GTN (LVMH, Rolls-Royce, HSBC, Airbus, SAP). E a noticia do nosso lado da casa na janela e sai do eixo EUA.",
+    "opcoes": {
+     "a": "rolls-royce onchain before my coffee even finished. what a timeline",
+     "b": "listing 200 names is the easy half. the other half is a book deep enough to fill them at 2am - thats the part we build for",
+     "c": "US capital markets were the warm-up round. europe just got the same treatment and nobody repriced their weekend yet"
+    }
+   },
+   {
+    "code": "E2",
+    "alvo": "@unusual_whales",
+    "link": "https://x.com/unusual_whales/status/2120331422850548202",
+    "pt": "Bancos da Anthropic preparam subir a avaliacao do IPO para US$ 1,5 trilhao ou mais, segundo o FT. E a escalada de ontem com numero novo; usado so como reply, com fonte atribuida (nao vai como post).",
+    "opcoes": {
+     "a": "1.5T before the first earnings call. confidence is a currency too i guess",
+     "b": "every repricing like this is a bet on who gets the upside early. queuing for an allocation vs hitting a book - different sports entirely",
+     "c": "a trillion-dollar number decided by bankers in a room at 1am. the market that never closes has opinions about that"
+    }
+   },
+   {
+    "code": "E3",
+    "alvo": "@Bybit_Official",
+    "link": "https://x.com/Bybit_Official/status/2120441401183797689",
+    "pt": "Fechamento do painel Agents on the Order Book no Web Summit Lisboa: fluxos de trading com IA que fiquem transparentes e auditaveis. Parceiro, e o angulo de execucao e o nosso.",
+    "opcoes": {
+     "a": "an AI agent trading your book and a human trading your book share one failure mode: nobody checked the fill",
+     "b": "agents need a book that answers in milliseconds, not a favour list. execution is the product, whatever writes the order",
+     "c": "everyone wants an AI agent until it routes through a pool with no depth. inspectable is the right word, ngl"
+    }
+   },
+   {
+    "code": "E4",
+    "alvo": "@lookonchain",
+    "link": "https://x.com/lookonchain/status/2120437276849340537",
+    "pt": "ZEC caiu abaixo de US$ 1.000 e um trader com long 10x de 18.000 ZEC (US$ 17,63 mi) esta com mais de US$ 2,8 mi de prejuizo e liquidacao em US$ 895,46. Puro prato de reply, sem conselho.",
+    "opcoes": {
+     "a": "down 2.8M and the liquidation line is a hundred dollars away. thats not a position thats a countdown",
+     "b": "10x on anything is also a bet on the venue being fast enough to save you. speed is the feature nobody checks",
+     "c": "every cycle someone discovers leverage has a timetable and it is never theirs"
+    }
+   },
+   {
+    "code": "E5",
+    "alvo": "@Bybit_Official",
+    "link": "https://x.com/Bybit_Official/status/2120486697980866754",
+    "pt": "Bybit lancou vouchers de protecao para Copy Trading, cobrindo ate 100 USDT de perda elegivel. Post de 3 minutos atras: melhor janela de reply do bloco e o tema e risco, nao promocao.",
+    "opcoes": {
+     "a": "insurance for copy trading is basically paying someone to hold your hand while you press the button. respect tho",
+     "b": "cover for losses and cover for bad fills are different products. the second one is just called liquidity",
+     "c": "we now insure the copying but not the decision to copy. the interesting risk is the one nobody sells cover for"
+    }
+   }
+  ],
+  "posts": [
+   {
+    "code": "M1",
+    "texto_en": "a listing is not a market.\n200+ uk and eu names just went onchain. the hard part starts now: depth behind 200 tickers at 3am, not a press release.",
+    "pt": "Fonte https://x.com/xStocksFi/status/2120437586468765750 (11/11 08:44Z) - o 200+ esta no proprio post. Por que agora: maior expansao da xStocks fora dos EUA e o argumento central da Fluxion, liquidez nao e listagem."
+   },
+   {
+    "code": "M2",
+    "texto_en": "everyone is shipping agents that trade.\nalmost nobody ships the receipt: which pool, what depth, what fill.\nexecution is the flex now.",
+    "pt": "Fonte https://x.com/Bybit_Official/status/2120441401183797689 - sem numero, posicionamento puro. Pega a onda de agentes do Web Summit sem virar promocao de parceiro."
+   },
+   {
+    "code": "M3",
+    "texto_en": "serious q for the timeline: its 3am and you want an equity.\ndo you want a quote you can actually hit, or a chart that looks alive?\nthe answer decides what you actually use.",
+    "pt": "Post sem numero, desenhado para puxar reply (o algoritmo premia resposta). Gancho 24/7 sem usar o bordao 'a bolsa fecha'."
+   }
+  ],
+  "memes": [
+   {
+    "code": "DMM1",
+    "formato_pt": "expanding brain em 4 paineis: 'checar o preco' / 'checar o preco as 3h' / 'checar 200 acoes UK as 3h' / 'checar liquidez'",
+    "exemplo": "https://knowyourmeme.com/memes/galaxy-brain",
+    "caption_en": "level 4 is the only one that pays",
+    "cena_en": "Four stacked panels, each brain glowing brighter. Fluxion mascot, glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes and a glowing nebula belly: panel 1 slouched with a phone, panel 2 sitting up in bed at 3am lit by the screen, panel 3 buried in a wall of 200 tiny tickers, panel 4 standing calm in front of a deep glowing order book, flame-tipped tail curled."
+   },
+   {
+    "code": "DMM2",
+    "formato_pt": "dois botoes com o gato suando: botao 1 'esperar o sino abrir', botao 2 'comprar as 3h da manha'",
+    "exemplo": "https://knowyourmeme.com/memes/drake-hotline-bling",
+    "caption_en": "one of these buttons has a closing time",
+    "cena_en": "Fluxion mascot, glossy black vinyl-toy cat with three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, nebula belly and a flame-tipped tail, one drop of sweat on the vinyl forehead, paw hovering between two giant glowing red buttons, dark room, single overhead light."
+   }
+  ]
+ },
+ "style_rules": {
+  "variedade_b": {
+   "pt": "Angulos (b) variados nesta edicao: profundidade de book para 200 tickers, fila de alocacao vs book com preco hitavel, agente precisa de book em milissegundos, velocidade do venue como feature esquecida, cobertura de perda vs cobertura de fill ruim. O bordao 'a bolsa fecha, onchain continua' nao abriu nenhuma reply."
+  },
+  "denylist": {
+   "pt": "NVDA/WatcherGuru continua fora (denylist de 07/11): descartados o long de 136.982 NVDA da Lookonchain e a historia do Jensen Huang."
+  },
+  "anti_dup_urls_2026-11-11": {
+   "pt": "Nenhuma URL da edicao de 10/11 retorna aqui.",
+   "urls": []
+  }
+ },
+ "discarded_tips": [
+  {
+   "link": "https://x.com/lookonchain/status/2120485995376443459",
+   "pt": "Baleia 5x long em NVDA e 2x em SNDK. Descartado por denylist NVDA de 07/11."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2120485943283228936",
+   "pt": "Jensen Huang tentando 'business as usual' depois da revelacao do affair. Fofoca corporativa + NVDA na denylist."
+  },
+  {
+   "link": "https://x.com/solana/status/2120487448824406426",
+   "pt": "Mesma noticia da xStocks (200+ acoes UK/EU) repercutida pela Solana. Nao duplico a mesma historia em dois blocos."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2120431238116941937",
+   "pt": "Deutsche Bank lancando custodia de cripto. Bom tema, mas WatcherGuru esta na denylist de 07/11."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2120392631838548459",
+   "pt": "Promo de sala de sinais (gamma flip SPX). E chamada de servico, nao noticia."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2119985655157755945",
+   "pt": "Musk x Anthropic: saiu da janela de 12h (post de 10/11 02:49Z). Nao vira carryover."
+  },
+  {
+   "link": "n/a",
+   "pt": "Lacuna declarada: xread sem posts na janela para @TomLee, @ArthurHayes, @TheBlock__ e @Messari."
+  }
+ ],
+ "pending": [
+  {
+   "pt": "Escolha do Hadukem para E1-E5 (a/b/c ou nenhuma) e aprovacao de M1-M3 e DMM1-DMM2. Sem escolha, o pacote fica registrado como nao usado.",
+   "owner": "hadukem"
+  }
+ ],
+ "held": [],
+ "carryover": [],
+ "notes_pt": "XStocks UK/EU (200+ acoes via GTN) e a historia da manha; nenhum numero de terceiro virou post - o US$ 1,5 tri da Anthropic fica so como reply com o FT atribuido."
+}
