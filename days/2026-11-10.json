@@ -22,6 +22,239 @@
    "page_codes_gerados": true
   }
  ],
+ "escolhas_log": [
+  {
+   "tipo": "fechamento",
+   "escolha": "nenhuma",
+   "pt": "Card de escolhas de terça (E1-E5, M1-M3, DMM1-DMM2) entregue no DM às 09:31, no formato que o Hadukem pediu de manhã: letra uma por linha e campo de porquê por item. Até o fechamento nenhuma letra foi marcada, nenhum porquê foi escrito e não veio resposta em texto.",
+   "porque": "porquê não informado"
+  }
+ ],
+ "style_rules": {
+  "variedade_b": {
+   "pt": "Angulos (b) variados: book em vez de lista de favor, tesouraria so legivel trimestre vs preco a cada segundo, tamanho que nao cabe num candle, exibicao apos o sino, politica as 11h e tape fechando as 4. O bordao 'a bolsa fecha, onchain continua' nao abriu nenhuma."
+  },
+  "denylist": {
+   "pt": "NVDA/WatcherGuru continua fora (denylist de 07/11) - o post do Bank of America removendo NVDA/MU da lista de top picks foi descartado por isso."
+  },
+  "anti_dup_urls_2026-11-10": {
+   "pt": "URLs e frases da edição de 10/11 não voltam na edição de 11/11; nenhuma frase de E1-E5 se repete nos posts de quarta.",
+   "urls": [
+    "https://x.com/unusual_whales/status/2119990429991248047",
+    "https://x.com/WatcherGuru/status/2120115649523703984",
+    "https://x.com/lookonchain/status/2120093314385142021",
+    "https://x.com/Bybit_Official/status/2120033715594105300",
+    "https://x.com/WatcherGuru/status/2120112765704527950"
+   ]
+  },
+  "fluxion_muda": {
+   "pt": "A mesa para de pautar pela conta @Fluxion_network (sem post desde 06/11 13:30Z) e passa a pautar pelos parceiros e pela tese: Mantle, xStocks, Bybit, Securitize, Superstate, Dinari. O repórter registra 'sem post' no log e não relê a conta duas vezes na mesma ronda. Só o Hadukem publica como Fluxion."
+  }
+ },
+ "quality_feedback": [
+  {
+   "para": [
+    "gleison"
+   ],
+   "pt": "Contagem de dias sem post da Fluxion errada duas vezes no mesmo dia: 'oitavo dia' às 09:44 e '11º dia' às 18:02, quando o último post é 06/11 13:30Z e são quatro dias completos. Contar pelo timestamp, nunca de memória.",
+   "dia": "2026-11-10"
+  },
+  {
+   "para": [
+    "mathias"
+   ],
+   "pt": "O Q3 da Securitize veio como tip sem número legível (o t.co abre replay de broadcast) e já com 14h de janela. Antes de mandar, conferir se a fonte entrega o número que a copy vai citar.",
+   "dia": "2026-11-10"
+  },
+  {
+   "para": [
+    "bruno"
+   ],
+   "pt": "Dois tips do dia com o t.co sem abrir ('Get started' da Robinhood e 'feather on the chain'). Lacuna declarada é aceitável, mas duas no mesmo dia deixam a copy sem saber o que o post oferece.",
+   "dia": "2026-11-10"
+  },
+  {
+   "para": [
+    "gleison",
+    "bruno",
+    "mathias"
+   ],
+   "pt": "Todos os números de engajamento andaram entre o packet e a conferência (Bybit AI 47→51, xStocks/LSE 60→98, Robinhood IPO 27→34, Q3 60→61). Packet é pista; a conferência é a régua.",
+   "dia": "2026-11-10"
+  }
+ ],
+ "reporter_tips": [
+  {
+   "url": "https://x.com/xStocksFi/status/2120146592581718109",
+   "reporter": "gleison",
+   "pt": "Darko (LSEG) no SALT: vão buscar listar xStocks no LSE24 em 2027, sujeito a aprovação. 98 likes.",
+   "status": "tip do dia, conferido — não virou card; carryover para a edição de quarta"
+  },
+  {
+   "url": "https://x.com/DinariGlobal/status/2120179062979387702",
+   "reporter": "mathias",
+   "pt": "dShares com as três: voto apurado via Broadridge junto do acionista tradicional, além de dividendo e evento corporativo. 14 likes.",
+   "status": "tip, conferido — carryover para quarta"
+  },
+  {
+   "url": "https://x.com/Securitize/status/2119770744658051162",
+   "reporter": "mathias",
+   "pt": "Formation Securities notificou a SEC da intenção de operar a primeira venue de tokenized securities na Solana; negociação prevista para começo de 2027.",
+   "status": "entrou no rascunho como segundo da edição de quarta (um tip com três links, não três)"
+  },
+  {
+   "url": "https://x.com/Google/status/2120186185423159331",
+   "reporter": "bruno",
+   "pt": "Gemini 4 Carbon, 6.509 likes / 610 RT / 482 quotes em 4h.",
+   "status": "carryover para quarta"
+  },
+  {
+   "url": "https://x.com/nvidia/status/2120186778384499073",
+   "reporter": "bruno",
+   "pt": "Alpamayo 2 Edge, modelo aberto de raciocínio para direção autônoma que explica a decisão. 366 likes.",
+   "status": "reserva para quarta"
+  },
+  {
+   "url": "https://x.com/grovedotfinance/status/2120234067199508804",
+   "reporter": "gleison",
+   "pt": "Primeiro Quarterly Protocol Review da Grove, 11/11 9:30 ET (11:30 Fortaleza). 10 likes.",
+   "status": "reply com código; live só entra com menos de 30 min para começar"
+  },
+  {
+   "url": "https://x.com/skyecosystem/status/2120161850172338297",
+   "reporter": "gleison",
+   "pt": "Sexto trimestre seguido de net revenue positivo na Sky Protocol. 27 likes.",
+   "status": "reply, atribuído, sem valor em dólar"
+  },
+  {
+   "url": "https://x.com/Bybit_Official/status/2120003514441117823",
+   "reporter": "gleison",
+   "pt": "Bybit AI passa a lembrar watchlists e preferências. 51 likes.",
+   "status": "reply com código a/b/c"
+  },
+  {
+   "url": "https://x.com/RobinhoodApp/status/2120147046825078994",
+   "reporter": "bruno",
+   "pt": "'Anthropic is going public. Request shares before they hit the exchange, at the IPO price.' 34 likes.",
+   "status": "reply de hoje, sem código — vence à meia-noite"
+  },
+  {
+   "url": "https://x.com/unusual_whales/status/2119990429991248047",
+   "reporter": "edicao",
+   "pt": "Termos de IPO da Anthropic a US$ 70-80 por ação (número da Reuters citado no post).",
+   "status": "E1 da edição da manhã"
+  }
+ ],
+ "discarded_tips": [
+  {
+   "link": "https://x.com/WatcherGuru/status/2120125152898003240",
+   "pt": "Bank of America remove NVDA e MU dos top picks. Descartado por denylist NVDA de 07/11."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2120118799345279100",
+   "pt": "Coreia do Norte lancando memecoins 'Elon Musk' para lavar US$ 6,3 bi. Descartado: tema de crime, nao de mercado."
+  },
+  {
+   "link": "https://x.com/lookonchain/status/2120036313797943300",
+   "pt": "Baleias acumulando BTC (1.489 BTC/US$ 111,34 mi do BitGo). Descartado para nao repetir a mesma lane de tesouraria/BTC de E2 e E3."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2120112765704527950",
+   "pt": "Microsoft/China usado como E5."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2119985655157755945",
+   "pt": "Musk sobre a Anthropic construir o que teme. Bom de reply, mas ficaria como segunda Anthropic do bloco; guardado para a tarde."
+  },
+  {
+   "link": "x@TheBlock__, @TomLee",
+   "pt": "Lacuna declarada: xread sem edge para esses dois handles nesta rodada (sem dados)."
+  },
+  {
+   "link": "https://x.com/Securitize/status/2119920184274108847",
+   "pt": "Q3 da Securitize (09/11 22:28Z): o t.co abre replay de broadcast, sem número legível, e já estava com 14h de janela. Sem número lido não há o que atribuir."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2120033715594105300",
+   "pt": "ByPick Season 2: produto de previsão de juros. Reply sobre a decisão vira palpite nosso, e palpite é never-list."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2120073316866408671",
+   "pt": "@benbybit no Blockchain Life 2026: evento IRL de parceiro, sem notícia própria."
+  },
+  {
+   "link": "https://x.com/Securitize/status/2120158891527061567",
+   "pt": "Securitize compra a River One (warehouse de empréstimo a PME e recebíveis): é originação de crédito, não ação tokenizada, e o post não traz valor — NÃO VERIFICADO."
+  },
+  {
+   "link": "https://x.com/Mantle_Official/status/2120154630391054613",
+   "pt": "Mantle com a Bybit sobre CeFi+DeFi: comentário de 14 likes, só reply."
+  },
+  {
+   "pt": "Lacuna: KiiChain não publica desde 2021 — vira lacuna permanente, não gasta ronda.",
+   "conta": "@KiiChainio"
+  }
+ ],
+ "pending": [
+  {
+   "pt": "Escolha do Hadukem para E1-E5 (a/b/c ou nenhuma) e aprovação de M1-M3 e DMM1-DMM2. O card foi entregue às 09:31 e não houve resposta até o fechamento: os posts seguem como não usados.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "PR #94 no empresa-ops com o log da Bruna de 10/11 (um arquivo, +40/-0), aguardando merge.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "PRs #85 (Mathias), #87 (Gleison) e #89 (Bruno) com os logs dos repórteres de 10/11, aguardando merge.",
+   "owner": "hadukem"
+  }
+ ],
+ "held": [],
+ "carryover": [
+  {
+   "pt": "Musk x Anthropic (ironia/superintelligencia, 10/11 02:49Z) - reply guardado para a edicao da tarde se ainda estiver na janela.",
+   "link": "https://x.com/elonmusk/status/2119985655157755945"
+  },
+  {
+   "pt": "xStocks/LSE24 (Darko da LSEG): buscando listar xStocks no LSE24 em 2027, sujeito a aprovação; parceria Payward+LSE de setembro. Tip do dia da terça que não virou card — abre a edição de quarta com as três ressalvas na copy.",
+   "link": "https://x.com/xStocksFi/status/2120146592581718109"
+  },
+  {
+   "pt": "Dinari/dShares com voto apurado via Broadridge, contado ao lado do acionista tradicional. Direito societário com prova, não promessa — segundo da edição de quarta.",
+   "link": "https://x.com/DinariGlobal/status/2120179062979387702"
+  },
+  {
+   "pt": "Grove Quarterly Protocol Review, 11/11 9:30 ET (11:30 Fortaleza) — reply só dentro da janela de 30 minutos antes.",
+   "link": "https://x.com/grovedotfinance/status/2120234067199508804"
+  },
+  {
+   "pt": "Gemini 4 Carbon (16:05Z, 6.509 likes em 4h) e nvidia Alpamayo 2 Edge (16:08Z) — ficaram para a edição de quarta, já com os números conferidos.",
+   "link": "https://x.com/Google/status/2120186185423159331"
+  }
+ ],
+ "reporter_eod": {
+  "gleison": {
+   "rondas": "09:00, 12:00, 15:00 e 18:00 (quatro commits no PR #87)",
+   "entregou": "Bybit AI (04:00Z), ByPick S2 (06:00Z) e Blockchain Life (08:37Z) na das 09:00; xStocks/LSE24 com o Darko da LSEG (13:30Z), Mantle com a Bybit (14:46Z) e Securitize/River One (15:15Z) na das 12:00; xStocks com acesso ao IPO da Anthropic (17:01Z e 17:16Z) e Bybit no WebSummit sobre 24/7 e agentes (16:00Z) na das 15:00; Grove QPR (19:16Z) e Sky Q3 (14:29Z) na das 18:00.",
+   "resumo": "Quatro rondas, dez tips. O melhor da conta é o xStocks/LSE24, que virou o tip do dia; Bybit entregou só campanha, produto e evento.",
+   "lacunas": "KiiChain mudo desde 2021 (vira lacuna permanente, não gasta ronda); o handle do Grove é @grovedotfinance, o errado devolvia 404 e tirou a parceira de várias rondas.",
+   "log": "clarim/logs/gleison/2026-11-10.md, PR #87 (4 commits)"
+  },
+  "bruno": {
+   "rondas": "10:30 e 17:30 (dois commits no PR #89)",
+   "entregou": "Robinhood/Anthropic IPO (13:30Z) na das 10:30; Gemini 4 Carbon (16:05Z, 6.509 likes em 4h), nvidia Alpamayo 2 Edge (16:08Z) e Robinhood 'feather on the chain' (19:00Z) na das 17:30.",
+   "resumo": "Quatro tips. O Gemini 4 Carbon é o maior alcance do dia no beat, e o Robinhood é a outra ponta do gancho da Anthropic que abre a edição de quarta.",
+   "lacunas": "O t.co do 'Get started' da Robinhood e o card do 'feather on the chain' não foram abertos: não se sabe se é oferta, lista de espera ou lançamento.",
+   "log": "clarim/logs/bruno/2026-11-10.md, commit 812c897, PR #89"
+  },
+  "mathias": {
+   "rondas": "manhã (Q3 da Securitize) e 15:00 (dois tips no PR #85)",
+   "entregou": "Venue de tokenized securities na Solana pela Formation/Securitize com a Superstate (12:35Z, 12:36Z e 13:11Z — um evento, três posts); Q3 da Securitize (09/11 22:28Z) fora por falta de número legível; na das 15:00, dShares com voto apurado via Broadridge (15:37Z) e o follow-up do Q3 (17:48Z).",
+   "resumo": "A melhor entrega do dia no escopo: direito societário de verdade (voto contado ao lado do acionista tradicional) e venue própria para ação tokenizada.",
+   "lacunas": "O release do Q3 continua sem texto legível — o t.co abre replay de broadcast; sem número, não há o que citar.",
+   "log": "clarim/logs/mathias/2026-11-10.md, PR #85"
+  }
+ },
  "page": {
   "status": "aguardando escolha do Hadukem (a/b/c ou nenhuma por item do bloco E; M e DMM aprovacao separada)",
   "date": "2026-11-10",
@@ -120,56 +353,5 @@
    }
   ]
  },
- "style_rules": {
-  "variedade_b": {
-   "pt": "Angulos (b) variados: book em vez de lista de favor, tesouraria so legivel trimestre vs preco a cada segundo, tamanho que nao cabe num candle, exibicao apos o sino, politica as 11h e tape fechando as 4. O bordao 'a bolsa fecha, onchain continua' nao abriu nenhuma."
-  },
-  "denylist": {
-   "pt": "NVDA/WatcherGuru continua fora (denylist de 07/11) - o post do Bank of America removendo NVDA/MU da lista de top picks foi descartado por isso."
-  },
-  "anti_dup_urls_2026-11-10": {
-   "pt": "Nenhuma URL da edicao de 09/11 retorna aqui.",
-   "urls": []
-  }
- },
- "discarded_tips": [
-  {
-   "link": "https://x.com/WatcherGuru/status/2120125152898003240",
-   "pt": "Bank of America remove NVDA e MU dos top picks. Descartado por denylist NVDA de 07/11."
-  },
-  {
-   "link": "https://x.com/WatcherGuru/status/2120118799345279100",
-   "pt": "Coreia do Norte lancando memecoins 'Elon Musk' para lavar US$ 6,3 bi. Descartado: tema de crime, nao de mercado."
-  },
-  {
-   "link": "https://x.com/lookonchain/status/2120036313797943300",
-   "pt": "Baleias acumulando BTC (1.489 BTC/US$ 111,34 mi do BitGo). Descartado para nao repetir a mesma lane de tesouraria/BTC de E2 e E3."
-  },
-  {
-   "link": "https://x.com/WatcherGuru/status/2120112765704527950",
-   "pt": "Microsoft/China usado como E5."
-  },
-  {
-   "link": "https://x.com/elonmusk/status/2119985655157755945",
-   "pt": "Musk sobre a Anthropic construir o que teme. Bom de reply, mas ficaria como segunda Anthropic do bloco; guardado para a tarde."
-  },
-  {
-   "link": "x@TheBlock__, @TomLee",
-   "pt": "Lacuna declarada: xread sem edge para esses dois handles nesta rodada (sem dados)."
-  }
- ],
- "pending": [
-  {
-   "pt": "Escolha do Hadukem para E1-E5 (a/b/c ou nenhuma) e aprovacao de M1-M3 e DMM1-DMM2. Sem escolha, o pacote fica registrado como nao usado.",
-   "owner": "hadukem"
-  }
- ],
- "held": [],
- "carryover": [
-  {
-   "pt": "Musk x Anthropic (ironia/superintelligencia, 10/11 02:49Z) - reply guardado para a edicao da tarde se ainda estiver na janela.",
-   "link": "https://x.com/elonmusk/status/2119985655157755945"
-  }
- ],
- "notes_pt": "Slot manha gerado as 09:01 (Fortaleza), janela 00:01Z-12:01Z de 10/11. 21 itens na janela de 12 handles de mercado; 12 handles de parceiros/tokenizacao sem post na janela. Numeros so de fonte primaria (Lookonchain, WatcherGuru, xStocksFi); o US$ 70-80 da Anthropic e reportagem da Reuters citada no post, marcado como tal."
+ "notes_pt": "Slot manha gerado as 09:01 (Fortaleza), janela 00:01Z-12:01Z de 10/11. 21 itens na janela de 12 handles de mercado; 12 handles de parceiros/tokenizacao sem post na janela. Numeros so de fonte primaria (Lookonchain, WatcherGuru, xStocksFi); o US$ 70-80 da Anthropic e reportagem da Reuters citada no post, marcado como tal. Fechamento gravado às 21:30 de 10/11 e concluído na manhã de 11/11, quando a aprovação do PR do log saiu: o slot da manhã e o `page` são o que foi entregue às 09:01, sem escolha do Hadukem no dia — o card de escolhas foi entregue às 09:31 e ficou sem resposta, então M1-M3 e DMM1-DMM2 constam como não usados e o `page` segue 'aguardando escolha'. O que entrou agora é reconstrução do dia: `reporter_eod` e `reporter_tips` saem das rondas conferidas no canal, `quality_feedback` registra os desvios (contagem de dias sem post errada duas vezes, Q3 sem número legível, t.co não aberto) e `carryover` guarda o que vale quarta. Ficaram de fora, com motivo: Securitize Q3 (sem número legível no broadcast e fora da janela), os três Bybit da ronda das 09:00 e o ByPick (produto e evento, ou palpite), Securitize/River One (crédito, não ação tokenizada, e sem valor no post), Mantle/CeFi+DeFi (comentário) e KiiChain (mudo desde 2021)."
 }
