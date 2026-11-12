@@ -128,6 +128,9 @@
   "anti_dup_urls_2026-11-11": {
    "pt": "Nenhuma URL da edicao de 10/11 retorna aqui.",
    "urls": []
+  },
+  "grade_cards": {
+   "pt": "Decisao de operacao (Hadukem, 11/11 ~16:00): tres cards de escolha por dia — 09:00 edicao da manha, 15:00 replies que nao entraram na manha (rondas Gleison 09:00/12:00, Mathias 09:00/12:00, Bruno 10:30), 18:00 replies das rondas da tarde (Gleison 12:00/15:00, Bruno 17:30, Mathias 15:00). Cada item com as letras uma por linha, 'nenhuma' sempre presente e campo de porque. Resolve a banda 12:00Z-00:00Z que ficava sem edicao."
   }
  },
  "discarded_tips": [
@@ -164,9 +167,275 @@
   {
    "pt": "Escolha do Hadukem para E1-E5 (a/b/c ou nenhuma) e aprovacao de M1-M3 e DMM1-DMM2. Sem escolha, o pacote fica registrado como nao usado.",
    "owner": "hadukem"
+  },
+  {
+   "pt": "Card 2 (15:00) e card 3 (18:30) tambem sem resposta — o de 11/11 fecha com zero letra escolhida nos tres cards.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "Abrir o card de 12/11 as 09:00 com a banda 12:00Z-00:00Z coberta: a grade nova de tres cards por dia foi decidida hoje e as rotinas de 15:00 e 18:00 ja estao criadas.",
+   "owner": "bruna"
+  },
+  {
+   "pt": "PRs de log dos reporteres de 11/11 ainda abertos no empresa-ops: #99 (Mathias), #100 (Bruno) e o de Gleison; mais #105 (grade de tres cards, meu). Fechar um arquivo por PR.",
+   "owner": "bruna"
   }
  ],
  "held": [],
- "carryover": [],
- "notes_pt": "XStocks UK/EU (200+ acoes via GTN) e a historia da manha; nenhum numero de terceiro virou post - o US$ 1,5 tri da Anthropic fica so como reply com o FT atribuido."
+ "carryover": [
+  {
+   "tema": "xStocks DAX 40 (12:48Z) + CHADx (16:56Z)",
+   "para": "12/11",
+   "pt": "Passam de 12h antes da edicao de 12/11 as 09:00, entao nao viram tip. Valem como angulo de reply e como fio da semana: UK/EU na quarta de manha, DAX 40 ao meio-dia, single-name a tarde."
+  },
+  {
+   "tema": "OKX-ICE / Securitize, estreia em 23/11",
+   "para": "23/11",
+   "pt": "Data marcada e 70+ ativos 1:1 com trade 24/7. Enquanto for venue rival (OKX) fica fora da copy, inclusive como contexto citavel; serve so para nos mantermos cientes do calendario."
+  }
+ ],
+ "notes_pt": "Fecho de 11/11 gravado as 21:30 sobre o slot da manha (editions e page preservados intactos; o page segue 'aguardando escolha do Hadukem'). RECONSTRUCAO: o markdown da edicao da manha nao estava na origem, entao artifacts/clarim-diario/2026-11-11-manha.md foi montado a partir dos itens do proprio page (E1-E5, M1-M3, DMM1-DMM2) e das fontes dos reporteres — os textos a/b/c e os posts sao os do card enviado as 09:00, sem acrescimo de ideia nova. ESCOLHAS: o Hadukem nao escolheu nenhuma letra em nenhum dos tres cards do dia (manha 09:00, tarde 15:00, noite 18:30); tudo vai como 'nenhuma' com 'porque nao informado'. A unica decisao dele foi a grade de tres cards por dia, registrada em escolhas_log e em style_rules.grade_cards. page nao foi preenchido por falta de escolha. FICOU DE FORA: OKX-ICE/Securitize 13:01Z (venue rival, estreia 23/11 — maior noticia do escopo e fora da copy); 'Anthropic is next' da Dinari (nao verificado, nao afirma cliente); Securitize na Bloomberg 17:05Z e na CNBC (aparicao de CEO, video t.co sem numero); Superstate na NYSE (2 likes); posts da Alphabet das 16:08Z, 18:26Z e 19:14Z (chegaram depois do disparo da manha — foram para o card 3); tabela do GoogleLabs e o promo de Copy Trading da Bybit (produto/promo). LACUNAS DECLARADAS: Bruno nao re-varreu 7 contas do beat as 17:30 (teto de chamadas); nenhum numero de receita do Securitize veio em texto; a Fluxion so teve um post proprio no dia (13:39Z, 1 like) e o id desse post nao ficou registrado no log do reporter.",
+ "escolhas_log": [
+  {
+   "item": "E1 (reply @xStocksFi, 200+ UK/EU)",
+   "escolha": "nenhuma",
+   "porque": "nao informado — o Hadukem recebeu o card as 09:00 e o modal reenviado as 11:00, e nao respondeu nem por letra nem em texto"
+  },
+  {
+   "item": "E2 (reply @unusual_whales, avaliacao Anthropic US$ 1,5 tri)",
+   "escolha": "nenhuma",
+   "porque": "nao informado"
+  },
+  {
+   "item": "E3 (reply @Bybit_Official, Agents on the Order Book)",
+   "escolha": "nenhuma",
+   "porque": "nao informado"
+  },
+  {
+   "item": "E4 (reply @lookonchain, long de ZEC liquidando)",
+   "escolha": "nenhuma",
+   "porque": "nao informado"
+  },
+  {
+   "item": "E5 (reply @Bybit_Official, vouchers de Copy Trading)",
+   "escolha": "nenhuma",
+   "porque": "nao informado"
+  },
+  {
+   "item": "Card da noite — 4 replies das rondas da tarde (xStocks CHADx, Grove QPR, Google Robotics 2.5, Google Decisions API)",
+   "escolha": "nenhuma",
+   "porque": "card enviado as 18:30, sem resposta ate o fechamento"
+  },
+  {
+   "item": "M1-M3 (posts proprios) e DMM1-DMM2 (memes)",
+   "escolha": "nenhuma",
+   "porque": "aprovacao separada no mesmo card da manha, sem resposta"
+  },
+  {
+   "item": "Grade de cards de escolha",
+   "escolha": "tres cards por dia — 09:00, 15:00 e 18:00",
+   "porque": "palavras dele: 'voce so ta mandando um modal por dia, sendo que temos cerca de 3 rondas por dia. como e isso?' e, na resposta, 'Tres: 09:00, 15:00 e 18:00'. As duas rotinas novas (15:00 e 18:00) foram criadas hoje e ja valem."
+  }
+ ],
+ "reporter_eod": [
+  {
+   "reporter": "gleison",
+   "rondas": [
+    "09:00",
+    "12:00",
+    "15:00"
+   ],
+   "entregou": "6 tips: xStocks 200+ UK/EU 08:44Z (entrou na edicao como E1), Bybit Web Summit 09:00Z (E3), xStocks DAX 40 12:48Z (fora do disparo), Grove QPR Q3 14:37Z (live de 11:30, virou numero auditavel), Mantle IRI 13:05Z (engajamento baixo) e xStocks CHADx 16:56Z (card da noite).",
+   "lacunas": "@Fluxion_network: a leitura do meio-dia deu a conta como muda; a ronda das 15:00 corrigiu — o post das 13:39Z e proprio (1 like) e o 'big day to tokenize the world' e retweet do teaser da xStocks (id 2120381048756564413). Nao re-varreu Sky e Grove depois das 15:00."
+  },
+  {
+   "reporter": "bruno",
+   "rondas": [
+    "10:30",
+    "17:30"
+   ],
+   "entregou": "5 tips, todas da Alphabet: Pixel Drop 10/11 23:34Z e builders do Gemini 4 Carbon 01:16Z (ja fora da janela de 12h, idade declarada), Gemini Decisions API 18:26Z, Gemini Robotics 2.5 16:08Z (maior engajamento do beat no dia, 1.128 likes) e Gemini no CarPlay 19:14Z. Nenhuma entrou na edicao: todas publicadas depois do disparo das 09:00.",
+   "lacunas": "LACUNA DECLARADA na ronda 17:30: so Microsoft e Google foram varridos por teto de chamadas; Apple, nvidia, Meta, Tesla, Amazon, HOOD e Fluxion ficaram com o estado das 10:30, nao verificados."
+  },
+  {
+   "reporter": "mathias",
+   "rondas": [
+    "09:00",
+    "12:00",
+    "15:00"
+   ],
+   "entregou": "7 tips: Dinari/Innovation Exemption 10/11 21:34Z, Securitize CNBC 21:30Z e Superstate AMM venues 19:42Z (noite de ontem, no limite da janela), Securitize OKX-ICE 13:01Z, Dinari dShares com 'Anthropic is next' 14:07Z, Superstate na NYSE Live 14:30Z e Securitize CEO na Bloomberg 17:05Z. Nenhuma entrou na edicao: a maior (OKX-ICE) e venue rival (estreia 23/11) e as outras sao aparicao de CEO ou post de 2-8 likes.",
+   "lacunas": "Duas marcadas NAO VERIFICADO pelo proprio reporter: 'Anthropic is next' (cliente? parceria?) e o video t.co da Bloomberg, sem numero de receita no texto — o numero so apareceu no post seguinte, 17:34Z."
+  }
+ ],
+ "quality_feedback": [
+  {
+   "quem": "mathias",
+   "o_que": "Link de desdobramento do Securitize trocado na ronda 12:00 (o id entregue abria outro post).",
+   "efeito": "Pego na conferencia antes da copy; o desdobramento entrou com o id certo (2120518324618686638).",
+   "tipo": "erro corrigido no dia, sem repreensao"
+  },
+  {
+   "quem": "gleison",
+   "o_que": "Ronda 12:00 deu a @Fluxion_network como muda sem checar o post das 13:39Z; corrigiu na ronda das 15:00 e ainda desmontou o falso positivo do retweet de 05:00Z.",
+   "efeito": "A correcao veio no dia e com o id certo — e o comportamento esperado. Fica a regra: post proprio so conta com id que nao seja retweet.",
+   "tipo": "autocorrecao no dia"
+  },
+  {
+   "quem": "mathias",
+   "o_que": "'Anthropic is next' na Dinari entregue com a ressalva NAO VERIFICADO, sem afirmar cliente.",
+   "efeito": "Bom: nao inventou relacao. Vai como descartado e nao vira copy sem checagem.",
+   "tipo": "ressalva correta"
+  },
+  {
+   "quem": "bruno",
+   "o_que": "Entregou na ronda 10:30 dois posts da Alphabet ja fora da janela de 12h, com a idade declarada.",
+   "efeito": "Correto em declarar, mas metade da ronda nasceu morta para edicao: a ronda das 10:30 pega material da madrugada, nao do dia.",
+   "tipo": "padrao a corrigir"
+  },
+  {
+   "quem": "bruno",
+   "o_que": "Ronda 17:30 com lacuna declarada (7 contas do beat nao re-varridas por teto de chamadas).",
+   "efeito": "Lacuna declarada vale mais que zero inventado — registrado como nao verificado, nao como ausencia de noticia.",
+   "tipo": "lacuna declarada"
+  }
+ ],
+ "reporter_tips": [
+  {
+   "conta": "@xStocksFi",
+   "link": "https://x.com/xStocksFi/status/2120437586468765750",
+   "hora": "11/11 08:44Z",
+   "reporter": "gleison",
+   "pt": "Tokenizou 200+ acoes listadas no Reino Unido e na UE via GTN (LVMH, Rolls-Royce, HSBC, Airbus, SAP).",
+   "destino": "entrou na edicao como E1 (tip do dia)"
+  },
+  {
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2120441401183797689",
+   "hora": "11/11 09:00Z",
+   "reporter": "gleison",
+   "pt": "Fechamento do painel Agents on the Order Book no Web Summit Lisboa.",
+   "destino": "entrou na edicao como E3"
+  },
+  {
+   "conta": "@unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2120331422850548202",
+   "hora": "11/11 (madrugada)",
+   "reporter": "edicao da manha",
+   "pt": "Bancos da Anthropic preparam avaliacao de IPO para US$ 1,5 tri ou mais, segundo o FT.",
+   "destino": "entrou na edicao como E2"
+  },
+  {
+   "conta": "@lookonchain",
+   "link": "https://x.com/lookonchain/status/2120437276849340537",
+   "hora": "11/11 (madrugada)",
+   "reporter": "edicao da manha",
+   "pt": "ZEC abaixo de US$ 1.000 com long 10x de 18.000 ZEC em risco de liquidacao.",
+   "destino": "entrou na edicao como E4"
+  },
+  {
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2120486697980866754",
+   "hora": "11/11 (manha)",
+   "reporter": "edicao da manha",
+   "pt": "Vouchers de protecao para Copy Trading, ate 100 USDT de perda elegivel.",
+   "destino": "entrou na edicao como E5"
+  },
+  {
+   "conta": "@xStocksFi",
+   "link": "https://x.com/xStocksFi/status/2120498785587732553",
+   "hora": "11/11 12:48Z",
+   "reporter": "gleison",
+   "pt": "Expansao para a Alemanha: todo o DAX 40 tokenizado (Adidas, Mercedes-Benz, Allianz, DHL).",
+   "destino": "fora do disparo das 09:00 — carryover como angulo, nao como tip"
+  },
+  {
+   "conta": "@grovedotfinance",
+   "link": "https://x.com/grovedotfinance/status/2120526330349617259",
+   "hora": "11/11 14:37Z",
+   "reporter": "gleison",
+   "pt": "Primeiro Quarterly Protocol Review (Q3 2026) publicado: receita bruta US$ 14,9 mi (+129% YoY), lucro de protocolo US$ 1,8 mi (+241%), ativos liquidos US$ 37,3 mi (+46%).",
+   "destino": "fora do disparo; numero de parceiro com fonte propria, nao virou copy"
+  },
+  {
+   "conta": "@Mantle_Official",
+   "link": "https://x.com/Mantle_Official/status/2120503081930834199",
+   "hora": "11/11 13:05Z",
+   "reporter": "gleison",
+   "pt": "Transparencia de mercado onchain com privacidade de trade, painel no Mantle IRL.",
+   "destino": "fora do disparo, engajamento baixo"
+  },
+  {
+   "conta": "@xStocksFi",
+   "link": "https://x.com/xStocksFi/status/2120561260173615246",
+   "hora": "11/11 16:56Z",
+   "reporter": "gleison",
+   "pt": "CHADx, acao preferencial da tesouraria da Solana (defidevcorp, listada no Nasdaq) tokenizada no mesmo dia.",
+   "destino": "card da noite (card 3, 18:30)"
+  },
+  {
+   "conta": "@Securitize",
+   "link": "https://x.com/Securitize/status/2120502060428792047",
+   "hora": "11/11 13:01Z",
+   "reporter": "mathias",
+   "pt": "Venue OKX-ICE de titulos tokenizados com estreia em 23/11, 70+ ativos 1:1 e trade 24/7.",
+   "destino": "descartado — venue rival, nunca-list"
+  },
+  {
+   "conta": "@DinariGlobal",
+   "link": "https://x.com/DinariGlobal/status/2120518838991385065",
+   "hora": "11/11 14:07Z",
+   "reporter": "mathias",
+   "pt": "Infraestrutura B2B de acoes onchain (custodia, registro e direitos numa API) em 90+ paises, com 'Anthropic is next'.",
+   "destino": "descartado — Nao verificado"
+  },
+  {
+   "conta": "@SuperstateInc",
+   "link": "https://x.com/SuperstateInc/status/2120524451062186464",
+   "hora": "11/11 14:30Z",
+   "reporter": "mathias",
+   "pt": "Ron Leshner na NYSE Live sobre tokenizacao como upgrade de settlement e trade 24/7.",
+   "destino": "descartado — 2 likes, video sem texto legivel"
+  },
+  {
+   "conta": "@Securitize",
+   "link": "https://x.com/Securitize/status/2120563481116021094",
+   "hora": "11/11 17:05Z",
+   "reporter": "mathias",
+   "pt": "CEO na Bloomberg Crypto depois do Q3: primeiro trimestre cheio como empresa aberta, receita recorde nos nove meses.",
+   "destino": "card da noite"
+  },
+  {
+   "conta": "@Google",
+   "link": "https://x.com/Google/status/2120549213826093271",
+   "hora": "11/11 16:08Z",
+   "reporter": "bruno",
+   "pt": "Gemini Robotics 2.5, o VLA mais capaz da casa — 1.128 likes, maior engajamento do dia no beat.",
+   "destino": "card da noite"
+  },
+  {
+   "conta": "@Google",
+   "link": "https://x.com/Google/status/2120583966272983331",
+   "hora": "11/11 18:26Z",
+   "reporter": "bruno",
+   "pt": "Gemini Decisions API no AI Studio: avalia entrada contra ate 1.000 perguntas em vez de gerar texto.",
+   "destino": "card da noite"
+  },
+  {
+   "conta": "@Google",
+   "link": "https://x.com/Google/status/2120596045960790486",
+   "hora": "11/11 19:14Z",
+   "reporter": "bruno",
+   "pt": "Gemini chega ao Apple CarPlay com Gemini Live hands-free.",
+   "destino": "nao entrou — chegou depois do card da noite"
+  },
+  {
+   "conta": "@Fluxion_network",
+   "link": null,
+   "hora": "11/11 13:39Z",
+   "reporter": "gleison",
+   "pt": "Primeiro post proprio da conta desde 06/11 13:30Z ('great day to trade tockenized stocks', 1 like). Id nao registrado no log do Gleison — conferir antes de usar.",
+   "destino": "nao e tip — registro de conta da casa"
+  }
+ ]
 }
