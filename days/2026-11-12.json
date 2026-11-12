@@ -1,0 +1,186 @@
+{
+ "date": "2026-11-12",
+ "editions": [
+  {
+   "slot": "manha",
+   "hora_local": "09:00",
+   "janela_utc": "2026-11-12 00:02 -> 12:02",
+   "codes": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "DMM1",
+    "DMM2",
+    "DMM3",
+    "M1",
+    "M2"
+   ],
+   "page_codes_gerados": true,
+   "escolha_hadukem": "sem escolha",
+   "porque": "porquê não informado — nenhuma letra marcada até o momento da entrega.",
+   "publicada": false,
+   "lacuna": "Janela curta em conteúdo de parceiro: xStocksFi, Mantle, Grove, Sky, Securitize, Superstate e DefiLlama não publicaram nada entre 00:02Z e 12:02Z de 12/11; o material de parceiro ficou todo na Bybit."
+  }
+ ],
+ "page": {
+  "status": "aguardando escolha do Hadukem",
+  "date": "2026-11-12",
+  "slot": "manha",
+  "items": [
+   {
+    "code": "E1",
+    "tipo": "reply",
+    "alvo": "@elonmusk",
+    "link": "https://x.com/elonmusk/status/2120736143566344324",
+    "pt": "Musk: 'Robotaxi now runs 24/7. Every city we're available in' (12/11 04:31Z). Maior alcance da janela e o tema 24/7 no nosso quintal — mas sem emenda promocional óbvia, o comentário tem que valer por si.",
+    "numeros": "14.751 likes / 818 respostas na leitura das 12:02Z",
+    "opcoes": {
+     "a": "24/7 car, and my old broker still clocks out at 4pm. one of these got the update.",
+     "b": "easy to say 24/7, hard to keep it. a car recharges. a book has to keep quoting into an empty room.",
+     "c": "the thing that never ships with 24/7 is the person who has to answer when it breaks at 3am."
+    },
+    "escolha": "sem escolha",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "E2",
+    "tipo": "reply",
+    "alvo": "@Bybit_Official",
+    "link": "https://x.com/Bybit_Official/status/2120849338360381647",
+    "pt": "Bybit moveu a infraestrutura de trading para Tóquio: book mais fundo, spread mais apertado, execução com menos atrito (12:01Z, 5 min antes do corte). Conta parceira e o gancho de execução mais alinhado ao nosso discurso.",
+    "numeros": "5 likes / 2 respostas às 12:02Z — post de 1 minuto, número não diz nada ainda",
+    "opcoes": {
+     "a": "tokyo latency, lisbon coffee, and a spread that finally tells the truth.",
+     "b": "framing it as infrastructure and not as a number is the right call. execution quality is the only marketing that survives a size order.",
+     "c": "every venue announces 'deeper liquidity' the day it moves a server. the spread is the receipt."
+    },
+    "escolha": "sem escolha",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "E3",
+    "tipo": "reply",
+    "alvo": "@unusual_whales",
+    "link": "https://x.com/unusual_whales/status/2120834239377854806",
+    "pt": "Segundo a Korea Financial News (via UW), Altman disse a ~50 presidentes da Samsung que a demanda de IA foi 'contada duas vezes' e que só OpenAI e Anthropic puxam crescimento real. NÃO VERIFICADO na fonte primária — é reportagem, não anúncio.",
+    "numeros": "488 likes / 83 respostas às 12:02Z; o número das 'duas contagens' é reportagem, não fonte primária",
+    "opcoes": {
+     "a": "double counted demand, single counted revenue. the oldest trick in the spreadsheet.",
+     "b": "every cycle double counts something. onchain at least the fill is the fill — no restatement after the call.",
+     "c": "the guy buying the chips saying demand is double counted isn't a leak. it's a warning."
+    },
+    "escolha": "sem escolha",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "E4",
+    "tipo": "reply",
+    "alvo": "@Bybit_Official",
+    "link": "https://x.com/Bybit_Official/status/2120818258144006348",
+    "pt": "Bybit pediu no feed qual feature as pessoas subestimam (09:57Z, 23 likes / 16 respostas — reply-rate alto). Reply de baixo custo em conta parceira, bom para aparecer sem forçar.",
+    "numeros": "23 likes / 16 respostas às 12:02Z",
+    "opcoes": {
+     "a": "the logout button. nobody uses it and everybody needs it.",
+     "b": "the xStocks pools on Alpha. most people still think the equity and the liquidity live in different places.",
+     "c": "the feature nobody names is the one that shows you the spread before you click. that's the whole product."
+    },
+    "escolha": "sem escolha",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "E5",
+    "tipo": "reply",
+    "alvo": "@lookonchain",
+    "link": "https://x.com/lookonchain/status/2120761934622687318",
+    "pt": "Baleia OTC vendeu 6.532 ETH a US$ 2.085 (~US$ 3,1M de perda) depois de comprar a US$ 2.691. Material de 'a saída é que dói', bom para o ângulo de liquidez sem virar conselho.",
+    "numeros": "184 likes / 83 respostas às 12:02Z; valores no próprio post da Lookonchain",
+    "opcoes": {
+     "a": "bought at 2691, sold at 2085. the chart wasn't the problem, the patience was.",
+     "b": "entries get the timeline, exits get the bill. a book that's open when the position isn't working is the whole difference.",
+     "c": "everyone prices the thesis. nobody prices the moment you have to leave it."
+    },
+    "escolha": "sem escolha",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "DMM1",
+    "angulo": "24/7 como norma, não como feature",
+    "en": "robotaxis run 24/7. payment rails run 24/7. cards run 24/7. your equity book still takes nights off, and we call that normal.",
+    "pt": "Fonte: post do próprio Musk (https://x.com/elonmusk/status/2120736143566344324, 12/11 04:31Z). Por que agora: é o assunto do dia e o contraste com o horário da bolsa se explica sozinho, sem citar a Fluxion.",
+    "escolha": "sem escolha",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "DMM2",
+    "angulo": "execução é o produto",
+    "en": "deeper book, tighter spread, less friction. nobody tweets about execution until the fill is bad.",
+    "pt": "Fonte: post da Bybit sobre a migração da infra para Tóquio (https://x.com/Bybit_Official/status/2120849338360381647, 12/11 12:01Z). Por que agora: parceira acabou de publicar o tema; elogia sem prometer nada.",
+    "escolha": "sem escolha",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "DMM3",
+    "angulo": "a Alemanha inteira onchain",
+    "en": "all 40 names in the DAX, onchain. germany didn't get a pilot, it got the index.",
+    "pt": "Fonte: post da xStocksFi (https://x.com/xStocksFi/status/2120498785587732553, 11/11) — 'tokenized every equity in the DAX 40'. Por que agora: anúncio de ontem que não entrou em nenhuma edição nossa; o número 40 é o do próprio índice.",
+    "escolha": "sem escolha",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "M1",
+    "formato": "'nobody: / me at 3am' com print de tela do app",
+    "exemplo": "https://x.com/elonmusk/status/2120736143566344324",
+    "caption_en": "nobody: sleep. me at 3am: the car works nights, why shouldn't the market.",
+    "cena_en": "Split frame. Left: the mascot asleep in a dark room, one cyan LED eye half open. Right: same cat wide awake on a sofa, visor glowing bright, a phone reflected in its visor showing a green candle. Glossy black vinyl-toy cat, three spiky ears, white swirl logo on the forehead, nebula belly faintly lit, flame-tipped tail curled around a coffee mug.",
+    "escolha": "sem escolha",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "M2",
+    "formato": "'expectation vs reality' em dois quadros",
+    "exemplo": "https://x.com/lookonchain/status/2120761934622687318",
+    "caption_en": "expectation: i'll exit at the top. reality: it's 4am and the desk is closed.",
+    "cena_en": "Two panels. Top: the mascot in sunglasses, arms crossed, standing on a rising green chart like a podium. Bottom: the same cat small and soggy under a single street lamp at night, visor dimmed to a sad cyan, holding an empty coffee cup, flame-tipped tail drooping. Same glossy black vinyl-toy design, three spiky ears, white swirl logo on the forehead, nebula belly glowing faintly.",
+    "escolha": "sem escolha",
+    "porque": "porquê não informado"
+   }
+  ]
+ },
+ "discarded_tips": [
+  {
+   "link": "https://x.com/watcherguru/status/2120689323368751233",
+   "pt": "'Musk says it would be an honor to hire Jensen Huang' (01:25Z). WatcherGuru está na denylist de 07/11 e o assunto é NVIDIA."
+  },
+  {
+   "link": "https://x.com/lookonchain/status/2120843308545269983",
+   "pt": "Baleia fecha long de US$ 30,67M em NVDA com perda de US$ 2,45M. NVDA na denylist de 07/11."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2120848330976604662",
+   "pt": "Robôs humanoides ligados a Eric Trump e as IDF. Fora do escopo do beat e politicamente sensível."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2120799016883454195",
+   "pt": "Convite ao booth na Web Summit Lisbon (08:41Z, 0 likes). É convite de evento, não ideia; a conversa de agentes já foi usada em 11/11 (E2)."
+  }
+ ],
+ "lacunas": [
+  "@Fluxion_network voltou a publicar em 11/11 ('great day to trade tockenized stocks', 1 like) — primeiro post desde 06/11.",
+  "Banda 12:00Z–00:00Z segue sem edição: a entrada da manhã cobre 00:00Z–12:00Z.",
+  "@KiiChainio não publica desde 2021 (lacuna permanente).",
+  "Logs de gleison, bruno e mathias de 11/11 ausentes no empresa-ops na leitura das 09:02; a edição saiu só do que li direto no X."
+ ],
+ "pending": [
+  {
+   "pt": "Escolha do Hadukem para E1–E5, DMM1–DMM3 e M1–M2.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "Decisão sobre a banda 12:00Z–00:00Z (card às 21:00 ou corte).",
+   "owner": "hadukem"
+  }
+ ],
+ "notes_pt": "Edição de 12/11: cinco replies (Musk robotaxi 24/7, Bybit Tóquio, Altman/UW, pergunta da Bybit, baleia ETH da Lookonchain), três posts e dois memes, todos com link exato conferido por snowflake. Nenhum número fora da fonte primária; a reportagem do Altman está marcada NÃO VERIFICADO e não virou post. Ângulos (b) sem repetição: uptime, execução, fill definitivo, acesso ao ativo, saída/liquidez."
+}
