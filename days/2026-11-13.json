@@ -1,0 +1,187 @@
+{
+ "date": "2026-11-13",
+ "editions": [
+  {
+   "slot": "manha",
+   "hora_local": "09:00",
+   "janela_utc": "2026-11-13 00:03 -> 12:03",
+   "codes": ["E1", "E2", "E3", "E4", "E5", "DMM1", "DMM2", "DMM3", "M1", "M2"],
+   "page_codes_gerados": true,
+   "escolha_hadukem": null,
+   "porque": "aguardando escolha no fecho das 21:30",
+   "publicada": false,
+   "lacuna": "Parceiros de tokenizacao sem nenhum post na janela: xStocksFi, Mantle_Official, Alpha_Bybit, grovedotfinance, CIAN_protocol, SkyEcosystem, Securitize, BlackRock e DefiLlama nao publicaram nada entre 00:03Z e 12:03Z de 13/11. TheBlock__ e Superstate nao responderam a leitura. Todo o material de parceiro da janela veio da Bybit."
+  }
+ ],
+ "page": {
+  "status": "aguardando escolha do Hadukem",
+  "date": "2026-11-13",
+  "slot": "manha",
+  "items": [
+   {
+    "code": "E1",
+    "tipo": "reply",
+    "alvo": "@elonmusk",
+    "link": "https://x.com/elonmusk/status/2121120295884837183",
+    "pt": "Musk: 'Give Grok @Bot your most laborious tasks!' (05:57Z). 1.242 respostas contra 6.794 likes — taxa de resposta altissima, o melhor gancho de engajamento da janela. Vale pela piada, nao pela promocao.",
+    "numeros": "6.794 likes / 1.242 respostas na leitura das 12:03Z",
+    "opcoes": {
+     "a": "mine is the 40 tabs i keep open as a personality.",
+     "b": "delegate the watching, not the keys. an agent that keeps quoting your book at 3am is the only kind worth having.",
+     "c": "an agent with your keys and no closing bell is either the best hire you make or the last one."
+    },
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E2",
+    "tipo": "reply",
+    "alvo": "@lookonchain",
+    "link": "https://x.com/lookonchain/status/2121159285959012537",
+    "pt": "Machi foi liquidado mais de 2.100 vezes na papertrade_xyz e ja perdeu US$ 2,22M (08:32Z). Material perfeito para piada curta e para o angulo de profundidade de book, sem virar conselho.",
+    "numeros": "194 likes / 53 respostas; 2.100+ liquidacoes e US$ 2,22M no proprio post",
+    "opcoes": {
+     "a": "2,100 liquidations is not a strategy, it's a cardio routine.",
+     "b": "at some point the loss isn't the market, it's the click. a book with real depth doesn't let you find out 2,100 times.",
+     "c": "the platform made money on all 2,100 of those. someone should screenshot that chart next to his."
+    },
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E3",
+    "tipo": "reply",
+    "alvo": "@Bybit_Official",
+    "link": "https://x.com/Bybit_Official/status/2121202132602716251",
+    "pt": "Bybit publicou aviso de seguranca sobre a falha do Telegram para Android e listou o que fazer (11:22Z). Conta parceira, taxa de resposta de 76% — reply util e sem promocao aparece bem aqui.",
+    "numeros": "37 likes / 28 respostas na leitura das 12:03Z",
+    "opcoes": {
+     "a": "updating telegram before reading the group chat is the most adult thing i'll do today.",
+     "b": "most of this class of bug needs one thing to work: someone in the middle holding your keys. self-custody is a patch you install once.",
+     "c": "we carry more on that phone than we did in a bank in 2010 and we update it like it's a fridge."
+    },
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E4",
+    "tipo": "reply",
+    "alvo": "@lookonchain",
+    "link": "https://x.com/lookonchain/status/2121146337446220217",
+    "pt": "Baleia 0x4cee comprou mais 10.380 ETH e chegou a 25.498 ETH a preco medio de US$ 2.382, com US$ 11,3M de perda nao realizada (07:41Z). Gancho de 'entrada e tweet, saida e book'.",
+    "numeros": "157 likes / 49 respostas; todos os valores no proprio post da Lookonchain",
+    "opcoes": {
+     "a": "average price 2,382 and still buying. that's not conviction, that's a subscription.",
+     "b": "unrealized is a word for 'nobody has agreed with you yet'. the book is the only vote that counts.",
+     "c": "he's down 11.3M and adding. the timeline calls it conviction, the accountant calls it something else."
+    },
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E5",
+    "tipo": "reply",
+    "alvo": "@Bybit_Official",
+    "link": "https://x.com/Bybit_Official/status/2121181526645678289",
+    "pt": "Bybit abriu a arena principal do WSOT 2026 (10:01Z), 24 respostas em 48 likes. Bom para o angulo de comunidade, leve, sem promocao.",
+    "numeros": "48 likes / 24 respostas na leitura das 12:03Z",
+    "opcoes": {
+     "a": "main arena is live and my entire strategy is still 'be lucky, look calm'.",
+     "b": "leaderboards last two weeks. the book runs every day. that's the part nobody screenshots.",
+     "c": "every tournament ends with one winner and 400 people suddenly 'testing a new strategy'."
+    },
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "DMM1",
+    "angulo": "o agente 24/7 chegou antes do mercado 24/7",
+    "en": "a 24/7 worker showed up before the 24/7 market did. one of the two is going to feel obsolete by friday.",
+    "pt": "Fonte: post do proprio Musk (https://x.com/elonmusk/status/2121120295884837183, 13/11 05:57Z) e o 'Grok Bot' dele 13 min depois (https://x.com/elonmusk/status/2121123425213399408). Por que agora: assunto do dia, 6,8 mil likes, e o contraste se explica sem citar a Fluxion.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "DMM2",
+    "angulo": "precificar antes de arriscar",
+    "en": "the cheapest way to learn a market is to call it before you're in it. free picks, public leaderboard, no excuses.",
+    "pt": "Fonte: Bybit, ByPick Season 2 (https://x.com/Bybit_Official/status/2121196376222507397, 13/11 11:00Z) — picks gratis, pontos e leaderboard. Por que agora: parceira lancou hoje; o angulo de aprendizado nao promete retorno nenhum.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "DMM3",
+    "angulo": "o update que voce pula e o que cobra",
+    "en": "the update you skip is always the one that matters. patch the app, rotate the keys, then read the group chat.",
+    "pt": "Fonte: aviso de seguranca da Bybit sobre a falha do Telegram Android (https://x.com/Bybit_Official/status/2121202132602716251, 13/11 11:22Z). Por que agora: util, sem numero inventado e sem promocao — bom contrapeso a uma edicao de trading.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "M1",
+    "formato": "'sweating over two buttons' (o cara suando entre dois botoes)",
+    "exemplo": "https://x.com/lookonchain/status/2121159285959012537",
+    "caption_en": "left: hold it overnight. right: the desk opens in 6 hours. there is no third button, that's the joke.",
+    "cena_en": "Close on the mascot, glossy black vinyl-toy cat with three spiky ears and the white swirl logo on the forehead, sweating one big cyan drop, visor flickering between blue and purple. In front of it two huge glowing buttons: one red, one green. Over its shoulder a wall clock with no hands. Nebula belly pulsing faintly, flame-tipped tail frozen mid-twitch.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "M2",
+    "formato": "'day 1 vs day 1,000' em dois quadros",
+    "exemplo": "https://x.com/lookonchain/status/2121146337446220217",
+    "caption_en": "day 1: i'll watch it. day 1,000: it watches me.",
+    "cena_en": "Two panels. Left: the mascot bright and tidy on day one, small notebook, single monitor, visor glowing clean cyan, flame-tipped tail up. Right: same cat on day one thousand, three monitors stacked, dark circles under the LED eyes, visor dim purple, nebula belly glowing through a worn hoodie, tail curled around a cold mug. Same glossy black vinyl-toy design, three spiky ears, white swirl logo on the forehead.",
+    "escolha": null,
+    "porque": null
+   }
+  ]
+ },
+ "discarded_tips": [
+  {
+   "link": "https://x.com/WatcherGuru/status/2121124292675203140",
+   "pt": "'Nvidia employees petition to bring back Jensen Huang' (06:13Z, 28.610 likes). WatcherGuru na denylist de 07/11 e o assunto e NVIDIA, tambem na denylist."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2121121420340027460",
+   "pt": "'Bitcoin crashes under $68,000 and ETH under $1,900' (06:02Z, 4.416 likes). Denylist do WatcherGuru e e preco — nao entra."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2121128217386123568",
+   "pt": "Tailandia libera pagamento em cripto para turistas (06:29Z, 4.520 likes). Pauta boa para o angulo 24/7, mas o WatcherGuru esta na denylist de 07/11."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2121118775210868871",
+   "pt": "'Jensen' (05:51Z, 71.158 likes). Alcance enorme, mas o assunto e NVIDIA — denylist de 07/11."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2121095904984015177",
+   "pt": "Cluster NVDA da UW (odds do Polymarket sobre o proximo CEO, 04:20Z). NVDA na denylist."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2121158629542044017",
+   "pt": "Cashback de 2% a 10% por tier (08:30Z). E oferta de produto da parceira, nao ideia — e promocao de cartao nao e o nosso beat."
+  },
+  {
+   "link": "https://x.com/lookonchain/status/2121194936762822750",
+   "pt": "AguilaTrades fechou short de BTC com US$ 1,3M e abriu outro 40x (10:54Z). Terceiro item de alavancagem da mesma conta na janela; dois ja entraram, o terceiro viraria repeticao."
+  }
+ ],
+ "lacunas": [
+  "Parceiros de tokenizacao zerados na janela: xStocksFi, Mantle_Official, Alpha_Bybit, grovedotfinance, CIAN_protocol, SkyEcosystem, Securitize, BlackRock e DefiLlama sem post entre 00:03Z e 12:03Z.",
+  "TheBlock__ e Superstate nao responderam a leitura do xread nesta rodada (saida vazia) — nao sei se publicaram.",
+  "Logs de gleison, bruno e mathias de 12/11 ausentes no empresa-ops na leitura das 09:02; edicao saiu so do que li direto no X.",
+  "Banda 12:03Z-00:03Z segue sem edicao: a entrada da manha cobre 00:03Z-12:03Z."
+ ],
+ "pending": [
+  {
+   "pt": "Escolha do Hadukem para E1-E5, DMM1-DMM3 e M1-M2.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "Decisao sobre a banda 12:03Z-00:03Z (card as 21:00 ou corte).",
+   "owner": "hadukem"
+  }
+ ],
+ "notes_pt": "Edicao de 13/11: cinco replies (Musk/Grok Bot, Machi liquidado 2.100x, aviso de seguranca da Bybit, baleia 0x4cee, arena do WSOT), tres posts e dois memes. Todos com link exato conferido por snowflake ID. Nenhum numero fora da fonte primaria. Angulos (b) variados: uptime/quoting, profundidade de book, autocustodia, marca a mercado, comunidade. NVDA e WatcherGuru ficaram de fora pela denylist de 07/11."
+}
