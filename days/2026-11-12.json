@@ -18,136 +18,186 @@
     "M2"
    ],
    "page_codes_gerados": true,
-   "escolha_hadukem": "sem escolha",
-   "porque": "porquê não informado — nenhuma letra marcada até o momento da entrega.",
+   "escolha_hadukem": "E1 a · E2 a · E3 c · E4 b · E5 nenhuma · DMM nenhum · MEM nenhum (recebido em texto no DM, 12/11 12:27)",
+   "porque": "porquês do próprio Hadukem: E5 'nada a ver interagir com isso'; DMM 'um verdadeiro lixo, sem link, sem referencia, nonsense'; MEM não informado (link do Mantlescan enviado por engano, desconsiderado às 13:12). E1–E4 sem porquê.",
    "publicada": false,
    "lacuna": "Janela curta em conteúdo de parceiro: xStocksFi, Mantle, Grove, Sky, Securitize, Superstate e DefiLlama não publicaram nada entre 00:02Z e 12:02Z de 12/11; o material de parceiro ficou todo na Bybit."
   }
  ],
- "page": {
-  "status": "aguardando escolha do Hadukem",
-  "date": "2026-11-12",
-  "slot": "manha",
-  "items": [
-   {
-    "code": "E1",
-    "tipo": "reply",
-    "alvo": "@elonmusk",
-    "link": "https://x.com/elonmusk/status/2120736143566344324",
-    "pt": "Musk: 'Robotaxi now runs 24/7. Every city we're available in' (12/11 04:31Z). Maior alcance da janela e o tema 24/7 no nosso quintal — mas sem emenda promocional óbvia, o comentário tem que valer por si.",
-    "numeros": "14.751 likes / 818 respostas na leitura das 12:02Z",
-    "opcoes": {
-     "a": "24/7 car, and my old broker still clocks out at 4pm. one of these got the update.",
-     "b": "easy to say 24/7, hard to keep it. a car recharges. a book has to keep quoting into an empty room.",
-     "c": "the thing that never ships with 24/7 is the person who has to answer when it breaks at 3am."
-    },
-    "escolha": "sem escolha",
-    "porque": "porquê não informado"
-   },
-   {
-    "code": "E2",
-    "tipo": "reply",
-    "alvo": "@Bybit_Official",
-    "link": "https://x.com/Bybit_Official/status/2120849338360381647",
-    "pt": "Bybit moveu a infraestrutura de trading para Tóquio: book mais fundo, spread mais apertado, execução com menos atrito (12:01Z, 5 min antes do corte). Conta parceira e o gancho de execução mais alinhado ao nosso discurso.",
-    "numeros": "5 likes / 2 respostas às 12:02Z — post de 1 minuto, número não diz nada ainda",
-    "opcoes": {
-     "a": "tokyo latency, lisbon coffee, and a spread that finally tells the truth.",
-     "b": "framing it as infrastructure and not as a number is the right call. execution quality is the only marketing that survives a size order.",
-     "c": "every venue announces 'deeper liquidity' the day it moves a server. the spread is the receipt."
-    },
-    "escolha": "sem escolha",
-    "porque": "porquê não informado"
-   },
-   {
-    "code": "E3",
-    "tipo": "reply",
-    "alvo": "@unusual_whales",
-    "link": "https://x.com/unusual_whales/status/2120834239377854806",
-    "pt": "Segundo a Korea Financial News (via UW), Altman disse a ~50 presidentes da Samsung que a demanda de IA foi 'contada duas vezes' e que só OpenAI e Anthropic puxam crescimento real. NÃO VERIFICADO na fonte primária — é reportagem, não anúncio.",
-    "numeros": "488 likes / 83 respostas às 12:02Z; o número das 'duas contagens' é reportagem, não fonte primária",
-    "opcoes": {
-     "a": "double counted demand, single counted revenue. the oldest trick in the spreadsheet.",
-     "b": "every cycle double counts something. onchain at least the fill is the fill — no restatement after the call.",
-     "c": "the guy buying the chips saying demand is double counted isn't a leak. it's a warning."
-    },
-    "escolha": "sem escolha",
-    "porque": "porquê não informado"
-   },
-   {
-    "code": "E4",
-    "tipo": "reply",
-    "alvo": "@Bybit_Official",
-    "link": "https://x.com/Bybit_Official/status/2120818258144006348",
-    "pt": "Bybit pediu no feed qual feature as pessoas subestimam (09:57Z, 23 likes / 16 respostas — reply-rate alto). Reply de baixo custo em conta parceira, bom para aparecer sem forçar.",
-    "numeros": "23 likes / 16 respostas às 12:02Z",
-    "opcoes": {
-     "a": "the logout button. nobody uses it and everybody needs it.",
-     "b": "the xStocks pools on Alpha. most people still think the equity and the liquidity live in different places.",
-     "c": "the feature nobody names is the one that shows you the spread before you click. that's the whole product."
-    },
-    "escolha": "sem escolha",
-    "porque": "porquê não informado"
-   },
-   {
-    "code": "E5",
-    "tipo": "reply",
-    "alvo": "@lookonchain",
-    "link": "https://x.com/lookonchain/status/2120761934622687318",
-    "pt": "Baleia OTC vendeu 6.532 ETH a US$ 2.085 (~US$ 3,1M de perda) depois de comprar a US$ 2.691. Material de 'a saída é que dói', bom para o ângulo de liquidez sem virar conselho.",
-    "numeros": "184 likes / 83 respostas às 12:02Z; valores no próprio post da Lookonchain",
-    "opcoes": {
-     "a": "bought at 2691, sold at 2085. the chart wasn't the problem, the patience was.",
-     "b": "entries get the timeline, exits get the bill. a book that's open when the position isn't working is the whole difference.",
-     "c": "everyone prices the thesis. nobody prices the moment you have to leave it."
-    },
-    "escolha": "sem escolha",
-    "porque": "porquê não informado"
-   },
-   {
-    "code": "DMM1",
-    "angulo": "24/7 como norma, não como feature",
-    "en": "robotaxis run 24/7. payment rails run 24/7. cards run 24/7. your equity book still takes nights off, and we call that normal.",
-    "pt": "Fonte: post do próprio Musk (https://x.com/elonmusk/status/2120736143566344324, 12/11 04:31Z). Por que agora: é o assunto do dia e o contraste com o horário da bolsa se explica sozinho, sem citar a Fluxion.",
-    "escolha": "sem escolha",
-    "porque": "porquê não informado"
-   },
-   {
-    "code": "DMM2",
-    "angulo": "execução é o produto",
-    "en": "deeper book, tighter spread, less friction. nobody tweets about execution until the fill is bad.",
-    "pt": "Fonte: post da Bybit sobre a migração da infra para Tóquio (https://x.com/Bybit_Official/status/2120849338360381647, 12/11 12:01Z). Por que agora: parceira acabou de publicar o tema; elogia sem prometer nada.",
-    "escolha": "sem escolha",
-    "porque": "porquê não informado"
-   },
-   {
-    "code": "DMM3",
-    "angulo": "a Alemanha inteira onchain",
-    "en": "all 40 names in the DAX, onchain. germany didn't get a pilot, it got the index.",
-    "pt": "Fonte: post da xStocksFi (https://x.com/xStocksFi/status/2120498785587732553, 11/11) — 'tokenized every equity in the DAX 40'. Por que agora: anúncio de ontem que não entrou em nenhuma edição nossa; o número 40 é o do próprio índice.",
-    "escolha": "sem escolha",
-    "porque": "porquê não informado"
-   },
-   {
-    "code": "M1",
-    "formato": "'nobody: / me at 3am' com print de tela do app",
-    "exemplo": "https://x.com/elonmusk/status/2120736143566344324",
-    "caption_en": "nobody: sleep. me at 3am: the car works nights, why shouldn't the market.",
-    "cena_en": "Split frame. Left: the mascot asleep in a dark room, one cyan LED eye half open. Right: same cat wide awake on a sofa, visor glowing bright, a phone reflected in its visor showing a green candle. Glossy black vinyl-toy cat, three spiky ears, white swirl logo on the forehead, nebula belly faintly lit, flame-tipped tail curled around a coffee mug.",
-    "escolha": "sem escolha",
-    "porque": "porquê não informado"
-   },
-   {
-    "code": "M2",
-    "formato": "'expectation vs reality' em dois quadros",
-    "exemplo": "https://x.com/lookonchain/status/2120761934622687318",
-    "caption_en": "expectation: i'll exit at the top. reality: it's 4am and the desk is closed.",
-    "cena_en": "Two panels. Top: the mascot in sunglasses, arms crossed, standing on a rising green chart like a podium. Bottom: the same cat small and soggy under a single street lamp at night, visor dimmed to a sad cyan, holding an empty coffee cup, flame-tipped tail drooping. Same glossy black vinyl-toy design, three spiky ears, white swirl logo on the forehead, nebula belly glowing faintly.",
-    "escolha": "sem escolha",
-    "porque": "porquê não informado"
-   }
-  ]
- },
+ "escolhas_log": [
+  {
+   "codigo": "E1",
+   "conta": "@elonmusk",
+   "escolha": "a",
+   "texto_final": "24/7 car, and my old broker still clocks out at 4pm. one of these got the update.",
+   "link_destino": "https://x.com/elonmusk/status/2120736143566344324",
+   "porque": "porquê não informado"
+  },
+  {
+   "codigo": "E2",
+   "conta": "@Bybit_Official",
+   "escolha": "a",
+   "texto_final": "tokyo latency, lisbon coffee, and a spread that finally tells the truth.",
+   "link_destino": "https://x.com/Bybit_Official/status/2120849338360381647",
+   "porque": "porquê não informado"
+  },
+  {
+   "codigo": "E3",
+   "conta": "@unusual_whales",
+   "escolha": "c",
+   "texto_final": "the guy buying the chips saying demand is double counted isn't a leak. it's a warning.",
+   "link_destino": "https://x.com/unusual_whales/status/2120834239377854806",
+   "porque": "porquê não informado"
+  },
+  {
+   "codigo": "E4",
+   "conta": "@Bybit_Official",
+   "escolha": "b",
+   "texto_final": "the xStocks pools on Alpha. most people still think the equity and the liquidity live in different places.",
+   "link_destino": "https://x.com/Bybit_Official/status/2120818258144006348",
+   "porque": "porquê não informado"
+  },
+  {
+   "codigo": "E5",
+   "conta": "@lookonchain",
+   "escolha": "nenhuma",
+   "texto_final": null,
+   "link_destino": "https://x.com/lookonchain/status/2120761934622687318",
+   "porque": "nada a ver interagir com isso"
+  },
+  {
+   "codigo": "DMM1",
+   "conta": "-",
+   "escolha": "nenhum",
+   "texto_final": null,
+   "link_destino": null,
+   "porque": "um verdadeiro lixo, sem link, sem referencia, nonsense"
+  },
+  {
+   "codigo": "DMM2",
+   "conta": "-",
+   "escolha": "nenhum",
+   "texto_final": null,
+   "link_destino": null,
+   "porque": "um verdadeiro lixo, sem link, sem referencia, nonsense"
+  },
+  {
+   "codigo": "DMM3",
+   "conta": "-",
+   "escolha": "nenhum",
+   "texto_final": null,
+   "link_destino": null,
+   "porque": "um verdadeiro lixo, sem link, sem referencia, nonsense"
+  },
+  {
+   "codigo": "M1",
+   "conta": "-",
+   "escolha": "nenhum",
+   "texto_final": null,
+   "link_destino": null,
+   "porque": "porquê não informado — o link do Mantlescan foi enviado por engano e o Hadukem pediu para desconsiderar (12/11 13:12)"
+  },
+  {
+   "codigo": "M2",
+   "conta": "-",
+   "escolha": "nenhum",
+   "texto_final": null,
+   "link_destino": null,
+   "porque": "porquê não informado — o link do Mantlescan foi enviado por engano e o Hadukem pediu para desconsiderar (12/11 13:12)"
+  }
+ ],
+ "style_rules": [
+  {
+   "regra": "Todo item de post (DMM) e de meme (M) no card leva o link da fonte visivel dentro do proprio item, nao so no pt do arquivo do dia.",
+   "origem": "Hadukem, 12/11 12:27 — porque do DMM: 'um verdadeiro lixo, sem link, sem referencia, nonsense'",
+   "aplica_a": "cards do Clarim (manha, 15:00, 18:00)"
+  }
+ ],
+ "quality_feedback": [
+  {
+   "quem": "gleison",
+   "obs": "O mesmo lancamento veio em dois posts da xStocksFi (16:05Z e 16:56Z) e ele separou os angulos: mercado ($46B+ em 12 chains) contra colateral (borrow against). Evita duas opcoes iguais no card.",
+   "tom": "bom"
+  },
+  {
+   "quem": "gleison",
+   "obs": "Numero de terceiro marcado como tal: '$46B+ em 12 chains' e numero da propria xStocks e ele escreveu 'nao verificado por mim'.",
+   "tom": "bom"
+  },
+  {
+   "quem": "gleison",
+   "obs": "Handles ainda abertos: CIAN e KiiChain sem handle confirmado (KiiChain devolve so um post de 2021); Grove confirmado em @grovedotfinance. Lacuna declarada, nao inventada.",
+   "tom": "atencao"
+  },
+  {
+   "quem": "gleison",
+   "obs": "Leitura por xread devolve /i/status/<id> e ele monta o link canonico com o mesmo id, sem inventar numero.",
+   "tom": "bom"
+  },
+  {
+   "quem": "bruno e mathias",
+   "obs": "Entregaram a ronda (PRs #127 e #111), mas os logs de 12/11 nao estavam na main no fecho: a edicao do dia nao pode usar nada deles.",
+   "tom": "atencao"
+  }
+ ],
+ "reporter_tips": [
+  {
+   "conta": "@securitize",
+   "link": "https://x.com/securitize/status/2120879508874207519",
+   "hora_utc": "14:00Z",
+   "resumo_pt": "Lancamento de uma facility de liquidez 24/7 de US$ 100 mi para o BUIDL da BlackRock com a Ethena, operada pela Securitize; troca BUIDL por stablecoin fora do horario de mercado.",
+   "uso": "card da noite (E2/E3 do card) — sem resposta do Hadukem"
+  },
+  {
+   "conta": "@Mantle_Official",
+   "link": "https://x.com/Mantle_Official/status/2120905715724533777",
+   "hora_utc": "15:45Z",
+   "resumo_pt": "'If AI runs 24/7, trading the companies building it should too' — tokenizadas pela xStocksFi, negociadas na Fluxion via Atomic RFQ. Parceiro nomeando a Fluxion.",
+   "uso": "card da noite — sem resposta; melhor peca do dia"
+  },
+  {
+   "conta": "@xStocksFi",
+   "link": "https://x.com/xStocksFi/status/2120864187932934348",
+   "hora_utc": "13:00Z",
+   "resumo_pt": "Expansao internacional da xStocks coberta pelo Wall Street Journal; tokenizacao 'going mainstream'.",
+   "uso": "card da noite — sem resposta"
+  },
+  {
+   "conta": "@Mantle_Official",
+   "link": "https://x.com/Mantle_Official/status/2120874878370980342",
+   "hora_utc": "13:42Z",
+   "resumo_pt": "Recap do Mantle Squad no EFDevcon 8 em Mumbai, comunidade de builders ethereum.",
+   "uso": "card da noite — sem resposta"
+  },
+  {
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2120849338360381647",
+   "hora_utc": "12:01Z",
+   "resumo_pt": "Infraestrutura de trading da Bybit migrou para Toquio: book mais fundo, spread mais apertado, 'market structure mais justa'.",
+   "uso": "E2 (escolha a)"
+  },
+  {
+   "conta": "@xStocksFi",
+   "link": "https://x.com/xStocksFi/status/2120910919765258360",
+   "hora_utc": "16:05Z",
+   "resumo_pt": "ether.fi ao vivo com mint/redeem de 1.500+ acoes; Russell 1000 completo (NVDAx, TSLAx, QQQx, SPYx, TBLLx); '$46B+ de volume em 12 chains' (numero da propria xStocks, nao verificado pelo reporter).",
+   "uso": "card da noite E1 — sem resposta"
+  },
+  {
+   "conta": "@xStocksFi",
+   "link": "https://x.com/xStocksFi/status/2120923817203703955",
+   "hora_utc": "16:56Z",
+   "resumo_pt": "Mesmo lancamento por outro angulo: deploy na Optimism, ao vivo na ether.fi, 1.500+ acoes e ETFs tokenizados, 'borrow against them' (colateral).",
+   "uso": "card da noite E2 — sem resposta"
+  },
+  {
+   "conta": "@securitize",
+   "link": "https://x.com/securitize/status/2120929242456248753",
+   "hora_utc": "17:18Z",
+   "resumo_pt": "13 novas acoes dos EUA no lineup, que passa a 25.",
+   "uso": "card da noite E3 — sem resposta"
+  }
+ ],
  "discarded_tips": [
   {
    "link": "https://x.com/watcherguru/status/2120689323368751233",
@@ -164,23 +214,266 @@
   {
    "link": "https://x.com/Bybit_Official/status/2120799016883454195",
    "pt": "Convite ao booth na Web Summit Lisbon (08:41Z, 0 likes). É convite de evento, não ideia; a conversa de agentes já foi usada em 11/11 (E2)."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2120881112869032052",
+   "pt": "Stockholm Open (tenis/VIP) e quiz #NewFinancialPlatform: promo e concurso, nao abrem tema — descartados pelo reporter na ronda das 15:00."
+  },
+  {
+   "link": null,
+   "pt": "@grovedotfinance 17:32Z (Grove Foundation comprando 100K USDS de GROVE em 30 dias): sem id de post capturado, ficou fora ate o reporter pegar o link exato."
   }
  ],
+ "pending": [
+  {
+   "pt": "Decisao sobre a banda 12:00Z-00:00Z: card proprio as 21:00 ou o dia fica so na edicao da manha.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "Card da noite (3 tips: xStocksFi 16:05Z e 16:56Z, Securitize 17:18Z) sem resposta — as tres estao em held e as melhores em carryover.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "Merge do PR #139 no empresa-ops (log da Bruna de 12/11).",
+   "owner": "hadukem"
+  }
+ ],
+ "held": [
+  {
+   "codigo": "E1",
+   "link": "https://x.com/xStocksFi/status/2120910919765258360",
+   "hora_utc": "16:05Z",
+   "motivo": "card da noite (18:00) sem resposta do Hadukem ate o fecho"
+  },
+  {
+   "codigo": "E2",
+   "link": "https://x.com/xStocksFi/status/2120923817203703955",
+   "hora_utc": "16:56Z",
+   "motivo": "card da noite (18:00) sem resposta do Hadukem ate o fecho"
+  },
+  {
+   "codigo": "E3",
+   "link": "https://x.com/securitize/status/2120929242456248753",
+   "hora_utc": "17:18Z",
+   "motivo": "card da noite (18:00) sem resposta do Hadukem ate o fecho"
+  }
+ ],
+ "carryover": [
+  {
+   "link": "https://x.com/Mantle_Official/status/2120905715724533777",
+   "pt": "Mantle dizendo a tese de 24/7 e nomeando a Fluxion: melhor gancho de parceiro do dia e nao foi usado. Vale reabrir no comeco de 13/11 antes que esfrie."
+  },
+  {
+   "link": "https://x.com/securitize/status/2120879508874207519",
+   "pt": "BUIDL da BlackRock com liquidez 24/7 de US$ 100 mi (Ethena/Securitize): o argumento mais forte de 'mercado fora do horario' e nao entrou em nenhuma escolha."
+  },
+  {
+   "link": "https://x.com/xStocksFi/status/2120923817203703955",
+   "pt": "Acao tokenizada como colateral (Optimism/ether.fi): angulo de capital preso, diferente do de acesso — melhor dos dois posts da xStocks para uma reply propria."
+  }
+ ],
+ "reporter_eod": [
+  {
+   "reporter": "gleison",
+   "log": "clarim/logs/gleison/2026-11-12.md",
+   "pr": "#128 (mergeado 16:11)",
+   "entregou": "Packet 12:00Z-16:00Z com 5 tips e link exato em todas (Securitize/BUIDL, Mantle IA 24/7, xStocks no WSJ, Mantle Squad Mumbai, Bybit Toquio) e mais 3 tips fora da janela (xStocksFi 16:05Z e 16:56Z, Securitize 17:18Z). Descartou promo e concurso com motivo."
+  },
+  {
+   "reporter": "bruno",
+   "log": "clarim/logs/bruno/2026-11-12.md",
+   "pr": "#127 (aberto)",
+   "entregou": "Ronda 10:30 com 3 tips: Nvidia/Nemotron no ElevenAgents, Google com builds Gemini 4 Carbon e Strategy com $MSTR/$STRC. Log nao esta na main no fecho — nada disso entrou na edicao do dia."
+  },
+  {
+   "reporter": "mathias",
+   "log": "clarim/logs/mathias/2026-11-12.md",
+   "pr": "#111 (aberto)",
+   "entregou": "Ronda 09:00 com 1 tip: Securitize 21:11Z, acoes tokenizadas cruzaram US$ 4,6 bi no trimestre. Log nao esta na main no fecho — nao entrou na edicao."
+  }
+ ],
+ "page": {
+  "status": "escolhas recebidas do Hadukem (12/11 12:27, em texto no DM)",
+  "date": "2026-11-12",
+  "slot": "manha",
+  "items": [
+   {
+    "code": "E1",
+    "tipo": "reply",
+    "alvo": "@elonmusk",
+    "link": "https://x.com/elonmusk/status/2120736143566344324",
+    "pt": "Musk: 'Robotaxi now runs 24/7. Every city we're available in' (12/11 04:31Z). Maior alcance da janela e o tema 24/7 no nosso quintal — mas sem emenda promocional óbvia, o comentário tem que valer por si.",
+    "numeros": "14.751 likes / 818 respostas na leitura das 12:02Z",
+    "opcoes": {
+     "a": "24/7 car, and my old broker still clocks out at 4pm. one of these got the update.",
+     "b": "easy to say 24/7, hard to keep it. a car recharges. a book has to keep quoting into an empty room.",
+     "c": "the thing that never ships with 24/7 is the person who has to answer when it breaks at 3am."
+    },
+    "escolha": "a",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "E2",
+    "tipo": "reply",
+    "alvo": "@Bybit_Official",
+    "link": "https://x.com/Bybit_Official/status/2120849338360381647",
+    "pt": "Bybit moveu a infraestrutura de trading para Tóquio: book mais fundo, spread mais apertado, execução com menos atrito (12:01Z, 5 min antes do corte). Conta parceira e o gancho de execução mais alinhado ao nosso discurso.",
+    "numeros": "5 likes / 2 respostas às 12:02Z — post de 1 minuto, número não diz nada ainda",
+    "opcoes": {
+     "a": "tokyo latency, lisbon coffee, and a spread that finally tells the truth.",
+     "b": "framing it as infrastructure and not as a number is the right call. execution quality is the only marketing that survives a size order.",
+     "c": "every venue announces 'deeper liquidity' the day it moves a server. the spread is the receipt."
+    },
+    "escolha": "a",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "E3",
+    "tipo": "reply",
+    "alvo": "@unusual_whales",
+    "link": "https://x.com/unusual_whales/status/2120834239377854806",
+    "pt": "Segundo a Korea Financial News (via UW), Altman disse a ~50 presidentes da Samsung que a demanda de IA foi 'contada duas vezes' e que só OpenAI e Anthropic puxam crescimento real. NÃO VERIFICADO na fonte primária — é reportagem, não anúncio.",
+    "numeros": "488 likes / 83 respostas às 12:02Z; o número das 'duas contagens' é reportagem, não fonte primária",
+    "opcoes": {
+     "a": "double counted demand, single counted revenue. the oldest trick in the spreadsheet.",
+     "b": "every cycle double counts something. onchain at least the fill is the fill — no restatement after the call.",
+     "c": "the guy buying the chips saying demand is double counted isn't a leak. it's a warning."
+    },
+    "escolha": "c",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "E4",
+    "tipo": "reply",
+    "alvo": "@Bybit_Official",
+    "link": "https://x.com/Bybit_Official/status/2120818258144006348",
+    "pt": "Bybit pediu no feed qual feature as pessoas subestimam (09:57Z, 23 likes / 16 respostas — reply-rate alto). Reply de baixo custo em conta parceira, bom para aparecer sem forçar.",
+    "numeros": "23 likes / 16 respostas às 12:02Z",
+    "opcoes": {
+     "a": "the logout button. nobody uses it and everybody needs it.",
+     "b": "the xStocks pools on Alpha. most people still think the equity and the liquidity live in different places.",
+     "c": "the feature nobody names is the one that shows you the spread before you click. that's the whole product."
+    },
+    "escolha": "b",
+    "porque": "porquê não informado"
+   },
+   {
+    "code": "E5",
+    "tipo": "reply",
+    "alvo": "@lookonchain",
+    "link": "https://x.com/lookonchain/status/2120761934622687318",
+    "pt": "Baleia OTC vendeu 6.532 ETH a US$ 2.085 (~US$ 3,1M de perda) depois de comprar a US$ 2.691. Material de 'a saída é que dói', bom para o ângulo de liquidez sem virar conselho.",
+    "numeros": "184 likes / 83 respostas às 12:02Z; valores no próprio post da Lookonchain",
+    "opcoes": {
+     "a": "bought at 2691, sold at 2085. the chart wasn't the problem, the patience was.",
+     "b": "entries get the timeline, exits get the bill. a book that's open when the position isn't working is the whole difference.",
+     "c": "everyone prices the thesis. nobody prices the moment you have to leave it."
+    },
+    "escolha": "nenhuma",
+    "porque": "nada a ver interagir com isso"
+   },
+   {
+    "code": "DMM1",
+    "angulo": "24/7 como norma, não como feature",
+    "en": "robotaxis run 24/7. payment rails run 24/7. cards run 24/7. your equity book still takes nights off, and we call that normal.",
+    "pt": "Fonte: post do próprio Musk (https://x.com/elonmusk/status/2120736143566344324, 12/11 04:31Z). Por que agora: é o assunto do dia e o contraste com o horário da bolsa se explica sozinho, sem citar a Fluxion.",
+    "escolha": "nenhum",
+    "porque": "um verdadeiro lixo, sem link, sem referencia, nonsense"
+   },
+   {
+    "code": "DMM2",
+    "angulo": "execução é o produto",
+    "en": "deeper book, tighter spread, less friction. nobody tweets about execution until the fill is bad.",
+    "pt": "Fonte: post da Bybit sobre a migração da infra para Tóquio (https://x.com/Bybit_Official/status/2120849338360381647, 12/11 12:01Z). Por que agora: parceira acabou de publicar o tema; elogia sem prometer nada.",
+    "escolha": "nenhum",
+    "porque": "um verdadeiro lixo, sem link, sem referencia, nonsense"
+   },
+   {
+    "code": "DMM3",
+    "angulo": "a Alemanha inteira onchain",
+    "en": "all 40 names in the DAX, onchain. germany didn't get a pilot, it got the index.",
+    "pt": "Fonte: post da xStocksFi (https://x.com/xStocksFi/status/2120498785587732553, 11/11) — 'tokenized every equity in the DAX 40'. Por que agora: anúncio de ontem que não entrou em nenhuma edição nossa; o número 40 é o do próprio índice.",
+    "escolha": "nenhum",
+    "porque": "um verdadeiro lixo, sem link, sem referencia, nonsense"
+   },
+   {
+    "code": "M1",
+    "formato": "'nobody: / me at 3am' com print de tela do app",
+    "exemplo": "https://x.com/elonmusk/status/2120736143566344324",
+    "caption_en": "nobody: sleep. me at 3am: the car works nights, why shouldn't the market.",
+    "cena_en": "Split frame. Left: the mascot asleep in a dark room, one cyan LED eye half open. Right: same cat wide awake on a sofa, visor glowing bright, a phone reflected in its visor showing a green candle. Glossy black vinyl-toy cat, three spiky ears, white swirl logo on the forehead, nebula belly faintly lit, flame-tipped tail curled around a coffee mug.",
+    "escolha": "nenhum",
+    "porque": "porquê não informado — o link do Mantlescan foi enviado por engano e o Hadukem pediu para desconsiderar (12/11 13:12)"
+   },
+   {
+    "code": "M2",
+    "formato": "'expectation vs reality' em dois quadros",
+    "exemplo": "https://x.com/lookonchain/status/2120761934622687318",
+    "caption_en": "expectation: i'll exit at the top. reality: it's 4am and the desk is closed.",
+    "cena_en": "Two panels. Top: the mascot in sunglasses, arms crossed, standing on a rising green chart like a podium. Bottom: the same cat small and soggy under a single street lamp at night, visor dimmed to a sad cyan, holding an empty coffee cup, flame-tipped tail drooping. Same glossy black vinyl-toy design, three spiky ears, white swirl logo on the forehead, nebula belly glowing faintly.",
+    "escolha": "nenhum",
+    "porque": "porquê não informado — o link do Mantlescan foi enviado por engano e o Hadukem pediu para desconsiderar (12/11 13:12)"
+   }
+  ],
+  "escolhas": [
+   {
+    "codigo": "E1",
+    "letra": "a",
+    "texto_final": "24/7 car, and my old broker still clocks out at 4pm. one of these got the update.",
+    "link_destino": "https://x.com/elonmusk/status/2120736143566344324",
+    "porque": "porquê não informado"
+   },
+   {
+    "codigo": "E2",
+    "letra": "a",
+    "texto_final": "tokyo latency, lisbon coffee, and a spread that finally tells the truth.",
+    "link_destino": "https://x.com/Bybit_Official/status/2120849338360381647",
+    "porque": "porquê não informado"
+   },
+   {
+    "codigo": "E3",
+    "letra": "c",
+    "texto_final": "the guy buying the chips saying demand is double counted isn't a leak. it's a warning.",
+    "link_destino": "https://x.com/unusual_whales/status/2120834239377854806",
+    "porque": "porquê não informado"
+   },
+   {
+    "codigo": "E4",
+    "letra": "b",
+    "texto_final": "the xStocks pools on Alpha. most people still think the equity and the liquidity live in different places.",
+    "link_destino": "https://x.com/Bybit_Official/status/2120818258144006348",
+    "porque": "porquê não informado"
+   },
+   {
+    "codigo": "E5",
+    "letra": "nenhuma",
+    "texto_final": null,
+    "link_destino": "https://x.com/lookonchain/status/2120761934622687318",
+    "porque": "nada a ver interagir com isso"
+   },
+   {
+    "codigo": "DMM",
+    "letra": "nenhum",
+    "texto_final": null,
+    "link_destino": null,
+    "porque": "um verdadeiro lixo, sem link, sem referencia, nonsense"
+   },
+   {
+    "codigo": "MEM",
+    "letra": "nenhum",
+    "texto_final": null,
+    "link_destino": null,
+    "porque": "porquê não informado — o link do Mantlescan veio por engano e o Hadukem pediu para desconsiderar (12/11 13:12)"
+   }
+  ]
+ },
  "lacunas": [
   "@Fluxion_network voltou a publicar em 11/11 ('great day to trade tockenized stocks', 1 like) — primeiro post desde 06/11.",
   "Banda 12:00Z–00:00Z segue sem edição: a entrada da manhã cobre 00:00Z–12:00Z.",
   "@KiiChainio não publica desde 2021 (lacuna permanente).",
-  "Logs de gleison, bruno e mathias de 11/11 ausentes no empresa-ops na leitura das 09:02; a edição saiu só do que li direto no X."
+  "Logs de gleison, bruno e mathias de 11/11 ausentes no empresa-ops na leitura das 09:02; a edição saiu só do que li direto no X.",
+  "Banda 12:00Z-00:00Z seguiu sem edicao propria: o card da noite (18:00) foi a unica cobertura da tarde e ficou sem resposta do Hadukem ate o fecho.",
+  "Logs de bruno e mathias de 12/11 nao estao na main (PRs #127 e #111 abertos): a edicao nao pode usar o material dos dois."
  ],
- "pending": [
-  {
-   "pt": "Escolha do Hadukem para E1–E5, DMM1–DMM3 e M1–M2.",
-   "owner": "hadukem"
-  },
-  {
-   "pt": "Decisão sobre a banda 12:00Z–00:00Z (card às 21:00 ou corte).",
-   "owner": "hadukem"
-  }
- ],
- "notes_pt": "Edição de 12/11: cinco replies (Musk robotaxi 24/7, Bybit Tóquio, Altman/UW, pergunta da Bybit, baleia ETH da Lookonchain), três posts e dois memes, todos com link exato conferido por snowflake. Nenhum número fora da fonte primária; a reportagem do Altman está marcada NÃO VERIFICADO e não virou post. Ângulos (b) sem repetição: uptime, execução, fill definitivo, acesso ao ativo, saída/liquidez."
+ "notes_pt": "Edição de 12/11: cinco replies (Musk robotaxi 24/7, Bybit Tóquio, Altman/UW, pergunta da Bybit, baleia ETH da Lookonchain), três posts e dois memes, todos com link exato conferido por snowflake. Nenhum número fora da fonte primária; a reportagem do Altman está marcada NÃO VERIFICADO e não virou post. Ângulos (b) sem repetição: uptime, execução, fill definitivo, acesso ao ativo, saída/liquidez. Fechamento gravado em 13/11 de manha (o fecho das 21:30 de 12/11 parou num push que pediu aprovacao; a aprovacao veio e o commit saiu). O que e reconstrucao: o `artifacts/clarim-diario/2026-11-12-manha.md` nao existia na origem e foi montado a partir dos itens do `page`, com as opcoes como foram enviadas no card da manha; o `escolhas_log`, o `reporter_eod`, o `reporter_tips`, o `held` e o `carryover` foram reconstruidos dos logs dos reporteres e do que ficou no DM, nao de um registro proprio do dia. O que ficou de fora e por que: as tres tips do card da noite entraram em `held` porque nao houve escolha; o material de bruno e mathias ficou fora da edicao porque os logs dos dois nao estavam na main (PRs #127 e #111); a tip da Grove 17:32Z ficou fora porque o reporter nao capturou o id do post; as cinco escolhas recebidas (E1 a, E2 a, E3 c, E4 b, E5 nenhuma) e os descartes (DMM e MEM) estao com o porque do Hadukem e, onde ele nao deu motivo, 'porque nao informado' — o link do Mantlescan do MEM foi desconsiderado por ele as 13:12."
 }
