@@ -1,0 +1,214 @@
+{
+ "date": "2026-11-14",
+ "editions": [
+  {
+   "slot": "manha",
+   "hora_local": "09:00",
+   "janela_utc": "2026-11-14 00:04 -> 12:04",
+   "codes": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "DMM1",
+    "DMM2",
+    "DMM3",
+    "M1",
+    "M2"
+   ],
+   "page_codes_gerados": true,
+   "escolha_hadukem": null,
+   "porque": "aguardando escolha no card do dia",
+   "publicada": false,
+   "lacuna": "Nenhuma conta de tokenizacao publicou na janela: xStocksFi, Mantle_Official, Alpha_Bybit, grovedotfinance, CIAN_protocol, SkyEcosystem, KiiChainio, Securitize, BlackRock, DefiLlama, Messari e Fluxion_network sem resultado no xread entre 00:04Z e 12:04Z. TheBlock__ e Superstate tambem voltaram vazios."
+  }
+ ],
+ "page": {
+  "status": "aguardando escolha do Hadukem",
+  "date": "2026-11-14",
+  "slot": "manha",
+  "items": [
+   {
+    "code": "E1",
+    "tipo": "reply",
+    "alvo": "@elonmusk",
+    "link": "https://x.com/elonmusk/status/2121502131056177514",
+    "pt": "'Made on Earth by humans' com midia (07:14Z) — 52.726 likes e 2.736 respostas, o maior palco da janela. Responde nivel de piada, nao de marca.",
+    "numeros": "52.726 likes / 2.736 respostas na leitura das 12:04Z",
+    "opcoes": {
+     "a": "made on earth by humans, argued about by humans, screenshotted by everyone.",
+     "b": "the hard part was never making it. it's pricing it every hour with a book that can take real size.",
+     "c": "everyone talks about what leaves earth. nobody asks who's awake pricing it at 3am."
+    },
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E2",
+    "tipo": "reply",
+    "alvo": "@Bybit_Official",
+    "link": "https://x.com/Bybit_Official/status/2121422868915400877",
+    "pt": "Bybit abriu ANTHROPICUSDT em pre-IPO e pergunta direto 'what do you think Anthropic debuts at?' (02:00Z). Pergunta aberta, conta parceira, e o assunto e descoberta de preco antes do sino.",
+    "numeros": "89 likes / 28 respostas na leitura das 12:04Z",
+    "opcoes": {
+     "a": "my prediction is that every single person in these replies has a different prediction.",
+     "b": "price discovery used to happen behind closed doors for years. now it happens out loud, before the door opens.",
+     "c": "everyone suddenly has a valuation model for a company whose filings they haven't opened."
+    },
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E3",
+    "tipo": "reply",
+    "alvo": "@lookonchain",
+    "link": "https://x.com/lookonchain/status/2121483591217779163",
+    "pt": "58bro.eth vendeu 8.000 ETH a US$ 2.397, recomprou 10.501 ETH a media de US$ 1.978 e soma +US$ 39,66M com 87,5% de acerto (numeros do proprio post, 06:01Z).",
+    "numeros": "240 likes / 62 respostas; valores todos no texto da Lookonchain",
+    "opcoes": {
+     "a": "sold the top, bought the dip, and still has to explain it to a timeline that calls it luck.",
+     "b": "a round trip that size, twice in a week, is an execution story. you don't get to do it twice if the book isn't there.",
+     "c": "87.5% win rate is a great screenshot and a terrible forecast."
+    },
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E4",
+    "tipo": "reply",
+    "alvo": "@Bybit_Official",
+    "link": "https://x.com/Bybit_Official/status/2121543666279784919",
+    "pt": "Post curto da Bybit as 10:00Z: 'it's not you. it's risk management.' — isca limpa para reply de humor, post de duas horas.",
+    "numeros": "44 likes / 19 respostas na leitura das 12:04Z",
+    "opcoes": {
+     "a": "bold of you to assume it wasn't me.",
+     "b": "risk looks different when there's no liquidation price to pray to. no leverage, no 3am altar.",
+     "c": "risk management is the only breakup reason that never lies."
+    },
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E5",
+    "tipo": "reply",
+    "alvo": "@lookonchain",
+    "link": "https://x.com/lookonchain/status/2121465585724997997",
+    "pt": "Erik Voorhees gastou US$ 4,75M em USDT e comprou 2.504 ETH a US$ 1.896 na hora anterior (04:49Z) — compra grande no meio do tombo, de madrugada.",
+    "numeros": "460 likes / 43 respostas; valores no proprio post",
+    "opcoes": {
+     "a": "man looked at the dip, checked the calendar, and called it a sale.",
+     "b": "bought at 4:49am on a saturday. the market he needed was open, the one with a bell was not.",
+     "c": "every dip has a hero in the replies and a fill nobody screenshots."
+    },
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "DMM1",
+    "angulo": "o tombo tem comprador, e ele aparece de madrugada",
+    "en": "every crash has a buyer. this one had three, at 4am, with size. the book doesn't check the clock.",
+    "pt": "Fonte: Lookonchain 14/11 — Voorhees 2.504 ETH a US$ 1.896 (https://x.com/lookonchain/status/2121465585724997997, 04:49Z), 7 Siblings 9.766 ETH a US$ 1.933 (https://x.com/lookonchain/status/2121469513795539212, 05:05Z) e 58bro 10.501 ETH a US$ 1.978 (https://x.com/lookonchain/status/2121483591217779163, 06:01Z). Por que agora: madrugada de tombo forte, e o material mostra as duas pontas com numero proprio.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "DMM2",
+    "angulo": "a empresa descobre o preco antes do sino",
+    "en": "public markets used to be the first time a company found out what it's worth. that stopped being true.",
+    "pt": "Fonte: Bybit, ANTHROPICUSDT em pre-IPO com pergunta aberta a comunidade (https://x.com/Bybit_Official/status/2121422868915400877, 02:00Z, 89 likes / 28 respostas). Por que agora: parceira abriu o mercado hoje e o post pede resposta — o angulo explica sem prometer nada.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "DMM3",
+    "angulo": "o numero que decide nao e o do anuncio, e o de vazao",
+    "en": "everyone screenshots the milestone. the number that decides it is throughput. a book works the same way.",
+    "pt": "Fonte: post do Musk sobre as proximas Starship levarem mais de 50 Tb/s de banda Starlink em orbita (https://x.com/elonmusk/status/2121501324663832873, 07:11Z, 7.603 likes). Numero do proprio post. Por que agora: gancho de vazao que traduz para profundidade de book sem falar de preco.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "M1",
+    "formato": "'this is fine' (o cachorro na sala em chamas) com o mascote",
+    "exemplo": "https://x.com/lookonchain/status/2121465585724997997",
+    "caption_en": "pov: it's 4am, everything is red, and you're the only one awake in the house.",
+    "cena_en": "The mascot sits in a dark room at 4am in a small chair, one monitor glowing red in front of it, mug in paw. Glossy black vinyl-toy cat, three spiky ears, white swirl logo on the forehead, blue-to-purple visor calm, cyan LED eyes steady, nebula belly glowing softly through the dark, flame-tipped tail curled around the chair leg. Everything around it is on fire in a cartoon way; the cat is completely unbothered.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "M2",
+    "formato": "'galaxy brain' em quatro quadros",
+    "exemplo": "https://x.com/Bybit_Official/status/2121422868915400877",
+    "caption_en": "me: i'll wait for the ipo. me, later: i'm pricing it before the bell exists.",
+    "cena_en": "Four-panel galaxy-brain grid. Panel 1: the mascot reading a newspaper, plain visor. Panel 2: small glowing brain above its head, two monitors. Panel 3: nebula belly flaring bright, stars swirling inside it, visor turning violet. Panel 4: cosmic explosion behind the cat, three spiky ears lit up, white swirl logo blazing, flame-tipped tail on fire, visor pure white-blue, tiny galaxy orbiting its head. Same glossy black vinyl-toy design throughout.",
+    "escolha": null,
+    "porque": null
+   }
+  ]
+ },
+ "discarded_tips": [
+  {
+   "link": "https://x.com/WatcherGuru/status/2121447564335788308",
+   "pt": "'Crypto is crashing', BTC abaixo de US$ 67 mil, US$ 330M liquidados em 2h (03:38Z, 6.155 likes). WatcherGuru na denylist de 07/11 e o texto e preco — nao entra."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2121431433440846020",
+   "pt": "BTC a US$ 67 mil com US$ 250M liquidados em 10 minutos (02:34Z). Mesma denylist, mesmo motivo."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2121413834619469897",
+   "pt": "FAA libera o ground stop nacional (01:24Z, 8.438 likes). Denylist do WatcherGuru."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2121407661170405836",
+   "pt": "Peticao para trazer Jensen Huang de volta a Nvidia (00:59Z, 2.149 likes). NVDA na denylist de 07/11."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2121510962901483584",
+   "pt": "'So funny' com midia (07:50Z, 5.665 likes / 1.123 respostas). Taxa de resposta alta, mas post sem assunto proprio — qualquer reply seria generica e marcada como spam."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2121523667595092227",
+   "pt": "EUA perdem status de eliminacao do sarampo (08:40Z, 796 likes). Fora do beat e sem gancho para a Fluxion."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2121483264502235284",
+   "pt": "Cartao novo da Bybit com ate 26 USDT em tarefas (06:00Z). Oferta de produto da parceira, nao ideia."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2121574113957351581",
+   "pt": "WSOT 2026 as 12:01Z, 8 likes / 3 respostas. Terceiro post do WSOT em dois dias e o mais fraco da janela."
+  }
+ ],
+ "lacunas": [
+  "Nenhuma conta de tokenizacao publicou na janela 00:04Z-12:04Z: xStocksFi, Mantle_Official, Alpha_Bybit, grovedotfinance, CIAN_protocol, SkyEcosystem, KiiChainio, Securitize, BlackRock, DefiLlama, Messari e Fluxion_network voltaram vazias no xread.",
+  "TheBlock__ e Superstate sem retorno do xread nesta rodada.",
+  "As 8 tips em held de 13/11 venceram a janela de 12h sem escolha do Hadukem e saem do estoque.",
+  "Logs dos reporteres de 13/11 ausentes no empresa-ops na leitura das 09:05; edicao saiu so do que li direto no X.",
+  "Banda 12:04Z-00:04Z segue sem edicao: esta entrada cobre 00:04Z-12:04Z."
+ ],
+ "pending": [
+  {
+   "pt": "Escolha do Hadukem para E1-E5, DMM1-DMM3 e M1-M2 no card da manha.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "Decisao da banda 12:04Z-00:04Z: card proprio a tarde ou o dia fica so na edicao da manha.",
+   "owner": "hadukem"
+  }
+ ],
+ "held": [],
+ "carryover": [
+  {
+   "link": "https://x.com/elonmusk/status/2121502131056177514",
+   "pt": "Post de maior alcance da janela (52,7 mil likes): se a resposta boa nao sair hoje, o angulo 'quem esta acordado precificando as 3h' ainda serve amanha."
+  },
+  {
+   "link": "https://x.com/lookonchain/status/2121485835468222504",
+   "pt": "Abraxas Capital com mais de US$ 512M de lucro em duas contas de hedge na Hyperliquid e shorts em US$ 572M (06:10Z). Sobrou da selecao: angulo de hedge como execucao, nao como aposta."
+  }
+ ],
+ "notes_pt": "Edicao de 14/11: cinco replies (Musk 'Made on Earth', pre-IPO da Anthropic na Bybit, ida e volta do 58bro.eth, 'it's not you, it's risk management' da Bybit, compra do Voorhees de madrugada), tres ideias de post e dois memes. Todos os links conferidos pelo snowflake ID e todos os numeros vindos do texto do proprio post. Janela fraca em conta grande: so Musk, Lookonchain, Bybit e UW publicaram; nenhum parceiro de tokenizacao apareceu. WatcherGuru e NVDA fora pela denylist de 07/11."
+}
