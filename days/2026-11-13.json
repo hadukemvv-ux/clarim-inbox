@@ -1,187 +1,592 @@
 {
- "date": "2026-11-13",
- "editions": [
-  {
-   "slot": "manha",
-   "hora_local": "09:00",
-   "janela_utc": "2026-11-13 00:03 -> 12:03",
-   "codes": ["E1", "E2", "E3", "E4", "E5", "DMM1", "DMM2", "DMM3", "M1", "M2"],
-   "page_codes_gerados": true,
-   "escolha_hadukem": null,
-   "porque": "aguardando escolha no fecho das 21:30",
-   "publicada": false,
-   "lacuna": "Parceiros de tokenizacao sem nenhum post na janela: xStocksFi, Mantle_Official, Alpha_Bybit, grovedotfinance, CIAN_protocol, SkyEcosystem, Securitize, BlackRock e DefiLlama nao publicaram nada entre 00:03Z e 12:03Z de 13/11. TheBlock__ e Superstate nao responderam a leitura. Todo o material de parceiro da janela veio da Bybit."
-  }
- ],
- "page": {
-  "status": "aguardando escolha do Hadukem",
   "date": "2026-11-13",
-  "slot": "manha",
-  "items": [
-   {
-    "code": "E1",
-    "tipo": "reply",
-    "alvo": "@elonmusk",
-    "link": "https://x.com/elonmusk/status/2121120295884837183",
-    "pt": "Musk: 'Give Grok @Bot your most laborious tasks!' (05:57Z). 1.242 respostas contra 6.794 likes — taxa de resposta altissima, o melhor gancho de engajamento da janela. Vale pela piada, nao pela promocao.",
-    "numeros": "6.794 likes / 1.242 respostas na leitura das 12:03Z",
-    "opcoes": {
-     "a": "mine is the 40 tabs i keep open as a personality.",
-     "b": "delegate the watching, not the keys. an agent that keeps quoting your book at 3am is the only kind worth having.",
-     "c": "an agent with your keys and no closing bell is either the best hire you make or the last one."
+  "editions": [
+    {
+      "slot": "manha",
+      "hora_local": "09:00",
+      "janela_utc": "2026-11-13 00:03 -> 12:03",
+      "codes": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "DMM1",
+        "DMM2",
+        "DMM3",
+        "M1",
+        "M2"
+      ],
+      "page_codes_gerados": true,
+      "escolha_hadukem": null,
+      "porque": "aguardando escolha no fecho das 21:30",
+      "publicada": false,
+      "lacuna": "Parceiros de tokenizacao sem nenhum post na janela: xStocksFi, Mantle_Official, Alpha_Bybit, grovedotfinance, CIAN_protocol, SkyEcosystem, Securitize, BlackRock e DefiLlama nao publicaram nada entre 00:03Z e 12:03Z de 13/11. TheBlock__ e Superstate nao responderam a leitura. Todo o material de parceiro da janela veio da Bybit."
+    }
+  ],
+  "page": {
+    "status": "aguardando escolha do Hadukem",
+    "date": "2026-11-13",
+    "slot": "manha",
+    "items": [
+      {
+        "code": "E1",
+        "tipo": "reply",
+        "alvo": "@elonmusk",
+        "link": "https://x.com/elonmusk/status/2121120295884837183",
+        "pt": "Musk: 'Give Grok @Bot your most laborious tasks!' (05:57Z). 1.242 respostas contra 6.794 likes — taxa de resposta altissima, o melhor gancho de engajamento da janela. Vale pela piada, nao pela promocao.",
+        "numeros": "6.794 likes / 1.242 respostas na leitura das 12:03Z",
+        "opcoes": {
+          "a": "mine is the 40 tabs i keep open as a personality.",
+          "b": "delegate the watching, not the keys. an agent that keeps quoting your book at 3am is the only kind worth having.",
+          "c": "an agent with your keys and no closing bell is either the best hire you make or the last one."
+        },
+        "escolha": null,
+        "porque": null
+      },
+      {
+        "code": "E2",
+        "tipo": "reply",
+        "alvo": "@lookonchain",
+        "link": "https://x.com/lookonchain/status/2121159285959012537",
+        "pt": "Machi foi liquidado mais de 2.100 vezes na papertrade_xyz e ja perdeu US$ 2,22M (08:32Z). Material perfeito para piada curta e para o angulo de profundidade de book, sem virar conselho.",
+        "numeros": "194 likes / 53 respostas; 2.100+ liquidacoes e US$ 2,22M no proprio post",
+        "opcoes": {
+          "a": "2,100 liquidations is not a strategy, it's a cardio routine.",
+          "b": "at some point the loss isn't the market, it's the click. a book with real depth doesn't let you find out 2,100 times.",
+          "c": "the platform made money on all 2,100 of those. someone should screenshot that chart next to his."
+        },
+        "escolha": null,
+        "porque": null
+      },
+      {
+        "code": "E3",
+        "tipo": "reply",
+        "alvo": "@Bybit_Official",
+        "link": "https://x.com/Bybit_Official/status/2121202132602716251",
+        "pt": "Bybit publicou aviso de seguranca sobre a falha do Telegram para Android e listou o que fazer (11:22Z). Conta parceira, taxa de resposta de 76% — reply util e sem promocao aparece bem aqui.",
+        "numeros": "37 likes / 28 respostas na leitura das 12:03Z",
+        "opcoes": {
+          "a": "updating telegram before reading the group chat is the most adult thing i'll do today.",
+          "b": "most of this class of bug needs one thing to work: someone in the middle holding your keys. self-custody is a patch you install once.",
+          "c": "we carry more on that phone than we did in a bank in 2010 and we update it like it's a fridge."
+        },
+        "escolha": null,
+        "porque": null
+      },
+      {
+        "code": "E4",
+        "tipo": "reply",
+        "alvo": "@lookonchain",
+        "link": "https://x.com/lookonchain/status/2121146337446220217",
+        "pt": "Baleia 0x4cee comprou mais 10.380 ETH e chegou a 25.498 ETH a preco medio de US$ 2.382, com US$ 11,3M de perda nao realizada (07:41Z). Gancho de 'entrada e tweet, saida e book'.",
+        "numeros": "157 likes / 49 respostas; todos os valores no proprio post da Lookonchain",
+        "opcoes": {
+          "a": "average price 2,382 and still buying. that's not conviction, that's a subscription.",
+          "b": "unrealized is a word for 'nobody has agreed with you yet'. the book is the only vote that counts.",
+          "c": "he's down 11.3M and adding. the timeline calls it conviction, the accountant calls it something else."
+        },
+        "escolha": null,
+        "porque": null
+      },
+      {
+        "code": "E5",
+        "tipo": "reply",
+        "alvo": "@Bybit_Official",
+        "link": "https://x.com/Bybit_Official/status/2121181526645678289",
+        "pt": "Bybit abriu a arena principal do WSOT 2026 (10:01Z), 24 respostas em 48 likes. Bom para o angulo de comunidade, leve, sem promocao.",
+        "numeros": "48 likes / 24 respostas na leitura das 12:03Z",
+        "opcoes": {
+          "a": "main arena is live and my entire strategy is still 'be lucky, look calm'.",
+          "b": "leaderboards last two weeks. the book runs every day. that's the part nobody screenshots.",
+          "c": "every tournament ends with one winner and 400 people suddenly 'testing a new strategy'."
+        },
+        "escolha": null,
+        "porque": null
+      },
+      {
+        "code": "DMM1",
+        "angulo": "o agente 24/7 chegou antes do mercado 24/7",
+        "en": "a 24/7 worker showed up before the 24/7 market did. one of the two is going to feel obsolete by friday.",
+        "pt": "Fonte: post do proprio Musk (https://x.com/elonmusk/status/2121120295884837183, 13/11 05:57Z) e o 'Grok Bot' dele 13 min depois (https://x.com/elonmusk/status/2121123425213399408). Por que agora: assunto do dia, 6,8 mil likes, e o contraste se explica sem citar a Fluxion.",
+        "escolha": null,
+        "porque": null
+      },
+      {
+        "code": "DMM2",
+        "angulo": "precificar antes de arriscar",
+        "en": "the cheapest way to learn a market is to call it before you're in it. free picks, public leaderboard, no excuses.",
+        "pt": "Fonte: Bybit, ByPick Season 2 (https://x.com/Bybit_Official/status/2121196376222507397, 13/11 11:00Z) — picks gratis, pontos e leaderboard. Por que agora: parceira lancou hoje; o angulo de aprendizado nao promete retorno nenhum.",
+        "escolha": null,
+        "porque": null
+      },
+      {
+        "code": "DMM3",
+        "angulo": "o update que voce pula e o que cobra",
+        "en": "the update you skip is always the one that matters. patch the app, rotate the keys, then read the group chat.",
+        "pt": "Fonte: aviso de seguranca da Bybit sobre a falha do Telegram Android (https://x.com/Bybit_Official/status/2121202132602716251, 13/11 11:22Z). Por que agora: util, sem numero inventado e sem promocao — bom contrapeso a uma edicao de trading.",
+        "escolha": null,
+        "porque": null
+      },
+      {
+        "code": "M1",
+        "formato": "'sweating over two buttons' (o cara suando entre dois botoes)",
+        "exemplo": "https://x.com/lookonchain/status/2121159285959012537",
+        "caption_en": "left: hold it overnight. right: the desk opens in 6 hours. there is no third button, that's the joke.",
+        "cena_en": "Close on the mascot, glossy black vinyl-toy cat with three spiky ears and the white swirl logo on the forehead, sweating one big cyan drop, visor flickering between blue and purple. In front of it two huge glowing buttons: one red, one green. Over its shoulder a wall clock with no hands. Nebula belly pulsing faintly, flame-tipped tail frozen mid-twitch.",
+        "escolha": null,
+        "porque": null
+      },
+      {
+        "code": "M2",
+        "formato": "'day 1 vs day 1,000' em dois quadros",
+        "exemplo": "https://x.com/lookonchain/status/2121146337446220217",
+        "caption_en": "day 1: i'll watch it. day 1,000: it watches me.",
+        "cena_en": "Two panels. Left: the mascot bright and tidy on day one, small notebook, single monitor, visor glowing clean cyan, flame-tipped tail up. Right: same cat on day one thousand, three monitors stacked, dark circles under the LED eyes, visor dim purple, nebula belly glowing through a worn hoodie, tail curled around a cold mug. Same glossy black vinyl-toy design, three spiky ears, white swirl logo on the forehead.",
+        "escolha": null,
+        "porque": null
+      }
+    ]
+  },
+  "discarded_tips": [
+    {
+      "link": "https://x.com/WatcherGuru/status/2121124292675203140",
+      "pt": "'Nvidia employees petition to bring back Jensen Huang' (06:13Z, 28.610 likes). WatcherGuru na denylist de 07/11 e o assunto e NVIDIA, tambem na denylist."
     },
-    "escolha": null,
-    "porque": null
-   },
-   {
-    "code": "E2",
-    "tipo": "reply",
-    "alvo": "@lookonchain",
-    "link": "https://x.com/lookonchain/status/2121159285959012537",
-    "pt": "Machi foi liquidado mais de 2.100 vezes na papertrade_xyz e ja perdeu US$ 2,22M (08:32Z). Material perfeito para piada curta e para o angulo de profundidade de book, sem virar conselho.",
-    "numeros": "194 likes / 53 respostas; 2.100+ liquidacoes e US$ 2,22M no proprio post",
-    "opcoes": {
-     "a": "2,100 liquidations is not a strategy, it's a cardio routine.",
-     "b": "at some point the loss isn't the market, it's the click. a book with real depth doesn't let you find out 2,100 times.",
-     "c": "the platform made money on all 2,100 of those. someone should screenshot that chart next to his."
+    {
+      "link": "https://x.com/WatcherGuru/status/2121121420340027460",
+      "pt": "'Bitcoin crashes under $68,000 and ETH under $1,900' (06:02Z, 4.416 likes). Denylist do WatcherGuru e e preco — nao entra."
     },
-    "escolha": null,
-    "porque": null
-   },
-   {
-    "code": "E3",
-    "tipo": "reply",
-    "alvo": "@Bybit_Official",
-    "link": "https://x.com/Bybit_Official/status/2121202132602716251",
-    "pt": "Bybit publicou aviso de seguranca sobre a falha do Telegram para Android e listou o que fazer (11:22Z). Conta parceira, taxa de resposta de 76% — reply util e sem promocao aparece bem aqui.",
-    "numeros": "37 likes / 28 respostas na leitura das 12:03Z",
-    "opcoes": {
-     "a": "updating telegram before reading the group chat is the most adult thing i'll do today.",
-     "b": "most of this class of bug needs one thing to work: someone in the middle holding your keys. self-custody is a patch you install once.",
-     "c": "we carry more on that phone than we did in a bank in 2010 and we update it like it's a fridge."
+    {
+      "link": "https://x.com/WatcherGuru/status/2121128217386123568",
+      "pt": "Tailandia libera pagamento em cripto para turistas (06:29Z, 4.520 likes). Pauta boa para o angulo 24/7, mas o WatcherGuru esta na denylist de 07/11."
     },
-    "escolha": null,
-    "porque": null
-   },
-   {
-    "code": "E4",
-    "tipo": "reply",
-    "alvo": "@lookonchain",
-    "link": "https://x.com/lookonchain/status/2121146337446220217",
-    "pt": "Baleia 0x4cee comprou mais 10.380 ETH e chegou a 25.498 ETH a preco medio de US$ 2.382, com US$ 11,3M de perda nao realizada (07:41Z). Gancho de 'entrada e tweet, saida e book'.",
-    "numeros": "157 likes / 49 respostas; todos os valores no proprio post da Lookonchain",
-    "opcoes": {
-     "a": "average price 2,382 and still buying. that's not conviction, that's a subscription.",
-     "b": "unrealized is a word for 'nobody has agreed with you yet'. the book is the only vote that counts.",
-     "c": "he's down 11.3M and adding. the timeline calls it conviction, the accountant calls it something else."
+    {
+      "link": "https://x.com/elonmusk/status/2121118775210868871",
+      "pt": "'Jensen' (05:51Z, 71.158 likes). Alcance enorme, mas o assunto e NVIDIA — denylist de 07/11."
     },
-    "escolha": null,
-    "porque": null
-   },
-   {
-    "code": "E5",
-    "tipo": "reply",
-    "alvo": "@Bybit_Official",
-    "link": "https://x.com/Bybit_Official/status/2121181526645678289",
-    "pt": "Bybit abriu a arena principal do WSOT 2026 (10:01Z), 24 respostas em 48 likes. Bom para o angulo de comunidade, leve, sem promocao.",
-    "numeros": "48 likes / 24 respostas na leitura das 12:03Z",
-    "opcoes": {
-     "a": "main arena is live and my entire strategy is still 'be lucky, look calm'.",
-     "b": "leaderboards last two weeks. the book runs every day. that's the part nobody screenshots.",
-     "c": "every tournament ends with one winner and 400 people suddenly 'testing a new strategy'."
+    {
+      "link": "https://x.com/unusual_whales/status/2121095904984015177",
+      "pt": "Cluster NVDA da UW (odds do Polymarket sobre o proximo CEO, 04:20Z). NVDA na denylist."
     },
-    "escolha": null,
-    "porque": null
-   },
-   {
-    "code": "DMM1",
-    "angulo": "o agente 24/7 chegou antes do mercado 24/7",
-    "en": "a 24/7 worker showed up before the 24/7 market did. one of the two is going to feel obsolete by friday.",
-    "pt": "Fonte: post do proprio Musk (https://x.com/elonmusk/status/2121120295884837183, 13/11 05:57Z) e o 'Grok Bot' dele 13 min depois (https://x.com/elonmusk/status/2121123425213399408). Por que agora: assunto do dia, 6,8 mil likes, e o contraste se explica sem citar a Fluxion.",
-    "escolha": null,
-    "porque": null
-   },
-   {
-    "code": "DMM2",
-    "angulo": "precificar antes de arriscar",
-    "en": "the cheapest way to learn a market is to call it before you're in it. free picks, public leaderboard, no excuses.",
-    "pt": "Fonte: Bybit, ByPick Season 2 (https://x.com/Bybit_Official/status/2121196376222507397, 13/11 11:00Z) — picks gratis, pontos e leaderboard. Por que agora: parceira lancou hoje; o angulo de aprendizado nao promete retorno nenhum.",
-    "escolha": null,
-    "porque": null
-   },
-   {
-    "code": "DMM3",
-    "angulo": "o update que voce pula e o que cobra",
-    "en": "the update you skip is always the one that matters. patch the app, rotate the keys, then read the group chat.",
-    "pt": "Fonte: aviso de seguranca da Bybit sobre a falha do Telegram Android (https://x.com/Bybit_Official/status/2121202132602716251, 13/11 11:22Z). Por que agora: util, sem numero inventado e sem promocao — bom contrapeso a uma edicao de trading.",
-    "escolha": null,
-    "porque": null
-   },
-   {
-    "code": "M1",
-    "formato": "'sweating over two buttons' (o cara suando entre dois botoes)",
-    "exemplo": "https://x.com/lookonchain/status/2121159285959012537",
-    "caption_en": "left: hold it overnight. right: the desk opens in 6 hours. there is no third button, that's the joke.",
-    "cena_en": "Close on the mascot, glossy black vinyl-toy cat with three spiky ears and the white swirl logo on the forehead, sweating one big cyan drop, visor flickering between blue and purple. In front of it two huge glowing buttons: one red, one green. Over its shoulder a wall clock with no hands. Nebula belly pulsing faintly, flame-tipped tail frozen mid-twitch.",
-    "escolha": null,
-    "porque": null
-   },
-   {
-    "code": "M2",
-    "formato": "'day 1 vs day 1,000' em dois quadros",
-    "exemplo": "https://x.com/lookonchain/status/2121146337446220217",
-    "caption_en": "day 1: i'll watch it. day 1,000: it watches me.",
-    "cena_en": "Two panels. Left: the mascot bright and tidy on day one, small notebook, single monitor, visor glowing clean cyan, flame-tipped tail up. Right: same cat on day one thousand, three monitors stacked, dark circles under the LED eyes, visor dim purple, nebula belly glowing through a worn hoodie, tail curled around a cold mug. Same glossy black vinyl-toy design, three spiky ears, white swirl logo on the forehead.",
-    "escolha": null,
-    "porque": null
-   }
+    {
+      "link": "https://x.com/Bybit_Official/status/2121158629542044017",
+      "pt": "Cashback de 2% a 10% por tier (08:30Z). E oferta de produto da parceira, nao ideia — e promocao de cartao nao e o nosso beat."
+    },
+    {
+      "link": "https://x.com/lookonchain/status/2121194936762822750",
+      "pt": "AguilaTrades fechou short de BTC com US$ 1,3M e abriu outro 40x (10:54Z). Terceiro item de alavancagem da mesma conta na janela; dois ja entraram, o terceiro viraria repeticao."
+    },
+    {
+      "link": "https://x.com/Bybit_Official/status/2121224060260470990",
+      "pt": "Bybit \"touch some grass\" com o Outlook caindo (27 mil views). Meme sem tema de mercado — serve de reply, nao de tip; nao entrou em card."
+    }
+  ],
+  "lacunas": [
+    "Parceiros de tokenizacao zerados na janela: xStocksFi, Mantle_Official, Alpha_Bybit, grovedotfinance, CIAN_protocol, SkyEcosystem, Securitize, BlackRock e DefiLlama sem post entre 00:03Z e 12:03Z.",
+    "TheBlock__ e Superstate nao responderam a leitura do xread nesta rodada (saida vazia) — nao sei se publicaram.",
+    "Logs de gleison, bruno e mathias de 12/11 ausentes no empresa-ops na leitura das 09:02; edicao saiu so do que li direto no X.",
+    "Banda 12:03Z-00:03Z segue sem edicao: a entrada da manha cobre 00:03Z-12:03Z.",
+    "Nenhuma escolha do Hadukem em 13/11: os tres cards (manha, tarde e noite) ficaram sem resposta ate o fecho das 21:30.",
+    "Logs do bruno (PR #146) e do mathias (branch sem PR) fora da main no fecho.",
+    "Log do Gleison termina na ronda das 15:00: nao ha registro das rondas das 18:00 e 21:00."
+  ],
+  "pending": [
+    {
+      "pt": "Escolha do Hadukem para as 10 opcoes da manha (E1-E5, DMM1-DMM3, M1-M2) — card sem resposta ate o fecho.",
+      "owner": "hadukem"
+    },
+    {
+      "pt": "Escolha do Hadukem para o card da tarde (4 tips de parceiro) e o da noite (4 replies) — sem resposta; as 8 tips estao em held.",
+      "owner": "hadukem"
+    },
+    {
+      "pt": "Decisao da banda 12:03Z-00:03Z: card proprio as 21:00 ou o dia fica so na edicao da manha.",
+      "owner": "hadukem"
+    },
+    {
+      "pt": "Log do bruno de 13/11 (PR #146) e o do mathias (branch agentes/mathias/log-2026-11-13, sem PR) fora da main no fecho.",
+      "owner": "lodi"
+    },
+    {
+      "pt": "PRs antigos do empresa-ops ainda abertos: #105 (grade dos 3 cards) e a fila do TikTok (#144, #145, #147, #148).",
+      "owner": "lodi"
+    }
+  ],
+  "notes_pt": "Fecho de 13/11 mesclado sobre o days/2026-11-13.json que a origem ja tinha (sha 2a9ffe1, 7 chaves): editions e page preservados inteiros. Entraram as 18 opcoes do dia em escolhas_log — as 10 da manha e as 8 dos cards da tarde (15:00) e da noite (18:30) — todas como sem escolha, porque o Hadukem nao respondeu nenhum dos tres cards ate as 21:30. As 8 tips dos cards sem resposta foram para held; nenhuma vira tip amanha (todas passam de 12h antes da edicao de 14/11), so 3 angulos em carryover. reporter_tips ganhou 13 tips dos tres reporteres, discarded_tips mais 1 (Bybit \"touch some grass\") e style_rules a regra do modal unico que o Hadukem pediu as 16:30. page ficou como estava, sem escolha. Ficaram de fora: o log do bruno (PR #146) e o do mathias (branch sem PR) nao estao na main, e nenhuma das 13 tips de reporter virou edicao alem do que ja estava na manha. O markdown da manha nao existia na origem e foi reconstruido a partir do page no mesmo passo.",
+  "escolhas_log": [
+    {
+      "codigo": "E1",
+      "conta": "@elonmusk",
+      "card": "manha 09:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/elonmusk/status/2121120295884837183",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E2",
+      "conta": "@lookonchain",
+      "card": "manha 09:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/lookonchain/status/2121159285959012537",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E3",
+      "conta": "@Bybit_Official",
+      "card": "manha 09:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/Bybit_Official/status/2121202132602716251",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E4",
+      "conta": "@lookonchain",
+      "card": "manha 09:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/lookonchain/status/2121146337446220217",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E5",
+      "conta": "@Bybit_Official",
+      "card": "manha 09:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/Bybit_Official/status/2121181526645678289",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "DMM1",
+      "conta": "",
+      "card": "manha 09:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "DMM2",
+      "conta": "",
+      "card": "manha 09:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "DMM3",
+      "conta": "",
+      "card": "manha 09:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "M1",
+      "conta": "",
+      "card": "manha 09:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/lookonchain/status/2121159285959012537",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "M2",
+      "conta": "",
+      "card": "manha 09:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/lookonchain/status/2121146337446220217",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E1",
+      "conta": "@Mantle_Official",
+      "card": "tarde 15:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/@Mantle_Official/status/2121264383427068264",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E2",
+      "conta": "@xStocksFi",
+      "card": "tarde 15:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/@xStocksFi/status/2121226576625041446",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E3",
+      "conta": "@SkyEcosystem",
+      "card": "tarde 15:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/@SkyEcosystem/status/2121264076261081173",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E4",
+      "conta": "@Securitize",
+      "card": "tarde 15:00",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/@Securitize/status/2121278497653940501",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E1",
+      "conta": "@Bybit_Official",
+      "card": "noite 18:30",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/@Bybit_Official/status/2121332019426709782",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E2",
+      "conta": "@lookonchain",
+      "card": "noite 18:30",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/@lookonchain/status/2121239068063457521",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E3",
+      "conta": "@lookonchain",
+      "card": "noite 18:30",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/@lookonchain/status/2121195528566555022",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    },
+    {
+      "codigo": "E4",
+      "conta": "@Bybit_Official",
+      "card": "noite 18:30",
+      "escolha": "sem escolha",
+      "texto_final": null,
+      "link_destino": "https://x.com/@Bybit_Official/status/2121271872465637542",
+      "porque": "card sem resposta do Hadukem ate o fecho das 21:30 — porquê nao informado"
+    }
+  ],
+  "held": [
+    {
+      "codigo": "E1",
+      "link": "https://x.com/@Mantle_Official/status/2121264383427068264",
+      "hora_utc": "15:30Z",
+      "motivo": "card da tarde 15:00 sem resposta do Hadukem ate o fecho; passa de 12h antes da edicao de 14/11"
+    },
+    {
+      "codigo": "E2",
+      "link": "https://x.com/@xStocksFi/status/2121226576625041446",
+      "hora_utc": "13:00Z",
+      "motivo": "card da tarde 15:00 sem resposta do Hadukem ate o fecho; passa de 12h antes da edicao de 14/11"
+    },
+    {
+      "codigo": "E3",
+      "link": "https://x.com/@SkyEcosystem/status/2121264076261081173",
+      "hora_utc": "12:29Z",
+      "motivo": "card da tarde 15:00 sem resposta do Hadukem ate o fecho; passa de 12h antes da edicao de 14/11"
+    },
+    {
+      "codigo": "E4",
+      "link": "https://x.com/@Securitize/status/2121278497653940501",
+      "hora_utc": "13:26Z",
+      "motivo": "card da tarde 15:00 sem resposta do Hadukem ate o fecho; passa de 12h antes da edicao de 14/11"
+    },
+    {
+      "codigo": "E1",
+      "link": "https://x.com/@Bybit_Official/status/2121332019426709782",
+      "hora_utc": "19:59Z",
+      "motivo": "card da noite 18:30 sem resposta do Hadukem ate o fecho; passa de 12h antes da edicao de 14/11"
+    },
+    {
+      "codigo": "E2",
+      "link": "https://x.com/@lookonchain/status/2121239068063457521",
+      "hora_utc": "13:49Z",
+      "motivo": "card da noite 18:30 sem resposta do Hadukem ate o fecho; passa de 12h antes da edicao de 14/11"
+    },
+    {
+      "codigo": "E3",
+      "link": "https://x.com/@lookonchain/status/2121195528566555022",
+      "hora_utc": "10:56Z",
+      "motivo": "card da noite 18:30 sem resposta do Hadukem ate o fecho; passa de 12h antes da edicao de 14/11"
+    },
+    {
+      "codigo": "E4",
+      "link": "https://x.com/@Bybit_Official/status/2121271872465637542",
+      "hora_utc": "16:00Z",
+      "motivo": "card da noite 18:30 sem resposta do Hadukem ate o fecho; passa de 12h antes da edicao de 14/11"
+    }
+  ],
+  "carryover": [
+    {
+      "link": "https://x.com/Microsoft/status/2121282013600907325",
+      "pt": "Microsoft pedindo desculpa pelo outage (16:40Z, 33 mil likes): angulo \"a nuvem para por horas, o mercado tokenizado nao fecha\" vale como reply em qualquer dia."
+    },
+    {
+      "link": "https://x.com/Mantle_Official/status/2121264383427068264",
+      "pt": "A tese do 24/7 dita pelo proprio parceiro (\"Everything you see here runs 24/7. Tokenized stocks included.\"), em video — melhor material de reply com Fluxion que nao foi usado."
+    },
+    {
+      "link": "https://x.com/grovedotfinance/status/2121286420707065999",
+      "pt": "Tesouro do Grove no Q3 (+14%, US$ 37,3 mi) para atender requisito de capital da Sky: angulo de yield sem alavancagem. Numeros sao releitura do Q3 Review de 11/11."
+    }
+  ],
+  "reporter_tips": [
+    {
+      "conta": "@grovedotfinance",
+      "link": "https://x.com/grovedotfinance/status/2120973324767695236",
+      "hora_utc": "12/11 20:13Z",
+      "resumo_pt": "Grove fechou loan de US$ 33,25 mi via Galaxy; facility chega a US$ 409 mi (82% dos US$ 500 mi).",
+      "uso": "ronda 09:00 do Gleison — nao entrou em card"
+    },
+    {
+      "conta": "@Bybit_Official",
+      "link": "https://x.com/Bybit_Official/status/2121202132602716251",
+      "hora_utc": "11:22Z",
+      "resumo_pt": "Advisory de seguranca: falha no Telegram para Android, pede update imediato (36 likes / 28 respostas).",
+      "uso": "card da manha E3 — sem escolha"
+    },
+    {
+      "conta": "@Mantle_Official",
+      "link": "https://x.com/Mantle_Official/status/2121234166411100594",
+      "hora_utc": "13:30Z",
+      "resumo_pt": "Roundup bi-semanal: tokenized stocks negociadas durante a temporada de resultados.",
+      "uso": "ronda 12:00 — nao entrou em card; angulo de 24/7 guardado"
+    },
+    {
+      "conta": "@xStocksFi",
+      "link": "https://x.com/xStocksFi/status/2121226576625041446",
+      "hora_utc": "13:00Z",
+      "resumo_pt": "xStocks no mainstage do Solana Breakpoint (Andrew Price) falando de levar acoes globais onchain.",
+      "uso": "card da tarde E2 — sem escolha"
+    },
+    {
+      "conta": "@Mantle_Official",
+      "link": "https://x.com/Mantle_Official/status/2121264383427068264",
+      "hora_utc": "15:30Z",
+      "resumo_pt": "\"Everything you see here runs 24/7. Tokenized stocks included.\" (29 likes / 7 RT).",
+      "uso": "card da tarde E1 — sem escolha; em held e carryover"
+    },
+    {
+      "conta": "@grovedotfinance",
+      "link": "https://x.com/grovedotfinance/status/2121286420707065999",
+      "hora_utc": "16:57Z",
+      "resumo_pt": "Tesouro do Grove +14% no Q3, US$ 1,8 mi de net protocol income, net assets US$ 37,3 mi; capital de risco da Sky.",
+      "uso": "card da tarde — nao entrou (4 itens completos); em carryover"
+    },
+    {
+      "conta": "@Google",
+      "link": "https://x.com/Google/status/2120982566891356279",
+      "hora_utc": "12/11 20:50Z",
+      "resumo_pt": "Orchestrator no Antigravity para assinantes AI Ultra: varios modelos numa sessao.",
+      "uso": "ronda 10:30 do Bruno — nao entrou em card"
+    },
+    {
+      "conta": "@RobinhoodApp",
+      "link": "https://x.com/RobinhoodApp/status/2120998454193279424",
+      "hora_utc": "12/11 21:53Z",
+      "resumo_pt": "$RENDER e $SENT liberados para trade no Robinhood Legend.",
+      "uso": "ronda 10:30 do Bruno — nao entrou em card"
+    },
+    {
+      "conta": "@Tesla",
+      "link": "https://x.com/Tesla/status/2120980260393271585",
+      "hora_utc": "12/11 20:41Z",
+      "resumo_pt": "Slogan do FSD Supervised (4.102 likes) — o proprio Bruno marcou como material de reply, nao de tip.",
+      "uso": "ronda 10:30 do Bruno — reply, fora dos cards"
+    },
+    {
+      "conta": "@Microsoft",
+      "link": "https://x.com/Microsoft/status/2121282013600907325",
+      "hora_utc": "16:40Z",
+      "resumo_pt": "Pedido de desculpa e \"broad recovery\" do incidente de infraestrutura da tarde (33.184 likes).",
+      "uso": "ronda 17:30 do Bruno — nao entrou em card; em carryover"
+    },
+    {
+      "conta": "@nvidia",
+      "link": "https://x.com/nvidia/status/2121319866712076769",
+      "hora_utc": "19:10Z",
+      "resumo_pt": "GR00T 2, modelo aberto \"System One\" para pesquisa em robotica; aprende por demonstracao.",
+      "uso": "ronda 17:30 do Bruno — nao entrou em card"
+    },
+    {
+      "conta": "@Google",
+      "link": "https://x.com/Google/status/2121293823837921433",
+      "hora_utc": "17:27Z",
+      "resumo_pt": "Google Wallet entra nos apps conectados do Personal Intelligence no Gemini.",
+      "uso": "ronda 17:30 do Bruno — nao entrou em card"
+    },
+    {
+      "conta": "@tokenterminal",
+      "link": "https://x.com/tokenterminal/status/2121270363275272254",
+      "hora_utc": "15:54Z",
+      "resumo_pt": "Post so com link para um X Article (conteudo atras de login, ilegivel via xread) — lacuna declarada pelo Mathias.",
+      "uso": "ronda 15:00 do Mathias — fonte nova (PR #141), nao entrou em card"
+    }
+  ],
+  "quality_feedback": [
+    {
+      "quem": "hadukem",
+      "obs": "\"nenhuma das edições do clarim vieram da forma que é pra vir, um modal selecionavel pra eu mandar de uma so vez pra voce\" (~16:30). O card da tarde foi reenviado como bloco clicável, com link, letra e porquê por item.",
+      "tom": "atencao"
+    },
+    {
+      "quem": "gleison",
+      "obs": "3 rondas (09:00, 12:00, 15:00) com link exato em todas e ressalva honesta no numero repetido do Grove (mesmos numeros do Q3 Review de 11/11).",
+      "tom": "bom"
+    },
+    {
+      "quem": "bruno",
+      "obs": "2 rondas (10:30, 17:30) com numeros de engajamento em todas as tips. Declarou a lacuna de captura do @Apple (3a ronda seguida com 0 posts) em vez de tratar como silencio medido.",
+      "tom": "bom"
+    },
+    {
+      "quem": "mathias",
+      "obs": "Rondas 09:00 e 12:00 em silencio; na 15:00 achou 1 post da fonte nova (@tokenterminal) que esta atras de login — lacuna declarada, nada inventado. Escopo novo entrou pela PR #141, mergeada 15:06.",
+      "tom": "atencao"
+    },
+    {
+      "quem": "bruna",
+      "obs": "Os tres cards do dia (manha, 15:00, 18:30) ficaram sem resposta do Hadukem. O dia fecha sem escolha, com 8 tips em held e page intocado.",
+      "tom": "atencao"
+    }
+  ],
+  "style_rules": [
+    {
+      "regra": "Card do Clarim sai em UM modal selecionavel: link clicavel de cada item abrindo em outra aba, letras uma por linha, campo de porque por item e um envio unico no fim.",
+      "origem": "Hadukem, 13/11 ~16:30 — \"nenhuma das edições do clarim vieram da forma que é pra vir, um modal selecionavel pra eu mandar de uma so vez pra voce\"",
+      "aplica_a": "cards do Clarim (manha, 15:00, noite)"
+    }
+  ],
+  "reporter_eod": [
+    {
+      "reporter": "gleison",
+      "log": "clarim/logs/gleison/2026-11-13.md",
+      "pr": "#142 (aberto)",
+      "entregou": "3 rondas (09:00, 12:00, 15:00) com link exato: Grove US$ 33,25 mi via Galaxy, advisory do Telegram da Bybit, roundup da Mantle, palco da xStocks no Breakpoint, video 24/7 da Mantle e tesouro do Grove no Q3. Descartou promo/concurso com motivo. Lacunas: CIAN e KiiChain sem handle (4a ronda)."
+    },
+    {
+      "reporter": "bruno",
+      "log": "clarim/logs/bruno/2026-11-13.md",
+      "pr": "#146 (aberto)",
+      "entregou": "2 rondas (10:30, 17:30): Google Orchestrator, Robinhood com RENDER/SENT e Tesla FSD; a tarde trouxe Microsoft (apology do outage), nvidia GR00T 2 e Google Wallet no Gemini. Declarou a lacuna do @Apple (3a ronda com 0 posts)."
+    },
+    {
+      "reporter": "mathias",
+      "log": "clarim/logs/mathias/2026-11-13.md",
+      "pr": "branch agentes/mathias/log-2026-11-13 (sem PR)",
+      "entregou": "Rondas 09:00 e 12:00 em silencio; 15:00 com 1 tip da fonte nova (@tokenterminal, post so com link para X Article atras de login — lacuna declarada). Escopo novo entrou pela PR #141, mergeada 15:06."
+    }
   ]
- },
- "discarded_tips": [
-  {
-   "link": "https://x.com/WatcherGuru/status/2121124292675203140",
-   "pt": "'Nvidia employees petition to bring back Jensen Huang' (06:13Z, 28.610 likes). WatcherGuru na denylist de 07/11 e o assunto e NVIDIA, tambem na denylist."
-  },
-  {
-   "link": "https://x.com/WatcherGuru/status/2121121420340027460",
-   "pt": "'Bitcoin crashes under $68,000 and ETH under $1,900' (06:02Z, 4.416 likes). Denylist do WatcherGuru e e preco — nao entra."
-  },
-  {
-   "link": "https://x.com/WatcherGuru/status/2121128217386123568",
-   "pt": "Tailandia libera pagamento em cripto para turistas (06:29Z, 4.520 likes). Pauta boa para o angulo 24/7, mas o WatcherGuru esta na denylist de 07/11."
-  },
-  {
-   "link": "https://x.com/elonmusk/status/2121118775210868871",
-   "pt": "'Jensen' (05:51Z, 71.158 likes). Alcance enorme, mas o assunto e NVIDIA — denylist de 07/11."
-  },
-  {
-   "link": "https://x.com/unusual_whales/status/2121095904984015177",
-   "pt": "Cluster NVDA da UW (odds do Polymarket sobre o proximo CEO, 04:20Z). NVDA na denylist."
-  },
-  {
-   "link": "https://x.com/Bybit_Official/status/2121158629542044017",
-   "pt": "Cashback de 2% a 10% por tier (08:30Z). E oferta de produto da parceira, nao ideia — e promocao de cartao nao e o nosso beat."
-  },
-  {
-   "link": "https://x.com/lookonchain/status/2121194936762822750",
-   "pt": "AguilaTrades fechou short de BTC com US$ 1,3M e abriu outro 40x (10:54Z). Terceiro item de alavancagem da mesma conta na janela; dois ja entraram, o terceiro viraria repeticao."
-  }
- ],
- "lacunas": [
-  "Parceiros de tokenizacao zerados na janela: xStocksFi, Mantle_Official, Alpha_Bybit, grovedotfinance, CIAN_protocol, SkyEcosystem, Securitize, BlackRock e DefiLlama sem post entre 00:03Z e 12:03Z.",
-  "TheBlock__ e Superstate nao responderam a leitura do xread nesta rodada (saida vazia) — nao sei se publicaram.",
-  "Logs de gleison, bruno e mathias de 12/11 ausentes no empresa-ops na leitura das 09:02; edicao saiu so do que li direto no X.",
-  "Banda 12:03Z-00:03Z segue sem edicao: a entrada da manha cobre 00:03Z-12:03Z."
- ],
- "pending": [
-  {
-   "pt": "Escolha do Hadukem para E1-E5, DMM1-DMM3 e M1-M2.",
-   "owner": "hadukem"
-  },
-  {
-   "pt": "Decisao sobre a banda 12:03Z-00:03Z (card as 21:00 ou corte).",
-   "owner": "hadukem"
-  }
- ],
- "notes_pt": "Edicao de 13/11: cinco replies (Musk/Grok Bot, Machi liquidado 2.100x, aviso de seguranca da Bybit, baleia 0x4cee, arena do WSOT), tres posts e dois memes. Todos com link exato conferido por snowflake ID. Nenhum numero fora da fonte primaria. Angulos (b) variados: uptime/quoting, profundidade de book, autocustodia, marca a mercado, comunidade. NVDA e WatcherGuru ficaram de fora pela denylist de 07/11."
 }
