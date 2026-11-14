@@ -186,8 +186,8 @@
   "Nenhuma conta de tokenizacao publicou na janela 00:04Z-12:04Z: xStocksFi, Mantle_Official, Alpha_Bybit, grovedotfinance, CIAN_protocol, SkyEcosystem, KiiChainio, Securitize, BlackRock, DefiLlama, Messari e Fluxion_network voltaram vazias no xread.",
   "TheBlock__ e Superstate sem retorno do xread nesta rodada.",
   "As 8 tips em held de 13/11 venceram a janela de 12h sem escolha do Hadukem e saem do estoque.",
-  "Logs dos reporteres de 13/11 ausentes no empresa-ops na leitura das 09:05; edicao saiu so do que li direto no X.",
-  "Banda 12:04Z-00:04Z segue sem edicao: esta entrada cobre 00:04Z-12:04Z."
+  "Banda 12:04Z-00:04Z segue sem edicao: esta entrada cobre 00:04Z-12:04Z.",
+  "Logs de gleison, bruno e mathias de 13/11 existem e foram lidos; todas as tips deles sao de 13/11 e ficaram fora da janela 00:04Z-12:04Z de hoje, entao nao alimentaram esta edicao."
  ],
  "pending": [
   {
@@ -210,5 +210,40 @@
    "pt": "Abraxas Capital com mais de US$ 512M de lucro em duas contas de hedge na Hyperliquid e shorts em US$ 572M (06:10Z). Sobrou da selecao: angulo de hedge como execucao, nao como aposta."
   }
  ],
- "notes_pt": "Edicao de 14/11: cinco replies (Musk 'Made on Earth', pre-IPO da Anthropic na Bybit, ida e volta do 58bro.eth, 'it's not you, it's risk management' da Bybit, compra do Voorhees de madrugada), tres ideias de post e dois memes. Todos os links conferidos pelo snowflake ID e todos os numeros vindos do texto do proprio post. Janela fraca em conta grande: so Musk, Lookonchain, Bybit e UW publicaram; nenhum parceiro de tokenizacao apareceu. WatcherGuru e NVDA fora pela denylist de 07/11."
+ "notes_pt": "Edicao de 14/11: cinco replies (Musk 'Made on Earth', pre-IPO da Anthropic na Bybit, ida e volta do 58bro.eth, 'it's not you, it's risk management' da Bybit, compra do Voorhees de madrugada), tres ideias de post e dois memes. Todos os links conferidos pelo snowflake ID e todos os numeros vindos do texto do proprio post. Janela fraca em conta grande: so Musk, Lookonchain, Bybit e UW publicaram; nenhum parceiro de tokenizacao apareceu. WatcherGuru e NVDA fora pela denylist de 07/11.",
+ "reporter_eod": {
+  "gleison": "13/11: 2 tips (loan de US$ 33,25M do Grove via Galaxy; advisory de seguranca do Telegram na Bybit). Descartou ByPick, WSOT e cashback por serem promo. CIAN e KiiChain seguem sem handle confirmado.",
+  "bruno": "13/11: 2 rondas (10:30 e 17:30). Tips: Orchestrator no Antigravity do Google (2.396 likes) e $RENDER/$SENT no Robinhood Legend. @Apple com 0 posts pela terceira ronda seguida — lacuna de captura declarada, nao silencio medido.",
+  "mathias": "13/11: 3 rondas. Ronda 15:00 so com um post do tokenterminal atras de login (lacuna declarada); BlackRock, rwa_xyz, Securitize, Dinari e Superstate sem novidade. Pidiu fonte nova, liberada na PR #141."
+ },
+ "reporter_tips": [
+  {
+   "conta": "@grovedotfinance",
+   "link": "https://x.com/grovedotfinance/status/2120973324767695236",
+   "hora_utc": "12/11 20:13Z",
+   "resumo_pt": "Grove fechou loan de US$ 33,25 mi via Galaxy; facility chega a US$ 409 mi (82% dos US$ 500 mi).",
+   "uso": "fora da janela de hoje"
+  },
+  {
+   "conta": "@Google",
+   "link": "https://x.com/Google/status/2120982566891356279",
+   "hora_utc": "12/11 20:50Z",
+   "resumo_pt": "Orchestrator no Antigravity para assinantes AI Ultra; 2.396 likes / 142 respostas.",
+   "uso": "fora da janela de hoje"
+  },
+  {
+   "conta": "@RobinhoodApp",
+   "link": "https://x.com/RobinhoodApp/status/2120998454193279424",
+   "hora_utc": "12/11 21:53Z",
+   "resumo_pt": "$RENDER e $SENT liberados para trade no Robinhood Legend.",
+   "uso": "fora da janela de hoje"
+  },
+  {
+   "conta": "@tokenterminal",
+   "link": "https://x.com/tokenterminal/status/2121270363275272254",
+   "hora_utc": "13/11 15:54Z",
+   "resumo_pt": "Post so com link para X Article atras de login; conteudo nao legivel pelo xread — lacuna declarada.",
+   "uso": "fora da janela de hoje"
+  }
+ ]
 }
