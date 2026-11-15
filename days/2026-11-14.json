@@ -18,14 +18,14 @@
     "M2"
    ],
    "page_codes_gerados": true,
-   "escolha_hadukem": null,
-   "porque": "aguardando escolha no card do dia",
+   "escolha_hadukem": "parcial: E1=b; E2-E5, DMM1-DMM3, M1 e M2 sem resposta",
+   "porque": "escolha do E1 feita no card da manha; porque nao informado. Os demais itens ficaram sem resposta ate o fecho das 21:30.",
    "publicada": false,
    "lacuna": "Nenhuma conta de tokenizacao publicou na janela: xStocksFi, Mantle_Official, Alpha_Bybit, grovedotfinance, CIAN_protocol, SkyEcosystem, KiiChainio, Securitize, BlackRock, DefiLlama, Messari e Fluxion_network sem resultado no xread entre 00:04Z e 12:04Z. TheBlock__ e Superstate tambem voltaram vazios."
   }
  ],
  "page": {
-  "status": "aguardando escolha do Hadukem",
+  "status": "escolha parcial do Hadukem (E1=b); demais itens sem resposta; nada publicado (so o Hadukem posta)",
   "date": "2026-11-14",
   "slot": "manha",
   "items": [
@@ -41,8 +41,8 @@
      "b": "the hard part was never making it. it's pricing it every hour with a book that can take real size.",
      "c": "everyone talks about what leaves earth. nobody asks who's awake pricing it at 3am."
     },
-    "escolha": null,
-    "porque": null
+    "escolha": "b",
+    "porque": "porque nao informado"
    },
    {
     "code": "E2",
@@ -180,6 +180,14 @@
   {
    "link": "https://x.com/Bybit_Official/status/2121574113957351581",
    "pt": "WSOT 2026 as 12:01Z, 8 likes / 3 respostas. Terceiro post do WSOT em dois dias e o mais fraco da janela."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2121656531039355086",
+   "pt": "Peticao para trazer Jensen Huang de volta a Nvidia passa de 100 mil assinaturas (17:09Z, 147 mil views). NVDA na denylist de 07/11."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2121654136133873674",
+   "pt": "Acordos circulares da Nvidia (17:01Z). Assunto de preco/setor e NVDA na denylist de 07/11."
   }
  ],
  "lacunas": [
@@ -187,19 +195,82 @@
   "TheBlock__ e Superstate sem retorno do xread nesta rodada.",
   "As 8 tips em held de 13/11 venceram a janela de 12h sem escolha do Hadukem e saem do estoque.",
   "Banda 12:04Z-00:04Z segue sem edicao: esta entrada cobre 00:04Z-12:04Z.",
-  "Logs de gleison, bruno e mathias de 13/11 existem e foram lidos; todas as tips deles sao de 13/11 e ficaram fora da janela 00:04Z-12:04Z de hoje, entao nao alimentaram esta edicao."
+  "Logs de gleison, bruno e mathias de 13/11 existem e foram lidos; todas as tips deles sao de 13/11 e ficaram fora da janela 00:04Z-12:04Z de hoje, entao nao alimentaram esta edicao.",
+  "Nenhum dos tres reporteres gravou log de 14/11 no empresa-ops nem abriu branch do dia ate o fecho: a edicao saiu da varredura propria da editora, nao de packet.",
+  "Os 8 itens dos cards das 15:00 e das 18:00 ficaram sem resposta do Hadukem e vencem a janela de 12h amanha."
  ],
  "pending": [
   {
-   "pt": "Escolha do Hadukem para E1-E5, DMM1-DMM3 e M1-M2 no card da manha.",
+   "pt": "Escolha do Hadukem para os 9 itens restantes da manha (E2-E5, DMM1-DMM3, M1-M2) e para os 8 dos cards da tarde e da noite — todos vencidos, nenhum vira tip amanha.",
    "owner": "hadukem"
   },
   {
-   "pt": "Decisao da banda 12:04Z-00:04Z: card proprio a tarde ou o dia fica so na edicao da manha.",
+   "pt": "Definicao sobre a denylist de 07/11 (WatcherGuru e NVDA): ele foi avisado de que a saida de Jensen Huang da Nvidia e a peticao estao fora pela denylist e pode liberar caso a caso.",
    "owner": "hadukem"
+  },
+  {
+   "pt": "Lacuna dos logs de 14/11 de gleison, bruno e mathias: declarar no canal da mesa e seguir sem cobranca.",
+   "owner": "bruna"
   }
  ],
- "held": [],
+ "held": [
+  {
+   "card": "tarde 15:00",
+   "code": "E1",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121634261170086013",
+   "pt": "sem resposta do Hadukem no fecho; fora da janela de 12h em 15/11"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E2",
+   "alvo": "@elonmusk",
+   "link": "https://x.com/elonmusk/status/2121627776881230121",
+   "pt": "sem resposta do Hadukem no fecho; fora da janela de 12h em 15/11"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E3",
+   "alvo": "@elonmusk",
+   "link": "https://x.com/elonmusk/status/2121628295234023654",
+   "pt": "sem resposta do Hadukem no fecho; fora da janela de 12h em 15/11"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E4",
+   "alvo": "@unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2121634511830020187",
+   "pt": "sem resposta do Hadukem no fecho; fora da janela de 12h em 15/11"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E5",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121596552347324731",
+   "pt": "sem resposta do Hadukem no fecho; fora da janela de 12h em 15/11"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E1",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121694407128670718",
+   "pt": "sem resposta do Hadukem no fecho; fora da janela de 12h em 15/11"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E2",
+   "alvo": "@grovedotfinance",
+   "link": "https://x.com/grovedotfinance/status/2121675444751925399",
+   "pt": "sem resposta do Hadukem no fecho; fora da janela de 12h em 15/11"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E3",
+   "alvo": "@unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2121664710743597410",
+   "pt": "sem resposta do Hadukem no fecho; fora da janela de 12h em 15/11"
+  }
+ ],
  "carryover": [
   {
    "link": "https://x.com/elonmusk/status/2121502131056177514",
@@ -208,13 +279,22 @@
   {
    "link": "https://x.com/lookonchain/status/2121485835468222504",
    "pt": "Abraxas Capital com mais de US$ 512M de lucro em duas contas de hedge na Hyperliquid e shorts em US$ 572M (06:10Z). Sobrou da selecao: angulo de hedge como execucao, nao como aposta."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2121634261170086013",
+   "pt": "Gancho \"markets dont wait, anywhere, anytime\" da Bybit: melhor frase de 24/7 da tarde; o angulo serve amanha sem depender do post."
+  },
+  {
+   "link": "https://x.com/grovedotfinance/status/2121675444751925399",
+   "pt": "Newsletter de novembro da Grove sai domingo (\"Take 15 on the 15th\"): gancho de domingo para o lado de yield sem leverage."
   }
  ],
- "notes_pt": "Edicao de 14/11: cinco replies (Musk 'Made on Earth', pre-IPO da Anthropic na Bybit, ida e volta do 58bro.eth, 'it's not you, it's risk management' da Bybit, compra do Voorhees de madrugada), tres ideias de post e dois memes. Todos os links conferidos pelo snowflake ID e todos os numeros vindos do texto do proprio post. Janela fraca em conta grande: so Musk, Lookonchain, Bybit e UW publicaram; nenhum parceiro de tokenizacao apareceu. WatcherGuru e NVDA fora pela denylist de 07/11.",
+ "notes_pt": "Fecho de 14/11 sobre a base do dia (editions e page preservados; nada foi apagado). A edicao da manha saiu com 5 replies (Musk \"Made on Earth\", Anthropic pre-IPO na Bybit, ida e volta do 58bro.eth, \"its not you\" da Bybit, compra do Voorhees), 3 ideias de post e 2 memes; a tarde levou 5 replies (Bybit \"markets dont wait\", Starship e Grok do Musk, Buffett na UW, Stockholm Open) e a noite 3 (Bybit \"uma palavra\", newsletter da Grove, Altman na UW). Escolha do Hadukem no dia: uma so, E1 da manha = b, sem porque informado; os outros 17 itens (9 da manha e 8 dos cards) ficaram sem resposta e vao para held. Nada foi publicado: so ele posta. Regra de estilo nova: o modal aprovado as 17:00 (link em cima, letras uma por linha, porque por item, envio unico) entrou em style_rules e no SHARED (PR #161). Ficaram de fora pela denylist de 07/11: WatcherGuru, NVDA (peticao do Jensen Huang e acordos circulares) e os promos da Bybit. Lacuna declarada: nenhum reporter gravou log de 14/11 no repo. Tudo o que esta aqui foi conferido por GET da origem depois do PUT.",
  "reporter_eod": {
-  "gleison": "13/11: 2 tips (loan de US$ 33,25M do Grove via Galaxy; advisory de seguranca do Telegram na Bybit). Descartou ByPick, WSOT e cashback por serem promo. CIAN e KiiChain seguem sem handle confirmado.",
-  "bruno": "13/11: 2 rondas (10:30 e 17:30). Tips: Orchestrator no Antigravity do Google (2.396 likes) e $RENDER/$SENT no Robinhood Legend. @Apple com 0 posts pela terceira ronda seguida — lacuna de captura declarada, nao silencio medido.",
-  "mathias": "13/11: 3 rondas. Ronda 15:00 so com um post do tokenterminal atras de login (lacuna declarada); BlackRock, rwa_xyz, Securitize, Dinari e Superstate sem novidade. Pidiu fonte nova, liberada na PR #141."
+  "gleison": "14/11: sem log no empresa-ops e sem branch do dia ate o fecho (lacuna declarada). Nada dele alimentou a edicao.",
+  "bruno": "14/11: sem log no empresa-ops e sem branch do dia ate o fecho (lacuna declarada). Nada dele alimentou a edicao.",
+  "mathias": "14/11: sem log no empresa-ops e sem branch do dia ate o fecho (lacuna declarada). Nada dele alimentou a edicao.",
+  "fonte_pt": "A edicao de 14/11 saiu da varredura propria da editora (xread) nas janelas 00:04Z-12:04Z, 12:04Z-18:00Z e 18:00Z-00:00Z."
  },
  "reporter_tips": [
   {
@@ -244,6 +324,212 @@
    "hora_utc": "13/11 15:54Z",
    "resumo_pt": "Post so com link para X Article atras de login; conteudo nao legivel pelo xread — lacuna declarada.",
    "uso": "fora da janela de hoje"
+  }
+ ],
+ "escolhas_log": [
+  {
+   "card": "manha 09:00",
+   "code": "E1",
+   "tipo": "reply",
+   "alvo": "@elonmusk",
+   "link": "https://x.com/elonmusk/status/2121502131056177514",
+   "escolha": "b",
+   "porque": "porque nao informado"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "E2",
+   "tipo": "reply",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121422868915400877",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "E3",
+   "tipo": "reply",
+   "alvo": "@lookonchain",
+   "link": "https://x.com/lookonchain/status/2121483591217779163",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "E4",
+   "tipo": "reply",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121543666279784919",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "E5",
+   "tipo": "reply",
+   "alvo": "@lookonchain",
+   "link": "https://x.com/lookonchain/status/2121465585724997997",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "DMM1",
+   "tipo": "post",
+   "alvo": "proprio",
+   "link": "",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "DMM2",
+   "tipo": "post",
+   "alvo": "proprio",
+   "link": "",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "DMM3",
+   "tipo": "post",
+   "alvo": "proprio",
+   "link": "",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "M1",
+   "tipo": "meme",
+   "alvo": "proprio",
+   "link": "",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "M2",
+   "tipo": "meme",
+   "alvo": "proprio",
+   "link": "",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E1",
+   "tipo": "reply",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121634261170086013",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E2",
+   "tipo": "reply",
+   "alvo": "@elonmusk",
+   "link": "https://x.com/elonmusk/status/2121627776881230121",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E3",
+   "tipo": "reply",
+   "alvo": "@elonmusk",
+   "link": "https://x.com/elonmusk/status/2121628295234023654",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E4",
+   "tipo": "reply",
+   "alvo": "@unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2121634511830020187",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E5",
+   "tipo": "reply",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121596552347324731",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E1",
+   "tipo": "reply",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121694407128670718",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E2",
+   "tipo": "reply",
+   "alvo": "@grovedotfinance",
+   "link": "https://x.com/grovedotfinance/status/2121675444751925399",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E3",
+   "tipo": "reply",
+   "alvo": "@unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2121664710743597410",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  }
+ ],
+ "style_rules": {
+  "modal_card": {
+   "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link do post em cima de cada item, letras a/b/c em lista uma por linha (nunca corridas no rotulo do campo), opcao \"nenhuma\" e campo de porque por item, com um unico botao de envio no fim.",
+   "origem": "Hadukem, 14/11/2026 ~17:00: \"agora sim, esse e o tipo de modal que eu quero. anote nas regras para me mandar sempre que tiver um novo edicao de clarim\". Gravado em clarim/SHARED.md, PR #161 (commit be2c30d).",
+   "falha_anterior": "O modal anterior perdia as letras b e c porque o texto ia espremido no rotulo do card; trocar o componente resolveu."
+  },
+  "anti_dup_urls_2026-11-14": [
+   "https://x.com/elonmusk/status/2121502131056177514",
+   "https://x.com/Bybit_Official/status/2121422868915400877",
+   "https://x.com/lookonchain/status/2121483591217779163",
+   "https://x.com/Bybit_Official/status/2121543666279784919",
+   "https://x.com/lookonchain/status/2121465585724997997",
+   "https://x.com/Bybit_Official/status/2121634261170086013",
+   "https://x.com/elonmusk/status/2121627776881230121",
+   "https://x.com/elonmusk/status/2121628295234023654",
+   "https://x.com/unusual_whales/status/2121634511830020187",
+   "https://x.com/Bybit_Official/status/2121596552347324731",
+   "https://x.com/Bybit_Official/status/2121694407128670718",
+   "https://x.com/grovedotfinance/status/2121675444751925399",
+   "https://x.com/unusual_whales/status/2121664710743597410"
+  ]
+ },
+ "quality_feedback": [
+  {
+   "quando": "14/11 ~11:00",
+   "quem": "Hadukem",
+   "texto": "bom dia, voce nao mandou o modal com as escolhas clicaveis",
+   "acao": "Card da manha reenviado em modal, no mesmo dia."
+  },
+  {
+   "quando": "14/11 ~11:30",
+   "quem": "Hadukem",
+   "texto": "nao ta dando pra ver a b ou c, o modal ficou ruim de selecionar",
+   "acao": "Trocado o componente: letras em linha propria, fora do rotulo, link em cima de cada item."
+  },
+  {
+   "quando": "14/11 ~17:00",
+   "quem": "Hadukem",
+   "texto": "agora sim, esse e o tipo de modal que eu quero. anote nas regras",
+   "acao": "Regra gravada em SHARED.md (PR #161) e em style_rules do dia."
   }
  ]
 }
