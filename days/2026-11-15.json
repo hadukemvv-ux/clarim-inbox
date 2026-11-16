@@ -5,67 +5,451 @@
    "slot": "manha",
    "hora_local": "09:00",
    "janela_utc": "2026-11-15 00:02Z -> 12:02Z",
-   "codes": [],
-   "page_codes_gerados": [],
-   "escolha_hadukem": null,
-   "porque": null,
+   "codes": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "DMM1",
+    "DMM2",
+    "DMM3",
+    "M1",
+    "M2"
+   ],
+   "page_codes_gerados": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "DMM1",
+    "DMM2",
+    "DMM3",
+    "M1",
+    "M2"
+   ],
+   "escolha_hadukem": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30",
    "publicada": false,
-   "lacuna": "Janela magra: só @elonmusk, @lookonchain, @unusual_whales e @Bybit_Official publicaram; nenhuma conta de tokenização apareceu (Mantle, xStocksFi, Alpha_Bybit, Grove, CIAN, Sky, KiiChain, Securitize, BlackRock, DefiLlama, Messari, Fluxion_network mudas). WatcherGuru e NVDA seguem na denylist de 07/11. TheBlock__ e Superstate voltaram vazios. Log de mathias de 14/11 não existia."
+   "lacuna": "Janela magra: só @elonmusk, @lookonchain, @unusual_whales e @Bybit_Official publicaram; nenhuma conta de tokenização apareceu (Mantle, xStocksFi, Alpha_Bybit, Grove, CIAN, Sky, KiiChain, Securitize, BlackRock, DefiLlama, Messari, Fluxion_network mudas). WatcherGuru e NVDA seguem na denylist de 07/11. TheBlock__ e Superstate voltaram vazios. Log de mathias de 14/11 não existia.",
+   "total_posts_janela": 21,
+   "replies": [
+    {
+     "code": "E1",
+     "conta": "@elonmusk",
+     "link": "https://x.com/elonmusk/status/2121763396190179414",
+     "utc": "00:33Z",
+     "likes": 182834,
+     "replies": 8366,
+     "pt": "Vídeos que o próprio Elon fez do alto da torre na primeira captura da Starship; 182,8 mil likes, o maior alcance da janela — reply aqui é vitrine.",
+     "a": "shot on a phone btw. the most important footage of the decade came out of a pocket",
+     "b": "caught a rocket in the dark at 3am. markets still clock out at 4pm",
+     "c": "everyone filming the catch, nobody asking who pays for the next one"
+    },
+    {
+     "code": "E2",
+     "conta": "@lookonchain",
+     "link": "https://x.com/lookonchain/status/2121859351602504071",
+     "utc": "06:54Z",
+     "likes": 299,
+     "replies": 78,
+     "pt": "O maior touro de HYPE viu US$ 68,26 mi de lucro desabar para US$ 27,59 mi e já depositou 8,3 mi de USDC para escapar da liquidação — o retrato do dia sobre alavancagem.",
+     "a": "from +$68M to 'sir, one more deposit' in two days",
+     "b": "this is why our earn side is usdc and usdt0. no leverage, no liq price, no 3am top-up",
+     "c": "if you have to top up to stay in, that was never a position, it was a subscription"
+    },
+    {
+     "code": "E3",
+     "conta": "@unusual_whales",
+     "link": "https://x.com/unusual_whales/status/2121879513336631330",
+     "utc": "08:14Z",
+     "likes": 95,
+     "replies": 32,
+     "pt": "A UW anuncia opções 2h antes da abertura e 15 min depois do fechamento (post promocional da moomoo) — deixa limpa para falar de horário de mercado; engajamento baixo, reply sem concorrência.",
+     "a": "options at 4am. my portfolio already had insomnia, thanks",
+     "b": "extended hours is a patch on a window we invented. tokenized equities just don't have one",
+     "c": "two hours early and fifteen minutes late is not more access. it's the same window with better lighting"
+    },
+    {
+     "code": "E4",
+     "conta": "@lookonchain",
+     "link": "https://x.com/lookonchain/status/2121856837230461065",
+     "utc": "06:44Z",
+     "likes": 240,
+     "replies": 64,
+     "pt": "Dez trades vencedores, US$ 6,32 mi de lucro, e uma única saída de ETH a US$ 10,5 mi de prejuízo apagou tudo — história de execução, não de tese.",
+     "a": "10 wins, 1 loss, and the loss brought friends",
+     "b": "one bad exit ate ten good entries. execution is the trade, not the thesis",
+     "c": "win rate is a vanity metric. one decision just paid for all ten"
+    },
+    {
+     "code": "E5",
+     "conta": "@unusual_whales",
+     "link": "https://x.com/unusual_whales/status/2121837121858306062",
+     "utc": "05:26Z",
+     "likes": 2299,
+     "replies": 133,
+     "pt": "A UW cita o WSJ: data centers no Sudeste Asiático serviram de fachada para contrabando de chips — 2,3 mil likes, tema de infraestrutura de IA com alcance grande.",
+     "a": "the cloud is just somebody else's datacenter in a country you can't point to on a map",
+     "b": "you can't audit a datacenter. you can audit a pool. that's the whole case for settling this onchain",
+     "c": "the pipes are dirty and the market still prices ai like it's all clean"
+    }
+   ],
+   "posts": [
+    {
+     "code": "DMM1",
+     "text": "extended hours is a patch. a market that never closes is a different thing.",
+     "pt": "Ancorado no post da UW sobre opções estendidas: o assunto do dia virou horário de mercado e ninguém está defendendo o 24/7 de verdade.",
+     "fonte": "https://x.com/unusual_whales/status/2121879513336631330"
+    },
+    {
+     "code": "DMM2",
+     "text": "conviction is holding the position. not topping it up to survive it.",
+     "pt": "Duas histórias de liquidação na mesma janela (HYPE e o long de ETH); é o contraponto de execução sem alavancagem, sem repetir número nenhum.",
+     "fonte": "https://x.com/lookonchain/status/2121859351602504071"
+    },
+    {
+     "code": "DMM3",
+     "text": "a listing is not a market. liquidity and execution are. still true at 3am.",
+     "pt": "Mensagem central da Fluxion presa ao debate de horário de hoje: listar não é abrir mercado. Sem número, sem link no texto.",
+     "fonte": "https://x.com/unusual_whales/status/2121879513336631330"
+    }
+   ],
+   "memes": [
+    {
+     "code": "M1",
+     "formato": "'5 years ago' — duas fotos iguais com legenda de antes e depois",
+     "exemplo": "https://x.com/elonmusk/status/2121875758704370144",
+     "caption": "5 years ago you could trade stocks until 4pm. today: same 4pm, nicer font.",
+     "scene": "Fluxion mascot, glossy black vinyl-toy cat with three spiky ears and a white swirl logo on the forehead, standing at a neon boardroom table holding two identical photos side by side, both captioned 4pm, blue-to-purple visor glowing unimpressed, cyan LED eyes, nebula belly, flame-tipped tail resting on the table"
+    },
+    {
+     "code": "M2",
+     "formato": "'choose your path' — a encruzilhada com dois caminhos",
+     "exemplo": "https://x.com/elonmusk/status/2121769886770778182",
+     "caption": "choose your path fren: 3am top-up or 3am sleep.",
+     "scene": "Fluxion mascot at a fork in a neon road at night, left path glowing red with floating liquidation tags in the air, right path calm cyan and empty, mascot standing in the middle weighing both, three spiky ears lit, swirl logo on forehead, flame-tipped tail curled, starry sky above"
+    }
+   ]
+  },
+  {
+   "slot": "tarde",
+   "hora_local": "15:00",
+   "janela_utc": "2026-11-15 12:02Z -> 18:00Z",
+   "codes": [
+    "E1",
+    "E2",
+    "E3"
+   ],
+   "page_codes_gerados": [
+    "E1",
+    "E2",
+    "E3"
+   ],
+   "escolha_hadukem": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30",
+   "publicada": false,
+   "lacuna": "3 replies na janela; nenhuma conta de tokenizacao publicou (Mantle, xStocksFi, Alpha Bybit, Grove, CIAN, Sky, Securitize, DefiLlama mudas desde 13/11). Material so de Bybit e Lookonchain.",
+   "replies": [
+    {
+     "code": "E1",
+     "conta": "@Bybit_Official",
+     "link": "https://x.com/Bybit_Official/status/2121966533815804196",
+     "utc": "14:00Z",
+     "pt": "Bybit pergunta 'what's your move now that Anthropic pre-IPO is on Bybit?' — pre-IPO de empresa privada virou produto de varejo na corretora; retomada do fio de 14/11.",
+     "texto_nao_transcrito": false
+    },
+    {
+     "code": "E2",
+     "conta": null,
+     "link": null,
+     "texto_nao_transcrito": true,
+     "pt": "Item entregue no DM das 15:00; o texto e o link nao foram transcritos para o rascunho local. Lacuna declarada — nao reconstruido de memoria."
+    },
+    {
+     "code": "E3",
+     "conta": null,
+     "link": null,
+     "texto_nao_transcrito": true,
+     "pt": "Item entregue no DM das 15:00; o texto e o link nao foram transcritos para o rascunho local. Lacuna declarada — nao reconstruido de memoria."
+    }
+   ]
+  },
+  {
+   "slot": "noite",
+   "hora_local": "18:00",
+   "janela_utc": "2026-11-15 18:00Z -> 21:00Z",
+   "codes": [
+    "E1",
+    "E2",
+    "E3",
+    "E4"
+   ],
+   "page_codes_gerados": [
+    "E1",
+    "E2",
+    "E3",
+    "E4"
+   ],
+   "escolha_hadukem": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30",
+   "publicada": false,
+   "lacuna": "4 replies na janela; parceiro de tokenizacao nenhum publicou (Mantle, xStocksFi, Alpha Bybit, Grove, CIAN, Sky, Securitize e DefiLlama mudos desde 13/11). Material da unusual_whales e da Bybit.",
+   "replies": [
+    {
+     "code": "E1",
+     "conta": "@unusual_whales",
+     "link": "https://x.com/unusual_whales/status/2122062509708554682",
+     "utc": "20:21Z",
+     "likes": 955,
+     "replies": 95,
+     "pt": "Jensen Huang estuda voltar a ser CEO da Nvidia; 955 likes / 95 replies. Maior alcance da janela.",
+     "texto_nao_transcrito": false
+    },
+    {
+     "code": "E2",
+     "conta": null,
+     "link": null,
+     "texto_nao_transcrito": true,
+     "pt": "Item entregue no DM das 18:00; o texto e o link nao foram transcritos para o rascunho local. Lacuna declarada — nao reconstruido de memoria."
+    },
+    {
+     "code": "E3",
+     "conta": null,
+     "link": null,
+     "texto_nao_transcrito": true,
+     "pt": "Item entregue no DM das 18:00; o texto e o link nao foram transcritos para o rascunho local. Lacuna declarada — nao reconstruido de memoria."
+    },
+    {
+     "code": "E4",
+     "conta": null,
+     "link": null,
+     "texto_nao_transcrito": true,
+     "pt": "Item entregue no DM das 18:00; o texto e o link nao foram transcritos para o rascunho local. Lacuna declarada — nao reconstruido de memoria."
+    }
+   ]
   }
  ],
- "page": {
-  "status": "aguardando escolha do Hadukem",
-  "date": "2026-11-15",
-  "slot": "manha",
-  "items": []
- },
- "discarded_tips": [
+ "escolhas_log": [
   {
-   "pt": "WatcherGuru: BTC abaixo de 63 mil (01:04Z), acima de 65 mil (03:07Z) e imposto dos democratas (02:04Z) — denylist de 07/11."
+   "card": "manha 09:00",
+   "code": "E1",
+   "tipo": "reply",
+   "alvo": "@elonmusk",
+   "link": "https://x.com/elonmusk/status/2121763396190179414",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
   },
   {
-   "pt": "unusual_whales \"Jensen Huang's two children\" (01:01Z) — NVDA, denylist de 07/11."
+   "card": "manha 09:00",
+   "code": "E2",
+   "tipo": "reply",
+   "alvo": "@lookonchain",
+   "link": "https://x.com/lookonchain/status/2121859351602504071",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
   },
   {
-   "pt": "Bybit WSOT 2026 (12:01Z) — terceiro WSOT em três edições; promo sem assunto próprio."
+   "card": "manha 09:00",
+   "code": "E3",
+   "tipo": "reply",
+   "alvo": "@unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2121879513336631330",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
   },
   {
-   "pt": "Elon: '5 years ago' (07:59Z), 'Great day' (07:56Z), 'Choose your path' (00:58Z) — sem assunto próprio, reply vira elogio genérico. Os dois primeiros renderam formato de meme."
+   "card": "manha 09:00",
+   "code": "E4",
+   "tipo": "reply",
+   "alvo": "@lookonchain",
+   "link": "https://x.com/lookonchain/status/2121856837230461065",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
   },
   {
-   "pt": "Elon 01:12Z com texto de congrats a @elonmusk — indício de repost, fora pela regra de só posts da própria conta."
+   "card": "manha 09:00",
+   "code": "E5",
+   "tipo": "reply",
+   "alvo": "@unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2121837121858306062",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
   },
   {
-   "pt": "AguilaTrades 40x long 2.000 BTC (10:47Z) — número grande e post fresco, guardado para a banda da tarde."
-  }
- ],
- "lacunas": [
-  "Nenhuma conta de tokenização publicou na janela; material só de Musk, Lookonchain, UW e Bybit.",
-  "TheBlock__ e Superstate voltaram vazios na varredura.",
-  "Logs dos repórteres de 14/11: lidos os que existiam; tips fora da janela de hoje."
- ],
- "pending": [
-  {
-   "pt": "Escolha do Hadukem para E1-E5, DMM1-DMM3 e M1-M2 na edição da manhã.",
-   "owner": "hadukem"
+   "card": "manha 09:00",
+   "code": "DMM1",
+   "tipo": "post proprio",
+   "alvo": "@Fluxion_network",
+   "link": "https://x.com/unusual_whales/status/2121879513336631330",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
   },
   {
-   "pt": "Decisão da banda 12:02Z-00:02Z: card próprio à tarde ou o dia fica só na edição da manhã.",
-   "owner": "hadukem"
-  }
- ],
- "held": [],
- "carryover": [
-  {
-   "link": "https://x.com/lookonchain/status/2121917970092089429",
-   "pt": "AguilaTrades com long 40x em 2.000 BTC (US$ 131,13 mi) e US$ 3,87 mi de lucro não realizado (10:47Z): melhor tip fora da seleção, serve à tarde."
+   "card": "manha 09:00",
+   "code": "DMM2",
+   "tipo": "post proprio",
+   "alvo": "@Fluxion_network",
+   "link": "https://x.com/lookonchain/status/2121859351602504071",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
   },
   {
+   "card": "manha 09:00",
+   "code": "DMM3",
+   "tipo": "post proprio",
+   "alvo": "@Fluxion_network",
+   "link": "https://x.com/unusual_whales/status/2121879513336631330",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "M1",
+   "tipo": "meme",
+   "alvo": "@Fluxion_network",
    "link": "https://x.com/elonmusk/status/2121875758704370144",
-   "pt": "Formato '5 years ago' como molde de meme; se não sair hoje, ainda serve amanhã."
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "M2",
+   "tipo": "meme",
+   "alvo": "@Fluxion_network",
+   "link": "https://x.com/elonmusk/status/2121769886770778182",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E1",
+   "tipo": "reply",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121966533815804196",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E2-E3",
+   "tipo": "reply",
+   "alvo": null,
+   "link": null,
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho; texto e link nao transcritos no rascunho local (lacuna declarada)"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E1",
+   "tipo": "reply",
+   "alvo": "@unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2122062509708554682",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E2-E4",
+   "tipo": "reply",
+   "alvo": null,
+   "link": null,
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho; texto e link nao transcritos no rascunho local (lacuna declarada)"
+  }
+ ],
+ "style_rules": {
+  "modal_card": {
+   "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link do post em cima de cada item, letras a/b/c em lista uma por linha (nunca corridas no rotulo do campo), opcao \"nenhuma\" e campo de porque por item, com um unico botao de envio no fim.",
+   "origem": "Hadukem, 14/11/2026 ~17:00 (\"agora sim, esse e o tipo de modal que eu quero\"). Gravado em clarim/SHARED.md, PR #161 (commit be2c30d).",
+   "vigente_em_15_11": true,
+   "mudanca_em_15_11": "nenhuma — regra aplicada nos tres cards do dia sem ajuste pedido"
+  },
+  "anti_dup_urls_2026-11-15": [
+   "https://x.com/elonmusk/status/2121763396190179414",
+   "https://x.com/lookonchain/status/2121859351602504071",
+   "https://x.com/unusual_whales/status/2121879513336631330",
+   "https://x.com/lookonchain/status/2121856837230461065",
+   "https://x.com/unusual_whales/status/2121837121858306062",
+   "https://x.com/elonmusk/status/2121875758704370144",
+   "https://x.com/elonmusk/status/2121769886770778182",
+   "https://x.com/Bybit_Official/status/2121966533815804196",
+   "https://x.com/unusual_whales/status/2122062509708554682",
+   "https://x.com/Strategy/status/2122016502971093377",
+   "https://x.com/RobinhoodApp/status/2121996650189074917",
+   "https://x.com/DinariGlobal/status/2121626387299897644"
+  ]
+ },
+ "quality_feedback": [
+  {
+   "de": "Hadukem",
+   "quando": "15/11 — nenhuma fala",
+   "pt": "O Hadukem nao deu feedback nem escolheu nenhum item nos tres cards de 15/11. A ultima fala dele foi em 14/11 ~17:00, aprovando o formato do modal."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "15/11 fecho",
+   "pt": "Primeiro dia da semana em que os tres reporteres gravaram log no mesmo dia (gleison, bruno, mathias). A edicao da manha nao dependeu de varredura de emergencia."
   }
  ],
  "reporter_tips": [
+  {
+   "reporter": "gleison",
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121966533815804196",
+   "utc": "15/11 14:00Z",
+   "uso": "virou o E1 do card da tarde",
+   "resumo_pt": "Bybit: 'What's your move now that Anthropic pre-IPO is on Bybit?' 27 likes / 3 RT / 16 respostas."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Strategy",
+   "link": "https://x.com/Strategy/status/2121725688126300554",
+   "utc": "14/11 22:03Z",
+   "uso": "fora da janela de 12h, declarado pelo reporter",
+   "resumo_pt": "'Bank credit is going to be a key driver of $BTC adoption. $MSTR' — 802 likes / 53 rep."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Strategy",
+   "link": "https://x.com/Strategy/status/2122016502971093377",
+   "utc": "15/11 17:18Z",
+   "uso": "avaliado para o card da noite",
+   "resumo_pt": "'Our business centers on the capital we hold and our ability to create credit. $MSTR $STRC' — 467 likes / 52 RT / 31 rep."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@RobinhoodApp",
+   "link": "https://x.com/RobinhoodApp/status/2121996650189074917",
+   "utc": "15/11 16:00Z",
+   "uso": "avaliado; guardado como gancho para segunda",
+   "resumo_pt": "'The market's closed. What are we doing today?' — 333 likes / 17 RT / 239 rep / 25 quotes."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@DinariGlobal",
+   "link": "https://x.com/DinariGlobal/status/2121626387299897644",
+   "utc": "14/11 15:28Z",
+   "uso": "Weekend Resume; fora da janela de 12h, declarado",
+   "resumo_pt": "NVDA como dShare 24/7, 'nights and weekends included', 90+ paises — 11 likes / 2 resp."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@Securitize",
+   "link": "https://x.com/Securitize/status/2121278497653940501",
+   "utc": "13/11 16:26Z",
+   "uso": "Weekend Resume; fora da janela, declarado",
+   "resumo_pt": "'Tokenization is happening right now.' — 988 likes / 87 RT / 53 resp / 13 quotes."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@SuperstateInc",
+   "link": "https://x.com/SuperstateInc/status/2121271948563137010",
+   "utc": "13/11 16:00Z",
+   "uso": "Weekend Resume; fora da janela, declarado",
+   "resumo_pt": "'24/7 transfers, instant settlement... Today it's T-Bills. Next it's everything else.' — 7 likes."
+  },
   {
    "conta": "Bybit_Official",
    "link": "https://x.com/Bybit_Official/status/2121422868915400877",
@@ -101,5 +485,206 @@
    "resumo_pt": "TIP | @nvidia | https://x.com/nvidia/status/2121647261155570145 | 14/11 16:51Z — \"AI is helping recyclers see more value in waste\" (vision AI + robotics na triagem de recicláveis) ",
    "uso": "log do reporter 14/11"
   }
- ]
+ ],
+ "discarded_tips": [
+  {
+   "pt": "WatcherGuru: BTC abaixo de 63 mil (01:04Z), acima de 65 mil (03:07Z) e imposto dos democratas (02:04Z) — denylist de 07/11."
+  },
+  {
+   "pt": "unusual_whales \"Jensen Huang's two children\" (01:01Z) — NVDA, denylist de 07/11."
+  },
+  {
+   "pt": "Bybit WSOT 2026 (12:01Z) — terceiro WSOT em três edições; promo sem assunto próprio."
+  },
+  {
+   "pt": "Elon: '5 years ago' (07:59Z), 'Great day' (07:56Z), 'Choose your path' (00:58Z) — sem assunto próprio, reply vira elogio genérico. Os dois primeiros renderam formato de meme."
+  },
+  {
+   "pt": "Elon 01:12Z com texto de congrats a @elonmusk — indício de repost, fora pela regra de só posts da própria conta."
+  },
+  {
+   "pt": "AguilaTrades 40x long 2.000 BTC (10:47Z) — número grande e post fresco, guardado para a banda da tarde."
+  },
+  {
+   "pt": "Bybit WSOT 2026 (15/11 12:01Z) — isca de competicao; terceira vez seguida que o gleison a registra como isca, nao tip."
+  },
+  {
+   "pt": "@AWS NFL / big data (15/11 08:01Z) — sem angulo de tokenizacao, descartado pelo bruno."
+  }
+ ],
+ "pending": [
+  {
+   "pt": "Escolha do Hadukem para os 17 itens de 15/11 (10 da manha, 3 da tarde, 4 da noite). Nao houve resposta ate o fecho; todos vencem a janela de 12h.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "Corrigir no SOP do Clarim o handle do xStocks: e @xStocksFi, nao @xStocks_io (que nao existe). Apontado pelo gleison na ronda das 09:00.",
+   "owner": "bruna"
+  },
+  {
+   "pt": "Handle de CIAN e KiiChain sem confirmacao ha dez rondas do gleison.",
+   "owner": "bruna"
+  },
+  {
+   "pt": "Escolha do Hadukem para E1-E5, DMM1-DMM3 e M1-M2 na edição da manhã.",
+   "owner": "hadukem"
+  },
+  {
+   "pt": "Decisão da banda 12:02Z-00:02Z: card próprio à tarde ou o dia fica só na edição da manhã.",
+   "owner": "hadukem"
+  }
+ ],
+ "held": [
+  {
+   "card": "manha 09:00",
+   "codes": "E1-E5, DMM1-DMM3, M1-M2",
+   "pt": "10 itens sem escolha; vencidos ao fim do dia (janela de 12h). Nao viram tip amanha."
+  },
+  {
+   "card": "tarde 15:00",
+   "codes": "E1-E3",
+   "pt": "3 itens sem escolha; o E1 da Bybit vence na madrugada de 16/11."
+  },
+  {
+   "card": "noite 18:00",
+   "codes": "E1-E4",
+   "pt": "4 itens sem escolha; vencem na manha de 16/11."
+  }
+ ],
+ "carryover": [
+  {
+   "link": "https://x.com/RobinhoodApp/status/2121996650189074917",
+   "pt": "Gancho 'the market's closed. What are we doing today?' (239 replies): molde de reply para a segunda de reabertura da NYSE — bolsa reabre, onchain nunca fechou. Checar se o Hood publica algo novo na abertura."
+  },
+  {
+   "link": "https://x.com/Strategy/status/2122016502971093377",
+   "pt": "Fio da Strategy ($MSTR/$STRC, 'create credit', terceiro post seguido na mesma tese): se sair quarto post na segunda, e angulo de escassez de credito x liquidez onchain."
+  },
+  {
+   "link": "https://x.com/DinariGlobal/status/2121626387299897644",
+   "pt": "dShare NVDA 24/7 'nights and weekends included': molde de post proprio de segunda, com a NYSE reabrindo depois de um fim de semana inteiro em que so on-chain negociou."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2121875758704370144",
+   "pt": "Formato de meme '5 years ago' (M1) nao foi escolhido nem usado: segue pronto como molde."
+  },
+  {
+   "link": "https://x.com/lookonchain/status/2121917970092089429",
+   "pt": "AguilaTrades com long 40x em 2.000 BTC (US$ 131,13 mi) e US$ 3,87 mi de lucro não realizado (10:47Z): melhor tip fora da seleção, serve à tarde."
+  }
+ ],
+ "lacunas": [
+  "Terceiro dia seguido de janela magra: nenhuma conta de tokenizacao publicou (Mantle e xStocksFi mudas desde 13/11; Grove, CIAN, Sky, Securitize, DefiLlama e KiiChain tambem).",
+  "Textos e links de E2-E3 do card da tarde e de E2-E4 do card da noite nao foram transcritos para o rascunho local: registrados so por codigo, sem reconstrucao de memoria.",
+  "Reporteres: bruno e mathias entregaram tips fora da janela de 12h (fim de semana) e declararam isso no proprio log; gleison fechou 3 das 4 rondas sem tip por falta de post novo de parceiro.",
+  "mathias nao tem log de 14/11 no repo; o Weekend Resume de 15/11 cobre a lacuna.",
+  "Nenhuma conta de tokenização publicou na janela; material só de Musk, Lookonchain, UW e Bybit.",
+  "TheBlock__ e Superstate voltaram vazios na varredura.",
+  "Logs dos repórteres de 14/11: lidos os que existiam; tips fora da janela de hoje."
+ ],
+ "reporter_eod": {
+  "gleison": "4 rondas (09:00, 12:00, 15:00, 18:00). Um tip: Bybit pre-IPO da Anthropic (14:00Z), que virou o E1 do card da tarde. As outras rondas fecharam sem tip — so isca de engajamento da Bybit (WSOT 2026, 12:01Z). Parceiros mudos desde 13/11. Pediu correcao do handle do xStocks no SOP e segue sem handle de CIAN e KiiChain.",
+  "bruno": "2 rondas (10:30, 17:30). Tips: Strategy 'bank credit' (14/11 22:03Z, declarado fora da janela), Strategy '$STRC / create credit' (15/11 17:18Z) e Robinhood 'the market's closed' (15/11 16:00Z, 239 replies). Domingo morto no beat MAG7.",
+  "mathias": "Weekend Resume (sexta 21:00Z -> domingo 21:00Z). 4 tips, 3 de sexta e todos fora da janela de 12h, declarados: Dinari NVDA dShare 24/7, Securitize 'Tokenization is happening right now' (988 likes), Securitize link-only e Superstate '24/7 transfers'. Foco na segunda: reacao da Dinari/Securitize a abertura da NYSE."
+ },
+ "page": {
+  "status": "sem escolha do Hadukem em 15/11 — nenhum codigo marcado, nada publicado",
+  "date": "2026-11-15",
+  "slot": "manha",
+  "items": [
+   {
+    "code": "E1",
+    "tipo": "reply",
+    "link": "https://x.com/elonmusk/status/2121763396190179414",
+    "conta": "@elonmusk",
+    "a": "shot on a phone btw. the most important footage of the decade came out of a pocket",
+    "b": "caught a rocket in the dark at 3am. markets still clock out at 4pm",
+    "c": "everyone filming the catch, nobody asking who pays for the next one",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E2",
+    "tipo": "reply",
+    "link": "https://x.com/lookonchain/status/2121859351602504071",
+    "conta": "@lookonchain",
+    "a": "from +$68M to 'sir, one more deposit' in two days",
+    "b": "this is why our earn side is usdc and usdt0. no leverage, no liq price, no 3am top-up",
+    "c": "if you have to top up to stay in, that was never a position, it was a subscription",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E3",
+    "tipo": "reply",
+    "link": "https://x.com/unusual_whales/status/2121879513336631330",
+    "conta": "@unusual_whales",
+    "a": "options at 4am. my portfolio already had insomnia, thanks",
+    "b": "extended hours is a patch on a window we invented. tokenized equities just don't have one",
+    "c": "two hours early and fifteen minutes late is not more access. it's the same window with better lighting",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E4",
+    "tipo": "reply",
+    "link": "https://x.com/lookonchain/status/2121856837230461065",
+    "conta": "@lookonchain",
+    "a": "10 wins, 1 loss, and the loss brought friends",
+    "b": "one bad exit ate ten good entries. execution is the trade, not the thesis",
+    "c": "win rate is a vanity metric. one decision just paid for all ten",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "E5",
+    "tipo": "reply",
+    "link": "https://x.com/unusual_whales/status/2121837121858306062",
+    "conta": "@unusual_whales",
+    "a": "the cloud is just somebody else's datacenter in a country you can't point to on a map",
+    "b": "you can't audit a datacenter. you can audit a pool. that's the whole case for settling this onchain",
+    "c": "the pipes are dirty and the market still prices ai like it's all clean",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "DMM1",
+    "tipo": "post",
+    "texto": "extended hours is a patch. a market that never closes is a different thing.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "DMM2",
+    "tipo": "post",
+    "texto": "conviction is holding the position. not topping it up to survive it.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "DMM3",
+    "tipo": "post",
+    "texto": "a listing is not a market. liquidity and execution are. still true at 3am.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "M1",
+    "tipo": "meme",
+    "formato": "'5 years ago' — duas fotos iguais com legenda de antes e depois",
+    "caption": "5 years ago you could trade stocks until 4pm. today: same 4pm, nicer font.",
+    "escolha": null,
+    "porque": null
+   },
+   {
+    "code": "M2",
+    "tipo": "meme",
+    "formato": "'choose your path' — a encruzilhada com dois caminhos",
+    "caption": "choose your path fren: 3am top-up or 3am sleep.",
+    "escolha": null,
+    "porque": null
+   }
+  ]
+ },
+ "notes_pt": "Fecho de 15/11 (domingo). Tres cards entregues no DM — 09:00 com 10 codigos, 15:00 com 3 replies, 18:00 com 4 — e nenhuma escolha do Hadukem no dia: a ultima fala dele foi em 14/11 ~17:00, aprovando o formato do modal. Por isso `page` segue sem escolha e nada foi publicado. O JSON foi criado do zero (404 na origem) a partir do rascunho local: a edicao da manha esta completa, item por item, com os textos de a/b/c; as bandas da tarde e da noite entraram com o E1 identificado por link e os demais itens apenas por codigo, porque os textos nao ficaram no rascunho — lacuna declarada, nada reconstruido de memoria. `reporter_eod` traz o que cada reporter entregou; os tres gravaram log de 15/11, primeira vez na semana. Terceiro dia seguido de janela magra, com parceiro de tokenizacao mudo desde 13/11, o que deixou a grade dependente de Bybit, Lookonchain e unusual_whales."
 }
