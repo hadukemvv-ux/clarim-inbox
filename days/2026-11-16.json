@@ -1,0 +1,387 @@
+{
+ "date": "2026-11-16",
+ "editions": [
+  {
+   "slot": "weekend-resume",
+   "createdAt": "2026-11-16T11:05:00.000Z",
+   "source": "Weekend Resume seg 16/11. Pacote do Mathias (log clarim/logs/mathias/2026-11-15.md, domingo): 4 tips, sendo 1 real de sabado (Dinari) e 3 de sexta a noite. Gleison (log 15/11) nao marcou nenhum candidato WR: Mantle, xStocksFi e Fluxion mudos desde 13/11. Links e numeros reconferidos por mim no xread as 08:10 de segunda.",
+   "window": {
+    "from": "2026-11-13T21:00:00Z",
+    "to": "2026-11-16T11:00:00Z"
+   },
+   "posts": [
+    {
+     "code": "WR1",
+     "handle": "@DinariGlobal",
+     "when_utc": "2026-11-14 15:28 UTC",
+     "url": "https://x.com/DinariGlobal/status/2121626387299897644",
+     "engagement": "12 lk / 0 rt / 2 rep (xread 16/11 08:10)",
+     "pt": "Dinari: NVDA como dShare 24/7, 'nights and weekends included', 90+ paises, direitos iguais inclusive dividendos e resgate no NBBO. E o UNICO dado real de fim de semana da janela: acao tokenizada rodando com a NYSE fechada. Concorrente do escopo do Mathias — nao nomeado em nenhuma das letras.",
+     "a": "wall street had the weekend off. the ticker didn't get the memo",
+     "b": "24/7 with the same rights, dividends included — that's the part people skip. @Fluxion_network keeps the xstocks book open on @Mantle_Official saturday 3am, and atomic rfq when there's actually size on the other side",
+     "c": "a stock that stops trading at 4pm friday isn't a market, it's opening hours. liquidity is the product"
+    },
+    {
+     "code": "WR2",
+     "handle": "@SuperstateInc",
+     "when_utc": "2026-11-13 16:00 UTC",
+     "url": "https://x.com/SuperstateInc/status/2121271948563137010",
+     "pair_url": "https://x.com/SuperstateInc/status/2119759725753311608",
+     "engagement": "7 lk / 2 rt / 1 rep (xread 16/11 08:10)",
+     "pt": "Superstate: '24/7 transfers, instant settlement... Today it's T-Bills. Next it's everything else.' O par de 10/11 traz o numero deles: fundos tokenizados em US$ 37,8 bi, +940,9% desde o fim de 2023, T-bills liderando com US$ 13,5 bi. Atribuido a Superstate. Angulo: 'everything else' e exatamente equities — o proximo degrau ja existe.",
+     "a": "t-bills were the warmup lap. nobody runs the warmup lap for the trophy",
+     "b": "'next it's everything else' — everything else already trades. tokenized equities with a 24/7 book and atomic rfq, on @Mantle_Official, via @Fluxion_network. t-bills proved the rail, the tickers are the point",
+     "c": "every rwa cycle opens with treasuries because they're the easiest yes. equities are the harder yes and the bigger one. the 10x already happened at the easy end"
+    },
+    {
+     "code": "WR3",
+     "handle": "@Securitize",
+     "when_utc": "2026-11-13 16:26 UTC",
+     "url": "https://x.com/Securitize/status/2121278497653940501",
+     "engagement": "989 lk / 87 rt / 53 rep / 13 qt (xread 16/11 08:10)",
+     "pt": "Securitize: 'Tokenization is happening right now.' 989 likes — maior engajamento de toda a janela. Quinta de sexta, FORA da linha do fim de semana (declarado pelo Mathias). Vale como QT na segunda, nao como base de thread: o texto e curto e a conversa esta nos replies.",
+     "a": "'right now' is doing a lot of work for a market that clocks out at 4",
+     "b": "happening right now, on a saturday, with the nyse shut — that's the version that proves something. tokenized equities trading 24/7 on @Mantle_Official through @Fluxion_network",
+     "c": "the argument is settled. the only open question left is who holds the liquidity when it matters, and that's an infrastructure answer, not an announcement"
+    }
+   ],
+   "light_hooks": [
+    {
+     "code": "WR-L1",
+     "handle": "@DinariGlobal",
+     "when_utc": "2026-11-14 20:50 UTC",
+     "url": "https://x.com/DinariGlobal/status/2121629058175185245",
+     "pt": "Follow-up de sabado da propria conta: '90+ countries but 24/7 trading of NVDA is the line that gets me. Who's on the other side of my Saturday 3am fill?' — gancho de liquidez perfeito para a mensagem central (listing nao e mercado, liquidez e execucao sao). 0 engajamento, so serve como reply se o Hadukem quiser entrar na conversa."
+    },
+    {
+     "code": "WR-L2",
+     "handle": "@Securitize",
+     "when_utc": "2026-11-13 20:31 UTC",
+     "url": "https://x.com/Securitize/status/2121340102605439009",
+     "pt": "Post so com link (t.co), sem texto, 41/3/4. Mathias nao abriu o card. Segue sem uso ate alguem abrir o destino."
+    }
+   ],
+   "declared_gaps": [
+    "Securitize, Superstate, Backed e Ondo nao publicaram NADA entre sabado e domingo (lacuna declarada pelo Mathias).",
+    "Parceiros de tokenizacao mudos desde 13/11: Mantle 15:30Z, xStocksFi 13:00Z, Fluxion 13:40Z, Grove sem posts.",
+    "CIAN e KiiChain seguem sem handle confirmado (10a ronda do Gleison)."
+   ],
+   "discards": [
+    "Bybit 15/11 12:01Z WSOT/Bybit Ai — isca promocional, 5 lk, sem gancho de equities.",
+    "Superstate 10/11 15:27Z (US$ 37,8 bi) — nao entra como item proprio, entra como numero de apoio no WR2."
+   ],
+   "chosen": null,
+   "posted": null,
+   "status": "rascunho — sem commit, o days/*.json fecha no fechamento das 21:30"
+  },
+  {
+   "slot": "manha",
+   "hora_local": "09:00",
+   "janela_utc": "16/11 00:06Z -> 12:06Z",
+   "codes": {
+    "E1": "https://x.com/xStocksFi/status/2122250118422532505",
+    "E2": "https://x.com/Bybit_Official/status/2122298643810042225",
+    "E3": "https://x.com/lookonchain/status/2122284799432048906",
+    "E4": "https://x.com/elonmusk/status/2122220308799316072",
+    "E5": "https://x.com/lookonchain/status/2122224231836737623",
+    "P1": "https://x.com/xStocksFi/status/2122250118422532505",
+    "P2": "https://x.com/Bybit_Official/status/2122268439389626771",
+    "P3": "https://x.com/lookonchain/status/2122284799432048906",
+    "M1": "https://x.com/RobinhoodApp/status/2121996650189074917",
+    "M2": "https://x.com/lookonchain/status/2122224231836737623"
+   },
+   "page_codes_gerados": "E1-E5, P1-P3, M1-M2",
+   "escolha_hadukem": null,
+   "porque": null,
+   "publicada": false,
+   "lacuna": "Nenhuma conta de tokenizacao publicou alem da xStocksFi; Mantle, Alpha Bybit, Grove, CIAN, Sky, KiiChain, Securitize, DefiLlama e Messari mudas. TheBlock__ e Superstate voltaram vazias (erro). WatcherGuru e NVDA seguem na denylist de 07/11. Logs dos reporteres de 16/11 nao lidos nesta rodada (teto de ferramentas): edicao montada pela varredura direta do X."
+  }
+ ],
+ "escolhas_log": [],
+ "style_rules": {
+  "modal_card": {
+   "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link do post em cima de cada item, letras a/b/c em lista uma por linha, opcao \"nenhuma\" e campo de porque por item, um unico botao de envio no fim.",
+   "origem": "Hadukem, 14/11/2026 ~17:00. Gravado em clarim/SHARED.md, PR #161.",
+   "vigente_em_16_11": true,
+   "mudanca_em_16_11": "nenhuma — aplicado no card da manha"
+  },
+  "anti_dup_urls_2026-11-16": [
+   "https://x.com/xStocksFi/status/2122250118422532505",
+   "https://x.com/Bybit_Official/status/2122298643810042225",
+   "https://x.com/lookonchain/status/2122284799432048906",
+   "https://x.com/elonmusk/status/2122220308799316072",
+   "https://x.com/lookonchain/status/2122224231836737623"
+  ],
+  "anti_dup_texto": "nenhuma letra repete texto de outra reply da mesma edicao; o angulo (b) varia (venue, 24h, RFQ, uptime, size) e nao repete 'a bolsa fecha' duas vezes"
+ },
+ "quality_feedback": [
+  {
+   "de": "Hadukem",
+   "quando": "16/11 — sem fala ate 09:00",
+   "pt": "Nenhum feedback novo desde 14/11 ~17:00, quando aprovou o formato do modal. Os 17 itens de 15/11 (manha, tarde, noite) venceram sem escolha na janela de 12h."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "16/11 manha",
+   "pt": "Janela de 21 posts, mas pela primeira vez em dias um parceiro de tokenizacao publicou (xStocksFi, 08:47Z). O resto e Elon, Bybit, lookonchain e unusual_whales."
+  }
+ ],
+ "reporter_tips": [
+  {
+   "reporter": "gleison",
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121966533815804196",
+   "utc": "15/11 14:00Z",
+   "uso": "virou o E1 do card da tarde",
+   "resumo_pt": "Bybit: 'What's your move now that Anthropic pre-IPO is on Bybit?' 27 likes / 3 RT / 16 respostas."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Strategy",
+   "link": "https://x.com/Strategy/status/2121725688126300554",
+   "utc": "14/11 22:03Z",
+   "uso": "fora da janela de 12h, declarado pelo reporter",
+   "resumo_pt": "'Bank credit is going to be a key driver of $BTC adoption. $MSTR' — 802 likes / 53 rep."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Strategy",
+   "link": "https://x.com/Strategy/status/2122016502971093377",
+   "utc": "15/11 17:18Z",
+   "uso": "avaliado para o card da noite",
+   "resumo_pt": "'Our business centers on the capital we hold and our ability to create credit. $MSTR $STRC' — 467 likes / 52 RT / 31 rep."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@RobinhoodApp",
+   "link": "https://x.com/RobinhoodApp/status/2121996650189074917",
+   "utc": "15/11 16:00Z",
+   "uso": "avaliado; guardado como gancho para segunda",
+   "resumo_pt": "'The market's closed. What are we doing today?' — 333 likes / 17 RT / 239 rep / 25 quotes."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@DinariGlobal",
+   "link": "https://x.com/DinariGlobal/status/2121626387299897644",
+   "utc": "14/11 15:28Z",
+   "uso": "Weekend Resume; fora da janela de 12h, declarado",
+   "resumo_pt": "NVDA como dShare 24/7, 'nights and weekends included', 90+ paises — 11 likes / 2 resp."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@Securitize",
+   "link": "https://x.com/Securitize/status/2121278497653940501",
+   "utc": "13/11 16:26Z",
+   "uso": "Weekend Resume; fora da janela, declarado",
+   "resumo_pt": "'Tokenization is happening right now.' — 988 likes / 87 RT / 53 resp / 13 quotes."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@SuperstateInc",
+   "link": "https://x.com/SuperstateInc/status/2121271948563137010",
+   "utc": "13/11 16:00Z",
+   "uso": "Weekend Resume; fora da janela, declarado",
+   "resumo_pt": "'24/7 transfers, instant settlement... Today it's T-Bills. Next it's everything else.' — 7 likes."
+  },
+  {
+   "conta": "Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121422868915400877",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Bybit_Official | https://x.com/Bybit_Official/status/2121422868915400877 | Pré-IPO da Anthropic negociado na Bybit como ANTHROPICUSDT: \"What do you think Anthropic debuts at",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "Tesla",
+   "link": "https://x.com/Tesla/status/2121384435241402737",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Tesla | https://x.com/Tesla/status/2121384435241402737 | 13/11 23:27Z — \"Select customers are now being invited to purchase Cybercab for personal use\" — 22.947 likes / 3.028",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "Google",
+   "link": "https://x.com/Google/status/2121338095664808238",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Google | https://x.com/Google/status/2121338095664808238 | 13/11 20:23Z — thread \"What we shipped this week @google\": dois TPUs de 8ª geração, Gemini 4 Carbon/AlphaProof, Ge",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "Strategy",
+   "link": "https://x.com/Strategy/status/2121649748163899869",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Strategy | https://x.com/Strategy/status/2121649748163899869 | 14/11 17:01Z — \"Intelligence is getting abundant. $BTC is not. $MSTR\" — 538 likes / 37 rep. Ângulo: Saylor bat",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "nvidia",
+   "link": "https://x.com/nvidia/status/2121647261155570145",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @nvidia | https://x.com/nvidia/status/2121647261155570145 | 14/11 16:51Z — \"AI is helping recyclers see more value in waste\" (vision AI + robotics na triagem de recicláveis) ",
+   "uso": "log do reporter 14/11"
+  }
+ ],
+ "discarded_tips": [
+  {
+   "link": "https://x.com/WatcherGuru/status/2122179624721657984",
+   "motivo": "WatcherGuru na denylist desde 07/11 (post de NVDA/Trump)."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2122275051751748036",
+   "motivo": "WatcherGuru na denylist; Solana mainnet 1.0 nao tem angulo Fluxion."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2122223599079559603",
+   "motivo": "Elon com uma palavra ('Important'), sem assunto proprio — mesmo criterio do post 'congrats' de 15/11."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2122221516867895726",
+   "motivo": "Elon so com emoji, sem conteudo para reply."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2122203324460265943",
+   "motivo": "Elon com 'Yup', sem assunto."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2122141026123206847",
+   "motivo": "Bessent/NVDA na denylist de NVDA; mesmo tema do post de Jensen descartado em 15/11."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2122297882631963035",
+   "motivo": "Politica interna dos EUA (fundo dos filhos do Trump e spa de aeroporto) — fora da voz da mesinha."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2122287816474349723",
+   "motivo": "TrumpCare/Medicare — politica, sem angulo de mercado onchain."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2122292849492258969",
+   "motivo": "Taxa de hipoteca de 30 anos: numero de Freddie Mac, mas nao conversa com Fluxion."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2122238240992207312",
+   "motivo": "ByPick leaderboard — promocao de campanha, nao gera reply."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2122238240539492686",
+   "motivo": "Cartao Bybit — promocao de produto, fora da voz."
+  },
+  {
+   "link": "https://x.com/lookonchain/status/2122164300269937082",
+   "motivo": "Rotacao PUMP->HYPE: on-chain de terceiro, sem gancho de execucao."
+  },
+  {
+   "link": "https://x.com/lookonchain/status/2122221537298420009",
+   "motivo": "SOL destravado com prejuizo: dado com fonte, mas sem angulo util para Fluxion."
+  }
+ ],
+ "pending": [
+  {
+   "owner": "hadukem",
+   "pt": "Escolha do Hadukem para os 10 itens da edicao da manha de 16/11 (E1-E5, P1-P3, M1-M2). Sem escolha ate 09:00."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Corrigir no SOP do Clarim o handle do xStocks: e @xStocksFi, nao @xStocks_io (que nao existe). Apontado pelo gleison em 15/11."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Handle de CIAN e KiiChain sem confirmacao ha onze rondas do gleison."
+  }
+ ],
+ "held": [],
+ "carryover": [
+  {
+   "link": "https://x.com/RobinhoodApp/status/2121996650189074917",
+   "pt": "Gancho 'the market's closed. What are we doing today?' (239 respostas): hoje e a segunda de reabertura da NYSE — molde de reply/post para 'a bolsa reabre, onchain nunca fechou'."
+  },
+  {
+   "link": "https://x.com/DinariGlobal/status/2121626387299897644",
+   "pt": "dShare NVDA 24/7 'nights and weekends included': molde de post proprio na abertura, depois de um fim de semana inteiro em que so on-chain negociou."
+  }
+ ],
+ "reporter_eod": [],
+ "page": {
+  "status": "aguardando escolha do Hadukem",
+  "date": "2026-11-16",
+  "slot": "manha",
+  "items": [
+   {
+    "code": "E1",
+    "link": "https://x.com/xStocksFi/status/2122250118422532505",
+    "conta": "@xStocksFi",
+    "a": "supercycle is real and we're still explaining it to people who call it a crypto thing",
+    "b": "supercycle needs a venue more than a ticker. tickers are cheap, getting size done at 3am is not",
+    "c": "everyone says supercycle until they have to route real size through it. then it gets quiet"
+   },
+   {
+    "code": "E2",
+    "link": "https://x.com/Bybit_Official/status/2122298643810042225",
+    "conta": "@Bybit_Official",
+    "a": "one sells shovels, the other sells the shovel salespeople. both great until the music stops",
+    "b": "the anthropic side at least trades when the equity market is asleep. that's the whole pitch",
+    "c": "whichever wins, my savings account loses. loving this monday"
+   },
+   {
+    "code": "E3",
+    "link": "https://x.com/lookonchain/status/2122284799432048906",
+    "conta": "@lookonchain",
+    "a": "self-custody is great until the api key is the one doing the custodies",
+    "b": "this is the argument for RFQ in one screenshot. no shared keys, no one-click $15M",
+    "c": "market makers lost $15.5M to a leaked key and retail still asks why i don't park funds on every app"
+   },
+   {
+    "code": "E4",
+    "link": "https://x.com/elonmusk/status/2122220308799316072",
+    "conta": "@elonmusk",
+    "a": "\"obvious and trivial\" is a very elon way to describe a few decades of engineering",
+    "b": "the sun's uptime is unbeatable, but i'll still take a market that never closes over one that needs daylight",
+    "c": "the math is trivial, the panels aren't. ask anyone who has tried to ship one"
+   },
+   {
+    "code": "E5",
+    "link": "https://x.com/lookonchain/status/2122224231836737623",
+    "conta": "@lookonchain",
+    "a": "40x short into a monday open. brother isn't nervous, he's committed",
+    "b": "10x in 5 days is the story that makes people forget what size does to a book when it's time to exit",
+    "c": "turning 650k into 6.5M and immediately re-risking it isn't a strategy, it's a personality"
+   },
+   {
+    "code": "P1",
+    "link": "https://x.com/xStocksFi/status/2122250118422532505",
+    "tipo": "post",
+    "text": "the tokenization supercycle is real, but tickers aren't the hard part.\n\nliquidity is. execution is. who fills you at 3am on a sunday is.\n\nthat's the part nobody posts about."
+   },
+   {
+    "code": "P2",
+    "link": "https://x.com/Bybit_Official/status/2122268439389626771",
+    "tipo": "post",
+    "text": "an ipo everyone is waiting for, and the version of it that trades at 3am already exists.\n\nthe wait was never about the company. it was about the hours."
+   },
+   {
+    "code": "P3",
+    "link": "https://x.com/lookonchain/status/2122284799432048906",
+    "tipo": "post",
+    "text": "a leaked api key moved $15.5M this morning.\n\nno exploit, no governance vote, no drama. just a key.\n\nexecution isn't a feature. it's the whole product."
+   },
+   {
+    "code": "M1",
+    "link": "https://x.com/RobinhoodApp/status/2121996650189074917",
+    "tipo": "meme",
+    "caption": "the market's closed. the market's not closed.",
+    "scene": "Split frame: left side a dark phone screen reading \"market closed\", right side the Fluxion mascot — glossy black vinyl-toy cat, three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor, cyan LED eyes, glowing nebula belly, flame-tipped tail — lounging on a floating candlestick chart at 3am, unbothered, one paw tapping a glowing \"open 24/7\" toggle."
+   },
+   {
+    "code": "M2",
+    "link": "https://x.com/lookonchain/status/2122224231836737623",
+    "tipo": "meme",
+    "caption": "40x is a personality, not a strategy.",
+    "scene": "Two-panel meme: top panel the mascot — glossy black vinyl-toy cat with three spiky ears, white swirl logo, glowing blue-to-purple visor, cyan LED eyes, nebula belly, flame-tipped tail — wearing tiny sunglasses, holding a lever labelled 40x like a trophy. Bottom panel the same cat, visor flickering red, tail flame out, staring at a single red candle on a screen."
+   }
+  ],
+  "porque": null
+ },
+ "notes_pt": [
+  "Fonte unica: varredura direta do X (xread, 26 handles, janela 16/11 00:06Z-12:06Z) — 21 posts.",
+  "reporter_tips herdados de 15/11 (nao houve leitura nova dos logs dos reporteres nesta manha).",
+  "Angulos (b) variados: venue/liquidez (E1), 24h (E2), RFQ sem chave compartilhada (E3), uptime x luz do sol (E4), size na saida (E5)."
+ ]
+}
