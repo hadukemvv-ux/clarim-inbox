@@ -1,0 +1,374 @@
+{
+ "date": "2026-11-17",
+ "editions": [
+  {
+   "slot": "manha",
+   "hora_local": "09:00 (America/Fortaleza)",
+   "createdAt": "2026-11-17T12:15:00.000Z",
+   "source": "Edicao da manha de terca 17/11. Varredura direta no xread (26 handles, janela 00:03Z-12:03Z, 24 posts); logs de 17/11 dos reporteres nao lidos nesta rodada (teto de ferramentas) — lacuna declarada.",
+   "janela_utc": {
+    "from": "2026-11-17T00:03:00Z",
+    "to": "2026-11-17T12:03:00Z"
+   },
+   "posts": [
+    {
+     "code": "E1",
+     "handle": "@Mantle_Official",
+     "when_utc": "2026-11-17 12:01 UTC",
+     "url": "https://x.com/Mantle_Official/status/2122661381338255763",
+     "engagement": "7 lk / 1 rep (xread 12:03Z)",
+     "pt": "Mantle: 'onchain nao tem pais de origem', alcance e a vantagem real da tokenizacao. Post de parceiro, tese identica a nossa, e com UMA resposta: espaco aberto.",
+     "a": "imagine finding the investment you want and it's closed till monday. now that one really hurts",
+     "b": "reach gets you in the door. execution decides if you stay. a ticker on a page is not a market",
+     "c": "borders were never the hard part. nobody grades a venue on how it fills when everyone wants out at once",
+     "code_clarim": "CLARIM-17E1"
+    },
+    {
+     "code": "E2",
+     "handle": "@Bybit_Official",
+     "when_utc": "2026-11-17 11:47 UTC",
+     "url": "https://x.com/Bybit_Official/status/2122657966574690760",
+     "engagement": "11 lk / 8 rep (xread 12:03Z)",
+     "pt": "Bybit usa a expectativa de IPO da Anthropic em 19/11 para vender perp 24/7: 'o mercado nao espera o sino'. E a nossa tese na voz deles, com 11 likes — resposta aparece.",
+     "a": "nov 19 on the calendar. my sleep schedule is not picking that date",
+     "b": "this is the quiet shift: the story now prices before the debut, not on it",
+     "c": "pre-IPO perps moving faster than the equity ever will is either genius or a warning. maybe both",
+     "code_clarim": "CLARIM-17E2"
+    },
+    {
+     "code": "E3",
+     "handle": "@Bybit_Official",
+     "when_utc": "2026-11-17 11:00 UTC",
+     "url": "https://x.com/Bybit_Official/status/2122645926653120698",
+     "engagement": "34 lk / 16 rep (xread 12:03Z)",
+     "pt": "Teaser do Bybit Stocks com a pista 'Claude' — engajamento puro, 16 respostas. Palpite especifico aqui tem chance real de aparecer.",
+     "a": "claude. so at least the losses will be explained politely",
+     "b": "the interesting part of bybit stocks isn't the ticker, it's the rail underneath it",
+     "c": "an AI that picks stocks is just an AI that can be wrong faster. still watching",
+     "code_clarim": "CLARIM-17E3"
+    },
+    {
+     "code": "E4",
+     "handle": "@DefiLlama",
+     "when_utc": "2026-11-17 03:33 UTC",
+     "url": "https://x.com/DefiLlama/status/2122533589309075681",
+     "engagement": "74 lk / 31 rep (xread 12:03Z)",
+     "pt": "DefiLlama: supply de stablecoins caiu US$ 15,7 bi em 30 dias, maior queda desde o UST (maio/2022). Numero da fonte primaria — e o combustivel do onchain encolhendo.",
+     "a": "the stables packed up and took the vibes with them",
+     "b": "thinner float means thinner books. venues that stay boring on purpose, no leverage no loops, age better in this weather",
+     "c": "watch execution when the float shrinks. thin books forgive nothing and remember everything",
+     "code_clarim": "CLARIM-17E4"
+    },
+    {
+     "code": "E5",
+     "handle": "@elonmusk",
+     "when_utc": "2026-11-17 06:26 UTC",
+     "url": "https://x.com/elonmusk/status/2122577169863885235",
+     "engagement": "19.428 lk / 1.740 rep (xread 12:03Z)",
+     "pt": "Elon compara RL continuo ao Edge of Tomorrow: viver o mesmo dia de novo. Alcance alto e o gancho do dia repetido vira piada facil.",
+     "a": "live, die, retrain. at least tom cruise got weekends off",
+     "b": "relentless retraining with no day off is basically what a 24/7 book does to a market maker",
+     "c": "humans already run this loop. we just call it monday",
+     "code_clarim": "CLARIM-17E5"
+    }
+   ],
+   "light_hooks": [],
+   "own_post": [
+    {
+     "code": "P1",
+     "angulo": "Contracao de stablecoins como termometro de liquidez. O numero e do proprio DefiLlama, nao meu.",
+     "texto_en": "stablecoin supply just printed its biggest 30-day drop since UST in may 2022. minus $15.7B. the float got thinner, the books got thinner, and everyone remembers at the same time that liquidity was never a backdrop.",
+     "fonte": "https://x.com/DefiLlama/status/2122533589309075681 (17/11 03:33Z) — US$ 15,7 bi e 'maior queda de 30 dias desde o UST', palavras do DefiLlama.",
+     "code_clarim": "CLARIM-17P1"
+    },
+    {
+     "code": "P2",
+     "angulo": "Acesso e alcance (gancho do post do Mantle), sem virar slogan 24/7.",
+     "texto_en": "the ticker was never the barrier. the hours were. an asset that only moves while one timezone is awake isn't a global market, it's a local one with good PR.",
+     "fonte": "https://x.com/Mantle_Official/status/2122661381338255763 (17/11 12:01Z)",
+     "code_clarim": "CLARIM-17P2"
+    },
+    {
+     "code": "P3",
+     "angulo": "IPO deixou de ser evento com sino: a historia precifica antes. Sem numero.",
+     "texto_en": "an ipo used to be an event with a bell. now the story gets priced days early, by people who don't wait for one.",
+     "fonte": "https://x.com/Bybit_Official/status/2122657966574690760 (17/11 11:47Z). A data de 19/11 e 'reports point to' do proprio Bybit: NAO VERIFICADO — nao citar como fato.",
+     "code_clarim": "CLARIM-17P3"
+    }
+   ],
+   "memes": [
+    {
+     "code": "M1",
+     "formato_pt": "Formato 'the market's closed' (o classico de fim de semana que a Robinhood levantou no sabado), com o gato respondendo em vez de reclamar.",
+     "exemplo": "https://x.com/RobinhoodApp/status/2121996650189074917 (15/11 16:00Z, 239 respostas)",
+     "caption_en": "market's closed. the books aren't.",
+     "cena_en": "The Fluxion mascot — glossy black vinyl-toy cat, three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — sits cross-legged on an empty trading floor at 3am wearing an oversized hoodie, a live candlestick chart glowing softly on its nebula belly like a nightlight.",
+     "code_clarim": "CLARIM-17M1"
+    },
+    {
+     "code": "M2",
+     "formato_pt": "Tres paineis identicos no formato 'live / die / retrain', em cima do post do Elon sobre Edge of Tomorrow.",
+     "exemplo": "https://x.com/elonmusk/status/2122577169863885235 (17/11 06:26Z)",
+     "caption_en": "live. die. retrain. no weekends though, that would be unhinged.",
+     "cena_en": "Three identical panels in a row: the Fluxion mascot in a battered exo-suit helmet, visor cracked and glowing cyan, floating in a loop — same pose, same tiny chart on its nebula belly, day counter reading 001, 001, 001. Flame-tipped tail trailing behind the suit in every panel.",
+     "code_clarim": "CLARIM-17M2"
+    }
+   ],
+   "lacunas": [
+    "Logs de 17/11 de gleison, bruno e mathias nao foram lidos nesta rodada; conferi tudo direto no X (xread 12:03Z).",
+    "TheBlock__ e Superstate retornaram vazio no xread.",
+    "WatcherGuru segue na denylist de 07/11: 3 posts do dia (CFTC/Backpack, Google, Nvidia) nao entraram.",
+    "Pendencias minhas herdadas: handle do xStocks no SOP e confirmacao de CIAN/KiiChain."
+   ],
+   "discards": [
+    "WatcherGuru 00:49Z (CFTC aprova Backpack), 01:49Z (Google), 02:45Z (Nvidia) — denylist de 07/11.",
+    "elonmusk 08:01Z 'Cyber-Inception' e 06:23Z 'Starship 42' — sem assunto proprio.",
+    "elonmusk 07:08Z (ship catch, menciona @lrocket e @HansKoenigsmann) — sem gancho de mercado.",
+    "Bybit 07:59Z WSOT, 05:33Z live e 05:17Z CTO/Bybit AI — promo e institucional.",
+    "lookonchain 06:25Z ARIA 4x, 03:13Z ENA, 06:17Z Abraxas/Hyperliquid — posicoes de terceiros, sem gancho de equities.",
+    "lookonchain 10:11Z hacker da Binance (602.402 ETH, US$ 1,09 bi) — numero forte, sem ponte honesta com Fluxion; fica para a mesa da tarde.",
+    "unusual_whales 11:57Z GTA VI, 11:27Z malware (178 organizacoes), 11:42Z Megaspeed, 11:14Z cultura Nvidia — pauta de tech/seguranca. A de cultura Nvidia pode voltar na tarde."
+   ],
+   "chosen": null,
+   "posted": null,
+   "status": "gravado na origem pela manha; escolhas do Hadukem e fecho no card das 21:30"
+  }
+ ],
+ "escolhas_log": [],
+ "style_rules": {
+  "modal_card": {
+   "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link do post em cima de cada item, letras a/b/c em lista uma por linha, opcao \"nenhuma\" e campo de porque por item, um unico botao de envio no fim.",
+   "origem": "Hadukem, 14/11/2026 ~17:00. Gravado em clarim/SHARED.md, PR #161.",
+   "vigente_em_16_11": true,
+   "mudanca_em_16_11": "nenhuma — aplicado no card da manha"
+  },
+  "anti_dup_urls_2026-11-16": [
+   "https://x.com/xStocksFi/status/2122250118422532505",
+   "https://x.com/Bybit_Official/status/2122298643810042225",
+   "https://x.com/lookonchain/status/2122284799432048906",
+   "https://x.com/elonmusk/status/2122220308799316072",
+   "https://x.com/lookonchain/status/2122224231836737623"
+  ],
+  "anti_dup_texto": "nenhuma letra repete texto de outra reply da mesma edicao; o angulo (b) varia (venue, 24h, RFQ, uptime, size) e nao repete 'a bolsa fecha' duas vezes"
+ },
+ "quality_feedback": [
+  {
+   "de": "Hadukem",
+   "quando": "17/11 — sem fala ate 09:00",
+   "pt": "Nenhum feedback novo desde 14/11 ~17:00. Os 10 itens de 16/11 venceram sem escolha e nada foi publicado."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "17/11 manha",
+   "pt": "Janela de 24 posts. Segundo dia seguido com parceiro de tokenizacao ativo: Mantle publicou as 12:01Z, minutos antes do fecho da janela. Bybit fez o caminho 24/7 pela terceira vez em tres dias."
+  }
+ ],
+ "reporter_tips": [
+  {
+   "reporter": "gleison",
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121966533815804196",
+   "utc": "15/11 14:00Z",
+   "uso": "virou o E1 do card da tarde",
+   "resumo_pt": "Bybit: 'What's your move now that Anthropic pre-IPO is on Bybit?' 27 likes / 3 RT / 16 respostas."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Strategy",
+   "link": "https://x.com/Strategy/status/2121725688126300554",
+   "utc": "14/11 22:03Z",
+   "uso": "fora da janela de 12h, declarado pelo reporter",
+   "resumo_pt": "'Bank credit is going to be a key driver of $BTC adoption. $MSTR' — 802 likes / 53 rep."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Strategy",
+   "link": "https://x.com/Strategy/status/2122016502971093377",
+   "utc": "15/11 17:18Z",
+   "uso": "avaliado para o card da noite",
+   "resumo_pt": "'Our business centers on the capital we hold and our ability to create credit. $MSTR $STRC' — 467 likes / 52 RT / 31 rep."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@RobinhoodApp",
+   "link": "https://x.com/RobinhoodApp/status/2121996650189074917",
+   "utc": "15/11 16:00Z",
+   "uso": "avaliado; guardado como gancho para segunda",
+   "resumo_pt": "'The market's closed. What are we doing today?' — 333 likes / 17 RT / 239 rep / 25 quotes."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@DinariGlobal",
+   "link": "https://x.com/DinariGlobal/status/2121626387299897644",
+   "utc": "14/11 15:28Z",
+   "uso": "Weekend Resume; fora da janela de 12h, declarado",
+   "resumo_pt": "NVDA como dShare 24/7, 'nights and weekends included', 90+ paises — 11 likes / 2 resp."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@Securitize",
+   "link": "https://x.com/Securitize/status/2121278497653940501",
+   "utc": "13/11 16:26Z",
+   "uso": "Weekend Resume; fora da janela, declarado",
+   "resumo_pt": "'Tokenization is happening right now.' — 988 likes / 87 RT / 53 resp / 13 quotes."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@SuperstateInc",
+   "link": "https://x.com/SuperstateInc/status/2121271948563137010",
+   "utc": "13/11 16:00Z",
+   "uso": "Weekend Resume; fora da janela, declarado",
+   "resumo_pt": "'24/7 transfers, instant settlement... Today it's T-Bills. Next it's everything else.' — 7 likes."
+  },
+  {
+   "conta": "Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121422868915400877",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Bybit_Official | https://x.com/Bybit_Official/status/2121422868915400877 | Pré-IPO da Anthropic negociado na Bybit como ANTHROPICUSDT: \"What do you think Anthropic debuts at",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "Tesla",
+   "link": "https://x.com/Tesla/status/2121384435241402737",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Tesla | https://x.com/Tesla/status/2121384435241402737 | 13/11 23:27Z — \"Select customers are now being invited to purchase Cybercab for personal use\" — 22.947 likes / 3.028",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "Google",
+   "link": "https://x.com/Google/status/2121338095664808238",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Google | https://x.com/Google/status/2121338095664808238 | 13/11 20:23Z — thread \"What we shipped this week @google\": dois TPUs de 8ª geração, Gemini 4 Carbon/AlphaProof, Ge",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "Strategy",
+   "link": "https://x.com/Strategy/status/2121649748163899869",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Strategy | https://x.com/Strategy/status/2121649748163899869 | 14/11 17:01Z — \"Intelligence is getting abundant. $BTC is not. $MSTR\" — 538 likes / 37 rep. Ângulo: Saylor bat",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "nvidia",
+   "link": "https://x.com/nvidia/status/2121647261155570145",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @nvidia | https://x.com/nvidia/status/2121647261155570145 | 14/11 16:51Z — \"AI is helping recyclers see more value in waste\" (vision AI + robotics na triagem de recicláveis) ",
+   "uso": "log do reporter 14/11"
+  }
+ ],
+ "discarded_tips": [
+  "WatcherGuru 00:49Z (CFTC aprova Backpack), 01:49Z (Google), 02:45Z (Nvidia) — denylist de 07/11.",
+  "elonmusk 08:01Z 'Cyber-Inception' e 06:23Z 'Starship 42' — sem assunto proprio.",
+  "elonmusk 07:08Z (ship catch, menciona @lrocket e @HansKoenigsmann) — sem gancho de mercado.",
+  "Bybit 07:59Z WSOT, 05:33Z live e 05:17Z CTO/Bybit AI — promo e institucional.",
+  "lookonchain 06:25Z ARIA 4x, 03:13Z ENA, 06:17Z Abraxas/Hyperliquid — posicoes de terceiros, sem gancho de equities.",
+  "lookonchain 10:11Z hacker da Binance (602.402 ETH, US$ 1,09 bi) — numero forte, sem ponte honesta com Fluxion; fica para a mesa da tarde.",
+  "unusual_whales 11:57Z GTA VI, 11:27Z malware (178 organizacoes), 11:42Z Megaspeed, 11:14Z cultura Nvidia — pauta de tech/seguranca. A de cultura Nvidia pode voltar na tarde."
+ ],
+ "pending": [
+  {
+   "owner": "hadukem",
+   "pt": "Escolha dos 10 itens da edicao da manha de 17/11 (E1-E5, P1-P3, M1-M2)."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Corrigir no SOP o handle do xStocks: e @xStocksFi, nao @xStocks_io."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Confirmar handles de CIAN e KiiChain (sem confirmacao ha doze rondas)."
+  }
+ ],
+ "held": [],
+ "carryover": [
+  {
+   "link": "https://x.com/lookonchain/status/2122633788127940768",
+   "pt": "Hacker da Binance movendo 602.402 ETH (US$ 1,09 bi), 74.880 ETH ja para BTC via THORChain: pauta da tarde se aparecer gancho de liquidez/execucao."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2122649449331646567",
+   "pt": "Investigacao do WSJ sobre a cultura da Nvidia com Jensen Huang: 202 lk/77 rep, gancho de lideranca — candidato da tarde."
+  }
+ ],
+ "reporter_eod": [],
+ "page": {
+  "status": "aguardando escolha do Hadukem",
+  "date": "2026-11-17",
+  "slot": "manha",
+  "items": [
+   {
+    "code": "E1",
+    "link": "https://x.com/Mantle_Official/status/2122661381338255763",
+    "conta": "@Mantle_Official",
+    "a": "imagine finding the investment you want and it's closed till monday. now that one really hurts",
+    "b": "reach gets you in the door. execution decides if you stay. a ticker on a page is not a market",
+    "c": "borders were never the hard part. nobody grades a venue on how it fills when everyone wants out at once"
+   },
+   {
+    "code": "E2",
+    "link": "https://x.com/Bybit_Official/status/2122657966574690760",
+    "conta": "@Bybit_Official",
+    "a": "nov 19 on the calendar. my sleep schedule is not picking that date",
+    "b": "this is the quiet shift: the story now prices before the debut, not on it",
+    "c": "pre-IPO perps moving faster than the equity ever will is either genius or a warning. maybe both"
+   },
+   {
+    "code": "E3",
+    "link": "https://x.com/Bybit_Official/status/2122645926653120698",
+    "conta": "@Bybit_Official",
+    "a": "claude. so at least the losses will be explained politely",
+    "b": "the interesting part of bybit stocks isn't the ticker, it's the rail underneath it",
+    "c": "an AI that picks stocks is just an AI that can be wrong faster. still watching"
+   },
+   {
+    "code": "E4",
+    "link": "https://x.com/DefiLlama/status/2122533589309075681",
+    "conta": "@DefiLlama",
+    "a": "the stables packed up and took the vibes with them",
+    "b": "thinner float means thinner books. venues that stay boring on purpose, no leverage no loops, age better in this weather",
+    "c": "watch execution when the float shrinks. thin books forgive nothing and remember everything"
+   },
+   {
+    "code": "E5",
+    "link": "https://x.com/elonmusk/status/2122577169863885235",
+    "conta": "@elonmusk",
+    "a": "live, die, retrain. at least tom cruise got weekends off",
+    "b": "relentless retraining with no day off is basically what a 24/7 book does to a market maker",
+    "c": "humans already run this loop. we just call it monday"
+   },
+   {
+    "code": "P1",
+    "link": "https://x.com/DefiLlama/status/2122533589309075681",
+    "conta": "post proprio",
+    "texto_en": "stablecoin supply just printed its biggest 30-day drop since UST in may 2022. minus $15.7B. the float got thinner, the books got thinner, and everyone remembers at the same time that liquidity was never a backdrop."
+   },
+   {
+    "code": "P2",
+    "link": "https://x.com/Mantle_Official/status/2122661381338255763",
+    "conta": "post proprio",
+    "texto_en": "the ticker was never the barrier. the hours were. an asset that only moves while one timezone is awake isn't a global market, it's a local one with good PR."
+   },
+   {
+    "code": "P3",
+    "link": "https://x.com/Bybit_Official/status/2122657966574690760",
+    "conta": "post proprio",
+    "texto_en": "an ipo used to be an event with a bell. now the story gets priced days early, by people who don't wait for one."
+   },
+   {
+    "code": "M1",
+    "link": "https://x.com/RobinhoodApp/status/2121996650189074917",
+    "conta": "meme",
+    "caption_en": "market's closed. the books aren't.",
+    "cena_en": "The Fluxion mascot — glossy black vinyl-toy cat, three spiky ears, white swirl logo on the forehead, blue-to-purple glowing visor with cyan LED eyes, glowing nebula belly and a flame-tipped tail — sits cross-legged on an empty trading floor at 3am wearing an oversized hoodie, a live candlestick chart glowing softly on its nebula belly like a nightlight."
+   },
+   {
+    "code": "M2",
+    "link": "https://x.com/elonmusk/status/2122577169863885235",
+    "conta": "meme",
+    "caption_en": "live. die. retrain. no weekends though, that would be unhinged.",
+    "cena_en": "Three identical panels in a row: the Fluxion mascot in a battered exo-suit helmet, visor cracked and glowing cyan, floating in a loop — same pose, same tiny chart on its nebula belly, day counter reading 001, 001, 001. Flame-tipped tail trailing behind the suit in every panel."
+   }
+  ]
+ },
+ "notes_pt": "reporter_tips herdados de 16/11 (logs de 17/11 nao lidos). Nenhuma letra repete texto de outra reply da edicao; o angulo (b) varia (execucao, precificacao, rail, float, market maker) e nao repete 'a bolsa fecha'."
+}
