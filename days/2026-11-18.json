@@ -1,0 +1,417 @@
+{
+ "date": "2026-11-18",
+ "editions": [
+  {
+   "slot": "manha",
+   "hora": "09:00 Fortaleza (12:00Z)",
+   "janela": "18/11 00:05Z -> 12:05Z",
+   "fonte": "varredura direta no X (26 handles) — logs de reporter de 17/11 nao lidos nesta rodada",
+   "replies": [
+    {
+     "cod": 1,
+     "handle": "@Mantle_Official",
+     "utc": "12:04Z",
+     "link": "https://x.com/Mantle_Official/status/2123024647067451887",
+     "pt": "Mantle cutuca o ranking do WSOT e promete upgrade nas acoes: \"m is coming\" (1 lk / 0 rep, post de 1 minuto).",
+     "a": "the leaderboard is fine. it is my portfolio that needs the upgrade",
+     "b": "mstocks on mantle. 3am on a sunday. no bell to wait for",
+     "c": "everyone ranking their wsot gains and i am here ranking my watchlist. priorities"
+    },
+    {
+     "cod": 2,
+     "handle": "@unusual_whales",
+     "utc": "11:01Z",
+     "link": "https://x.com/unusual_whales/status/2123008566038536622",
+     "pt": "UW: pre-vendas de GTA 6 ja passam de US$ 1,5 bi, per CNN (893 lk / 48 rep). Numero da fonte.",
+     "a": "$1.5B for a game that is not even out yet. my patience is worth less than that, apparently",
+     "b": "i have been \"pre-ordering\" the same 5 tickers at 3am for a year. different kind of open world",
+     "c": "gamers got day-one confidence. crypto could never"
+    },
+    {
+     "cod": 3,
+     "handle": "@xStocksFi",
+     "utc": "10:09Z",
+     "link": "https://x.com/xStocksFi/status/2122995524156665924",
+     "pt": "xStocks agora serve de colateral no Morpho (USDC via OKX Wallet, na XLayer): acao tokenizada deixando de ser so trade (96 lk / 6 rep).",
+     "a": "stocks that also handle your borrowing? mine just do the losing part",
+     "b": "collateral that keeps working after the bell. that is exactly what a 24/7 venue is for",
+     "c": "tokenized equities doing lending loops while tradfi is still faxing forms. gud"
+    },
+    {
+     "cod": 4,
+     "handle": "@lookonchain",
+     "utc": "10:17Z",
+     "link": "https://x.com/lookonchain/status/2122997562877821143",
+     "pt": "O hacker da Binance moveu outros 78.415 ETH (US$ 142 mi) para lavar, trocando por BTC via THORChain (127 lk / 32 rep). Numeros da fonte.",
+     "a": "bro is the only one in this market consistently shipping volume this year",
+     "b": "$142M routed in one shot. that is an execution problem before it is anything else — atomic rfq exists for exactly this",
+     "c": "laundering through a router is the most honest onboarding story crypto has"
+    },
+    {
+     "cod": 5,
+     "handle": "@Mantle_Official",
+     "utc": "04:28Z",
+     "link": "https://x.com/Mantle_Official/status/2122909698278211950",
+     "pt": "MNT entrou na GMO Coin, exchange regulada no Japao (97 lk / 19 rep) — praca regulada japonesa para o token.",
+     "a": "regulated listing in japan and my group chat still cannot stay regulated for 5 minutes",
+     "b": "a listing is the easy part. can you actually get size in and out of it? depth and spreads or it is just a screenshot",
+     "c": "japan is always early on the weird stuff. respect"
+    }
+   ],
+   "posts": [
+    {
+     "cod": "P1",
+     "tema": "m is coming / liquidez",
+     "text": "\"m is coming.\n\nwhen it lands, the ticker is not the interesting part. the liquidity underneath is.\"",
+     "fonte": "https://x.com/Mantle_Official/status/2123024647067451887",
+     "pt": "Gancho no teaser da Mantle das 12:04Z (post de hoje): a novidade e a liquidez por baixo, nao o ticker."
+    },
+    {
+     "cod": "P2",
+     "tema": "GTA 6 e mercado fechado",
+     "text": "\"$1.5B pre-ordered for a game that is not out yet.\n\nmeanwhile you cannot buy a slice of the company making it at 3am. that is the part we are fixing.\"",
+     "fonte": "https://x.com/unusual_whales/status/2123008566038536622",
+     "pt": "Fonte: UW 11:01Z citando CNN (pre-vendas acima de US$ 1,5 bi). Gancho de 24/7 em cima do hype do GTA 6."
+    },
+    {
+     "cod": "P3",
+     "tema": "listing nao e mercado",
+     "text": "\"a listing is not a market.\n\n$MNT on a japanese exchange is a good day. the real question is depth, spreads and whether you can still get out at 3am.\n\nliquidity and execution. always.\"",
+     "fonte": "https://x.com/Mantle_Official/status/2122909698278211950",
+     "pt": "Fonte: Mantle 04:28Z (MNT na GMO Coin). Mensagem-core da Fluxion: listagem nao e mercado."
+    }
+   ],
+   "memes": [
+    {
+     "cod": "M1",
+     "formato": "countdown / \"3am, ainda acordado\"",
+     "caption": "stock market: closed 9 hours ago. me and the cat: still on chain",
+     "exemplo": "https://x.com/unusual_whales/status/2123008566038536622",
+     "cena": "Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl on forehead, blue-to-purple visor with cyan LED eyes, nebula belly) slumped in a gaming chair at 3am, headphones on, glow of a terminal on its face, one paw still on the mouse."
+    },
+    {
+     "cod": "M2",
+     "formato": "me explaining X to my friends",
+     "caption": "me explaining that a listing is not a market (they only asked about my weekend)",
+     "exemplo": "https://x.com/Mantle_Official/status/2122909698278211950",
+     "cena": "Fluxion mascot standing in front of a whiteboard covered in arrows and a glowing chart, pointing at the words \"listing != market\", flame-tipped tail up, a bored friend on a couch behind."
+    }
+   ],
+   "entrega": "show_block unico no DM do Hadukem (nota de despertar enviada na rotina; bloco postado ao acordar no DM)"
+  }
+ ],
+ "escolhas_log": [],
+ "style_rules": {
+  "modal_card": {
+   "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link do post em cima de cada item, letras a/b/c em lista uma por linha, opcao \"nenhuma\" e campo de porque por item, um unico botao de envio no fim.",
+   "origem": "Hadukem, 14/11/2026 ~17:00. Gravado em clarim/SHARED.md, PR #161.",
+   "vigente_em_16_11": true,
+   "mudanca_em_16_11": "nenhuma — aplicado no card da manha"
+  },
+  "anti_dup_urls_2026-11-16": [
+   "https://x.com/xStocksFi/status/2122250118422532505",
+   "https://x.com/Bybit_Official/status/2122298643810042225",
+   "https://x.com/lookonchain/status/2122284799432048906",
+   "https://x.com/elonmusk/status/2122220308799316072",
+   "https://x.com/lookonchain/status/2122224231836737623"
+  ],
+  "anti_dup_texto": "nenhuma letra repete texto de outra reply da mesma edicao; o angulo (b) varia (venue, 24h, RFQ, uptime, size) e nao repete 'a bolsa fecha' duas vezes",
+  "modal_card_v2": {
+   "regra": "Entrega em UM show_block: link clicavel por item, a/b/c em lista uma por linha, opcao nenhuma, campo de porque e um unico send no fim.",
+   "vigente_em_18_11": true
+  },
+  "anti_dup_urls_2026-11-18": [
+   "https://x.com/Mantle_Official/status/2123024647067451887",
+   "https://x.com/unusual_whales/status/2123008566038536622",
+   "https://x.com/xStocksFi/status/2122995524156665924",
+   "https://x.com/lookonchain/status/2122997562877821143",
+   "https://x.com/Mantle_Official/status/2122909698278211950"
+  ]
+ },
+ "quality_feedback": [
+  {
+   "de": "mesa (auto)",
+   "quando": "18/11 manha",
+   "pt": "Janela de 12h com 31 posts, 2 parceiros ativos (Mantle 3 posts, xStocks 1). Nenhum feedback novo do Hadukem desde 17/11 ~18:15 (correcao do modal). Os 20 itens de 17/11 (manha, 15:00, 18:00) venceram sem escolha; nada publicado."
+  }
+ ],
+ "reporter_tips": [
+  {
+   "reporter": "gleison",
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121966533815804196",
+   "utc": "15/11 14:00Z",
+   "uso": "virou o E1 do card da tarde",
+   "resumo_pt": "Bybit: 'What's your move now that Anthropic pre-IPO is on Bybit?' 27 likes / 3 RT / 16 respostas."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Strategy",
+   "link": "https://x.com/Strategy/status/2121725688126300554",
+   "utc": "14/11 22:03Z",
+   "uso": "fora da janela de 12h, declarado pelo reporter",
+   "resumo_pt": "'Bank credit is going to be a key driver of $BTC adoption. $MSTR' — 802 likes / 53 rep."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Strategy",
+   "link": "https://x.com/Strategy/status/2122016502971093377",
+   "utc": "15/11 17:18Z",
+   "uso": "avaliado para o card da noite",
+   "resumo_pt": "'Our business centers on the capital we hold and our ability to create credit. $MSTR $STRC' — 467 likes / 52 RT / 31 rep."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@RobinhoodApp",
+   "link": "https://x.com/RobinhoodApp/status/2121996650189074917",
+   "utc": "15/11 16:00Z",
+   "uso": "avaliado; guardado como gancho para segunda",
+   "resumo_pt": "'The market's closed. What are we doing today?' — 333 likes / 17 RT / 239 rep / 25 quotes."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@DinariGlobal",
+   "link": "https://x.com/DinariGlobal/status/2121626387299897644",
+   "utc": "14/11 15:28Z",
+   "uso": "Weekend Resume; fora da janela de 12h, declarado",
+   "resumo_pt": "NVDA como dShare 24/7, 'nights and weekends included', 90+ paises — 11 likes / 2 resp."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@Securitize",
+   "link": "https://x.com/Securitize/status/2121278497653940501",
+   "utc": "13/11 16:26Z",
+   "uso": "Weekend Resume; fora da janela, declarado",
+   "resumo_pt": "'Tokenization is happening right now.' — 988 likes / 87 RT / 53 resp / 13 quotes."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@SuperstateInc",
+   "link": "https://x.com/SuperstateInc/status/2121271948563137010",
+   "utc": "13/11 16:00Z",
+   "uso": "Weekend Resume; fora da janela, declarado",
+   "resumo_pt": "'24/7 transfers, instant settlement... Today it's T-Bills. Next it's everything else.' — 7 likes."
+  },
+  {
+   "conta": "Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2121422868915400877",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Bybit_Official | https://x.com/Bybit_Official/status/2121422868915400877 | Pré-IPO da Anthropic negociado na Bybit como ANTHROPICUSDT: \"What do you think Anthropic debuts at",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "Tesla",
+   "link": "https://x.com/Tesla/status/2121384435241402737",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Tesla | https://x.com/Tesla/status/2121384435241402737 | 13/11 23:27Z — \"Select customers are now being invited to purchase Cybercab for personal use\" — 22.947 likes / 3.028",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "Google",
+   "link": "https://x.com/Google/status/2121338095664808238",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Google | https://x.com/Google/status/2121338095664808238 | 13/11 20:23Z — thread \"What we shipped this week @google\": dois TPUs de 8ª geração, Gemini 4 Carbon/AlphaProof, Ge",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "Strategy",
+   "link": "https://x.com/Strategy/status/2121649748163899869",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @Strategy | https://x.com/Strategy/status/2121649748163899869 | 14/11 17:01Z — \"Intelligence is getting abundant. $BTC is not. $MSTR\" — 538 likes / 37 rep. Ângulo: Saylor bat",
+   "uso": "log do reporter 14/11"
+  },
+  {
+   "conta": "nvidia",
+   "link": "https://x.com/nvidia/status/2121647261155570145",
+   "hora_utc": "14/11",
+   "resumo_pt": "TIP | @nvidia | https://x.com/nvidia/status/2121647261155570145 | 14/11 16:51Z — \"AI is helping recyclers see more value in waste\" (vision AI + robotics na triagem de recicláveis) ",
+   "uso": "log do reporter 14/11"
+  }
+ ],
+ "discarded_tips": [
+  {
+   "conta": "@WatcherGuru",
+   "link": "https://x.com/WatcherGuru/status/2122917829003395381",
+   "motivo": "conta em denylist desde 07/11 (3 tips descartados tambem hoje)."
+  },
+  {
+   "conta": "@WatcherGuru",
+   "link": "https://x.com/WatcherGuru/status/2122892171435020351",
+   "motivo": "denylist; Nvidia comprando US$ 10 bi em acoes da Anthropic — numero da fonte, mas conta vetada."
+  },
+  {
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2122872421233389741",
+   "motivo": "promo de perps de IPO — beira conselho de investimento, never-list."
+  },
+  {
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2123001909049221384",
+   "motivo": "live do Learn sobre IPO da Anthropic — institucional/promo."
+  },
+  {
+   "conta": "@elonmusk",
+   "links": [
+    "2123020499680981231",
+    "2123017891167785201",
+    "2123009640925663305",
+    "2122997935486996569",
+    "2122987306923733063"
+   ],
+   "motivo": "5 posts na janela, todos sem assunto proprio que renda reply da Fluxion (frases soltas / Boring Company)."
+  },
+  {
+   "conta": "@lookonchain",
+   "links": [
+    "2122945077756772620",
+    "2122947154360852753",
+    "2122935713016721445"
+   ],
+   "motivo": "posicoes e perdas de terceiros (Machi, TRUMP) e estatistica de USDT na TRON — sem gancho de liquidez/execucao. O do hacker (78.415 ETH) entrou como E4."
+  },
+  {
+   "conta": "@Microsoft",
+   "link": "https://x.com/Microsoft/status/2122877917697065050",
+   "motivo": "photo dump do Ignite, sem gancho."
+  },
+  {
+   "conta": "@Google",
+   "link": "https://x.com/Google/status/2122858128584720489",
+   "motivo": "Eiffel Tower 3D com Gemini — interessante, mas sem ponte honesta para trading."
+  },
+  {
+   "conta": "@unusual_whales",
+   "links": [
+    "2123016115412410638",
+    "2123003784062251189",
+    "2123000008807162114"
+   ],
+   "motivo": "Bezos/Bond, Java4Shell e Nvidia-China: alto alcance mas o gancho seria forcado; o de GTA 6 rendia mais."
+  },
+  {
+   "conta": "@TheBlock__ / @Superstate",
+   "motivo": "varredura voltou vazia para os dois handles (segundo dia seguido)."
+  }
+ ],
+ "pending": [
+  {
+   "owner": "hadukem",
+   "pt": "Escolha dos 10 itens da edicao da manha de 18/11 (E1-E5, P1-P3, M1-M2)."
+  },
+  {
+   "owner": "hadukem",
+   "pt": "Escolha dos 20 itens de 17/11 (manha, 15:00 e 18:00) — venceu sem resposta; nada foi publicado."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Corrigir no SOP o handle do xStocks: e @xStocksFi, nao @xStocks_io."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Confirmar handles de CIAN e KiiChain (sem confirmacao ha treze rondas)."
+  },
+  {
+   "owner": "bruna",
+   "pt": "O template clarim/templates/card-escolhas-clarim.md (PR #205) nao esta na main do empresa-ops — reconferir o merge."
+  }
+ ],
+ "held": [],
+ "carryover": [
+  {
+   "link": "https://x.com/Mantle_Official/status/2122909698278211950",
+   "pt": "MNT na GMO Coin (Japao regulado) ficou como E5, nao como carryover — registrar se o Hadukem quiser o assunto tambem na tarde."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2122892171435020351",
+   "pt": "Nvidia comprando US$ 10 bi em acoes da Anthropic (9.641 lk): pauta da tarde se aparecer gancho proprio sem depender da WatcherGuru como fonte de reply."
+  },
+  {
+   "link": "https://x.com/lookonchain/status/2122997562877821143",
+   "pt": "Hacker da Binance ja foi E4 — nao repetir na tarde."
+  }
+ ],
+ "reporter_eod": [],
+ "page": [
+  {
+   "codigo": "E1",
+   "link": "https://x.com/Mantle_Official/status/2123024647067451887",
+   "opcoes": {
+    "a": "the leaderboard is fine. it is my portfolio that needs the upgrade",
+    "b": "mstocks on mantle. 3am on a sunday. no bell to wait for",
+    "c": "everyone ranking their wsot gains and i am here ranking my watchlist. priorities"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "codigo": "E2",
+   "link": "https://x.com/unusual_whales/status/2123008566038536622",
+   "opcoes": {
+    "a": "$1.5B for a game that is not even out yet. my patience is worth less than that, apparently",
+    "b": "i have been \"pre-ordering\" the same 5 tickers at 3am for a year. different kind of open world",
+    "c": "gamers got day-one confidence. crypto could never"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "codigo": "E3",
+   "link": "https://x.com/xStocksFi/status/2122995524156665924",
+   "opcoes": {
+    "a": "stocks that also handle your borrowing? mine just do the losing part",
+    "b": "collateral that keeps working after the bell. that is exactly what a 24/7 venue is for",
+    "c": "tokenized equities doing lending loops while tradfi is still faxing forms. gud"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "codigo": "E4",
+   "link": "https://x.com/lookonchain/status/2122997562877821143",
+   "opcoes": {
+    "a": "bro is the only one in this market consistently shipping volume this year",
+    "b": "$142M routed in one shot. that is an execution problem before it is anything else — atomic rfq exists for exactly this",
+    "c": "laundering through a router is the most honest onboarding story crypto has"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "codigo": "E5",
+   "link": "https://x.com/Mantle_Official/status/2122909698278211950",
+   "opcoes": {
+    "a": "regulated listing in japan and my group chat still cannot stay regulated for 5 minutes",
+    "b": "a listing is the easy part. can you actually get size in and out of it? depth and spreads or it is just a screenshot",
+    "c": "japan is always early on the weird stuff. respect"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "codigo": "P1",
+   "link": "https://x.com/Mantle_Official/status/2123024647067451887",
+   "texto": "\"m is coming.\n\nwhen it lands, the ticker is not the interesting part. the liquidity underneath is.\"",
+   "escolha_hadukem": null
+  },
+  {
+   "codigo": "P2",
+   "link": "https://x.com/unusual_whales/status/2123008566038536622",
+   "texto": "\"$1.5B pre-ordered for a game that is not out yet.\n\nmeanwhile you cannot buy a slice of the company making it at 3am. that is the part we are fixing.\"",
+   "escolha_hadukem": null
+  },
+  {
+   "codigo": "P3",
+   "link": "https://x.com/Mantle_Official/status/2122909698278211950",
+   "texto": "\"a listing is not a market.\n\n$MNT on a japanese exchange is a good day. the real question is depth, spreads and whether you can still get out at 3am.\n\nliquidity and execution. always.\"",
+   "escolha_hadukem": null
+  },
+  {
+   "codigo": "M1",
+   "exemplo": "https://x.com/unusual_whales/status/2123008566038536622",
+   "caption": "stock market: closed 9 hours ago. me and the cat: still on chain",
+   "escolha_hadukem": null
+  },
+  {
+   "codigo": "M2",
+   "exemplo": "https://x.com/Mantle_Official/status/2122909698278211950",
+   "caption": "me explaining that a listing is not a market (they only asked about my weekend)",
+   "escolha_hadukem": null
+  }
+ ],
+ "notes_pt": "Edicao da manha de 18/11 montada direto no X (janela 00:05Z-12:05Z, 31 posts). Logs dos reporteres de 17/11 nao lidos nesta rodada (teto de ferramentas) — lacuna declarada. Nenhum numero usado sem estar na fonte primaria. Entrega: show_block no DM."
+}
