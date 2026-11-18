@@ -132,9 +132,363 @@
    "chosen": null,
    "posted": null,
    "status": "gravado na origem pela manha; escolhas do Hadukem e fecho no card das 21:30"
+  },
+  {
+   "slot": "tarde",
+   "hora_local": "15:00",
+   "janela_utc": "2026-11-17 12:03Z -> 18:00Z",
+   "codes": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5"
+   ],
+   "page_codes_gerados": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5"
+   ],
+   "escolha_hadukem": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30",
+   "publicada": false,
+   "lacuna": "Logs de 17/11 dos reporteres ainda nao estavam no empresa-ops no horario do card - varredura direta do X (xread).",
+   "replies": [
+    {
+     "code": "E1",
+     "conta": "@WatcherGuru",
+     "utc": "15:30Z",
+     "link": "https://x.com/WatcherGuru/status/2122713878920622342",
+     "engajamento": "14.170 lk / 2.058 rt / 642 rp",
+     "pt": "O site da Charles Schwab, gestora de US$ 13 tri, saiu do ar.",
+     "a": "the market can't crash if you can't log in",
+     "b": "a broker's site goes down and a trillion-dollar book goes quiet. onchain has no login screen to lose",
+     "c": "one broken login page and the whole book stops. that's not a market, that's a waiting room"
+    },
+    {
+     "code": "E2",
+     "conta": "@Mantle_Official",
+     "utc": "14:08Z",
+     "link": "https://x.com/Mantle_Official/status/2122693265342529973",
+     "engajamento": "39 lk / 5 rt / 8 rp",
+     "pt": "Mantle: Disney e Home Depot reportam antes do pregao, Nvidia depois - os tres tokenizados pela xStocks e negociaveis 24h na Mantle via Atomic RFQ da Fluxion.",
+     "a": "three earnings calls, three alarms, and still missing the reaction",
+     "b": "atomic RFQ for size, day and night. the earnings pop doesn't have to wait for your timezone",
+     "c": "half the edge in earnings season is just being awake. weird thing to gate a trillion-dollar market on"
+    },
+    {
+     "code": "E3",
+     "conta": "@DefiLlama",
+     "utc": "13:41Z",
+     "link": "https://x.com/DefiLlama/status/2122686652799664305",
+     "engajamento": "75 lk / 14 rp",
+     "pt": "Volume de RWA perps subiu mais de 60x no ano - US$ 98 bi em 2025 para US$ 6,3 tri em 2026 ate agora (numero do proprio DefiLlama).",
+     "a": "60x in a year and nobody at dinner will believe me",
+     "b": "volume follows execution. size in one shot, any hour, on mantle",
+     "c": "60x volume says more about execution than about new listings. the pipes were the bottleneck"
+    },
+    {
+     "code": "E4",
+     "conta": "@Securitize",
+     "utc": "17:22Z",
+     "link": "https://x.com/Securitize/status/2122742089893261566",
+     "engajamento": "37 lk / 8 rt / 4 rp",
+     "pt": "Securitize concluiu a compra da River One; cita os quase US$ 300 bi em stablecoins e as empresas que precisam de financiamento.",
+     "a": "two things that have never once needed three days to settle",
+     "b": "digital dollars move in seconds, equities still clock out at 4pm. one of those is a choice",
+     "c": "stablecoins learned to settle in seconds. equities still take a coffee break at 4pm"
+    },
+    {
+     "code": "E5",
+     "conta": "@unusual_whales",
+     "utc": "17:17Z",
+     "link": "https://x.com/unusual_whales/status/2122740801033949518",
+     "engajamento": "109 lk / 52 rp",
+     "pt": "52% dos fund managers esperam corte de capex de hyperscaler de IA em ate seis meses - era 30% no mes passado e ~15% em setembro, segundo o Bank of America.",
+     "a": "fund managers flip faster than the capex they're worried about",
+     "b": "sentiment turns at 2am too. the venue shouldn't be closed when it does",
+     "c": "15% in september, 52% in november. that's not analysis, that's a mood with a spreadsheet"
+    }
+   ],
+   "fora_do_card": [
+    "xStocksFi 13:36Z (2122685259540291844, tese NVDAx 24/7) e 16:20Z (2122726505465679943, US$ 1 bi de AUM no Breakpoint) - os dois melhores tips de parceiro da janela nao entraram: o card ficou com 5 contas diferentes para nao repetir conta dentro do mesmo card.",
+    "SkyEcosystem 13:25Z/13:27Z (US$ 70 mi adicionados as Sky Reserves, total US$ 94,4 mi) - numero de tesouro institucional, sem gancho novo de execucao.",
+    "grovedotfinance 17:34Z (2122745293259395444, financials de outubro) - entrou na janela, mas chegou junto do fecho do card; virou carryover.",
+    "Bybit 16:10Z/16:20Z/16:30Z serie '90 million' e 18:00Z Stockholm Open - engage-por-engage."
+   ]
+  },
+  {
+   "slot": "noite",
+   "hora_local": "18:00",
+   "janela_utc": "2026-11-17 18:00Z -> 21:09Z",
+   "codes": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5"
+   ],
+   "page_codes_gerados": [
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5"
+   ],
+   "escolha_hadukem": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30",
+   "publicada": false,
+   "lacuna": "Card montado na varredura ao vivo (21:09Z); logs de 17/11 dos reporteres ainda em branch, sem merge no empresa-ops.",
+   "replies": [
+    {
+     "code": "E1",
+     "conta": "@Securitize",
+     "utc": "20:33Z",
+     "link": "https://x.com/Securitize/status/2122790307108704352",
+     "engajamento": "nao verificado (X lento na varredura)",
+     "pt": "CEO Carlos Domingo, no Investor Day da ParaFi: ninguem mais se chama 'internet company' - o dia em que tokenized securities forem so securities e o dia em que a coisa vira padrao.",
+     "a": "one day we drop the 'tokenized' prefix. today we're adding a second one.",
+     "b": "the prefix dies when the plumbing gets boring - 24/7 execution on mantle is what turns it from a qualifier into the default",
+     "c": "a 4pm close is the only thing keeping that prefix alive"
+    },
+    {
+     "code": "E2",
+     "conta": "@unusual_whales",
+     "utc": "20:17Z",
+     "link": "https://x.com/unusual_whales/status/2122786099571609954",
+     "engajamento": "nao verificado (X lento na varredura)",
+     "pt": "NVDA reporta depois do fechamento; opcoes precificam movimento de ~6,88% (~US$ 10,60) pra qualquer lado, acima dos trimestres recentes (fonte: UW).",
+     "a": "earnings at 4pm, heart rate at 4:01. we've all been there",
+     "b": "6.88% implied move and the book shuts before you can trade the reaction. onchain there's no bell between you and the print",
+     "c": "the options market is pricing the move. the calendar is pricing your sleep"
+    },
+    {
+     "code": "E3",
+     "conta": "@SuperstateInc",
+     "utc": "19:52Z",
+     "link": "https://x.com/SuperstateInc/status/2122780053377536270",
+     "engajamento": "nao verificado (X lento na varredura)",
+     "pt": "Invesco (US$ 2,5 tri em ativos, fonte Superstate) lanca no FundOS o IROXX, money market fund registrado feito pra lastrear stablecoin.",
+     "a": "a money market fund for stablecoins - the stablecoin is now the weird part of the sentence",
+     "b": "registered funds wrapping stablecoins today, spot equities tomorrow. same pipes, and none of it checks the clock",
+     "c": "funny how the boring wrapper is the one that finally makes this feel real"
+    },
+    {
+     "code": "E4",
+     "conta": "@WatcherGuru",
+     "utc": "20:16Z",
+     "link": "https://x.com/WatcherGuru/status/2122785909166711012",
+     "engajamento": "nao verificado (X lento na varredura)",
+     "pt": "Circle fecha parceria com Citi e World Bank Group pra usar USDC em envio de dinheiro pelo mundo.",
+     "a": "citi and the world bank on a stablecoin. someone's compliance team just aged five years",
+     "b": "rails converging: once usdc moves cross-border at bank scale, the same pipes carry tokenized equities at 3am",
+     "c": "banks don't adopt things. they absorb them and call it strategy"
+    },
+    {
+     "code": "E5",
+     "conta": "@Bybit_Official",
+     "utc": "19:59Z",
+     "link": "https://x.com/Bybit_Official/status/2122781573288264156",
+     "engajamento": "nao verificado (X lento na varredura)",
+     "pt": "Bybit pergunta qual e o primeiro nome que voce indica pra quem ta comecando no crypto (post de engajamento, resposta facil).",
+     "a": "the friend who says 'just stack and log off' is undefeated",
+     "b": "start wherever, but pick a venue that doesn't clock out at 4pm. that's the whole trick",
+     "c": "the first name you drop says more about you than about them"
+    }
+   ],
+   "fora_do_card": [
+    "xStocks/JTX e LSE (16/11 18:08Z) - ja usados na edicao de 16/11; repetir mata a reply.",
+    "Mantle parou em 12:01Z - ja foi o E1 do card da manha de hoje.",
+    "WatcherGuru sobre Nvidia sem Jensen e a investigacao da SEC - mesmo tema do E2; escolhi so um dos dois.",
+    "Epstein/measles (sem gancho de mercado) e Bybit Stockholm Open (engajamento raso).",
+    "Robinhood 'onchain' 20:10Z (2122784352899903938) - tease de duas palavras, chegou na janela mas ficou para amanha."
+   ]
   }
  ],
- "escolhas_log": [],
+ "escolhas_log": [
+  {
+   "card": "manha 09:00",
+   "code": "E1",
+   "tipo": "reply",
+   "alvo": "@Mantle_Official",
+   "link": "https://x.com/Mantle_Official/status/2122661381338255763",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "E2",
+   "tipo": "reply",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2122657966574690760",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "E3",
+   "tipo": "reply",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2122645926653120698",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "E4",
+   "tipo": "reply",
+   "alvo": "@DefiLlama",
+   "link": "https://x.com/DefiLlama/status/2122533589309075681",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "E5",
+   "tipo": "reply",
+   "alvo": "@elonmusk",
+   "link": "https://x.com/elonmusk/status/2122577169863885235",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "P1",
+   "tipo": "post proprio",
+   "alvo": "@Fluxion_network",
+   "link": "https://x.com/DefiLlama/status/2122533589309075681",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "P2",
+   "tipo": "post proprio",
+   "alvo": "@Fluxion_network",
+   "link": "https://x.com/Mantle_Official/status/2122661381338255763",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "P3",
+   "tipo": "post proprio",
+   "alvo": "@Fluxion_network",
+   "link": "https://x.com/Bybit_Official/status/2122657966574690760",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "M1",
+   "tipo": "meme",
+   "alvo": "@Fluxion_network",
+   "link": "https://x.com/RobinhoodApp/status/2121996650189074917",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "manha 09:00",
+   "code": "M2",
+   "tipo": "meme",
+   "alvo": "@Fluxion_network",
+   "link": "https://x.com/elonmusk/status/2122577169863885235",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E1",
+   "tipo": "reply",
+   "alvo": "@WatcherGuru",
+   "link": "https://x.com/WatcherGuru/status/2122713878920622342",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E2",
+   "tipo": "reply",
+   "alvo": "@Mantle_Official",
+   "link": "https://x.com/Mantle_Official/status/2122693265342529973",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E3",
+   "tipo": "reply",
+   "alvo": "@DefiLlama",
+   "link": "https://x.com/DefiLlama/status/2122686652799664305",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E4",
+   "tipo": "reply",
+   "alvo": "@Securitize",
+   "link": "https://x.com/Securitize/status/2122742089893261566",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "tarde 15:00",
+   "code": "E5",
+   "tipo": "reply",
+   "alvo": "@unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2122740801033949518",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E1",
+   "tipo": "reply",
+   "alvo": "@Securitize",
+   "link": "https://x.com/Securitize/status/2122790307108704352",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E2",
+   "tipo": "reply",
+   "alvo": "@unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2122786099571609954",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E3",
+   "tipo": "reply",
+   "alvo": "@SuperstateInc",
+   "link": "https://x.com/SuperstateInc/status/2122780053377536270",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E4",
+   "tipo": "reply",
+   "alvo": "@WatcherGuru",
+   "link": "https://x.com/WatcherGuru/status/2122785909166711012",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  },
+  {
+   "card": "noite 18:00",
+   "code": "E5",
+   "tipo": "reply",
+   "alvo": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2122781573288264156",
+   "escolha": "sem escolha",
+   "porque": "sem resposta do Hadukem ate o fecho das 21:30"
+  }
+ ],
  "style_rules": {
   "modal_card": {
    "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link do post em cima de cada item, letras a/b/c em lista uma por linha, opcao \"nenhuma\" e campo de porque por item, um unico botao de envio no fim.",
@@ -149,7 +503,30 @@
    "https://x.com/elonmusk/status/2122220308799316072",
    "https://x.com/lookonchain/status/2122224231836737623"
   ],
-  "anti_dup_texto": "nenhuma letra repete texto de outra reply da mesma edicao; o angulo (b) varia (venue, 24h, RFQ, uptime, size) e nao repete 'a bolsa fecha' duas vezes"
+  "anti_dup_texto": "nenhuma letra repete texto de outra reply da mesma edicao; o angulo (b) varia (venue, 24h, RFQ, uptime, size) e nao repete 'a bolsa fecha' duas vezes",
+  "modal_card_v2": {
+   "regra": "Toda edicao do Clarim (manha, 15:00, 18:00 e Weekend Resume) sai em UM show_block com o spec exato: note curto, heading, cards com o link em cima, letras a/b/c so no part list (uma por linha, nunca no rotulo do card), opcao 'nenhuma', campo de porque por item, um unico send no fim e placeholder curto. Lista em texto puro nao e entrega: se o bloco falhar, encurta e tenta de novo.",
+   "origem": "Hadukem, 17/11/2026 13:30Z - 'quero que TODOS os clarim saiam dessa mesma forma'. Spec em clarim/templates/card-escolhas-clarim.md, regra no SHARED, PR #205.",
+   "vigente_em_17_11": true
+  },
+  "anti_dup_urls_2026-11-17": [
+   "https://x.com/Mantle_Official/status/2122661381338255763",
+   "https://x.com/Bybit_Official/status/2122657966574690760",
+   "https://x.com/Bybit_Official/status/2122645926653120698",
+   "https://x.com/DefiLlama/status/2122533589309075681",
+   "https://x.com/elonmusk/status/2122577169863885235",
+   "https://x.com/RobinhoodApp/status/2121996650189074917",
+   "https://x.com/WatcherGuru/status/2122713878920622342",
+   "https://x.com/Mantle_Official/status/2122693265342529973",
+   "https://x.com/DefiLlama/status/2122686652799664305",
+   "https://x.com/Securitize/status/2122742089893261566",
+   "https://x.com/unusual_whales/status/2122740801033949518",
+   "https://x.com/Securitize/status/2122790307108704352",
+   "https://x.com/unusual_whales/status/2122786099571609954",
+   "https://x.com/SuperstateInc/status/2122780053377536270",
+   "https://x.com/WatcherGuru/status/2122785909166711012",
+   "https://x.com/Bybit_Official/status/2122781573288264156"
+  ]
  },
  "quality_feedback": [
   {
@@ -161,6 +538,16 @@
    "de": "mesa (auto)",
    "quando": "17/11 manha",
    "pt": "Janela de 24 posts. Segundo dia seguido com parceiro de tokenizacao ativo: Mantle publicou as 12:01Z, minutos antes do fecho da janela. Bybit fez o caminho 24/7 pela terceira vez em tres dias."
+  },
+  {
+   "de": "Hadukem",
+   "quando": "17/11 13:30Z",
+   "pt": "'perfeito!!! vou fazer. agora quero que anote EXATAMENTE como fez isso e quero que TODOS os clarim saiam dessa mesma forma.' Virou regra de estilo (modal_card_v2) e spec no repo. As 18:15Z reclamou que o card das 15:00 nao veio em modal - a causa era a rotina pedir 'um bloco' sem o spec; as quatro rotinas foram corrigidas e o card da noite ja saiu certo."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "17/11 fecho",
+   "pt": "Dia de tres entregas (manha 10 itens, tarde 5 replies, noite 5 replies) e novamente nenhuma escolha: a ultima fala do Hadukem escolhendo item segue sendo 14/11 ~17:00. Nada publicado."
   }
  ],
  "reporter_tips": [
@@ -254,6 +641,94 @@
    "hora_utc": "14/11",
    "resumo_pt": "TIP | @nvidia | https://x.com/nvidia/status/2121647261155570145 | 14/11 16:51Z — \"AI is helping recyclers see more value in waste\" (vision AI + robotics na triagem de recicláveis) ",
    "uso": "log do reporter 14/11"
+  },
+  {
+   "reporter": "gleison",
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2122657966574690760",
+   "utc": "17/11 11:47Z",
+   "uso": "base do P3 da manha",
+   "resumo_pt": "Bybit abre perp ANTUSDT 24/7 e cita IPO da Anthropic em 19/11 ('reports point to', data NAO VERIFICADA). 11 lk / 1 rt / 8 rp."
+  },
+  {
+   "reporter": "gleison",
+   "conta": "@Mantle_Official",
+   "link": "https://x.com/Mantle_Official/status/2122661381338255763",
+   "utc": "17/11 12:01Z",
+   "uso": "virou o E1 da manha",
+   "resumo_pt": "Mantle RWA Day, Joshua Cheong: 'onchain, there's no home country' - alcance como vantagem real da tokenizacao. 7 lk / 3 rt / 1 rp."
+  },
+  {
+   "reporter": "gleison",
+   "conta": "@xStocksFi",
+   "link": "https://x.com/xStocksFi/status/2122685259540291844",
+   "utc": "17/11 13:36Z",
+   "uso": "nao entrou nos cards",
+   "resumo_pt": "$NVDAx abre a tese do dia: NVIDIA reporta hoje, negocia 24/7, e na sexta >50% do volume veio depois do horario (numero da propria xStocks). 64 lk / 4 rt / 7 rp."
+  },
+  {
+   "reporter": "gleison",
+   "conta": "@Mantle_Official",
+   "link": "https://x.com/Mantle_Official/status/2122693265342529973",
+   "utc": "17/11 14:08Z",
+   "uso": "virou o E2 do card da tarde",
+   "resumo_pt": "Mantle cita @Fluxion_network no corpo do post: Disney, Home Depot e NVIDIA tokenizados, 24h via Atomic RFQ. 39 lk / 5 rt / 8 rp."
+  },
+  {
+   "reporter": "gleison",
+   "conta": "@xStocksFi",
+   "link": "https://x.com/xStocksFi/status/2122726505465679943",
+   "utc": "17/11 16:20Z",
+   "uso": "nao entrou nos cards",
+   "resumo_pt": "US$ 1 bi de AUM na xStocks, Andrew Price no Solana Breakpoint falando de US$ 6-7 tri a tokenizar. 41 lk / 2 rt / 21 rp / 3 quotes."
+  },
+  {
+   "reporter": "gleison",
+   "conta": "@grovedotfinance",
+   "link": "https://x.com/grovedotfinance/status/2122745293259395444",
+   "utc": "17/11 17:34Z",
+   "uso": "virou carryover",
+   "resumo_pt": "Grove publica os financials de outubro e empurra o acompanhamento em tempo real para @grove_data. 15 lk / 3 rt / 1 rp."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@RobinhoodApp",
+   "link": "https://x.com/RobinhoodApp/status/2122784352899903938",
+   "utc": "17/11 20:10Z",
+   "uso": "fora do card da noite, virou carryover",
+   "resumo_pt": "'onchain' e um emoji, duas palavras: tease sem dizer qual cadeia. 128 lk / 14 rt / 54 rp / 7 quotes."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Google",
+   "link": "https://x.com/Google/status/2122740715633426666",
+   "utc": "17/11 17:16Z",
+   "uso": "nao entrou",
+   "resumo_pt": "Tasks no Gemini gratis para 'hundreds of millions' em seis paises. 809 lk / 64 rt / 55 rp / 19 quotes."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Microsoft",
+   "link": "https://x.com/Microsoft/status/2122760532688044523",
+   "utc": "17/11 18:35Z",
+   "uso": "nao entrou",
+   "resumo_pt": "Perception GA no Ignite: agentes red/blue/green em playbooks de ataque e remediacao. 191 lk / 37 rt / 8 rp / 3 quotes."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@SuperstateInc",
+   "link": "https://x.com/SuperstateInc/status/2122699784029106242",
+   "utc": "17/11 14:34Z",
+   "uso": "mesma historia do E3 do card da noite (post de 19:52Z)",
+   "resumo_pt": "FundOS passa a operar seu primeiro fundo publico registrado: Invesco lanca o IROXX, money market fund para reservas de stablecoin. 4 lk / 1 rp."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@DinariGlobal",
+   "link": "https://x.com/DinariGlobal/status/2122711887892648263",
+   "utc": "17/11 15:22Z",
+   "uso": "nao entrou nos cards",
+   "resumo_pt": "Lista o que vem com uma acao tokenizada: dividendo em caixa, splits e eventos corporativos automaticos, voto, resgate no NBBO e lastro. 1 lk."
   }
  ],
  "discarded_tips": [
@@ -263,12 +738,18 @@
   "Bybit 07:59Z WSOT, 05:33Z live e 05:17Z CTO/Bybit AI — promo e institucional.",
   "lookonchain 06:25Z ARIA 4x, 03:13Z ENA, 06:17Z Abraxas/Hyperliquid — posicoes de terceiros, sem gancho de equities.",
   "lookonchain 10:11Z hacker da Binance (602.402 ETH, US$ 1,09 bi) — numero forte, sem ponte honesta com Fluxion; fica para a mesa da tarde.",
-  "unusual_whales 11:57Z GTA VI, 11:27Z malware (178 organizacoes), 11:42Z Megaspeed, 11:14Z cultura Nvidia — pauta de tech/seguranca. A de cultura Nvidia pode voltar na tarde."
+  "unusual_whales 11:57Z GTA VI, 11:27Z malware (178 organizacoes), 11:42Z Megaspeed, 11:14Z cultura Nvidia — pauta de tech/seguranca. A de cultura Nvidia pode voltar na tarde.",
+  "Bybit 17/11 16:10Z/16:20Z/16:30Z serie '90 million' (@pizzahut, @RockstarGames, @duolingo) e 18:00Z Stockholm Open - engage-por-engage (gleison).",
+  "xStocksFi 17:06Z 2122741743177658518 'trillion dollar opportunity' - e o slogan do post das 16:20Z, 46 min depois e sem numero novo (gleison).",
+  "Bybit 12:25Z 'Record high Q3 earnings out of NVDA? Markets may just go meh' - take sem link nem numero (gleison).",
+  "SkyEcosystem 13:25Z/13:27Z - numero de tesouro institucional, sem gancho novo de execucao (gleison).",
+  "Tesla 16:00Z (votacao da anual de 3/dez) e Strategy 16:30Z ('Bank adoption of $BTC') - governanca e velho para a janela (bruno).",
+  "Apple devolveu 0 posts; Meta parada em 12/10; Amazon em 16/11 15:00Z - sem material (bruno)."
  ],
  "pending": [
   {
    "owner": "hadukem",
-   "pt": "Escolha dos 10 itens da edicao da manha de 17/11 (E1-E5, P1-P3, M1-M2)."
+   "pt": "Escolha dos 20 itens de 17/11 (manha E1-E5 + P1-P3 + M1-M2, tarde E1-E5, noite E1-E5)."
   },
   {
    "owner": "bruna",
@@ -277,6 +758,10 @@
   {
    "owner": "bruna",
    "pt": "Confirmar handles de CIAN e KiiChain (sem confirmacao ha doze rondas)."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Mergear os logs de 17/11 de gleison, bruno e mathias: estao em branch aberta no empresa-ops, sem merge ate o fecho."
   }
  ],
  "held": [],
@@ -288,9 +773,44 @@
   {
    "link": "https://x.com/unusual_whales/status/2122649449331646567",
    "pt": "Investigacao do WSJ sobre a cultura da Nvidia com Jensen Huang: 202 lk/77 rep, gancho de lideranca — candidato da tarde."
+  },
+  {
+   "link": "https://x.com/xStocksFi/status/2122685259540291844",
+   "pt": "NVDAx: se a xStocks publicar o volume pos-fechamento de hoje com fonte propria, o '50% after hours' deixa de ser a sexta passada e vira o tip do dia."
+  },
+  {
+   "link": "https://x.com/RobinhoodApp/status/2122784352899903938",
+   "pt": "Robinhood 'onchain' 20:10Z: tease de duas palavras com 54 respostas e janela de reply aberta - nomear o tease e ficar no 24/7 na Mantle."
+  },
+  {
+   "link": "https://x.com/grovedotfinance/status/2122745293259395444",
+   "pt": "Grove financials de outubro (17:34Z): parceiro com cadencia mensal de numero fechado - vale quando o @grove_data trouxer o numero novo."
+  },
+  {
+   "link": "https://x.com/Fluxion_network",
+   "pt": "Fluxion_network no 5o dia sem post proprio (ultimo 13/11 13:40Z). Se chegar a uma semana, e lacuna de calendario e precisa ir ao Hadukem, nao so ao card."
   }
  ],
- "reporter_eod": [],
+ "reporter_eod": [
+  {
+   "reporter": "gleison",
+   "rondas": "4 (09:00, 12:00, 15:00, 18:00)",
+   "tips": 6,
+   "pt": "O reporter do dia outra vez. Entregou Bybit 11:47Z (base do P3), Mantle 12:01Z (E1 da manha), xStocks 13:36Z e 16:20Z, Mantle 14:08Z (E2 da tarde, primeira vez que a Mantle cita @Fluxion_network no corpo do post) e Grove 17:34Z. Marcou o 5o dia seguido sem post proprio do Fluxion_network e o volume de NVDAx pos-fechamento como foco de amanha. Segue sem handle de CIAN e KiiChain e pediu de novo a correcao @xStocks_io -> @xStocksFi no SOP."
+  },
+  {
+   "reporter": "bruno",
+   "rondas": "2 (10:30 abertura NY, 17:30 after-hours)",
+   "tips": 3,
+   "pt": "Ronda das 10:30 sem packet: o beat estava parado desde 16/11 22:00Z. Na das 17:30 entregou Robinhood 'onchain' 20:10Z, Google Tasks no Gemini 17:16Z e Microsoft Perception GA 18:35Z. Nenhum dos tres entrou nos cards - o Robinhood chegou depois do fecho do card da noite e ficou para amanha. Reportou Apple com 0 posts e Meta parada em 12/10."
+  },
+  {
+   "reporter": "mathias",
+   "rondas": "3 (09:00, 12:00, 15:00)",
+   "tips": 2,
+   "pt": "Ronda das 09:00 silenciosa (nada nas cinco contas do SOP). Entregou Superstate 14:34Z (IROXX/Invesco no FundOS - a mesma historia que virou o E3 do card da noite no post das 19:52Z) e Dinari 15:22Z (o que vem pendurado numa acao tokenizada), que nao entrou. Descartou Securitize/River One por ser frente de stablecoin; acabou entrando no card da tarde como E4 por outro angulo."
+  }
+ ],
  "page": {
   "status": "aguardando escolha do Hadukem",
   "date": "2026-11-17",
@@ -370,5 +890,13 @@
    }
   ]
  },
- "notes_pt": "reporter_tips herdados de 16/11 (logs de 17/11 nao lidos). Nenhuma letra repete texto de outra reply da edicao; o angulo (b) varia (execucao, precificacao, rail, float, market maker) e nao repete 'a bolsa fecha'."
+ "notes_pt": [
+  "Fecho de 17/11. Tres entregas no DM: manha 09:00 (10 itens: E1-E5, P1-P3, M1-M2), tarde 15:00 (5 replies) e noite 18:00/21:12Z (5 replies).",
+  "Nenhuma escolha do Hadukem no dia: nenhuma mensagem dele com codigo a/b/c ou A/B/C desde 14/11 ~17:00. `page` ficou como estava, com 'aguardando escolha do Hadukem', e nada foi publicado.",
+  "Regra de estilo nova (17/11 13:30Z): o modal de escolhas passa a ser obrigatorio em TODA edicao, com o spec exato. E a primeira mudanca de forma do dia desde 14/11.",
+  "reporter_eod agora com os tres reporteres lidos das branches (gleison 4 rondas/6 tips, bruno 2/3, mathias 3/2) - os logs de 17/11 nao estavam mergeados na main no fecho, lacuna declarada.",
+  "reporter_tips recebeu os 11 tips de 17/11 por cima dos herdados de 16/11; nada foi apagado.",
+  "Fora das edicoes e por que: xStocks 13:36Z/16:20Z (dois melhores tips de parceiro, mas o card da tarde ficou com 5 contas diferentes), Robinhood 'onchain' 20:10Z (chegou depois do fecho do card da noite, virou carryover), e os itens de stablecoin do mathias.",
+  "Lacuna declarada: os logs de 17/11 dos reporteres estao em branch aberta no empresa-ops; o fecho leu das branches, nao da main."
+ ]
 }
