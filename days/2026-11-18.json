@@ -98,9 +98,252 @@
     }
    ],
    "entrega": "show_block unico no DM do Hadukem (nota de despertar enviada na rotina; bloco postado ao acordar no DM)"
+  },
+  {
+   "slot": "tarde",
+   "hora": "15:00 Fortaleza (18:00Z)",
+   "janela": "18/11 12:05Z -> 18:00Z",
+   "fonte": "varredura direta no X; logs de reporter do dia lidos no fecho",
+   "replies": [
+    {
+     "cod": 1,
+     "handle": "@WatcherGuru",
+     "utc": "17:25Z",
+     "link": "https://x.com/WatcherGuru/status/2123105444076105841",
+     "pt": "Ackman diz que o conselho da Nvidia age contra os acionistas ao recusar trazer Jensen Huang de volta como CEO (4.211 lk / 168 rep).",
+     "a": "bill ackman walking into the nvidia board chat like he pays rent there is peak investor behavior",
+     "b": "shareholder fights hit different when you can act on them at 3am. onchain the stock never clocks out",
+     "c": "unpopular take: a board saying no to the founder isn't a scandal, it's a governance test. the market prices it either way"
+    },
+    {
+     "cod": 2,
+     "handle": "@xStocksFi",
+     "utc": "14:15Z",
+     "link": "https://x.com/xStocksFi/status/2123057415499481097",
+     "pt": "O IPO mais esperado do Q4 comeca a negociar amanha, tokenizado pela xStocks desde o primeiro dia ($ANTx) (96 lk / 8 rep).",
+     "a": "imagine telling someone in 2019 the hottest ipo of the quarter would be tradable before the coffee machine warms up",
+     "b": "$ANTx from day one, on mantle, around the clock. no waiting for the open to have a position",
+     "c": "day one of an ipo is just the first day of price discovery, not the last. tokenizing it from the start is the part that matters"
+    },
+    {
+     "cod": 3,
+     "handle": "@RobinhoodApp",
+     "utc": "17:54Z",
+     "link": "https://x.com/RobinhoodApp/status/2123112599105446055",
+     "pt": "O app vai mostrar o que acontece entre o sino de abertura e a primeira negociacao de um IPO — a descoberta de preco ao vivo (61 lk / 28 rep).",
+     "a": "the opening bell is a vibes-based countdown and we all pretend otherwise",
+     "b": "a listing is not a market, execution is. that gap between the bell and the first print is exactly where onchain grew up",
+     "c": "price discovery is the only interesting part of an ipo, and it's the part retail always sees last"
+    },
+    {
+     "cod": 4,
+     "handle": "@lookonchain",
+     "utc": "13:37Z",
+     "link": "https://x.com/lookonchain/status/2123047896409092499",
+     "pt": "Uma baleia montou short de US$ 93,87 mi em Anthropic na Hyperliquid antes da estreia (245 lk / 53 rep). Numero da fonte.",
+     "a": "a whale shorting an ipo before it lists is the most onchain sentence i've read today",
+     "b": "someone is already trading the ipo before the bell rings. that's the whole 24/7 argument in one position",
+     "c": "everyone loves tokenized equities until a $93M short shows up. that's when the market gets real"
+    },
+    {
+     "cod": 5,
+     "handle": "@Bybit_Official",
+     "utc": "12:25Z",
+     "link": "https://x.com/Bybit_Official/status/2123029830396477684",
+     "pt": "Pergunta de engajamento: \"se a sua estrategia de trade fosse um jogo, como se chamaria?\" (64 lk / 35 rep).",
+     "a": "mine's called \"buy high and call it a long term thesis\"",
+     "b": "mine would be \"no closing bell\", which is also why i like stocks onchain",
+     "c": "if your strategy needs a game name, it's probably a game and not a strategy"
+    }
+   ],
+   "posts": [],
+   "memes": [],
+   "entrega": "texto no DM, formato 'E1: b — porque …' (fora do padrao modal)"
+  },
+  {
+   "slot": "noite",
+   "hora": "18:00 Fortaleza (21:00Z)",
+   "janela": "18:00Z -> 21:00Z",
+   "fonte": "varredura direta no X",
+   "replies": [
+    {
+     "cod": 1,
+     "handle": "@WatcherGuru",
+     "utc": "18:51Z",
+     "link": "https://x.com/WatcherGuru/status/2123126958049661262",
+     "pt": "PlayStation fora do ar para muitos usuarios a 10 horas do lancamento mundial do GTA 6 (7.621 lk / 530 rt / 342 rep).",
+     "a": "psn going down 10 hours before gta 6 is the most honest stress test this industry has ever run",
+     "b": "this is the whole argument for a venue with no login screen and no maintenance window. mstocks on mantle just keep matching",
+     "c": "every launch day is the same story. the internet is the product now, not the game"
+    },
+    {
+     "cod": 2,
+     "handle": "@xStocksFi",
+     "utc": "19:07Z",
+     "link": "https://x.com/xStocksFi/status/2123131003439022553",
+     "pt": "Parceria: \"anthropic on xstocks live from day one\" — $ANTx tokenizada ja disponivel no primeiro dia do IPO (96 lk / 7 rt).",
+     "a": "day one and already no closing bell. the ipo crowd is about to learn that the fun way",
+     "b": "listed on nasdaq in the morning, trading on mantle at 2am. no bell in between",
+     "c": "everyone argues about the ipo price. nobody asks what happens when the news lands at 3am"
+    },
+    {
+     "cod": 3,
+     "handle": "@WatcherGuru",
+     "utc": "19:04Z",
+     "link": "https://x.com/WatcherGuru/status/2123130355419070796",
+     "pt": "Fed espera mais altas de juros e alerta que IA pode empurrar a inflacao para cima (2.703 lk / 266 rt / 282 rep).",
+     "a": "ai got a job and a raise before most of us, and somehow it is also driving inflation",
+     "b": "the fed speaks and half the market is asleep. onchain there is no closing bell between the print and your exit",
+     "c": "inflationary in everything except the cost of moving a stock onchain"
+    },
+    {
+     "cod": 4,
+     "handle": "@unusual_whales",
+     "utc": "20:37Z",
+     "link": "https://x.com/unusual_whales/status/2123153520635297814",
+     "pt": "Nvidia antecipa aumentos e grants de acoes para segurar funcionarios depois da saida de Jensen Huang, per WIRED (296 lk / 20 rt / 74 rep).",
+     "a": "needing a raise to stay at the company that printed the chart of the decade is wild",
+     "b": "the chart does not wait for the all-hands to end when the venue never closes",
+     "c": "retention packages are just a bull market with an expiry date"
+    },
+    {
+     "cod": 5,
+     "handle": "@securitize",
+     "utc": "19:38Z",
+     "link": "https://x.com/securitize/status/2123138826776236400",
+     "pt": "O CEO da Securitize admite que a industria ama siglas — ISTs, TSVs, CETs — e diz que a graca e mais gente usando esses ativos (24 lk / 4 rt / 2 rep).",
+     "a": "ists, tsvs, cets. sounds less like finance and more like a printer running out of toner",
+     "b": "call it whatever, the part that matters is where it trades: a venue with no closing auction",
+     "c": "the acronym is not the product. the wrapper is"
+    }
+   ],
+   "posts": [],
+   "memes": [],
+   "entrega": "show_block (modal_card_v2) no DM — 5 cards com letras e campo de porque"
   }
  ],
- "escolhas_log": [],
+ "escolhas_log": [
+  {
+   "slot": "manha",
+   "codigo": 1,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "manha",
+   "codigo": 2,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "manha",
+   "codigo": 3,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "manha",
+   "codigo": 4,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "manha",
+   "codigo": 5,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "manha",
+   "codigo": "P1",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "manha",
+   "codigo": "P2",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "manha",
+   "codigo": "P3",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "manha",
+   "codigo": "M1",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "manha",
+   "codigo": "M2",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "tarde",
+   "codigo": 1,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "tarde",
+   "codigo": 2,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "tarde",
+   "codigo": 3,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "tarde",
+   "codigo": 4,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "tarde",
+   "codigo": 5,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "noite",
+   "codigo": 1,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "noite",
+   "codigo": 2,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "noite",
+   "codigo": 3,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "noite",
+   "codigo": 4,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  },
+  {
+   "slot": "noite",
+   "codigo": 5,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado"
+  }
+ ],
  "style_rules": {
   "modal_card": {
    "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link do post em cima de cada item, letras a/b/c em lista uma por linha, opcao \"nenhuma\" e campo de porque por item, um unico botao de envio no fim.",
@@ -118,7 +361,8 @@
   "anti_dup_texto": "nenhuma letra repete texto de outra reply da mesma edicao; o angulo (b) varia (venue, 24h, RFQ, uptime, size) e nao repete 'a bolsa fecha' duas vezes",
   "modal_card_v2": {
    "regra": "Entrega em UM show_block: link clicavel por item, a/b/c em lista uma por linha, opcao nenhuma, campo de porque e um unico send no fim.",
-   "vigente_em_18_11": true
+   "vigente_em_18_11": true,
+   "falha_em_18_11": "card da tarde saiu em texto puro; manha e noite no show_block — padronizar os tres a partir de 19/11."
   },
   "anti_dup_urls_2026-11-18": [
    "https://x.com/Mantle_Official/status/2123024647067451887",
@@ -133,6 +377,11 @@
    "de": "mesa (auto)",
    "quando": "18/11 manha",
    "pt": "Janela de 12h com 31 posts, 2 parceiros ativos (Mantle 3 posts, xStocks 1). Nenhum feedback novo do Hadukem desde 17/11 ~18:15 (correcao do modal). Os 20 itens de 17/11 (manha, 15:00, 18:00) venceram sem escolha; nada publicado."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "18/11 fecho",
+   "pt": "Tres entregas no dia (10 itens na manha, 5 na tarde, 5 na noite) e nenhuma escolha do Hadukem — a ultima fala dele escolhendo item segue sendo 14/11 ~17:00. A tarde saiu em texto, fora do modal_card_v2; a manha e a noite sairam no show_block. EOD dos tres reporteres chegou na main, sem lacuna."
   }
  ],
  "reporter_tips": [
@@ -226,6 +475,94 @@
    "hora_utc": "14/11",
    "resumo_pt": "TIP | @nvidia | https://x.com/nvidia/status/2121647261155570145 | 14/11 16:51Z — \"AI is helping recyclers see more value in waste\" (vision AI + robotics na triagem de recicláveis) ",
    "uso": "log do reporter 14/11"
+  },
+  {
+   "reporter": "gleison",
+   "conta": "@xStocksFi",
+   "link": "https://x.com/xStocksFi/status/2122995524156665924",
+   "utc": "18/11 10:09Z",
+   "uso": "E3 da edicao da manha",
+   "resumo_pt": "Acoes tokenizadas como colateral no Morpho via OKX Wallet (XLayer)."
+  },
+  {
+   "reporter": "gleison",
+   "conta": "@Mantle_Official",
+   "link": "https://x.com/Mantle_Official/status/2122909698278211950",
+   "utc": "18/11 04:28Z",
+   "uso": "E5 da manha e base do P3",
+   "resumo_pt": "$MNT listado na GMO Coin, exchange regulada no Japao."
+  },
+  {
+   "reporter": "gleison",
+   "conta": "@xStocksFi",
+   "link": "https://x.com/xStocksFi/status/2123057415499481097",
+   "utc": "18/11 14:15Z",
+   "uso": "E2 do card da tarde",
+   "resumo_pt": "$ANTx (Anthropic) tokenizada desde o primeiro dia do IPO."
+  },
+  {
+   "reporter": "gleison",
+   "conta": "thread do anuncio $ANTx",
+   "link": "https://x.com/i/status/2123054922581357031",
+   "utc": "18/11 14:05Z",
+   "uso": "nao entrou como item; virou carryover",
+   "resumo_pt": "\"os pares de $ANTx serao inicialmente listados na @Fluxion_network\" — primeira vez que a Fluxion aparece como destino de um ticker tokenizado."
+  },
+  {
+   "reporter": "gleison",
+   "conta": "@SkyEcosystem",
+   "link": "https://x.com/SkyEcosystem/status/2123068711657758900",
+   "utc": "18/11 15:00Z",
+   "uso": "avaliado; fora do corte da tarde",
+   "resumo_pt": "sUSDS aceito como colateral pelas contrapartes institucionais da Keyrock."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Google",
+   "link": "https://x.com/Google/status/2122858128584720489",
+   "utc": "18/11 01:03Z",
+   "uso": "descartado (sem ponte honesta para trading)",
+   "resumo_pt": "Antigravity /swarm com 32 agentes Gemini 4 Carbon reconstruindo a Torre Eiffel em 3D."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Google",
+   "link": "https://x.com/Google/status/2122820914777845813",
+   "utc": "17/11 22:35Z",
+   "uso": "descartado (fora da janela)",
+   "resumo_pt": "Gemini 4 Hydrogen no Google Search globalmente."
+  },
+  {
+   "reporter": "bruno",
+   "conta": "@Tesla",
+   "link": "https://x.com/Tesla/status/2122812849710088504",
+   "utc": "17/11 22:03Z",
+   "uso": "descartado (fora da janela)",
+   "resumo_pt": "Energia solar de clientes gera 2x o consumo global da Tesla."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@DinariGlobal",
+   "link": "https://x.com/DinariGlobal/status/2123054748391915699",
+   "utc": "18/11 14:04Z",
+   "uso": "referencia de pauta (autor do post era a SeiNetwork — atribuicao errada no packet)",
+   "resumo_pt": "Fundos institucionais tokenizados na Sei e \"a seguir: 700+ acoes dos EUA\"."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@tokenterminal",
+   "link": "https://x.com/tokenterminal/status/2123050255071711600",
+   "utc": "18/11 13:46Z",
+   "uso": "referencia de pauta",
+   "resumo_pt": "Volume semanal do perp de NVDA em US$ 5,5 bi contra US$ 116,4 mi da segunda venue."
+  },
+  {
+   "reporter": "mathias",
+   "conta": "@SuperstateInc",
+   "link": "https://x.com/SuperstateInc/status/2123064557434519901",
+   "utc": "18/11 14:43Z",
+   "uso": "referencia de pauta (nao entrou no corte)",
+   "resumo_pt": "Entrada na Issuer Token Coalition para definir padroes de acoes onchain."
   }
  ],
  "discarded_tips": [
@@ -291,46 +628,107 @@
   {
    "conta": "@TheBlock__ / @Superstate",
    "motivo": "varredura voltou vazia para os dois handles (segundo dia seguido)."
+  },
+  {
+   "conta": "@elonmusk",
+   "links": [
+    "2123020499680981231",
+    "2123017891167785201",
+    "2123009640925663305",
+    "2122997935486996569",
+    "2122987306923733063"
+   ],
+   "motivo": "5 posts na janela da manha, todos sem assunto proprio que renda reply da Fluxion."
+  },
+  {
+   "conta": "@Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2122872421233389741",
+   "motivo": "promo de perps de IPO — beira conselho de investimento (never-list)."
+  },
+  {
+   "conta": "@Microsoft",
+   "link": "https://x.com/Microsoft/status/2122877917697065050",
+   "motivo": "photo dump do Ignite, sem gancho."
+  },
+  {
+   "conta": "@lookonchain",
+   "links": [
+    "2122945077756772620",
+    "2122947154360852753",
+    "2122935713016721445"
+   ],
+   "motivo": "posicoes e perdas de terceiros, sem gancho de liquidez/execucao."
+  },
+  {
+   "conta": "@Google",
+   "link": "https://x.com/Google/status/2122858128584720489",
+   "motivo": "Torre Eiffel 3D com Gemini — interessante, sem ponte honesta para trading."
   }
  ],
  "pending": [
   {
    "owner": "hadukem",
-   "pt": "Escolha dos 10 itens da edicao da manha de 18/11 (E1-E5, P1-P3, M1-M2)."
+   "pt": "Escolha dos 20 itens de 18/11 (10 da manha, 5 da tarde, 5 da noite) — nenhum respondido."
   },
   {
    "owner": "hadukem",
-   "pt": "Escolha dos 20 itens de 17/11 (manha, 15:00 e 18:00) — venceu sem resposta; nada foi publicado."
+   "pt": "Escolha dos 20 itens de 17/11 (manha, 15:00 e 18:00) — venceu sem resposta; nada publicado."
   },
   {
    "owner": "bruna",
-   "pt": "Corrigir no SOP o handle do xStocks: e @xStocksFi, nao @xStocks_io."
+   "pt": "Padronizar os tres slots do dia no show_block (modal_card_v2): a tarde de 18/11 saiu em texto puro."
   },
   {
    "owner": "bruna",
-   "pt": "Confirmar handles de CIAN e KiiChain (sem confirmacao ha treze rondas)."
+   "pt": "Confirmar handles de CIAN e KiiChain (sem confirmacao ha catorze rondas)."
   },
   {
    "owner": "bruna",
-   "pt": "O template clarim/templates/card-escolhas-clarim.md (PR #205) nao esta na main do empresa-ops — reconferir o merge."
+   "pt": "Levar a pauta do $ANTx listado na Fluxion para o card da manha de 19/11 como item proprio."
+  },
+  {
+   "owner": "bruna",
+   "pt": "O template clarim/templates/card-escolhas-clarim.md (PR #205) nao esta na main do empresa-ops — reconferir o merge (checado no fecho de 18/11: ausente)."
   }
  ],
  "held": [],
  "carryover": [
   {
-   "link": "https://x.com/Mantle_Official/status/2122909698278211950",
-   "pt": "MNT na GMO Coin (Japao regulado) ficou como E5, nao como carryover — registrar se o Hadukem quiser o assunto tambem na tarde."
+   "link": "https://x.com/i/status/2123054922581357031",
+   "pt": "$ANTx com pares inicialmente na Fluxion (thread do anuncio, 18/11 14:05Z): primeira vez que a Fluxion aparece como destino de um ticker tokenizado — pauta propria para 19/11, nao reply."
   },
   {
-   "link": "https://x.com/WatcherGuru/status/2122892171435020351",
-   "pt": "Nvidia comprando US$ 10 bi em acoes da Anthropic (9.641 lk): pauta da tarde se aparecer gancho proprio sem depender da WatcherGuru como fonte de reply."
+   "link": "https://x.com/unusual_whales/status/2123153520635297814",
+   "pt": "Nvidia pos-Jensen (retention package, conselho x Ackman): assunto quente, mas so entra se houver post de conta propria para ancorar."
   },
   {
-   "link": "https://x.com/lookonchain/status/2122997562877821143",
-   "pt": "Hacker da Binance ja foi E4 — nao repetir na tarde."
+   "link": "https://x.com/lookonchain/status/2123047896409092499",
+   "pt": "Short de US$ 93,87 mi em Anthropic antes da estreia — reabrir se a Hyperliquid ou o IPO voltarem na janela de 19/11."
   }
  ],
- "reporter_eod": [],
+ "reporter_eod": [
+  {
+   "reporter": "gleison",
+   "arquivo": "clarim/logs/gleison/2026-11-18.md (na main)",
+   "rondas": "09:00 e 12:00 (2 rondas)",
+   "entregou": "6 tips: xStocks 2122995524156665924 (colateral no Morpho), Bybit 2122872421233389741 (IPO Anthropic via perps), Mantle 2122909698278211950 (MNT na GMO Coin), xStocks 2123057415499481097 ($ANTx dia 1), thread 2123054922581357031 (pares de $ANTx na Fluxion), Sky 2123068711657758900 (sUSDS como colateral via Keyrock).",
+   "lacunas": "Fluxion_network sem post proprio (6o dia); CIAN parada desde 26/08; handle de KiiChain devolve post de 2021 — confirmar; Grove e Sky sem novidade."
+  },
+  {
+   "reporter": "bruno",
+   "arquivo": "clarim/logs/bruno/2026-11-18.md (na main)",
+   "rondas": "10:30 (1 ronda)",
+   "entregou": "3 tips de big tech: Google 2122858128584720489 (Torre Eiffel 3D com Gemini), Google 2122820914777845813 (Gemini 4 Hydrogen no Search), Tesla 2122812849710088504 (2x de energia gerada vs consumida).",
+   "lacunas": "Apple devolveu 0 posts (4a ronda seguida); Meta parada em 12/10; Amazon em 16/11."
+  },
+  {
+   "reporter": "mathias",
+   "arquivo": "clarim/logs/mathias/2026-11-18.md (na main)",
+   "rondas": "09:00 e 12:00 (2 rondas)",
+   "entregou": "5 tips: Dinari 2122851761174257980 (CBO no AlpacaHQ Summit), Securitize 2122790307108704352 (CEO no Investor Day da ParaFi), Dinari 2123054748391915699 (fundos na Sei + 700 acoes), tokenterminal 2123050255071711600 (volume do perp de NVDA), Superstate 2123064557434519901 (Issuer Token Coalition).",
+   "lacunas": "Dois packets com atribuicao de autor errada no mesmo dia (quote da FINTECHTV apresentado como Dinari; post da SeiNetwork apresentado como Dinari) — repreensao registrada em clarim/reprimands/2026-11-18-mathias-atribuicao.md."
+  }
+ ],
  "page": [
   {
    "codigo": "E1",
@@ -413,5 +811,5 @@
    "escolha_hadukem": null
   }
  ],
- "notes_pt": "Edicao da manha de 18/11 montada direto no X (janela 00:05Z-12:05Z, 31 posts). Logs dos reporteres de 17/11 nao lidos nesta rodada (teto de ferramentas) — lacuna declarada. Nenhum numero usado sem estar na fonte primaria. Entrega: show_block no DM."
+ "notes_pt": "Fecho de 18/11. Tres edicoes no dia: manha (5 replies + 3 posts + 2 memes), tarde (5 replies) e noite (5 replies) — 20 itens no total. As edicoes da tarde e da noite foram reconstruidas a partir dos cards que foram postados no DM (tarde em texto, noite em show_block); a manha ja estava neste arquivo. Nenhuma escolha do Hadukem hoje: todos os 20 itens entram como 'sem escolha' com 'porque nao informado', e o `page` fica como estava, sem publicacao. EOD dos tres reporteres preenchido a partir dos logs do dia que estao na main. Ficou de fora: os 5 posts do Musk na janela (sem assunto), os descartes de engage da Bybit, o photo dump da Microsoft e as posicoes de terceiros da lookonchain. Carryover para 19/11: a thread de que os pares de $ANTx serao listados na Fluxion — pauta propria, nao reply."
 }
