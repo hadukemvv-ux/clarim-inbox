@@ -121,9 +121,352 @@
     }
    ],
    "notas_pt": "Janela 00:05Z-12:05Z com 25 posts. Mantle publicou 2x (tokenizacao tudo 12:01Z, MIP-36 09:09Z), Bybit 4x (3 promo/IPO descartados), UW 4x (2 de clima/seguranca descartados). WatcherGuru teve 4 posts de alta engaj (GTA6 5.460 lk, Coreia 5.515 lk, TSMC/China 1.178 lk) mas segue fora por denylist — lacuna declarada, se o Hadukem quiser mudar a regra, e decisao dele."
+  },
+  {
+   "slot": "tarde",
+   "hora_local": "15:00",
+   "hora_utc": "18:00Z",
+   "janela": {
+    "de": "2026-11-19 06:00Z",
+    "ate": "2026-11-19 18:00Z"
+   },
+   "nota": "Card em texto no DM (o bloco interativo continua recusado dentro da rotina). Nenhum item repetido da edicao da manha.",
+   "replies": [
+    {
+     "code": "E1",
+     "handle": "WatcherGuru",
+     "utc": "17:33Z",
+     "link": "https://x.com/WatcherGuru/status/2123469657961369671",
+     "engaj": {
+      "lk": 2100,
+      "rt": 195,
+      "rp": 199
+     },
+     "pt": "Mais de 400 funcionarios da Anthropic ja valem US$ 100 mi cada apos o IPO; os 7 cofundadores, mais de US$ 20 bi cada; media por funcionario acima de US$ 40 mi.",
+     "a": "400 employees worth $100M each and the intern still has to fill out a timesheet",
+     "b": "meanwhile the rest of us get the same company at 3am on a sunday. $ANTx on mantle doesn't check the bell",
+     "c": "an ipo that mints 400 hundred-millionaires overnight is a wealth transfer with a bell on top"
+    },
+    {
+     "code": "E2",
+     "handle": "unusual_whales",
+     "utc": "16:54Z",
+     "link": "https://x.com/unusual_whales/status/2123459868334104811",
+     "engaj": {
+      "lk": 322,
+      "rt": 25,
+      "rp": 46
+     },
+     "pt": "Acoes da Anthropic abriram a US$ 111,50 na Nasdaq, alta de ~34% sobre os US$ 83 do IPO, avaliando a empresa em ~US$ 2 tri.",
+     "a": "opened at $111.50 after pricing at $83. someone's roadshow deck earned its keep",
+     "b": "the bell rang once. price discovery has been running without it ever since — that's the part onchain markets already had",
+     "c": "a 34% gap between the pricing and the first print is bankers leaving money on the table"
+    },
+    {
+     "code": "E3",
+     "handle": "xStocksFi",
+     "utc": "17:14Z",
+     "link": "https://x.com/xStocksFi/status/2123465003579937048",
+     "engaj": {
+      "lk": 114,
+      "rt": 15,
+      "rp": 21
+     },
+     "pt": "O $ANTx esta no ar — a Anthropic tokenizada desde o primeiro dia de mercado publico.",
+     "a": "public and onchain in the same afternoon, no paperwork intermission",
+     "b": "same company, no closing bell. $ANTx trades around the clock on mantle, weekends included",
+     "c": "day-one tokenization should be the default by now, not the headline"
+    },
+    {
+     "code": "E4",
+     "handle": "DefiLlama",
+     "utc": "15:27Z",
+     "link": "https://x.com/DefiLlama/status/2123437976906879351",
+     "engaj": {
+      "lk": 85,
+      "rt": 5,
+      "rp": 10
+     },
+     "pt": "So ~5% das acoes da Anthropic estao no IPO; em um ano o numero de acoes liberadas cresce mais de 12x.",
+     "a": "5% of the company is public and the other 95% is watching from the tunnel",
+     "b": "a listing is not a market — a 5% float is the proof. liquidity and execution are the rest of it, and they don't keep banking hours",
+     "c": "everyone calling it a $2T company today should read the unlock schedule before the victory lap"
+    },
+    {
+     "code": "E5",
+     "handle": "WatcherGuru",
+     "utc": "15:26Z",
+     "link": "https://x.com/WatcherGuru/status/2123437792063525151",
+     "engaj": {
+      "lk": 11398,
+      "rt": 1667,
+      "rp": 535
+     },
+     "pt": "GTA 6 virou o jogo mais bem avaliado de todos os tempos.",
+     "a": "highest-rated game of all time and it hasn't even shipped. trust the process",
+     "b": "gta 6 took a decade to arrive. tokenized stocks already trade 24/7 while you wait",
+     "c": "rating a game before playing it is the same energy as pricing a stock before it trades"
+    }
+   ],
+   "ficaram_de_fora": [
+    {
+     "handle": "SkyEcosystem",
+     "utc": "17:22Z",
+     "pt": "Resposta ao CoinDesk sobre o PSM.",
+     "motivo": "reply de terceiro, sem gancho proprio"
+    },
+    {
+     "handle": "Bybit_Official",
+     "utc": "16:55Z",
+     "pt": "Anthropic na Bybit Stocks (28 lk).",
+     "motivo": "gancho fraco, engajamento baixo"
+    },
+    {
+     "handle": "Securitize",
+     "utc": "17:21Z",
+     "pt": "$ANT na Solana (23 lk).",
+     "motivo": "mesmo tema do E3, engajamento baixo"
+    },
+    {
+     "handle": "lookonchain",
+     "utc": "13:28Z",
+     "pt": "Short da Anthropic virou de +US$ 4 mi para -US$ 2 mi.",
+     "motivo": "posicao de terceiro, beira conselho"
+    },
+    {
+     "handle": "Robinhood",
+     "utc": "16:27Z",
+     "pt": "Social so nos EUA.",
+     "motivo": "sem gancho de tokenizacao"
+    }
+   ]
+  },
+  {
+   "slot": "noite",
+   "hora_local": "18:00",
+   "hora_utc": "21:00Z",
+   "janela": {
+    "de": "2026-11-19 18:00Z",
+    "ate": "2026-11-19 21:20Z"
+   },
+   "nota": "Card em modal no DM. Nenhum item repetido da manha nem da tarde.",
+   "replies": [
+    {
+     "code": "E1",
+     "handle": "WatcherGuru",
+     "utc": "19:32Z",
+     "link": "https://x.com/WatcherGuru/status/2123499703589343486",
+     "engaj": {
+      "lk": 1603,
+      "rp": 197
+     },
+     "pt": "SBF investiu US$ 500 mi da FTX na Anthropic; com o IPO, valeria mais de US$ 40 bi — a FTX vendeu por US$ 1,34 bi.",
+     "a": "sbf made the best trade of the decade and a bankruptcy clerk liquidated it",
+     "b": "the thesis was right, the custody was the problem. a market that never closes doesn't get auctioned off in a hearing",
+     "c": "the FTX estate is now the greatest investor of all time and it never wanted the position"
+    },
+    {
+     "code": "E2",
+     "handle": "xStocksFi",
+     "utc": "19:03Z",
+     "link": "https://x.com/xStocksFi/status/2123492356750192971",
+     "engaj": {
+      "lk": 192,
+      "rp": 34
+     },
+     "pt": "A ANTx, acao tokenizada da Anthropic pela xStocks, ja esta na Monad — via Uniswap, 1inch e Kuru, 1:1 lastreada.",
+     "a": "an ipo that ships to four chains before your coffee cools",
+     "b": "distribution is the easy part. depth is the work — a listing is not a market, liquidity and execution on mantle are",
+     "c": "every chain racing to list the same stock is the clearest sign the token was never the hard part"
+    },
+    {
+     "code": "E3",
+     "handle": "WatcherGuru",
+     "utc": "20:31Z",
+     "link": "https://x.com/WatcherGuru/status/2123514584921452903",
+     "engaj": {
+      "lk": 2174,
+      "rp": 271
+     },
+     "pt": "Bitcoin caiu abaixo de US$ 62 mil.",
+     "a": "btc under 62k and my group chat is suddenly full of macro analysts",
+     "b": "btc doesn't check the clock and neither do the stocks on mantle. 'market closed' stopped being an excuse",
+     "c": "62k isn't a level, it's a mood"
+    },
+    {
+     "code": "E4",
+     "handle": "unusual_whales",
+     "utc": "19:57Z",
+     "link": "https://x.com/unusual_whales/status/2123505841991270765",
+     "engaj": {
+      "lk": 553,
+      "rp": 59
+     },
+     "pt": "Grupo de ransomware n0n vazou dados de clientes ligados a Visa, Mastercard e JPMorgan, segundo o WSJ.",
+     "a": "a ransomware group called n0n and still more coherent than half the roadmaps i read",
+     "b": "your card data sits in someone else's third party. a position on mantle sits with you. different risk, different file",
+     "c": "the breach is always the third party. at some point third party is just the whole industry"
+    },
+    {
+     "code": "E5",
+     "handle": "unusual_whales",
+     "utc": "19:37Z",
+     "link": "https://x.com/unusual_whales/status/2123500808989970463",
+     "engaj": {
+      "lk": 518,
+      "rp": 56
+     },
+     "pt": "Bridgewater diz que incidentes ciberneticos quase dobraram desde o fim do verao, de ~4.000 para ~10.000 ao ano.",
+     "a": "cyber incidents doubled and my password is still the one from 2019",
+     "b": "1,500 incidents in 2017 to 10,000 now. the risk runs 24/7, the venue should too",
+     "c": "cyber is the only sector that has never had a down quarter"
+    }
+   ],
+   "ficaram_de_fora": []
   }
  ],
- "escolhas_log": [],
+ "escolhas_log": [
+  {
+   "slot": "manha",
+   "code": "E1",
+   "link": "https://x.com/unusual_whales/status/2123375142277652803",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "E2",
+   "link": "https://x.com/Bybit_Official/status/2123355855772922250",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "E3",
+   "link": "https://x.com/Mantle_Official/status/2123386072097063192",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "E4",
+   "link": "https://x.com/lookonchain/status/2123315988565471543",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "E5",
+   "link": "https://x.com/Mantle_Official/status/2123342960662282497",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "P1",
+   "link": null,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "P2",
+   "link": null,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "P3",
+   "link": null,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "M1",
+   "link": null,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "M2",
+   "link": null,
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "tarde",
+   "code": "E1",
+   "link": "https://x.com/WatcherGuru/status/2123469657961369671",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "tarde",
+   "code": "E2",
+   "link": "https://x.com/unusual_whales/status/2123459868334104811",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "tarde",
+   "code": "E3",
+   "link": "https://x.com/xStocksFi/status/2123465003579937048",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "tarde",
+   "code": "E4",
+   "link": "https://x.com/DefiLlama/status/2123437976906879351",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "tarde",
+   "code": "E5",
+   "link": "https://x.com/WatcherGuru/status/2123437792063525151",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "noite",
+   "code": "E1",
+   "link": "https://x.com/WatcherGuru/status/2123499703589343486",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "noite",
+   "code": "E2",
+   "link": "https://x.com/xStocksFi/status/2123492356750192971",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "noite",
+   "code": "E3",
+   "link": "https://x.com/WatcherGuru/status/2123514584921452903",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "noite",
+   "code": "E4",
+   "link": "https://x.com/unusual_whales/status/2123505841991270765",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "noite",
+   "code": "E5",
+   "link": "https://x.com/unusual_whales/status/2123500808989970463",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado — Hadukem nao respondeu ao card"
+  }
+ ],
  "style_rules": {
   "modal_card": {
    "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link do post em cima de cada item, letras a/b/c em lista uma por linha, opcao 'nenhuma' e campo de porque por item, um unico botao de envio no fim.",
@@ -136,7 +479,17 @@
    "https://x.com/Bybit_Official/status/2123355855772922250",
    "https://x.com/Mantle_Official/status/2123386072097063192",
    "https://x.com/lookonchain/status/2123315988565471543",
-   "https://x.com/Mantle_Official/status/2123342960662282497"
+   "https://x.com/Mantle_Official/status/2123342960662282497",
+   "https://x.com/WatcherGuru/status/2123469657961369671",
+   "https://x.com/unusual_whales/status/2123459868334104811",
+   "https://x.com/xStocksFi/status/2123465003579937048",
+   "https://x.com/DefiLlama/status/2123437976906879351",
+   "https://x.com/WatcherGuru/status/2123437792063525151",
+   "https://x.com/WatcherGuru/status/2123499703589343486",
+   "https://x.com/xStocksFi/status/2123492356750192971",
+   "https://x.com/WatcherGuru/status/2123514584921452903",
+   "https://x.com/unusual_whales/status/2123505841991270765",
+   "https://x.com/unusual_whales/status/2123500808989970463"
   ]
  },
  "quality_feedback": [
@@ -144,6 +497,11 @@
    "de": "mesa (auto)",
    "quando": "19/11 manha",
    "pt": "25 posts na janela, 2 parceiros ativos (Mantle 2, Bybit 4). Nenhum feedback novo do Hadukem desde 17/11 ~18:15. Os 20 itens de 17/11 e os 20 de 18/11 venceram sem escolha; nada publicado."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "19/11 fecho",
+   "pt": "Inconsistencia de denylist: a manha descartou 3 posts da WatcherGuru por denylist e a tarde e a noite usaram 4 posts da mesma conta como E1/E3/E5. Ou a conta sai da denylist, ou a regra vale para os tres slots. Decisao do Hadukem em pending."
   }
  ],
  "reporter_tips": [],
@@ -237,7 +595,7 @@
  "pending": [
   {
    "owner": "hadukem",
-   "pt": "Escolha dos 10 itens da edicao da manha de 19/11 (E1-E5, P1-P3, M1-M2)."
+   "pt": "Escolha dos 20 itens de 19/11 (10 da manha, 5 da tarde, 5 da noite) — nenhum respondido ate o fecho."
   },
   {
    "owner": "hadukem",
@@ -245,7 +603,11 @@
   },
   {
    "owner": "hadukem",
-   "pt": "WatcherGuru segue na denylist da mesa (4 posts fortes hoje). Manter ou liberar apenas para leitura de pauta? decisao do Hadukem."
+   "pt": "Denylist da WatcherGuru: a mesa usou 4 posts dela na tarde e na noite de 19/11 depois de descartar 3 pela denylist na manha. Manter, liberar ou liberar so para leitura de pauta?"
+  },
+  {
+   "owner": "bruna",
+   "pt": "Confirmar com Gleison, Bruno e Mathias por que os packets de 19/11 nao subiram no empresa-ops: 16/11 e 19/11 fecharam sem log de reporter nenhum."
   },
   {
    "owner": "bruna",
@@ -253,7 +615,7 @@
   },
   {
    "owner": "bruna",
-   "pt": "Confirmar handles de CIAN e KiiChain (sem confirmacao ha quatorze rondas)."
+   "pt": "Confirmar handles de CIAN e KiiChain (sem confirmacao ha quinze rondas)."
   },
   {
    "owner": "bruna",
@@ -263,19 +625,23 @@
  "held": [],
  "carryover": [
   {
-   "link": "https://x.com/Mantle_Official/status/2123386072097063192",
-   "pt": "'Name anything, it'll be tokenized' + Trading Floor 9 hoje — pauta da tarde se o Hadukem quiser o assunto tambem la."
+   "link": "https://x.com/xStocksFi/status/2123492356750192971",
+   "pt": "ANTx chega a Monad via Uniswap/1inch/Kuru — pauta propria para 20/11: a tese 'listing nao e mercado' rende comparacao Mantle x Monad."
   },
   {
-   "link": "https://x.com/WatcherGuru/status/2123366669506736307",
-   "pt": "Samsung/TSMC suspendem chips para a China — pauta propria da tarde se a denylist for revista."
+   "link": "https://x.com/WatcherGuru/status/2123499703589343486",
+   "pt": "SBF/FTX lucrou US$ 500 mi com a Anthropic e vendeu por US$ 1,34 bi — assunto forte, vale repropor amanha se o Hadukem quiser."
+  },
+  {
+   "link": "https://x.com/Mantle_Official/status/2123386072097063192",
+   "pt": "'Name anything, it'll be tokenized' + Trading Floor 9 — segue valido para 20/11."
   }
  ],
  "reporter_eod": {
   "gleison": null,
   "bruno": null,
   "mathias": null,
-  "nota": "logs de 18/11 dos reporteres nao lidos nesta rodada (teto de ferramentas); reporter_tips de 18/11 vem do arquivo do dia."
+  "nota": "Lacuna declarada: nenhum dos tres reporteres gravou clarim/logs/<nome>/2026-11-19.md na main do empresa-ops, e nao ha branch de log de 19/11 aberta. Conferido por git ls-tree em origin/main. A edicao do dia saiu do scan proprio da mesa (scripts/scan_day.py), nao de packet."
  },
  "page": [
   {
@@ -369,5 +735,5 @@
    "escolha_hadukem": null
   }
  ],
- "notes_pt": "Edicao da manha de 19/11 gravada as 09:02 (Fortaleza). 25 posts na janela de 12h; 5 replies, 3 posts, 2 memes. Nenhuma escolha do Hadukem ainda — page com os 10 codigos gerados."
+ "notes_pt": "Fecho de 19/11 (Fortaleza). Dia com tres entregas e 20 itens: edicao da manha as 09:02 (5 replies, 3 posts, 2 memes), card das 15:00 (5 replies, em texto no DM) e card das 18:00 (5 replies, em modal). Este arquivo foi MESCLADO sobre o que a manha ja tinha gravado (commit d4a4a5d): as editions anteriores foram preservadas e as duas da tarde e da noite foram acrescentadas, junto com os 10 links novos em anti_dup_urls_2026-11-19 e o escolhas_log com os 20 itens do dia. Nenhuma escolha do Hadukem em 19/11: ultima fala dele no DM foi em 18/11, entao todo item entrou como 'sem escolha' / 'porque nao informado' e o page ficou como estava — nada publicado. O que ficou de fora: 5 itens na tarde (Sky, Bybit, Securitize, lookonchain, Robinhood), todos por gancho fraco, tema repetido ou posicao de terceiro. Lacuna declarada: os packets dos tres reporteres nao subiram no empresa-ops hoje, entao reporter_tips veio vazio e o reporter_eod ficou nulo; a mesa montou o dia pelo scan proprio. Inconsistencia registrada em quality_feedback: a manha descartou WatcherGuru por denylist e a tarde e a noite usaram 4 posts da mesma conta."
 }
