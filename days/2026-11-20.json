@@ -121,9 +121,316 @@
     }
    ],
    "notas_pt": "A xStocks publicou tres vezes sobre o $ANTx (Ether.fi 08:54Z, 'Claude made no mistakes' 07:47Z e Zerion 10:08Z) e a Anthropic aparece caindo 6% no premarket na UW: o dia gira em torno do mesmo ativo em dois angulos. A WatcherGuru entrou pela primeira vez desde a liberacao - ouro abaixo de US$ 3.550, 7,5 mil likes, maior alcance do dia. Angulo (b) variado de proposito (gap vs preco sem sino, profundidade no crash das 2h, agentes que nao dormem, execucao depois do report, distribuicao). Nenhum numero fora da fonte primaria. Logs de 19/11 dos tres reporteros continuam ausentes."
+  },
+  {
+   "slot": "tarde",
+   "hora_local": "15:30",
+   "hora_utc": "18:30Z",
+   "janela": {
+    "de": "2026-11-20 12:05Z",
+    "ate": "2026-11-20 18:00Z"
+   },
+   "fonte_scan": "varredura da mesa sobre as contas nucleares; 5 replies, nenhuma repetida da manha",
+   "replies": [
+    {
+     "code": "E1",
+     "handle": "WatcherGuru",
+     "utc": "16:50Z",
+     "link": "https://x.com/WatcherGuru/status/2123821357184286790",
+     "engaj": {
+      "lk": 2287,
+      "rp": 138
+     },
+     "pt": "S&P 500 entra oficialmente em correcao, 10% abaixo da maxima historica.",
+     "a": "correction is such a gentle word for what just happened to everyone's portfolio",
+     "b": "the bell rings at 4pm. the correction doesn't. that gap is the whole reason tokenized equities exist",
+     "c": "corrections are just the market doing cardio"
+    },
+    {
+     "code": "E2",
+     "handle": "WatcherGuru",
+     "utc": "17:05Z",
+     "link": "https://x.com/WatcherGuru/status/2123825032829014413",
+     "engaj": {
+      "lk": 2050,
+      "rp": 149
+     },
+     "pt": "Michael Burry diz que fechou metade da posicao short em Nvidia.",
+     "a": "shorted nvidia, covered half, and it's still the trade of the year",
+     "b": "he can change his mind at 2am. onchain the position moves the second he does",
+     "c": "half a short is a hedge with extra steps"
+    },
+    {
+     "code": "E3",
+     "handle": "xStocksFi",
+     "utc": "15:56Z",
+     "link": "https://x.com/xStocksFi/status/2123807703466434942",
+     "engaj": {
+      "lk": 96,
+      "rp": 11
+     },
+     "pt": "17.500 holders de $ANTx em menos de 24h, tokenizado 1:1 pela xStocks e no ar na Kraken.",
+     "a": "17,500 holders before the stock had a full trading session. gud timeline we live in",
+     "b": "a Nasdaq debut and an onchain pool on the same day. that's the version of the market that never sleeps",
+     "c": "the shareholder base is younger than the ticker. no notes"
+    },
+    {
+     "code": "E4",
+     "handle": "lookonchain",
+     "utc": "16:09Z",
+     "link": "https://x.com/lookonchain/status/2123811081525325881",
+     "engaj": {
+      "lk": 132,
+      "rp": 16
+     },
+     "pt": "262.976 traders liquidados em 24h, US$ 1,54 bi no total.",
+     "a": "262,976 people took the same class in 24 hours. tuition was steep",
+     "b": "liquidations don't check the clock. that's the exact gap 24/7 venues were built to fill",
+     "c": "1.5 billion gone and the timeline still calls it a healthy pullback"
+    },
+    {
+     "code": "E5",
+     "handle": "unusual_whales",
+     "utc": "16:37Z",
+     "link": "https://x.com/unusual_whales/status/2123817898972234038",
+     "engaj": {
+      "lk": 690,
+      "rp": 80
+     },
+     "pt": "SpaceX contratou cinco lobistas democratas veteranos antes da nova maioria no Congresso.",
+     "a": "hiring five lobbyists is the most honest earnings call a private company can make",
+     "b": "lobbyists keep DC hours. the market pricing musk news doesn't keep hours at all",
+     "c": "regulation is just a product launch with better lawyers"
+    }
+   ],
+   "notas_pt": "Fora: Mantle 17:44Z e Securitize 17:41Z (mesmo fato do $ANTx por outra rail, e o tema ja foi na manha), Sky 14:51Z (resposta ao CoinDesk sobre o PSM, tom defensivo), Bybit 17:00Z ('go long or short', linguagem de trade que a gente nao usa)."
+  },
+  {
+   "slot": "noite",
+   "hora_local": "18:40",
+   "hora_utc": "21:40Z",
+   "janela": {
+    "de": "2026-11-20 18:00Z",
+    "ate": "2026-11-20 21:30Z"
+   },
+   "fonte_scan": "varredura da mesa sobre as contas nucleares; 5 replies, nenhuma repetida da manha ou da tarde",
+   "replies": [
+    {
+     "code": "E1",
+     "handle": "WatcherGuru",
+     "utc": "20:22Z",
+     "link": "https://x.com/WatcherGuru/status/2123874715567800712",
+     "engaj": {
+      "lk": 1172,
+      "rp": 141
+     },
+     "pt": "Odds de o BTC cair abaixo de US$ 55 mil ate o fim do mes saltam para 47%.",
+     "a": "47% is the most honest number in crypto. the other 53% is cope",
+     "b": "odds markets never sleep either. the stock market shuts at 4pm, right in the middle of the panic - onchain keeps quoting",
+     "c": "every crash is the same crash, just a new crowd discovering leverage"
+    },
+    {
+     "code": "E2",
+     "handle": "WatcherGuru",
+     "utc": "19:58Z",
+     "link": "https://x.com/WatcherGuru/status/2123868646061867350",
+     "engaj": {
+      "lk": 1917,
+      "rp": 131
+     },
+     "pt": "GTA 6 vira o maior lancamento de entretenimento da historia com US$ 3,79 bi no primeiro dia.",
+     "a": "$3.79B in 24h and my guy still can't load the map",
+     "b": "a launch this big and the ticker only trades 9:30 to 4. imagine pricing that hype around the clock, on Mantle",
+     "c": "we waited 12 years for a game to out-earn the box office in one day. patience apparently pays"
+    },
+    {
+     "code": "E3",
+     "handle": "unusual_whales",
+     "utc": "20:48Z",
+     "link": "https://x.com/unusual_whales/status/2123881266739302853",
+     "engaj": {
+      "lk": 225,
+      "rp": 50
+     },
+     "pt": "Mercado derretendo: QQQ e SPY caem mais de 3%, NVDA mais de 10%, 'extreme fear'.",
+     "a": "extreme fear is when you check the portfolio, then check it again 4 seconds later",
+     "b": "their book closed at 4pm. ours just kept printing red all night, 24/7 on Mantle - that's the feature",
+     "c": "'extreme fear' is a fancy way of saying everyone sold to everyone at the same second"
+    },
+    {
+     "code": "E4",
+     "handle": "WatcherGuru",
+     "utc": "19:15Z",
+     "link": "https://x.com/WatcherGuru/status/2123857707358953668",
+     "engaj": {
+      "lk": 2015,
+      "rp": 147
+     },
+     "pt": "SEC investiga a Nvidia por possiveis problemas contabeis.",
+     "a": "auditors finding out the AI revenue is GPUs sold to other AI companies",
+     "b": "accounting questions on an AI giant, priced by a market that closes at 4pm. onchain at least shows the receipts live",
+     "c": "if the numbers were clean the filing would be boring. nobody investigates boring"
+    },
+    {
+     "code": "E5",
+     "handle": "unusual_whales",
+     "utc": "20:17Z",
+     "link": "https://x.com/unusual_whales/status/2123873262946156925",
+     "engaj": {
+      "lk": 698,
+      "rp": 70
+     },
+     "pt": "Nadella diz que a IA foi o motivo de oferecer buyouts a ~60 mil funcionarios em vez de demissao em massa.",
+     "a": "60,000 buyouts and the AI still can't write a meeting invite under 4 paragraphs",
+     "b": "60k people out and the ticker keeps ticking 24/7. the market prices the reorg before the email lands",
+     "c": "calling it a buyout instead of a layoff is the most expensive euphemism in tech"
+    }
+   ],
+   "notas_pt": "Rodada da noite fechada em torno do selloff: S&P em correcao na tarde, 'extreme fear' com NVDA -10% e odds de BTC abaixo de US$ 55 mil na noite. Nenhum numero fora da fonte primaria."
   }
  ],
- "escolhas_log": [],
+ "escolhas_log": [
+  {
+   "slot": "manha",
+   "code": "E1",
+   "link": "https://x.com/unusual_whales/status/2123733341635817842",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "E2",
+   "link": "https://x.com/WatcherGuru/status/2123599791766503681",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "E3",
+   "link": "https://x.com/elonmusk/status/2123726569206415815",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "E4",
+   "link": "https://x.com/Mantle_Official/status/2123749299033157739",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "E5",
+   "link": "https://x.com/xStocksFi/status/2123720236096758036",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "P1",
+   "link": "https://x.com/xStocksFi/status/2123720236096758036",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "P2",
+   "link": "https://x.com/unusual_whales/status/2123733341635817842",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "P3",
+   "link": "https://x.com/Mantle_Official/status/2123749299033157739",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "M1",
+   "link": "https://x.com/elonmusk/status/2123726569206415815",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "manha",
+   "code": "M2",
+   "link": "https://x.com/WatcherGuru/status/2123599791766503681",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "tarde",
+   "code": "E1",
+   "link": "https://x.com/WatcherGuru/status/2123821357184286790",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "tarde",
+   "code": "E2",
+   "link": "https://x.com/WatcherGuru/status/2123825032829014413",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "tarde",
+   "code": "E3",
+   "link": "https://x.com/xStocksFi/status/2123807703466434942",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "tarde",
+   "code": "E4",
+   "link": "https://x.com/lookonchain/status/2123811081525325881",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "tarde",
+   "code": "E5",
+   "link": "https://x.com/unusual_whales/status/2123817898972234038",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "noite",
+   "code": "E1",
+   "link": "https://x.com/WatcherGuru/status/2123874715567800712",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "noite",
+   "code": "E2",
+   "link": "https://x.com/WatcherGuru/status/2123868646061867350",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "noite",
+   "code": "E3",
+   "link": "https://x.com/unusual_whales/status/2123881266739302853",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "noite",
+   "code": "E4",
+   "link": "https://x.com/WatcherGuru/status/2123857707358953668",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  },
+  {
+   "slot": "noite",
+   "code": "E5",
+   "link": "https://x.com/unusual_whales/status/2123873262946156925",
+   "escolha": "sem escolha",
+   "porque": "porque nao informado - Hadukem nao respondeu ao card"
+  }
+ ],
  "style_rules": {
   "modal_card": {
    "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link do post em cima de cada item, letras a/b/c em lista uma por linha, opcao 'nenhuma' e campo de porque por item, um unico botao de envio no fim.",
@@ -137,7 +444,18 @@
    "vigente_em_20_11": true
   }
  },
- "quality_feedback": [],
+ "quality_feedback": [
+  {
+   "de": "mesa (auto)",
+   "quando": "20/11 fecho",
+   "pt": "Dia com 20 itens entregues em tres cards (manha 10, tarde 5, noite 5) e nenhuma escolha do Hadukem: o page ficou como estava e nada foi publicado. A liberacao da WatcherGuru de 20/11 funcionou: a conta entrou nos tres slots (E2 manha, E1/E2 tarde, E1/E2/E4 noite) sem a inconsistencia de denylist que marcou o fecho de 19/11."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "20/11 fecho",
+   "pt": "Lacuna de reporteres piorou: nenhum dos tres gravou clarim/logs/<nome>/2026-11-20.md e 19/11 tambem segue vazio. A edicao do dia saiu outra vez do scan proprio da mesa (scripts/scan_day.py), nao de packet."
+  }
+ ],
  "reporter_tips": [],
  "discarded_tips": [
   {
@@ -192,7 +510,7 @@
  "pending": [
   {
    "owner": "hadukem",
-   "pt": "Escolha dos itens de 20/11 - manha entregue; tarde e noite ainda por vir."
+   "pt": "Escolha dos 20 itens de 20/11 (manha E1-E5/P1-P3/M1-M2, tarde E1-E5, noite E1-E5) - venceram sem resposta ate o fecho das 21:30; nada foi publicado."
   },
   {
    "owner": "hadukem",
@@ -228,12 +546,21 @@
   {
    "link": "https://x.com/WatcherGuru/status/2123740211830223046",
    "pt": "Ferramenta chinesa de hack para iPhone (1.417 lk) - fora do tema hoje, guardado."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2123825032829014413",
+   "pt": "Burry fechou metade do short em Nvidia - angulo ainda nao usado como post."
+  },
+  {
+   "link": "https://x.com/xStocksFi/status/2123807703466434942",
+   "pt": "17.500 holders de $ANTx em menos de 24h e listagem na Kraken - bom para a tese 'listing nao e mercado' se o tema voltar."
   }
  ],
  "reporter_eod": {
-  "gleison": "sem log de 19/11 no empresa-ops",
-  "bruno": "sem log de 19/11 no empresa-ops",
-  "mathias": "sem log de 19/11 no empresa-ops"
+  "gleison": "sem log de 20/11 no empresa-ops",
+  "bruno": "sem log de 20/11 no empresa-ops",
+  "mathias": "sem log de 20/11 no empresa-ops",
+  "nota": "Lacuna declarada: nenhum dos tres reporteres tem clarim/logs/<nome>/2026-11-20.md na main do empresa-ops, e 19/11 tambem esta vazio (ultimos logs: 17/11 e 18/11). Sem branch de log aberta para 20/11. Nenhum packet recebido; a edicao saiu do scan proprio da mesa."
  },
  "page": [
   {
@@ -322,5 +649,5 @@
    "escolha_hadukem": null
   }
  ],
- "notes_pt": "Edicao da manha de 20/11 gravada antes da entrega do modal. Nenhuma escolha do Hadukem ainda: page com os 10 codigos e escolha_hadukem nula em todos."
+ "notes_pt": "Fecho de 20/11. A manha ja estava gravada na origem (commit 98638d0) e foi preservada; tarde e noite foram acrescentadas nesta gravacao, com as escolhas de todas as tres rodadas em escolhas_log (20 itens). Nenhuma escolha do Hadukem no dia - o page ficou como a manha deixou, com escolha_hadukem nula nos 10 itens, e nada foi publicado. O unico recado dele no dia foi liberar a WatcherGuru (virou style_rules.watcherguru). Ficaram de fora os posts de promo/teaser (Bybit, Mantle hackathon), os cortes de podcast da unusual_whales, os itens de carteira anonima da lookonchain e os posts sem texto proprio (elonmusk) - todos listados em discarded_tips. Lacuna declarada: nenhum dos tres reporteres entregou log de 20/11 no empresa-ops; a edicao saiu do scan proprio da mesa."
 }
