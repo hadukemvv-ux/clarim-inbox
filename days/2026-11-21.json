@@ -1,0 +1,405 @@
+{
+ "date": "2026-11-21",
+ "editions": [
+  {
+   "slot": "manha",
+   "hora_local": "09:02",
+   "hora_utc": "12:02Z",
+   "janela": {
+    "de": "2026-11-21 00:03Z",
+    "ate": "2026-11-21 12:03Z"
+   },
+   "fonte_scan": "scripts/scan_day.py - 25 posts na janela; TheBlock__ e Superstate vazios (quinto dia seguido); Fluxion_network voltou a aparecer (post 00:26Z)",
+   "replies": [
+    {
+     "code": "E1",
+     "surface": "QUOTE",
+     "handle": "WatcherGuru",
+     "utc": "09:55Z",
+     "link": "https://x.com/WatcherGuru/status/2124079194032533739",
+     "engaj": {
+      "lk": 1715,
+      "rp": 191
+     },
+     "pt": "BCE procura parceiros para testar depositos bancarios e titulos tokenizados - o banco central da zona do euro entrando no trilho tokenizado.",
+     "a": "the ecb testing tokenized deposits is the most polite admission that it works, ever put in a press release",
+     "b": "the paper is the boring part. the part that matters: a deposit that settles at 3am needs a venue awake at 3am",
+     "c": "banks called this a fad for a decade and are now running the pilot. credit for the pivot at least"
+    },
+    {
+     "code": "E2",
+     "surface": "QUOTE",
+     "handle": "WatcherGuru",
+     "utc": "04:13Z",
+     "link": "https://x.com/WatcherGuru/status/2123993284066283855",
+     "engaj": {
+      "lk": 5260,
+      "rp": 514
+     },
+     "pt": "Crash: BTC abaixo de US$ 56 mil, ETH abaixo de US$ 1.550, US$ 650 milhoes liquidados em alavancagem.",
+     "a": "market found a brand new way to say good morning today",
+     "b": "a 650m flush is a depth story, not a narrative one. thin books dont survive headlines, they become them",
+     "c": "every flush ends with the same talk about structure. the structure was fine, the leverage wasnt"
+    },
+    {
+     "code": "E3",
+     "surface": "QUOTE",
+     "handle": "unusual_whales",
+     "utc": "03:07Z",
+     "link": "https://x.com/unusual_whales/status/2123976668234621408",
+     "engaj": {
+      "lk": 7084,
+      "rp": 325
+     },
+     "pt": "FBI teve o banco nacional de dados criminais hackeado, segundo a CNN.",
+     "a": "the database of every criminal in america and the password was, what, a group chat",
+     "b": "everything is online now, including the bad part. build for uptime, not for opening hours",
+     "c": "second FBI hack in a year and the same three replies every time. security theater has a sequel problem"
+    },
+    {
+     "code": "E4",
+     "surface": "QUOTE",
+     "handle": "lookonchain",
+     "utc": "05:14Z",
+     "link": "https://x.com/lookonchain/status/2124008579661430995",
+     "engaj": {
+      "lk": 640,
+      "rp": 81
+     },
+     "pt": "Strategy (Saylor) com US$ 16,9 bi no negativo em 850.849 BTC; Bitmine de Tom Lee com US$ 11 bi em 6,07 mi ETH.",
+     "a": "conviction is just a position you refuse to mark to market out loud",
+     "b": "two treasuries, one asset each, same lesson: capital that cant rotate sits and waits for a session that isnt coming",
+     "c": "the smart money label is doing a lot of unpaid overtime this week"
+    },
+    {
+     "code": "E5",
+     "surface": "QUOTE",
+     "handle": "elonmusk",
+     "utc": "09:24Z",
+     "link": "https://x.com/elonmusk/status/2124071338394399028",
+     "engaj": {
+      "lk": 5357,
+      "rp": 649
+     },
+     "pt": "Elon solta 'XV is the beginning of the super part of Tesla SI' - teaser sem contexto, depois de uma sequencia de posts so com 'XV'.",
+     "a": "XV is a roman numeral and a marketing strategy at the same time. impressive range",
+     "b": "tesla drops two letters on a saturday and the timeline prices it in minutes. the bell is a suggestion now",
+     "c": "two letters, zero product, 5k quotes. this is the syllabus for every launch from here on"
+    }
+   ],
+   "posts": [
+    {
+     "code": "P1",
+     "tema": "BCE testa tokenizado",
+     "text": "the ecb wants partners to test tokenized deposits and securities.\nnot a coin. a settlement layer.\nand it only works on a rail that doesnt clock out at 17:00",
+     "fonte": "https://x.com/WatcherGuru/status/2124079194032533739"
+    },
+    {
+     "code": "P2",
+     "tema": "flush de 650 milhoes",
+     "text": "650 million liquidated in one leg.\nthats not a narrative problem, thats a depth problem.\nthin books dont survive headlines, they become them",
+     "fonte": "https://x.com/WatcherGuru/status/2123993284066283855"
+    },
+    {
+     "code": "P3",
+     "tema": "ANTx live na fluxion",
+     "text": "anthropic went public this week. on fluxion it never had to wait for the bell.\ntokenized by @xStocksFi, native on @Mantle_Official, trading at 3am like its noon",
+     "fonte": "https://x.com/Fluxion_network/status/2123936159579680803"
+    }
+   ],
+   "memes": [
+    {
+     "code": "M1",
+     "formato": "this is fine (sala pegando fogo)",
+     "origem": "KC Green, 2013 / contexto: crash de 21/11",
+     "caption": "crypto -30% on a saturday and the book still filling. fine. everything is fine.",
+     "exemplo": "https://x.com/WatcherGuru/status/2123993284066283855",
+     "cena": "Fluxion mascot sits calmly in a burning room sipping coffee, cyan visor reflecting a red candlestick chart, nebula belly glowing steady while the walls go up in flames."
+    },
+    {
+     "code": "M2",
+     "formato": "nobody: / elon: (teaser de duas letras)",
+     "origem": "X/@elonmusk, 21/11",
+     "caption": "elon: XV\nthe timeline: is it a car or a ticker?\nus: yes",
+     "exemplo": "https://x.com/elonmusk/status/2124071338394399028",
+     "cena": "Fluxion mascot stands at a whiteboard covered in scribbled XV notes, three spiky ears perked, visor scrolling an order book, one paw holding a marker mid-thought."
+    }
+   ],
+   "notas_pt": "Dia de crash e de institucional ao mesmo tempo: a WatcherGuru entregou os dois maiores posts da janela (BCE testando tokenizado, 1.715 lk, e o flush de US$ 650 mi, 5.260 lk) e a mesa montou a edicao em cima dos dois, sem repetir o fio do ANTx que dominou 19 e 20/11. O ANTx aparece so no P3, como continuacao do post proprio da Fluxion de 00:26Z. Todas as 5 oportunidades saem em QUOTE (regra de superficie de 20/11): nenhuma reply, porque nao ha conversa aberta com essas contas nem numero inedito nosso que justifique. Angulo (b) variado em cada item: liquidez de 3am, profundidade vs alavancagem, uptime, rotacao de capital, preco sem pregao."
+  }
+ ],
+ "escolhas_log": [
+  {
+   "slot": "manha",
+   "code": "E1",
+   "link": "https://x.com/WatcherGuru/status/2124079194032533739",
+   "origem_reporter": "origem nao confirmada - item da varredura propria da mesa (janela 00:03Z-12:03Z); logs de 21/11 dos reporteres nao foram lidos nesta rodada",
+   "escolha": "sem escolha",
+   "porque": "card enviado no DM as 09:02; aguardando Hadukem"
+  },
+  {
+   "slot": "manha",
+   "code": "E2",
+   "link": "https://x.com/WatcherGuru/status/2123993284066283855",
+   "origem_reporter": "origem nao confirmada - item da varredura propria da mesa (janela 00:03Z-12:03Z); logs de 21/11 dos reporteres nao foram lidos nesta rodada",
+   "escolha": "sem escolha",
+   "porque": "card enviado no DM as 09:02; aguardando Hadukem"
+  },
+  {
+   "slot": "manha",
+   "code": "E3",
+   "link": "https://x.com/unusual_whales/status/2123976668234621408",
+   "origem_reporter": "origem nao confirmada - item da varredura propria da mesa (janela 00:03Z-12:03Z); logs de 21/11 dos reporteres nao foram lidos nesta rodada",
+   "escolha": "sem escolha",
+   "porque": "card enviado no DM as 09:02; aguardando Hadukem"
+  },
+  {
+   "slot": "manha",
+   "code": "E4",
+   "link": "https://x.com/lookonchain/status/2124008579661430995",
+   "origem_reporter": "origem nao confirmada - item da varredura propria da mesa (janela 00:03Z-12:03Z); logs de 21/11 dos reporteres nao foram lidos nesta rodada",
+   "escolha": "sem escolha",
+   "porque": "card enviado no DM as 09:02; aguardando Hadukem"
+  },
+  {
+   "slot": "manha",
+   "code": "E5",
+   "link": "https://x.com/elonmusk/status/2124071338394399028",
+   "origem_reporter": "origem nao confirmada - item da varredura propria da mesa (janela 00:03Z-12:03Z); logs de 21/11 dos reporteres nao foram lidos nesta rodada",
+   "escolha": "sem escolha",
+   "porque": "card enviado no DM as 09:02; aguardando Hadukem"
+  }
+ ],
+ "style_rules": {
+  "modal_card": {
+   "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link em cima de cada item, letras a/b/c em lista, opcao 'nenhuma' e campo de porque por item, um botao de envio no fim.",
+   "origem": "Hadukem, 14/11/2026. Gravado em clarim/SHARED.md, PR #161.",
+   "vigente_em_21_11": true,
+   "mudanca_em_21_11": "nenhuma"
+  },
+  "superficie": {
+   "regra": "A maioria dos itens sai em QUOTE (padrao) ou POST; REPLY no maximo 2 por edicao e so com conversa real ou numero proprio inedito. Quote tem o mesmo peso de ranking e nao passa pelo classificador de spam de reply.",
+   "origem": "Hadukem, 20/11/2026 (algoritmo aberto do X).",
+   "aplicado_em_21_11": "5 QUOTE, 0 reply"
+  },
+  "watcherguru": {
+   "regra": "Nao existe denylist de conta; o filtro e por post (janela de 12h, assunto proprio, numero com fonte).",
+   "origem": "Hadukem, 20/11/2026 - 'pode usar o watcher guru'.",
+   "aplicado_em_21_11": "2 dos 5 itens (E1, E2)"
+  }
+ },
+ "quality_feedback": [
+  {
+   "de": "mesa (auto)",
+   "quando": "21/11 manha",
+   "pt": "Os logs de 20/11 dos tres reporteres EXISTEM no empresa-ops (gleison, bruno, mathias) - os PRs de 20/11 foram mergeados em 20/11. A lacuna de log que vinha desde 16/11 esta fechada para 20/11; conferir 19/11. Reporter_tips do dia 20 no arquivo vieram vazio, mas os logs foram lidos e usados como contexto de pauta."
+  }
+ ],
+ "reporter_tips": [],
+ "discarded_tips": [
+  {
+   "handle": "Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2124019980664508583",
+   "pt": "Hello Day / giveaway de 5 ganhadores - engage puro, fora.",
+   "motivo": "giveaway"
+  },
+  {
+   "handle": "Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2124080378629497159",
+   "pt": "Lounge de aeroporto no Bybit Card - produto, sem gancho de mesa.",
+   "motivo": "sem gancho"
+  },
+  {
+   "handle": "Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2124110580566909099",
+   "pt": "'Close enough' com meme - sem texto.",
+   "motivo": "sem conteudo"
+  },
+  {
+   "handle": "lookonchain",
+   "link": "https://x.com/lookonchain/status/2124010587646832850",
+   "pt": "Carteira ligada a Ethereum Foundation vende 2.500 ETH (US$ 3,88 mi).",
+   "motivo": "guardado em carryover"
+  },
+  {
+   "handle": "lookonchain",
+   "link": "https://x.com/lookonchain/status/2123994381955084649",
+   "pt": "Bit Digital depositando 16.639 ETH na Galaxy Digital.",
+   "motivo": "mesmo fio do E4, sem numero novo"
+  },
+  {
+   "handle": "lookonchain",
+   "link": "https://x.com/lookonchain/status/2123990135780061584",
+   "pt": "Liquidacoes de traders individuais (US$ 23,76 mi).",
+   "motivo": "mesmo fio do E2"
+  },
+  {
+   "handle": "WatcherGuru",
+   "link": "https://x.com/WatcherGuru/status/2123983677495349408",
+   "pt": "BTC abaixo de US$ 57 mil, US$ 385 mi liquidados em 5 min.",
+   "motivo": "mesmo fio do E2, numero menor"
+  },
+  {
+   "handle": "Tesla",
+   "link": "https://x.com/Tesla/status/2124011205073539316",
+   "pt": "'What if we are just driving in a video game' - midia sem contexto.",
+   "motivo": "sem numero ou tese"
+  },
+  {
+   "handle": "elonmusk",
+   "link": "https://x.com/elonmusk/status/2124005518746480996",
+   "pt": "Post 'XV' puro, sem texto.",
+   "motivo": "coberto pelo E5"
+  },
+  {
+   "handle": "unusual_whales",
+   "link": "https://x.com/unusual_whales/status/2123939905999138932",
+   "pt": "CrowdStrike negocia comprar Zscaler (Bloomberg).",
+   "motivo": "guardado em carryover"
+  }
+ ],
+ "pending": [
+  {
+   "owner": "hadukem",
+   "pt": "Escolha dos 5 itens de 21/11 (manha) - card enviado 09:02; se nao responder, vence no fecho das 21:30."
+  },
+  {
+   "owner": "hadukem",
+   "pt": "Escolha dos 20 itens de 20/11 e dos itens de 17, 18 e 19/11 - venceram sem resposta; nada foi publicado desde 04/11."
+  },
+  {
+   "owner": "bruna",
+   "pt": "show_block nao existe como ferramenta nesta workspace - quinto dia. Sem ela o modal do Clarim nao sai e a edicao vai em texto no DM."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Corrigir no SOP o handle do xStocks: e @xStocksFi, nao @xStocks_io. Confirmar handles de CIAN e KiiChain."
+  },
+  {
+   "owner": "bruna",
+   "pt": "O template clarim/templates/card-escolhas-clarim.md (PR #205) nao esta na main do empresa-ops - reconferir o merge."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Conferir se os logs de 19/11 dos reporteres subiram (os de 20/11 ja estao no repo e foram lidos)."
+  }
+ ],
+ "held": [],
+ "carryover": [
+  {
+   "link": "https://x.com/xStocksFi/status/2123492356750192971",
+   "pt": "ANTx chega a Monad via Uniswap/1inch/Kuru - ainda nao usado; comparar Mantle x Monad na tese 'listing nao e mercado'."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2123499703589343486",
+   "pt": "SBF/FTX lucrou US$ 500 mi com a Anthropic e vendeu por US$ 1,34 bi - repropor se o Hadukem quiser."
+  },
+  {
+   "link": "https://x.com/lookonchain/status/2124010587646832850",
+   "pt": "Carteira ligada a Ethereum Foundation vendeu 2.500 ETH (US$ 3,88 mi) - bom para o fio de tesourarias de 21/11."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2123939905999138932",
+   "pt": "CrowdStrike em conversa para comprar Zscaler (Bloomberg) - renderia post proprio de consolidacao, nao entrou hoje."
+  }
+ ],
+ "reporter_eod": {},
+ "page": [
+  {
+   "code": "E1",
+   "link": "https://x.com/WatcherGuru/status/2124079194032533739",
+   "surface": "QUOTE",
+   "opcoes": {
+    "a": "the ecb testing tokenized deposits is the most polite admission that it works, ever put in a press release",
+    "b": "the paper is the boring part. the part that matters: a deposit that settles at 3am needs a venue awake at 3am",
+    "c": "banks called this a fad for a decade and are now running the pilot. credit for the pivot at least"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "code": "E2",
+   "link": "https://x.com/WatcherGuru/status/2123993284066283855",
+   "surface": "QUOTE",
+   "opcoes": {
+    "a": "market found a brand new way to say good morning today",
+    "b": "a 650m flush is a depth story, not a narrative one. thin books dont survive headlines, they become them",
+    "c": "every flush ends with the same talk about structure. the structure was fine, the leverage wasnt"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "code": "E3",
+   "link": "https://x.com/unusual_whales/status/2123976668234621408",
+   "surface": "QUOTE",
+   "opcoes": {
+    "a": "the database of every criminal in america and the password was, what, a group chat",
+    "b": "everything is online now, including the bad part. build for uptime, not for opening hours",
+    "c": "second FBI hack in a year and the same three replies every time. security theater has a sequel problem"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "code": "E4",
+   "link": "https://x.com/lookonchain/status/2124008579661430995",
+   "surface": "QUOTE",
+   "opcoes": {
+    "a": "conviction is just a position you refuse to mark to market out loud",
+    "b": "two treasuries, one asset each, same lesson: capital that cant rotate sits and waits for a session that isnt coming",
+    "c": "the smart money label is doing a lot of unpaid overtime this week"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "code": "E5",
+   "link": "https://x.com/elonmusk/status/2124071338394399028",
+   "surface": "QUOTE",
+   "opcoes": {
+    "a": "XV is a roman numeral and a marketing strategy at the same time. impressive range",
+    "b": "tesla drops two letters on a saturday and the timeline prices it in minutes. the bell is a suggestion now",
+    "c": "two letters, zero product, 5k quotes. this is the syllabus for every launch from here on"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "code": "P1",
+   "link": "https://x.com/WatcherGuru/status/2124079194032533739",
+   "surface": "POST",
+   "opcoes": null,
+   "texto": "the ecb wants partners to test tokenized deposits and securities.\nnot a coin. a settlement layer.\nand it only works on a rail that doesnt clock out at 17:00",
+   "escolha_hadukem": null
+  },
+  {
+   "code": "P2",
+   "link": "https://x.com/WatcherGuru/status/2123993284066283855",
+   "surface": "POST",
+   "opcoes": null,
+   "texto": "650 million liquidated in one leg.\nthats not a narrative problem, thats a depth problem.\nthin books dont survive headlines, they become them",
+   "escolha_hadukem": null
+  },
+  {
+   "code": "P3",
+   "link": "https://x.com/Fluxion_network/status/2123936159579680803",
+   "surface": "POST",
+   "opcoes": null,
+   "texto": "anthropic went public this week. on fluxion it never had to wait for the bell.\ntokenized by @xStocksFi, native on @Mantle_Official, trading at 3am like its noon",
+   "escolha_hadukem": null
+  },
+  {
+   "code": "M1",
+   "link": "https://x.com/WatcherGuru/status/2123993284066283855",
+   "surface": "MEME",
+   "opcoes": null,
+   "caption": "crypto -30% on a saturday and the book still filling. fine. everything is fine.",
+   "escolha_hadukem": null
+  },
+  {
+   "code": "M2",
+   "link": "https://x.com/elonmusk/status/2124071338394399028",
+   "surface": "MEME",
+   "opcoes": null,
+   "caption": "elon: XV\nthe timeline: is it a car or a ticker?\nus: yes",
+   "escolha_hadukem": null
+  }
+ ],
+ "notes_pt": "Edicao de 21/11 gravada pela manha: 5 oportunidades (todas QUOTE), 3 posts e 2 memes. Varredura propria da mesa na janela 00:03Z-12:03Z (25 posts)."
+}
