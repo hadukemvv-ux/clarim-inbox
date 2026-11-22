@@ -126,6 +126,186 @@
     }
    ],
    "notas_pt": "Dia de crash e de institucional ao mesmo tempo: a WatcherGuru entregou os dois maiores posts da janela (BCE testando tokenizado, 1.715 lk, e o flush de US$ 650 mi, 5.260 lk) e a mesa montou a edicao em cima dos dois, sem repetir o fio do ANTx que dominou 19 e 20/11. O ANTx aparece so no P3, como continuacao do post proprio da Fluxion de 00:26Z. Todas as 5 oportunidades saem em QUOTE (regra de superficie de 20/11): nenhuma reply, porque nao ha conversa aberta com essas contas nem numero inedito nosso que justifique. Angulo (b) variado em cada item: liquidez de 3am, profundidade vs alavancagem, uptime, rotacao de capital, preco sem pregao."
+  },
+  {
+   "slot": "tarde",
+   "hora_local": "13:00",
+   "hora_utc": "16:01Z",
+   "janela": {
+    "de": "2026-11-21 12:03Z",
+    "ate": "2026-11-21 16:00Z"
+   },
+   "fonte_scan": "varredura da mesa (WatcherGuru, unusual_whales, lookonchain); card saiu em texto as 16:01Z e foi reenviado em show_block as 16:05Z depois do aviso do Hadukem",
+   "replies": [
+    {
+     "code": "E1",
+     "surface": "QUOTE",
+     "handle": "WatcherGuru",
+     "utc": "13:38Z",
+     "link": "https://x.com/WatcherGuru/status/2124135301958541643",
+     "engaj": {
+      "lk": 4457,
+      "rp": 478
+     },
+     "pt": "BTC bate US$ 60 mil e o post e so o numero - o gancho mais forte da janela.",
+     "a": "screenshotted this for the group chat that said it was over",
+     "b": "weekend dump, weekend tape. the only thing closed today is the stock market",
+     "c": "everyone who called the top at 120k is now calling the bottom at 60k. same confidence, new week"
+    },
+    {
+     "code": "E2",
+     "surface": "QUOTE",
+     "handle": "WatcherGuru",
+     "utc": "14:00Z",
+     "link": "https://x.com/WatcherGuru/status/2124140929074548750",
+     "engaj": {
+      "lk": 1922,
+      "rp": 290
+     },
+     "pt": "US$ 136 mi em shorts liquidados numa hora - a perna de baixa comecou a quebrar.",
+     "a": "shorts finding out the dip had a floor. again",
+     "b": "136M liquidated in an hour and equities are still shut. that's the gap tokenized stocks fill",
+     "c": "squeezes don't need news. they need leverage and a quiet saturday"
+    },
+    {
+     "code": "E3",
+     "surface": "QUOTE",
+     "handle": "unusual_whales",
+     "utc": "15:01Z",
+     "link": "https://x.com/unusual_whales/status/2124156127789084997",
+     "engaj": {
+      "lk": 853,
+      "rp": 123
+     },
+     "pt": "Warren diz que Trump fez mais de 31 mil trades de acoes na presidencia e defende banir quem legisla de operar.",
+     "a": "31,000 trades is not a portfolio, that's a hobby with extra steps",
+     "b": "31,000 trades and no public ledger. onchain, the disclosure is the trade",
+     "c": "the fix isn't a ban, it's a timestamp"
+    },
+    {
+     "code": "E4",
+     "surface": "QUOTE",
+     "handle": "lookonchain",
+     "utc": "14:50Z",
+     "link": "https://x.com/lookonchain/status/2124153369854198025",
+     "engaj": {
+      "lk": 313,
+      "rp": 44
+     },
+     "pt": "Abraxas Capital comprou 10.356 BTC (US$ 607 mi) a preco medio de US$ 58.651.",
+     "a": "buying 607M of anything in one order is a personality",
+     "b": "size doesn't ask what time the exchange opens. that's the whole argument",
+     "c": "one wallet took the entire dip in a single fill. size doesn't panic, it waits"
+    },
+    {
+     "code": "E5",
+     "surface": "QUOTE",
+     "handle": "WatcherGuru",
+     "utc": "15:16Z",
+     "link": "https://x.com/WatcherGuru/status/2124159910602563798",
+     "engaj": {
+      "lk": 1567,
+      "rp": 159
+     },
+     "pt": "Trump diz que vai trabalhar com os democratas para limitar juros do cartao de credito a 10%.",
+     "a": "10% on the card, 100% on the conviction. aight",
+     "b": "policy drops on a saturday, markets answer on monday. pick one",
+     "c": "a cap fixes the monthly bill, not the reason people need the card"
+    }
+   ],
+   "posts": [],
+   "memes": [],
+   "notas_pt": "Cinco oportunidades, todas QUOTE, nenhuma reply usada (as 2 do dia seguiam livres). A janela foi de fluxo, nao de narrativa: BTC a US$ 60 mil, US$ 136 mi em shorts liquidados, um comprador de US$ 607 mi em BTC e duas de politica (trades de Trump, teto do cartao). O card saiu primeiro em texto puro, sem os itens clicaveis; o Hadukem avisou as 16:03Z e o reenvio em show_block saiu as 16:05Z."
+  },
+  {
+   "slot": "noite",
+   "hora_local": "16:00",
+   "hora_utc": "19:05Z",
+   "janela": {
+    "de": "2026-11-21 16:00Z",
+    "ate": "2026-11-21 19:00Z"
+   },
+   "fonte_scan": "varredura da mesa (unusual_whales, elonmusk, Bybit_Official); card em show_block de primeira",
+   "replies": [
+    {
+     "code": "E1",
+     "surface": "QUOTE",
+     "handle": "unusual_whales",
+     "utc": "17:01Z",
+     "link": "https://x.com/unusual_whales/status/2124186326358487099",
+     "engaj": {
+      "lk": 1016,
+      "rp": 152
+     },
+     "pt": "72% dos americanos nao pretendem usar IA nas compras de fim de ano (era 49% no ano passado), pesquisa do Bank of America via Fortune.",
+     "a": "72% said no to AI shopping. the other 28% just want a bot to argue with the return desk for them",
+     "b": "funny how everyone wants their portfolio moved 24/7 but won't let a chatbot pick the gifts. one of those never closes",
+     "c": "the 28% will get exactly what the model was trained to sell. that's not shopping, that's autocomplete"
+    },
+    {
+     "code": "E2",
+     "surface": "QUOTE",
+     "handle": "unusual_whales",
+     "utc": "18:01Z",
+     "link": "https://x.com/unusual_whales/status/2124201425785774246",
+     "engaj": {
+      "lk": 977,
+      "rp": 130
+     },
+     "pt": "Inflacao acumulada desde 2019: cafe +122%, oleo combustivel +91%, ovos +81%, carne moida +76%, gasolina +62%.",
+     "a": "coffee +122% since 2019 and my cafe still charges the same for ice. respect",
+     "b": "six years of inflation in one screenshot, and the venue that repriced all of it still shuts at 4pm. that's the part we fixed",
+     "c": "the only line on that chart that tracked my grocery bill was the grocery bill"
+    },
+    {
+     "code": "E3",
+     "surface": "QUOTE",
+     "handle": "elonmusk",
+     "utc": "18:49Z",
+     "link": "https://x.com/elonmusk/status/2124213680422387741",
+     "engaj": {
+      "lk": 1554,
+      "rp": 439
+     },
+     "pt": "Musk explica para que serve a prova de Riemann (tira a condicao de outros teoremas) e chama de feito da superinteligencia.",
+     "a": "math twitter got a saturday banger and it's about deleting the word 'if'",
+     "b": "remove the conditional and the theorem holds everywhere. same reason settlement beats a promise: no 'if' in the middle",
+     "c": "superintelligence cracking Riemann is great, but can it explain why my fees still arrive with a conditional clause"
+    },
+    {
+     "code": "E4",
+     "surface": "QUOTE",
+     "handle": "Bybit_Official",
+     "utc": "18:00Z",
+     "link": "https://x.com/Bybit_Official/status/2124201177118105811",
+     "engaj": {
+      "lk": 38,
+      "rp": 6
+     },
+     "pt": "Bybit promove perps TradFi do ANTUSDT ('a Anthropic ja anda com o Billi'), long ou short.",
+     "a": "going long on the company that writes my replies feels like insider trading, respectfully",
+     "b": "perps on tokenized equity only make sense when the underlying never closes. otherwise you're just renting a stock with extra steps",
+     "c": "every chain now has a token named after an AI lab. at some point the labs should collect royalties"
+    },
+    {
+     "code": "E5",
+     "surface": "QUOTE",
+     "handle": "unusual_whales",
+     "utc": "19:01Z",
+     "link": "https://x.com/unusual_whales/status/2124216525204926646",
+     "engaj": {
+      "lk": 20,
+      "rp": 10
+     },
+     "pt": "Microsoft patenteia IA que reescreve o que a pessoa fala ao vivo e ajusta os labios, filtrando palavras por regra ou perfil do espectador.",
+     "a": "a livestream where the lips lie is just television with extra steps",
+     "b": "an edit that leaves no trace is the whole problem. onchain the log is append-only - that's the feature, not the buzzword",
+     "c": "first they rewrite the audio, then they'll rewrite the receipt"
+    }
+   ],
+   "posts": [],
+   "memes": [],
+   "notas_pt": "Cinco oportunidades, todas QUOTE, nenhuma reply usada ate o fecho. Slot de comportamento e infraestrutura em vez de preco: IA nas compras, inflacao de seis anos, prova de Riemann do Musk, ANTUSDT em perps na Bybit (tip do Gleison, ronda 15:00) e a patente da Microsoft. Unico item com origem confirmada: E4, do Gleison."
   }
  ],
  "escolhas_log": [
@@ -135,7 +315,9 @@
    "link": "https://x.com/WatcherGuru/status/2124079194032533739",
    "origem_reporter": "origem nao confirmada - item da varredura propria da mesa (janela 00:03Z-12:03Z); logs de 21/11 dos reporteres nao foram lidos nesta rodada",
    "escolha": "sem escolha",
-   "porque": "card enviado no DM as 09:02; aguardando Hadukem"
+   "porque": "card enviado no DM as 09:02; aguardando Hadukem",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE"
   },
   {
    "slot": "manha",
@@ -143,7 +325,9 @@
    "link": "https://x.com/WatcherGuru/status/2123993284066283855",
    "origem_reporter": "origem nao confirmada - item da varredura propria da mesa (janela 00:03Z-12:03Z); logs de 21/11 dos reporteres nao foram lidos nesta rodada",
    "escolha": "sem escolha",
-   "porque": "card enviado no DM as 09:02; aguardando Hadukem"
+   "porque": "card enviado no DM as 09:02; aguardando Hadukem",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE"
   },
   {
    "slot": "manha",
@@ -151,7 +335,9 @@
    "link": "https://x.com/unusual_whales/status/2123976668234621408",
    "origem_reporter": "origem nao confirmada - item da varredura propria da mesa (janela 00:03Z-12:03Z); logs de 21/11 dos reporteres nao foram lidos nesta rodada",
    "escolha": "sem escolha",
-   "porque": "card enviado no DM as 09:02; aguardando Hadukem"
+   "porque": "card enviado no DM as 09:02; aguardando Hadukem",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE"
   },
   {
    "slot": "manha",
@@ -159,7 +345,9 @@
    "link": "https://x.com/lookonchain/status/2124008579661430995",
    "origem_reporter": "origem nao confirmada - item da varredura propria da mesa (janela 00:03Z-12:03Z); logs de 21/11 dos reporteres nao foram lidos nesta rodada",
    "escolha": "sem escolha",
-   "porque": "card enviado no DM as 09:02; aguardando Hadukem"
+   "porque": "card enviado no DM as 09:02; aguardando Hadukem",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE"
   },
   {
    "slot": "manha",
@@ -167,7 +355,144 @@
    "link": "https://x.com/elonmusk/status/2124071338394399028",
    "origem_reporter": "origem nao confirmada - item da varredura propria da mesa (janela 00:03Z-12:03Z); logs de 21/11 dos reporteres nao foram lidos nesta rodada",
    "escolha": "sem escolha",
-   "porque": "card enviado no DM as 09:02; aguardando Hadukem"
+   "porque": "card enviado no DM as 09:02; aguardando Hadukem",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE"
+  },
+  {
+   "slot": "manha",
+   "code": "P1",
+   "link": "https://x.com/WatcherGuru/status/2124079194032533739",
+   "reporter": "origem nao confirmada",
+   "surface": "POST",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado (POST proprio)"
+  },
+  {
+   "slot": "manha",
+   "code": "P2",
+   "link": "https://x.com/WatcherGuru/status/2123993284066283855",
+   "reporter": "origem nao confirmada",
+   "surface": "POST",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado (POST proprio)"
+  },
+  {
+   "slot": "manha",
+   "code": "P3",
+   "link": "https://x.com/Fluxion_network/status/2123936159579680803",
+   "reporter": "gleison",
+   "surface": "POST",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado (POST proprio)"
+  },
+  {
+   "slot": "manha",
+   "code": "M1",
+   "link": "https://x.com/WatcherGuru/status/2123993284066283855",
+   "reporter": "origem nao confirmada",
+   "surface": "POST",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado (meme)"
+  },
+  {
+   "slot": "manha",
+   "code": "M2",
+   "link": "https://x.com/elonmusk/status/2124071338394399028",
+   "reporter": "origem nao confirmada",
+   "surface": "POST",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado (meme)"
+  },
+  {
+   "slot": "tarde",
+   "code": "E1",
+   "link": "https://x.com/WatcherGuru/status/2124135301958541643",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado"
+  },
+  {
+   "slot": "tarde",
+   "code": "E2",
+   "link": "https://x.com/WatcherGuru/status/2124140929074548750",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado"
+  },
+  {
+   "slot": "tarde",
+   "code": "E3",
+   "link": "https://x.com/unusual_whales/status/2124156127789084997",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado"
+  },
+  {
+   "slot": "tarde",
+   "code": "E4",
+   "link": "https://x.com/lookonchain/status/2124153369854198025",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado"
+  },
+  {
+   "slot": "tarde",
+   "code": "E5",
+   "link": "https://x.com/WatcherGuru/status/2124159910602563798",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado"
+  },
+  {
+   "slot": "noite",
+   "code": "E1",
+   "link": "https://x.com/unusual_whales/status/2124186326358487099",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado"
+  },
+  {
+   "slot": "noite",
+   "code": "E2",
+   "link": "https://x.com/unusual_whales/status/2124201425785774246",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado"
+  },
+  {
+   "slot": "noite",
+   "code": "E3",
+   "link": "https://x.com/elonmusk/status/2124213680422387741",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado"
+  },
+  {
+   "slot": "noite",
+   "code": "E4",
+   "link": "https://x.com/Bybit_Official/status/2124201177118105811",
+   "reporter": "gleison",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado"
+  },
+  {
+   "slot": "noite",
+   "code": "E5",
+   "link": "https://x.com/unusual_whales/status/2124216525204926646",
+   "reporter": "origem nao confirmada",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card sem resposta ate o fecho das 21:30; porque nao informado"
   }
  ],
  "style_rules": {
@@ -180,12 +505,28 @@
   "superficie": {
    "regra": "A maioria dos itens sai em QUOTE (padrao) ou POST; REPLY no maximo 2 por edicao e so com conversa real ou numero proprio inedito. Quote tem o mesmo peso de ranking e nao passa pelo classificador de spam de reply.",
    "origem": "Hadukem, 20/11/2026 (algoritmo aberto do X).",
-   "aplicado_em_21_11": "5 QUOTE, 0 reply"
+   "aplicado_em_21_11": "5 QUOTE, 0 reply",
+   "mudanca_em_21_11": "reply passa a contar por dia (max. 2), nao por edicao"
   },
   "watcherguru": {
    "regra": "Nao existe denylist de conta; o filtro e por post (janela de 12h, assunto proprio, numero com fonte).",
    "origem": "Hadukem, 20/11/2026 - 'pode usar o watcher guru'.",
    "aplicado_em_21_11": "2 dos 5 itens (E1, E2)"
+  },
+  "reply_por_dia": {
+   "regra": "No maximo 2 replies por dia, somando todos os cards; quote nao conta. Corrigido em 21/11: '2 por edicao' virava 6 por dia com tres cards.",
+   "origem": "Hadukem/Bruna, 21/11/2026, PR #274",
+   "vigente_em_21_11": true
+  },
+  "card_em_show_block": {
+   "regra": "Toda edicao termina em show_block: e a ultima chamada de ferramenta, a mensagem final tem no maximo 1 linha sem repetir link/PT/letras, e card em texto e rodada falha mesmo com o conteudo certo.",
+   "origem": "Hadukem, 21/11/2026, PR #275",
+   "vigente_em_21_11": true
+  },
+  "horarios": {
+   "regra": "Manha 10:00, tarde 13:00, noite 16:00 (America/Fortaleza) - dentro da janela em que o Hadukem esta acordado e com o computador (13:00Z-20:00Z).",
+   "origem": "Hadukem, 21/11/2026",
+   "vigente_em_21_11": true
   }
  },
  "quality_feedback": [
@@ -193,9 +534,100 @@
    "de": "mesa (auto)",
    "quando": "21/11 manha",
    "pt": "Os logs de 20/11 dos tres reporteres EXISTEM no empresa-ops (gleison, bruno, mathias) - os PRs de 20/11 foram mergeados em 20/11. A lacuna de log que vinha desde 16/11 esta fechada para 20/11; conferir 19/11. Reporter_tips do dia 20 no arquivo vieram vazio, mas os logs foram lidos e usados como contexto de pauta."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "21/11 tarde",
+   "pt": "O card das 13:00 saiu em texto puro, sem os itens clicaveis: o prompt pedia o modal mas nada conferia a saida. Reenviado em show_block as 16:05Z e a regra virou mecanica (PR #275). O card da noite ja saiu no modal de primeira - o problema era o prompt, nao a ferramenta."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "21/11 fecho",
+   "pt": "Os logs de 21/11 de Gleison (#272, 4 rondas) e Bruno (#273, 2 rondas) existem e ficaram em PR aberto ate o fecho; Mathias nao entregou log de 21/11. Segundo dia seguido com a mesma causa: a lacuna e de merge, nao de ronda."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "21/11 fecho",
+   "pt": "Atribuicao por reporter: 2 dos 20 itens tem origem confirmada pelo log - Fluxion_network 00:26Z (P3, manha) e Bybit ANTUSDT 18:00Z (E4, noite), ambos do Gleison. Os outros 18 sao de contas fora do beat dos tres (WatcherGuru, unusual_whales, lookonchain, elonmusk) e ficam como origem nao confirmada."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "21/11 fecho",
+   "pt": "Resolvidos do pending: o show_block existe e funcionou (encerrado depois de cinco dias na lista) e o template clarim/templates/card-escolhas-clarim.md esta na main pelo #271."
   }
  ],
- "reporter_tips": [],
+ "reporter_tips": [
+  {
+   "reporter": "gleison",
+   "ronda": "09:00",
+   "link": "https://x.com/Fluxion_network/status/2123936159579680803",
+   "pt": "Fluxion volta a postar: ANTx no ar, IPO da Anthropic no Nasdaq - tokenizado 24/7 num sabado.",
+   "usado": "P3 (manha)"
+  },
+  {
+   "reporter": "gleison",
+   "ronda": "12:00",
+   "link": "https://x.com/Bybit_Official/status/2124155884943343832",
+   "pt": "Bybit AI Showdown no WSOT, 5 passos para entrar.",
+   "usado": null
+  },
+  {
+   "reporter": "gleison",
+   "ronda": "15:00",
+   "link": "https://x.com/Bybit_Official/status/2124201177118105811",
+   "pt": "Bybit abre ANTUSDT em perps TradFi - a Anthropic vira derivativo num parceiro.",
+   "usado": "E4 (noite)"
+  },
+  {
+   "reporter": "gleison",
+   "ronda": "18:00",
+   "link": "https://x.com/Bybit_Official/status/2124229508568154179",
+   "pt": "Bybit pergunta qual licao de perda fez o trader melhor - superficie de reply conversacional, 20 respostas em 1h.",
+   "usado": null
+  },
+  {
+   "reporter": "bruno",
+   "ronda": "10:30",
+   "link": "https://x.com/Tesla/status/2124005518746480996",
+   "pt": "Tesla publica 'XV', 9.933 lk / 702 resp - teaser sem fonte do que e.",
+   "usado": null
+  },
+  {
+   "reporter": "bruno",
+   "ronda": "10:30",
+   "link": "https://x.com/Tesla/status/2124011205073539316",
+   "pt": "Segundo post da Tesla em 23 min: 'what if we are just driving in a video game'.",
+   "usado": null
+  },
+  {
+   "reporter": "bruno",
+   "ronda": "10:30",
+   "link": "https://x.com/Google/status/2123845785359978934",
+   "pt": "Google sobre alerta de incendio florestal preso em radio VHF - texto truncado no xread.",
+   "usado": null
+  },
+  {
+   "reporter": "bruno",
+   "ronda": "17:30",
+   "link": "https://x.com/Tesla/status/2124222447855743019",
+   "pt": "Tesla FSD v15 comecando rollout: 11.298 lk / 1.110 resp em 1h - o teaser da madrugada fechou em anuncio.",
+   "usado": null
+  },
+  {
+   "reporter": "bruno",
+   "ronda": "17:30",
+   "link": "https://x.com/RobinhoodApp/status/2124155879129784471",
+   "pt": "Robinhood traz conta corrente/cheques com Coastal Community Bank - o app de trading virando banco.",
+   "usado": null
+  },
+  {
+   "reporter": "bruno",
+   "ronda": "17:30",
+   "link": "https://x.com/RobinhoodApp/status/2124216279590650216",
+   "pt": "Robinhood posta 'the work starts here' com o urso - teaser sem fonte.",
+   "usado": null
+  }
+ ],
  "discarded_tips": [
   {
    "handle": "Bybit_Official",
@@ -256,32 +688,42 @@
    "link": "https://x.com/unusual_whales/status/2123939905999138932",
    "pt": "CrowdStrike negocia comprar Zscaler (Bloomberg).",
    "motivo": "guardado em carryover"
+  },
+  {
+   "handle": "Bybit_Official",
+   "link": "https://x.com/Bybit_Official/status/2124110580566909099",
+   "pt": "Meme 'Close enough' - maior engajamento da janela das 12:00, mas a imagem nao e legivel pelo raspador.",
+   "motivo": "sem contexto visual"
+  },
+  {
+   "handle": "RobinhoodApp",
+   "link": "https://x.com/RobinhoodApp/status/2124216279590650216",
+   "pt": "Teaser do urso sem fonte do que e.",
+   "motivo": "teaser sem fonte"
+  },
+  {
+   "handle": "Tesla",
+   "link": "https://x.com/Tesla/status/2124005518746480996",
+   "pt": "'XV' sem fonte - nao cravar produto.",
+   "motivo": "teaser sem fonte"
   }
  ],
  "pending": [
   {
    "owner": "hadukem",
-   "pt": "Escolha dos 5 itens de 21/11 (manha) - card enviado 09:02; se nao responder, vence no fecho das 21:30."
+   "pt": "Escolha dos 20 itens de 21/11 (manha, tarde e noite) - os tres cards venceram sem resposta no fecho."
   },
   {
    "owner": "hadukem",
-   "pt": "Escolha dos 20 itens de 20/11 e dos itens de 17, 18 e 19/11 - venceram sem resposta; nada foi publicado desde 04/11."
+   "pt": "Escolha dos 80 itens de 17, 18, 19 e 20/11 - venceram sem resposta; nada foi publicado desde 04/11."
   },
   {
    "owner": "bruna",
-   "pt": "show_block nao existe como ferramenta nesta workspace - quinto dia. Sem ela o modal do Clarim nao sai e a edicao vai em texto no DM."
+   "pt": "Corrigir no SOP o handle do xStocks (@xStocksFi, nao @xStocks_io) e confirmar handles de CIAN e KiiChain."
   },
   {
    "owner": "bruna",
-   "pt": "Corrigir no SOP o handle do xStocks: e @xStocksFi, nao @xStocks_io. Confirmar handles de CIAN e KiiChain."
-  },
-  {
-   "owner": "bruna",
-   "pt": "O template clarim/templates/card-escolhas-clarim.md (PR #205) nao esta na main do empresa-ops - reconferir o merge."
-  },
-  {
-   "owner": "bruna",
-   "pt": "Conferir se os logs de 19/11 dos reporteres subiram (os de 20/11 ja estao no repo e foram lidos)."
+   "pt": "Mergear os logs de 21/11 de Gleison (#272) e Bruno (#273) e cobrar o log de 21/11 do Mathias, que nao entregou."
   }
  ],
  "held": [],
@@ -301,9 +743,43 @@
   {
    "link": "https://x.com/unusual_whales/status/2123939905999138932",
    "pt": "CrowdStrike em conversa para comprar Zscaler (Bloomberg) - renderia post proprio de consolidacao, nao entrou hoje."
+  },
+  {
+   "link": "https://x.com/Tesla/status/2124222447855743019",
+   "pt": "Tesla FSD v15 (11.298 lk em 1h) - o gancho de amanha e a reacao (imprensa, dono, Tesla AI), nao o anuncio."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2124229508568154179",
+   "pt": "Bybit pergunta a licao de perda que fez o trader melhor - superficie de reply conversacional, sem empurrar produto; repropor se ainda estiver aberta."
+  },
+  {
+   "link": "https://x.com/RobinhoodApp/status/2124155879129784471",
+   "pt": "Robinhood virando banco de varejo (conta corrente com Coastal Community Bank) - tema 'dinheiro parado no mesmo app onde se compra acao'."
   }
  ],
- "reporter_eod": {},
+ "reporter_eod": {
+  "gleison": {
+   "log": "PR #272 (aberto ate o fecho)",
+   "rondas": 4,
+   "tips": 4,
+   "entregou": "Fluxion_network 00:26Z (ANTx no ar) e Bybit 18:00Z (ANTUSDT em perps) entraram na edicao; AI Showdown e a pergunta sobre licao de perda ficaram como carryover.",
+   "lacuna": "Grove sem conta valida (handle devolve conta pessoal parada em 2019); CIAN parada desde 26/08 e KiiChain desde 08/02/2021 (contas frias)."
+  },
+  "bruno": {
+   "log": "PR #273 (aberto ate o fecho)",
+   "rondas": 2,
+   "tips": 6,
+   "entregou": "Nenhum tip do beat entrou nos cards do dia. O material mais forte foi o Tesla FSD v15 (11.298 lk / 1.110 resp em 1h), que fica em carryover para amanha.",
+   "lacuna": "Google 18:27Z com texto truncado no xread (nao veio o que a Google lanca); Tesla 'XV' e o urso da Robinhood sem fonte; HOOD passou a resolver por @RobinhoodApp (o 404 era handle errado)."
+  },
+  "mathias": {
+   "log": null,
+   "rondas": 0,
+   "tips": 0,
+   "entregou": "Nada - sem log e sem PR de 21/11 no empresa-ops (o ultimo log dele na main e de 20/11).",
+   "lacuna": "lacuna declarada: sem packet nem log de 21/11; a edicao do dia saiu da varredura da mesa."
+  }
+ },
  "page": [
   {
    "code": "E1",
@@ -401,5 +877,5 @@
    "escolha_hadukem": null
   }
  ],
- "notes_pt": "Edicao de 21/11 gravada pela manha: 5 oportunidades (todas QUOTE), 3 posts e 2 memes. Varredura propria da mesa na janela 00:03Z-12:03Z (25 posts)."
+ "notes_pt": "Fecho de 21/11 por mescla: a edicao da manha ja estava gravada na origem (commit 4ba9f0f, 09:06) e foi preservada inteira, com os 10 itens e o `page` intocados; acrescentei as edicoes da tarde (13:00, 5 QUOTE, reenviada em show_block) e da noite (16:00, 5 QUOTE). O `escolhas_log` passou a ter os 20 itens do dia, cada um com `reporter` e `surface`: 2 tem origem confirmada (P3 e noite E4, ambos do Gleison) e 18 ficam como origem nao confirmada, por serem de contas fora do beat dos tres reporteres. Zero escolha do Hadukem hoje - quinto dia seguido sem resposta, 100 itens parados desde 17/11 e nada publicado desde 04/11; por isso o `page` segue como estava, com `escolha_hadukem` nula nos 10 itens da manha. Reporteres: Gleison (4 rondas) e Bruno (2 rondas) entregaram e os logs estao em PR aberto (#272, #273); Mathias nao entregou - lacuna declarada, sem packet inventado. Ficou de fora do dia: o FSD v15 da Tesla e a pergunta da Bybit sobre licao de perda (os dois em `carryover`), o meme 'Close enough' da Bybit (imagem ilegivel para o raspador) e os teasers sem fonte ('XV', urso da Robinhood). Regras novas de hoje: reply no maximo 2 por DIA (nao por edicao), card sempre em show_block e horarios 10:00/13:00/16:00."
 }
