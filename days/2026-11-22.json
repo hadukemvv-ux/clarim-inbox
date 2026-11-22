@@ -1,0 +1,332 @@
+{
+ "date": "2026-11-22",
+ "editions": [
+  {
+   "slot": "manha",
+   "hora_local": "10:01",
+   "hora_utc": "13:01Z",
+   "janela": {
+    "de": "2026-11-22 01:01Z",
+    "ate": "2026-11-22 13:01Z"
+   },
+   "fonte_scan": "scripts/scan_day.py - 16 posts na janela (TheBlock__ e Superstate vazios, sexto dia); varredura propria da mesa, sem packet de reporter na janela",
+   "entregue_modal": "show_block",
+   "oportunidades": [
+    {
+     "code": "E1",
+     "handle": "@unusual_whales",
+     "utc": "01:07Z",
+     "link": "https://x.com/unusual_whales/status/2124308744796565995",
+     "surface": "QUOTE",
+     "lk": 97,
+     "rp": 67,
+     "pt": "ETFs 2x long e 2x short de Anthropic comecam a negociar na segunda - a mesma empresa que ja existe tokenizada e negocia no fim de semana. Melhor gancho Fluxion do dia: acesso x calendario.",
+     "opcoes": {
+      "a": "long and short the same company at 2x. the market finally found a way to bet against yourself",
+      "b": "etf starts trading monday 9:30. the tokenized version has been trading since friday night. a listing is not a market, access is",
+      "c": "two etfs, opposite directions, same underlying, both charging a fee. beautiful business model ngl"
+     }
+    },
+    {
+     "code": "E2",
+     "handle": "@lookonchain",
+     "utc": "01:55Z",
+     "link": "https://x.com/lookonchain/status/2124320776564469894",
+     "surface": "QUOTE",
+     "lk": 845,
+     "rp": 131,
+     "pt": "Abraxas Capital comprou mais de US$ 1 bi em BTC com o preco abaixo de US$ 60 mil e tirou 17.597 BTC (US$ 1,04 bi) da Binance e da Kraken. Numero grande com fonte primaria.",
+     "opcoes": {
+      "a": "buying the dip with a billion is just the dip with extra steps",
+      "b": "$1.04B in one clip and no desk had to be called. routing that size without slippage is the product - atomic rfq is why it looks quiet",
+      "c": "everyone says they buy red candles. one fund actually did it with 17,597 coins"
+     }
+    },
+    {
+     "code": "E3",
+     "handle": "@WatcherGuru",
+     "utc": "02:05Z",
+     "link": "https://x.com/WatcherGuru/status/2124323299639296287",
+     "surface": "QUOTE",
+     "lk": 3247,
+     "rp": 735,
+     "pt": "Democrata ameaca cortar funding federal da SpaceX (US$SPCX). Risco politico caindo de madrugada, alcance alto (3,2 mil lk) e assunto que a mesa ainda nao usou.",
+     "opcoes": {
+      "a": "cutting funding to the company that launches the things the government needs. bold strategy",
+      "b": "policy risk lands at 2am and the price has to form somewhere. onchain the gap forms in public, in real time",
+      "c": "one headline and a whole asset class repriced. the rocket is still the fastest thing here tho"
+     }
+    },
+    {
+     "code": "E4",
+     "handle": "@lookonchain",
+     "utc": "10:49Z",
+     "link": "https://x.com/lookonchain/status/2124455258969837691",
+     "surface": "QUOTE",
+     "lk": 140,
+     "rp": 56,
+     "pt": "Carteira comprou 9.677 ETH a US$ 2.239 ha 2 semanas, esta US$ 5,36 mi no prejuizo e vendeu 3.700 ETH (US$ 6,11 mi) ha 5 horas para cortar perda. Historia de saida, nao de entrada.",
+     "opcoes": {
+      "a": "bought the top, sold the bottom, posted the receipt. a full arc",
+      "b": "entry gets all the attention. the exit is where depth actually shows - the ticker is just the address",
+      "c": "down $5.36M in two weeks and still sold into it. respect the discipline, question the entry"
+     }
+    },
+    {
+     "code": "E5",
+     "handle": "@Mantle_Official",
+     "utc": "12:01Z",
+     "link": "https://x.com/Mantle_Official/status/2124473245667922189",
+     "surface": "QUOTE",
+     "lk": 46,
+     "rp": 14,
+     "pt": "Mantle entra no Pumpfun com Callout Rewards para tokens do ecossistema. Noticia de parceiro, engajamento baixo - bom para apoiar sem parecer promocao.",
+     "opcoes": {
+      "a": "pumpfun on mantle: the timeline gets a new casino floor",
+      "b": "new front end, same job underneath: pools deep enough that a phone app feels instant. gud to see the ecosystem widen",
+      "c": "callout rewards for talking about tokens. we used to call that a group chat"
+     }
+    }
+   ],
+   "posts": [
+    {
+     "code": "P1",
+     "text": "two ways to own the same company: the etf opens monday at 9:30. the tokenized one has been open since friday night. one of these is access, the other is a schedule.",
+     "fonte": "https://x.com/unusual_whales/status/2124308744796565995",
+     "why_now": "ETF 2x de Anthropic estreia na segunda - o contraste com o tokenizado e exatamente a mensagem central."
+    },
+    {
+     "code": "P2",
+     "text": "$1.04B of btc walked out of exchanges while price sat under $60k. someone was not waiting for confirmation.",
+     "fonte": "https://x.com/lookonchain/status/2124320776564469894",
+     "why_now": "17.597 BTC saindo da Binance/Kraken na queda - numero da fonte primaria, fluxo de capital institucional."
+    },
+    {
+     "code": "P3",
+     "text": "down $5.36M in 14 days is not a market problem. it's an exit problem.",
+     "fonte": "https://x.com/lookonchain/status/2124455258969837691",
+     "why_now": "Caso concreto de saida ruim; sustenta a tese de que profundidade e o produto, sem virar conselho."
+    }
+   ],
+   "memes": [
+    {
+     "code": "M1",
+     "formato": "expectativa x realidade em dois paineis de grafico",
+     "exemplo": "https://x.com/WatcherGuru/status/2124323299639296287",
+     "caption": "expectation: markets sleep on weekends. reality: the cat is up at 3am watching an etf that only opens on monday",
+     "cena": "Fluxion mascot - glossy black vinyl-toy cat, three spiky ears, white swirl on the forehead, blue-to-purple glowing visor with cyan LED eyes, nebula belly, flame-tipped tail - sitting cross-legged on a floating candlestick chart at night, visor reflecting red candles, one paw holding a tiny coffee cup."
+    },
+    {
+     "code": "M2",
+     "formato": "quote tweet de 'my personal design esthetic is homeless Batman'",
+     "exemplo": "https://x.com/elonmusk/status/2124450538976629076",
+     "caption": "my personal design esthetic is a candlestick with three spiky ears",
+     "cena": "The mascot wearing a tiny bat cape over a giant green candle, three spiky ears poking through a makeshift cowl, flame-tipped tail curling around the handle, neon chart glow behind."
+    }
+   ]
+  }
+ ],
+ "escolhas_log": [
+  {
+   "slot": "manha",
+   "code": "E1",
+   "link": "https://x.com/unusual_whales/status/2124308744796565995",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "card enviado no DM as 10:01; aguardando Hadukem",
+   "reporter": "origem nao confirmada"
+  },
+  {
+   "slot": "manha",
+   "code": "E2",
+   "link": "https://x.com/lookonchain/status/2124320776564469894",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "aguardando Hadukem",
+   "reporter": "origem nao confirmada"
+  },
+  {
+   "slot": "manha",
+   "code": "E3",
+   "link": "https://x.com/WatcherGuru/status/2124323299639296287",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "aguardando Hadukem",
+   "reporter": "origem nao confirmada"
+  },
+  {
+   "slot": "manha",
+   "code": "E4",
+   "link": "https://x.com/lookonchain/status/2124455258969837691",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "aguardando Hadukem",
+   "reporter": "origem nao confirmada"
+  },
+  {
+   "slot": "manha",
+   "code": "E5",
+   "link": "https://x.com/Mantle_Official/status/2124473245667922189",
+   "surface": "QUOTE",
+   "escolha": "sem escolha",
+   "porque": "aguardando Hadukem",
+   "reporter": "origem nao confirmada"
+  }
+ ],
+ "style_rules": {
+  "modal_card": {
+   "regra": "Toda edicao nova do Clarim vai ao Hadukem em UM modal clicavel: link em cima de cada item, letras a/b/c em lista, opcao 'nenhuma' e campo de porque por item, um botao de envio no fim.",
+   "origem": "Hadukem, 14/11/2026. Gravado em clarim/SHARED.md, PR #161.",
+   "vigente_em_22_11": true,
+   "mudanca_em_22_11": "nenhuma"
+  },
+  "superficie": {
+   "regra": "QUOTE e o padrao; REPLY no maximo 2 por dia inteiro e so com conversa real ou numero proprio inedito.",
+   "origem": "Hadukem, 20/11/2026.",
+   "aplicado_em_22_11": "5 QUOTE, 0 reply (2 replies do dia continuam livres)"
+  },
+  "variedade_angulo_b": {
+   "regra": "Na mesma edicao, cada (b) usa um angulo Fluxion diferente.",
+   "aplicado_em_22_11": "E1 acesso x calendario; E2 Atomic RFQ; E3 risco politico formando preco; E4 profundidade na saida; E5 pools/ecossistema"
+  }
+ },
+ "quality_feedback": [
+  {
+   "de": "mesa (auto)",
+   "quando": "22/11 manha",
+   "pt": "Nenhum packet de reporter na janela 01:01Z-13:01Z: a varredura foi propria da mesa e os 5 itens ficam como 'origem nao confirmada' no escolhas_log. Os logs de 21/11 nao estao no empresa-ops local (a pasta para em 20/11) - conferir se os PRs de 21/11 foram mergeados."
+  },
+  {
+   "de": "mesa (auto)",
+   "quando": "22/11 manha",
+   "pt": "TheBlock__ e Superstate voltaram vazios pelo sexto dia; Superstate aparece como item de erro no scan. Verificar o raspador dessas duas contas."
+  }
+ ],
+ "reporter_tips": [],
+ "discarded_tips": [
+  {
+   "link": "https://x.com/lookonchain/status/2124451588836323366",
+   "motivo": "Baleia depositou 2.279 BTC (US$ 134,7 mi) na Binance - terceiro item de lookonchain no card; cortado por variedade de conta."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2124463264037769352",
+   "motivo": "'25 times, welcome to the singularity' - alcance altissimo mas sem gancho Fluxion e sem numero verificavel."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2124450538976629076",
+   "motivo": "'homeless Batman' - virou o meme M2 em vez de oportunidade."
+  },
+  {
+   "link": "https://x.com/Bybit_Official/status/2124412818636083302",
+   "motivo": "Sorteio de 1.000 USDT para o usuario 90.000.001 - e giveaway do proprio parceiro, nao da mesa; evitar."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2124308744796565995_ep",
+   "motivo": "Episodio de podcast sobre bolha de IA - sem fato verificavel, descartado."
+  },
+  {
+   "link": "https://x.com/elonmusk/status/2124477713142665551",
+   "motivo": "'Starlink saves lives' - sem gancho de mercado."
+  }
+ ],
+ "pending": [
+  {
+   "owner": "hadukem",
+   "pt": "Escolha dos 5 itens de 22/11 (manha) - card enviado as 10:01."
+  },
+  {
+   "owner": "hadukem",
+   "pt": "Escolha dos 95 itens de 17 a 21/11 - venceram sem resposta; nada publicado desde 04/11."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Corrigir no SOP o handle do xStocks (@xStocksFi) e confirmar handles de CIAN e KiiChain."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Conferir por que os logs de 21/11 dos reporteres nao estao no empresa-ops e cobrar o do Mathias."
+  },
+  {
+   "owner": "bruna",
+   "pt": "Investigador: TheBlock__ e Superstate vazios ha 6 dias no scan."
+  }
+ ],
+ "held": [],
+ "carryover": [
+  {
+   "link": "https://x.com/xStocksFi/status/2123492356750192971",
+   "pt": "ANTx chega a Monad - comparar Mantle x Monad na tese 'listing nao e mercado'; nao usado."
+  },
+  {
+   "link": "https://x.com/WatcherGuru/status/2123499703589343486",
+   "pt": "SBF/FTX lucrou US$ 500 mi com a Anthropic - repropor se o Hadukem quiser."
+  },
+  {
+   "link": "https://x.com/lookonchain/status/2124010587646832850",
+   "pt": "Carteira ligada a Ethereum Foundation vendeu 2.500 ETH (US$ 3,88 mi)."
+  },
+  {
+   "link": "https://x.com/unusual_whales/status/2123939905999138932",
+   "pt": "CrowdStrike em conversa para comprar Zscaler (Bloomberg)."
+  }
+ ],
+ "reporter_eod": null,
+ "page": [
+  {
+   "code": "E1",
+   "link": "https://x.com/unusual_whales/status/2124308744796565995",
+   "surface": "QUOTE",
+   "opcoes": {
+    "a": "long and short the same company at 2x. the market finally found a way to bet against yourself",
+    "b": "etf starts trading monday 9:30. the tokenized version has been trading since friday night. a listing is not a market, access is",
+    "c": "two etfs, opposite directions, same underlying, both charging a fee. beautiful business model ngl"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "code": "E2",
+   "link": "https://x.com/lookonchain/status/2124320776564469894",
+   "surface": "QUOTE",
+   "opcoes": {
+    "a": "buying the dip with a billion is just the dip with extra steps",
+    "b": "$1.04B in one clip and no desk had to be called. routing that size without slippage is the product - atomic rfq is why it looks quiet",
+    "c": "everyone says they buy red candles. one fund actually did it with 17,597 coins"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "code": "E3",
+   "link": "https://x.com/WatcherGuru/status/2124323299639296287",
+   "surface": "QUOTE",
+   "opcoes": {
+    "a": "cutting funding to the company that launches the things the government needs. bold strategy",
+    "b": "policy risk lands at 2am and the price has to form somewhere. onchain the gap forms in public, in real time",
+    "c": "one headline and a whole asset class repriced. the rocket is still the fastest thing here tho"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "code": "E4",
+   "link": "https://x.com/lookonchain/status/2124455258969837691",
+   "surface": "QUOTE",
+   "opcoes": {
+    "a": "bought the top, sold the bottom, posted the receipt. a full arc",
+    "b": "entry gets all the attention. the exit is where depth actually shows - the ticker is just the address",
+    "c": "down $5.36M in two weeks and still sold into it. respect the discipline, question the entry"
+   },
+   "escolha_hadukem": null
+  },
+  {
+   "code": "E5",
+   "link": "https://x.com/Mantle_Official/status/2124473245667922189",
+   "surface": "QUOTE",
+   "opcoes": {
+    "a": "pumpfun on mantle: the timeline gets a new casino floor",
+    "b": "new front end, same job underneath: pools deep enough that a phone app feels instant. gud to see the ecosystem widen",
+    "c": "callout rewards for talking about tokens. we used to call that a group chat"
+   },
+   "escolha_hadukem": null
+  }
+ ],
+ "notes_pt": "Edicao da manha de 22/11 montada so com varredura propria: 16 posts na janela 01:01Z-13:01Z, 5 QUOTE, zero reply. Sem packet de reporter na janela."
+}
