@@ -543,7 +543,7 @@
   {
    "de": "mesa (auto)",
    "quando": "21/11 fecho",
-   "pt": "Os logs de 21/11 de Gleison (#272, 4 rondas) e Bruno (#273, 2 rondas) existem e ficaram em PR aberto ate o fecho; Mathias nao entregou log de 21/11. Segundo dia seguido com a mesma causa: a lacuna e de merge, nao de ronda."
+   "pt": "Os logs de 21/11 de Gleison (#272, 4 rondas) e Bruno (#273, 2 rondas) existem e ficaram em PR aberto ate o fecho e foram mergeados no mesmo fecho (#272 a7663a4, #273 db58d64); Mathias nao entregou log de 21/11. Segundo dia seguido com a mesma causa: a lacuna e de merge, nao de ronda."
   },
   {
    "de": "mesa (auto)",
@@ -723,7 +723,7 @@
   },
   {
    "owner": "bruna",
-   "pt": "Mergear os logs de 21/11 de Gleison (#272) e Bruno (#273) e cobrar o log de 21/11 do Mathias, que nao entregou."
+   "pt": "Cobrar o log de 21/11 do Mathias, que nao entregou; os do Gleison e do Bruno foram mergeados no fecho."
   }
  ],
  "held": [],
@@ -759,14 +759,14 @@
  ],
  "reporter_eod": {
   "gleison": {
-   "log": "PR #272 (aberto ate o fecho)",
+   "log": "PR #272, mergeado no fecho (a7663a4)",
    "rondas": 4,
    "tips": 4,
    "entregou": "Fluxion_network 00:26Z (ANTx no ar) e Bybit 18:00Z (ANTUSDT em perps) entraram na edicao; AI Showdown e a pergunta sobre licao de perda ficaram como carryover.",
    "lacuna": "Grove sem conta valida (handle devolve conta pessoal parada em 2019); CIAN parada desde 26/08 e KiiChain desde 08/02/2021 (contas frias)."
   },
   "bruno": {
-   "log": "PR #273 (aberto ate o fecho)",
+   "log": "PR #273, mergeado no fecho (db58d64)",
    "rondas": 2,
    "tips": 6,
    "entregou": "Nenhum tip do beat entrou nos cards do dia. O material mais forte foi o Tesla FSD v15 (11.298 lk / 1.110 resp em 1h), que fica em carryover para amanha.",
@@ -877,5 +877,5 @@
    "escolha_hadukem": null
   }
  ],
- "notes_pt": "Fecho de 21/11 por mescla: a edicao da manha ja estava gravada na origem (commit 4ba9f0f, 09:06) e foi preservada inteira, com os 10 itens e o `page` intocados; acrescentei as edicoes da tarde (13:00, 5 QUOTE, reenviada em show_block) e da noite (16:00, 5 QUOTE). O `escolhas_log` passou a ter os 20 itens do dia, cada um com `reporter` e `surface`: 2 tem origem confirmada (P3 e noite E4, ambos do Gleison) e 18 ficam como origem nao confirmada, por serem de contas fora do beat dos tres reporteres. Zero escolha do Hadukem hoje - quinto dia seguido sem resposta, 100 itens parados desde 17/11 e nada publicado desde 04/11; por isso o `page` segue como estava, com `escolha_hadukem` nula nos 10 itens da manha. Reporteres: Gleison (4 rondas) e Bruno (2 rondas) entregaram e os logs estao em PR aberto (#272, #273); Mathias nao entregou - lacuna declarada, sem packet inventado. Ficou de fora do dia: o FSD v15 da Tesla e a pergunta da Bybit sobre licao de perda (os dois em `carryover`), o meme 'Close enough' da Bybit (imagem ilegivel para o raspador) e os teasers sem fonte ('XV', urso da Robinhood). Regras novas de hoje: reply no maximo 2 por DIA (nao por edicao), card sempre em show_block e horarios 10:00/13:00/16:00."
+ "notes_pt": "Fecho de 21/11 por mescla: a edicao da manha ja estava gravada na origem (commit 4ba9f0f, 09:06) e foi preservada inteira, com os 10 itens e o `page` intocados; acrescentei as edicoes da tarde (13:00, 5 QUOTE, reenviada em show_block) e da noite (16:00, 5 QUOTE). O `escolhas_log` passou a ter os 20 itens do dia, cada um com `reporter` e `surface`: 2 tem origem confirmada (P3 e noite E4, ambos do Gleison) e 18 ficam como origem nao confirmada, por serem de contas fora do beat dos tres reporteres. Zero escolha do Hadukem hoje - quinto dia seguido sem resposta, 100 itens parados desde 17/11 e nada publicado desde 04/11; por isso o `page` segue como estava, com `escolha_hadukem` nula nos 10 itens da manha. Reporteres: Gleison (4 rondas) e Bruno (2 rondas) entregaram e os logs foram mergeados no mesmo fecho (#272 a7663a4, #273 db58d64); Mathias nao entregou - lacuna declarada, sem packet inventado. Ficou de fora do dia: o FSD v15 da Tesla e a pergunta da Bybit sobre licao de perda (os dois em `carryover`), o meme 'Close enough' da Bybit (imagem ilegivel para o raspador) e os teasers sem fonte ('XV', urso da Robinhood). Regras novas de hoje: reply no maximo 2 por DIA (nao por edicao), card sempre em show_block e horarios 10:00/13:00/16:00."
 }
