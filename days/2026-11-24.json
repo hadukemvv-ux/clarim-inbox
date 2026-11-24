@@ -1,0 +1,328 @@
+{
+  "date": "2026-11-24",
+  "editions": [
+    {
+      "slot": "manha",
+      "hora_local": "09:10",
+      "hora_utc": "12:11Z",
+      "janela": "2026-11-23 12:11Z → 2026-11-24 12:11Z",
+      "fonte_scan": "xread, 19 handles, 42 posts na janela. Lacuna: nenhum packet de 24/11 na pasta local (logs param em 21/11). Origem não confirmada.",
+      "entregue_modal": false,
+      "replies_no_dia": 0,
+      "oportunidades": [
+        {
+          "code": "E1",
+          "link": "https://x.com/Mantle_Official/status/2125183417818218521",
+          "surface": "QUOTE",
+          "opcoes": [
+            "a) a whole conference and the notes worth stealing fit in one sentence. some panels should've been a tweet",
+            "b) a listing is a press release. liquidity is the market. on mantle that second half is the whole job, weekends included",
+            "c) tokenized stocks didn't stall at the brochure. they stalled where someone has to be on the other side"
+          ]
+        },
+        {
+          "code": "E2",
+          "link": "https://x.com/WatcherGuru/status/2125110501243859379",
+          "surface": "QUOTE",
+          "opcoes": [
+            "a) hong kong got the fund. my group chat got the screenshot. we're not the same",
+            "b) a stablecoin door is the easy part. on fluxion the exit has to be there when you want out, not when a nav window opens",
+            "c) tokenization decks love the word access. a nicer waiting room is still a waiting room"
+          ]
+        },
+        {
+          "code": "E3",
+          "link": "https://x.com/unusual_whales/status/2125197624244687180",
+          "surface": "QUOTE",
+          "opcoes": [
+            "a) five directors, three banks, one december rumor. my calendar has less drama and somehow more meetings",
+            "b) merger talks run on a banker and a date. the tape on mantle doesn't clear its calendar for either",
+            "c) as soon as december is what every timeline says right before it becomes a podcast"
+          ]
+        },
+        {
+          "code": "E4",
+          "link": "https://x.com/KiiChainio/status/2124937274110693757",
+          "surface": "QUOTE",
+          "opcoes": [
+            "a) longest i've waited for a payment was the bank is reviewing it, which is not a unit of time",
+            "b) a wire still checks if today is a banking day. onchain settlement on mantle doesn't. thats the whole street",
+            "c) asking people for their longest wait is a dangerous question if they use banks"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "code": "P1",
+          "surface": "POST",
+          "link": "https://x.com/xStocksFi/status/2124911080992538887",
+          "texto": "anthropic left the nasdaq bell for a wallet that doesn't do weekends. the listing was the brochure"
+        }
+      ],
+      "memes": [
+        {
+          "code": "M1",
+          "caption": "the closing bell is back monday too. nobody threw a parade",
+          "exemplo": "https://x.com/xStocksFi/status/2124864583433388160"
+        },
+        {
+          "code": "M2",
+          "caption": "panic first, headline second. the chart was open the whole time",
+          "exemplo": "https://x.com/lookonchain/status/2125125969581339006"
+        }
+      ]
+    }
+  ],
+  "escolhas_log": [
+    {
+      "slot": "manha",
+      "code": "E1",
+      "link": "https://x.com/Mantle_Official/status/2125183417818218521",
+      "surface": "QUOTE",
+      "reporter": "origem não confirmada",
+      "escolha": "sem escolha",
+      "porque": "card da manhã gravado; Hadukem ainda não marcou",
+      "opcoes": [
+        "a) a whole conference and the notes worth stealing fit in one sentence. some panels should've been a tweet",
+        "b) a listing is a press release. liquidity is the market. on mantle that second half is the whole job, weekends included",
+        "c) tokenized stocks didn't stall at the brochure. they stalled where someone has to be on the other side"
+      ]
+    },
+    {
+      "slot": "manha",
+      "code": "E2",
+      "link": "https://x.com/WatcherGuru/status/2125110501243859379",
+      "surface": "QUOTE",
+      "reporter": "origem não confirmada",
+      "escolha": "sem escolha",
+      "porque": "card da manhã gravado; Hadukem ainda não marcou",
+      "opcoes": [
+        "a) hong kong got the fund. my group chat got the screenshot. we're not the same",
+        "b) a stablecoin door is the easy part. on fluxion the exit has to be there when you want out, not when a nav window opens",
+        "c) tokenization decks love the word access. a nicer waiting room is still a waiting room"
+      ]
+    },
+    {
+      "slot": "manha",
+      "code": "E3",
+      "link": "https://x.com/unusual_whales/status/2125197624244687180",
+      "surface": "QUOTE",
+      "reporter": "origem não confirmada",
+      "escolha": "sem escolha",
+      "porque": "card da manhã gravado; Hadukem ainda não marcou",
+      "opcoes": [
+        "a) five directors, three banks, one december rumor. my calendar has less drama and somehow more meetings",
+        "b) merger talks run on a banker and a date. the tape on mantle doesn't clear its calendar for either",
+        "c) as soon as december is what every timeline says right before it becomes a podcast"
+      ]
+    },
+    {
+      "slot": "manha",
+      "code": "E4",
+      "link": "https://x.com/KiiChainio/status/2124937274110693757",
+      "surface": "QUOTE",
+      "reporter": "origem não confirmada",
+      "escolha": "sem escolha",
+      "porque": "card da manhã gravado; Hadukem ainda não marcou",
+      "opcoes": [
+        "a) longest i've waited for a payment was the bank is reviewing it, which is not a unit of time",
+        "b) a wire still checks if today is a banking day. onchain settlement on mantle doesn't. thats the whole street",
+        "c) asking people for their longest wait is a dangerous question if they use banks"
+      ]
+    },
+    {
+      "slot": "manha",
+      "code": "P1",
+      "link": "https://x.com/xStocksFi/status/2124911080992538887",
+      "surface": "POST",
+      "reporter": "origem não confirmada",
+      "escolha": "sem escolha",
+      "porque": "aguardando Hadukem",
+      "opcoes": [
+        "anthropic left the nasdaq bell for a wallet that doesn't do weekends. the listing was the brochure"
+      ]
+    },
+    {
+      "slot": "manha",
+      "code": "M1",
+      "link": "https://x.com/xStocksFi/status/2124864583433388160",
+      "surface": "POST",
+      "reporter": "origem não confirmada",
+      "escolha": "sem escolha",
+      "porque": "aguardando Hadukem",
+      "opcoes": [
+        "the closing bell is back monday too. nobody threw a parade"
+      ]
+    },
+    {
+      "slot": "manha",
+      "code": "M2",
+      "link": "https://x.com/lookonchain/status/2125125969581339006",
+      "surface": "POST",
+      "reporter": "origem não confirmada",
+      "escolha": "sem escolha",
+      "porque": "aguardando Hadukem",
+      "opcoes": [
+        "panic first, headline second. the chart was open the whole time"
+      ]
+    }
+  ],
+  "style_rules": [
+    {
+      "quando": "2026-11-23",
+      "regra": "Concorrência e venue fora da Mantle só entram como POST próprio, nunca quote nem reply."
+    },
+    {
+      "quando": "2026-11-23",
+      "regra": "Post que mostra outra DEX da Mantle não entra como quote. Vira texto próprio, sem citar a parceira e sem link de fonte."
+    },
+    {
+      "quando": "2026-11-23",
+      "regra": "Calendário de balanço e conversa de fusão não viram chamada de trade. Sem a palavra buy."
+    },
+    {
+      "quando": "2026-11-23",
+      "regra": "A manhã cria days/; o fecho das 21:30 mescla e não sobrescreve."
+    },
+    {
+      "quando": "2026-11-24",
+      "regra": "Card único do dia. QUOTE padrão. 0 reply marcado, teto 2 no dia. No máximo 2 itens do mesmo assunto."
+    }
+  ],
+  "quality_feedback": [
+    "Lacuna: packets de 24/11 não estavam na pasta local. Varredura própria. Origem não confirmada.",
+    "TheBlock__ e Superstate seguiram sem resposta no xread.",
+    "@Fluxion_network sem post na janela de 24h."
+  ],
+  "reporter_tips": [],
+  "discarded_tips": [
+    {
+      "link": "https://x.com/unusual_whales/status/2125194016153374899",
+      "motivo": "mesmo fio Anthropic do P1"
+    },
+    {
+      "link": "https://x.com/WatcherGuru/status/2125183565478363357",
+      "motivo": "mesmo fio Anthropic, conta duplicada"
+    },
+    {
+      "link": "https://x.com/xStocksFi/status/2124988701088403524",
+      "motivo": "volume na Raydium, venue fora da Mantle"
+    },
+    {
+      "link": "https://x.com/xStocksFi/status/2124866067407294550",
+      "motivo": "cita Kraken e Hyperliquid"
+    },
+    {
+      "link": "https://x.com/lookonchain/status/2125102670793114093",
+      "motivo": "short 10x é chamada de trade"
+    },
+    {
+      "link": "https://x.com/WatcherGuru/status/2125063927918936294",
+      "motivo": "preço de BTC/ETH"
+    },
+    {
+      "link": "https://x.com/Securitize/status/2124911096175960327",
+      "motivo": "concorrência, já esteve no card de 23/11"
+    },
+    {
+      "link": "https://x.com/Bybit_Official/status/2125125743449411808",
+      "motivo": "TradFi Earn, risco de yield"
+    },
+    {
+      "link": "https://x.com/Mantle_Official/status/2125182738693324965",
+      "motivo": "painel cita outras venues"
+    }
+  ],
+  "pending": [
+    "Hadukem ainda não marcou letra no card de 24/11.",
+    "@Fluxion_network sem post novo na janela.",
+    "TheBlock__ e Superstate vazios de novo no xread.",
+    "Packets de 24/11 não lidos: pasta local para em 21/11."
+  ],
+  "held": [],
+  "carryover": [
+    "ANTx com LP 24/7 na Fluxion, só como post próprio, sem citar outra DEX da Mantle. Sem fonte nova hoje.",
+    "Venue OKX+ICE só como post próprio. Não reciclado: já esteve no card de 23/11."
+  ],
+  "reporter_eod": {
+    "nota": "Manhã de 24/11, antes do fecho. Sem packet novo dos três."
+  },
+  "page": {
+    "escolha_hadukem": null,
+    "nota": "Card da manhã de 24/11 gravado sem letra. 4 QUOTE, 0 REPLY, 1 POST, 2 memes.",
+    "itens": [
+      {
+        "code": "E1",
+        "surface": "QUOTE",
+        "link": "https://x.com/Mantle_Official/status/2125183417818218521",
+        "opcoes": [
+          "a) a whole conference and the notes worth stealing fit in one sentence. some panels should've been a tweet",
+          "b) a listing is a press release. liquidity is the market. on mantle that second half is the whole job, weekends included",
+          "c) tokenized stocks didn't stall at the brochure. they stalled where someone has to be on the other side"
+        ],
+        "escolha_hadukem": null
+      },
+      {
+        "code": "E2",
+        "surface": "QUOTE",
+        "link": "https://x.com/WatcherGuru/status/2125110501243859379",
+        "opcoes": [
+          "a) hong kong got the fund. my group chat got the screenshot. we're not the same",
+          "b) a stablecoin door is the easy part. on fluxion the exit has to be there when you want out, not when a nav window opens",
+          "c) tokenization decks love the word access. a nicer waiting room is still a waiting room"
+        ],
+        "escolha_hadukem": null
+      },
+      {
+        "code": "E3",
+        "surface": "QUOTE",
+        "link": "https://x.com/unusual_whales/status/2125197624244687180",
+        "opcoes": [
+          "a) five directors, three banks, one december rumor. my calendar has less drama and somehow more meetings",
+          "b) merger talks run on a banker and a date. the tape on mantle doesn't clear its calendar for either",
+          "c) as soon as december is what every timeline says right before it becomes a podcast"
+        ],
+        "escolha_hadukem": null
+      },
+      {
+        "code": "E4",
+        "surface": "QUOTE",
+        "link": "https://x.com/KiiChainio/status/2124937274110693757",
+        "opcoes": [
+          "a) longest i've waited for a payment was the bank is reviewing it, which is not a unit of time",
+          "b) a wire still checks if today is a banking day. onchain settlement on mantle doesn't. thats the whole street",
+          "c) asking people for their longest wait is a dangerous question if they use banks"
+        ],
+        "escolha_hadukem": null
+      },
+      {
+        "code": "P1",
+        "surface": "POST",
+        "link": "https://x.com/xStocksFi/status/2124911080992538887",
+        "opcoes": [
+          "anthropic left the nasdaq bell for a wallet that doesn't do weekends. the listing was the brochure"
+        ],
+        "escolha_hadukem": null
+      },
+      {
+        "code": "M1",
+        "surface": "POST",
+        "link": "https://x.com/xStocksFi/status/2124864583433388160",
+        "opcoes": [
+          "the closing bell is back monday too. nobody threw a parade"
+        ],
+        "escolha_hadukem": null
+      },
+      {
+        "code": "M2",
+        "surface": "POST",
+        "link": "https://x.com/lookonchain/status/2125125969581339006",
+        "opcoes": [
+          "panic first, headline second. the chart was open the whole time"
+        ],
+        "escolha_hadukem": null
+      }
+    ]
+  },
+  "notes_pt": "Semana enxuta, card único. 0 reply. P1 é POST porque o post da xStocks mostra a Uniswap."
+}
