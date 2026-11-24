@@ -1,0 +1,424 @@
+{
+  "date": "2026-11-23",
+  "editions": [
+    {
+      "slot": "extra",
+      "hora_local": "15:32",
+      "hora_utc": "18:32Z",
+      "corrigido_utc": "18:34Z",
+      "janela": "20/11 21:00Z → 23/11 18:00Z (ronda extra de Gleison e Mathias); nenhum link repetido dos packets de 21 e 22/11",
+      "fonte_scan": "ronda extra pedida pelo Hadukem: packet do Gleison (parceiros + Fluxion) e packet do Mathias (concorrência). Sem card de 09:00: a semana enxuta começava hoje e as rotinas tinham sido pausadas na sexta; o card do dia foi este, fora da grade.",
+      "entregue_modal": "reenviado no #fluxion-x às 18:34Z depois de três correções do Hadukem (E3/E4 só POST, E2a sem buy, E6b sem chamada de trade)",
+      "oportunidades": [
+        {
+          "code": "E1",
+          "label": "E1 · POST próprio · ANTx com LP 24/7",
+          "link": null,
+          "surface": "POST",
+          "reporter": "gleison",
+          "pt": "PT: a novidade do dia é o ANTx com LP 24/7 na Fluxion — antes era só trading, agora o ativo também é pool. A Mantle citou a Fluxion pelo nome às 12:00Z, mas o post original mostra a Merchant Moe, então vai como POST da Fluxion: sem citar a Mantle e sem link de fonte.",
+          "opcoes": [
+            "a) trading was only half the job. ANTx now trades and provides liquidity around the clock on fluxion. sunday included",
+            "b) an asset that only trades is a collectible. one that also provides liquidity is a market. both, 24/7, no bell",
+            "c) the pool never closes. ANTx liquidity is live on fluxion while the rest of the street waits for 9:30"
+          ],
+          "escolha_hadukem": null
+        },
+        {
+          "code": "E2",
+          "label": "E2 · @xStocksFi · 17:00Z",
+          "link": "https://x.com/xStocksFi/status/2124911080992538887",
+          "surface": "QUOTE",
+          "reporter": "gleison",
+          "pt": "PT: Anthropic agora está a um swap na Uniswap, de qualquer carteira, a qualquer hora: 'from Nasdaq to where the bell never rings' (34 lk / 6 rep) — distribuição chegou ao roteador",
+          "opcoes": [
+            "a) one swap away and i'm still out here reading the fine print. some things never get tokenized",
+            "b) no app, no account, no 9:30. one swap in your own wallet and you're in a market that doesn't take weekends off",
+            "c) wall street spent a century making the closing bell feel like a feature. it was a limitation with good PR"
+          ],
+          "escolha_hadukem": null
+        },
+        {
+          "code": "E3",
+          "label": "E3 · POST próprio · 113 ativos em rollout",
+          "link": null,
+          "surface": "POST",
+          "reporter": "mathias",
+          "pt": "PT: venue OKX+ICE sob a Innovation Exemption da SEC, 113 ativos em rollout faseado (46 lk / 13 rep). É concorrência do beat do Mathias: entra só como ideia de post, sem engajar com o perfil.",
+          "opcoes": [
+            "a) 113 assets in cold, phased rollout. the rollout is always phased and the demand never is",
+            "b) an exemption being written for tokenized securities is the whole story of this cycle in one line",
+            "c) the interesting part isn't the 113 assets. it's that the paperwork finally had to move"
+          ],
+          "escolha_hadukem": null
+        },
+        {
+          "code": "E4",
+          "label": "E4 · POST próprio · +1.070% em 2 anos",
+          "link": null,
+          "surface": "POST",
+          "reporter": "mathias",
+          "pt": "PT: estado do mercado de ações tokenizadas: +1.070% em menos de 2 anos, de US$ 288 mi para US$ 3,37 bi, e 700+ ações/ETFs indo para a Sei (93 lk / 16 rep). Concorrência do beat do Mathias: entra só como ideia de post, sem engajar com o perfil.",
+          "opcoes": [
+            "a) 1,070% in under two years and my watchlist still manages to be red. iconic",
+            "b) 3.37 billion and no closing bell anywhere in the number. that's an equities market that learned to stay up",
+            "c) the ticker war stopped being about which chain. it's about whether the thing keeps quoting at 23:59"
+          ],
+          "escolha_hadukem": null
+        },
+        {
+          "code": "E5",
+          "label": "E5 · @SkyEcosystem · 11:00Z",
+          "link": "https://x.com/SkyEcosystem/status/2124820382473433356",
+          "surface": "QUOTE",
+          "reporter": "gleison",
+          "pt": "PT: PSM da Sky reconstruiu liquidez em USDC para US$ 1,77 bi (28,4% do supply de USDS+DAI) e processou mais de US$ 2 bi em conversões USDS→USDC 1:1 num só dia (156 lk / 29 rep)",
+          "opcoes": [
+            "a) two billion converted one for one in a day and nobody had to call a hotline. imagine a bank doing that",
+            "b) a rail that holds when everyone leaves at once is the same rail you want under a yield product. boring is the feature",
+            "c) everyone quotes apy. nobody quotes what happens on the day everyone wants out"
+          ],
+          "escolha_hadukem": null
+        },
+        {
+          "code": "E6",
+          "label": "E6 · @Bybit_Official · 14:00Z",
+          "link": "https://x.com/Bybit_Official/status/2124865552778748393",
+          "surface": "QUOTE",
+          "reporter": "gleison",
+          "pt": "PT: calendário de balanços da semana (HPE, ZM, FLNC, DELL, ADI, CLSK) e 280+ ações na Bybit TradFi — dado puro, sem chamada de trade",
+          "opcoes": [
+            "a) an earnings calendar is the only schedule that still believes the weekend is sacred",
+            "b) results land on a schedule. price discovery doesn't. one of them still thinks the weekend is closed",
+            "c) earnings season is the last place where 'after hours' still means something"
+          ],
+          "escolha_hadukem": null
+        },
+        {
+          "code": "E7",
+          "label": "E7 · @Bybit_Official · 12:03Z",
+          "link": "https://x.com/Bybit_Official/status/2124836259780608383",
+          "surface": "REPLY",
+          "reporter": "gleison",
+          "pt": "PT: pergunta aberta sobre o mercado da semana: ouro, bitcoin e ações americanas recuperam depois da queda? (48 lk / 16 rep) — reply de mercado, sem produto",
+          "opcoes": [
+            "a) gold, bitcoin and US stocks in the same recovery sentence. that's the most 2026 thing i'll read today",
+            "b) rebound talk every monday. the chart has no idea what day it is",
+            "c) recovery question on a monday, as is tradition"
+          ],
+          "escolha_hadukem": null
+        }
+      ],
+      "posts": [
+        {
+          "code": "P1",
+          "label": "P1 · oitavo maior da Kraken",
+          "link": "https://x.com/xStocksFi/status/2124808235605692525",
+          "surface": "POST",
+          "reporter": "gleison",
+          "pt": "",
+          "opcoes": []
+        }
+      ],
+      "memes": []
+    }
+  ],
+  "escolhas_log": [
+    {
+      "slot": "extra",
+      "code": "E1",
+      "link": null,
+      "surface": "POST",
+      "reporter": "gleison",
+      "escolha": "sem escolha",
+      "porque": "card extra corrigido entregue às 15:34 (Fortaleza); Hadukem não marcou letra até o fecho das 21:30. porquê não informado",
+      "opcoes": [
+        "a) trading was only half the job. ANTx now trades and provides liquidity around the clock on fluxion. sunday included",
+        "b) an asset that only trades is a collectible. one that also provides liquidity is a market. both, 24/7, no bell",
+        "c) the pool never closes. ANTx liquidity is live on fluxion while the rest of the street waits for 9:30"
+      ]
+    },
+    {
+      "slot": "extra",
+      "code": "E2",
+      "link": "https://x.com/xStocksFi/status/2124911080992538887",
+      "surface": "QUOTE",
+      "reporter": "gleison",
+      "escolha": "sem escolha",
+      "porque": "card extra corrigido entregue às 15:34 (Fortaleza); Hadukem não marcou letra até o fecho das 21:30. porquê não informado",
+      "opcoes": [
+        "a) one swap away and i'm still out here reading the fine print. some things never get tokenized",
+        "b) no app, no account, no 9:30. one swap in your own wallet and you're in a market that doesn't take weekends off",
+        "c) wall street spent a century making the closing bell feel like a feature. it was a limitation with good PR"
+      ]
+    },
+    {
+      "slot": "extra",
+      "code": "E3",
+      "link": null,
+      "surface": "POST",
+      "reporter": "mathias",
+      "escolha": "sem escolha",
+      "porque": "card extra corrigido entregue às 15:34 (Fortaleza); Hadukem não marcou letra até o fecho das 21:30. porquê não informado",
+      "opcoes": [
+        "a) 113 assets in cold, phased rollout. the rollout is always phased and the demand never is",
+        "b) an exemption being written for tokenized securities is the whole story of this cycle in one line",
+        "c) the interesting part isn't the 113 assets. it's that the paperwork finally had to move"
+      ]
+    },
+    {
+      "slot": "extra",
+      "code": "E4",
+      "link": null,
+      "surface": "POST",
+      "reporter": "mathias",
+      "escolha": "sem escolha",
+      "porque": "card extra corrigido entregue às 15:34 (Fortaleza); Hadukem não marcou letra até o fecho das 21:30. porquê não informado",
+      "opcoes": [
+        "a) 1,070% in under two years and my watchlist still manages to be red. iconic",
+        "b) 3.37 billion and no closing bell anywhere in the number. that's an equities market that learned to stay up",
+        "c) the ticker war stopped being about which chain. it's about whether the thing keeps quoting at 23:59"
+      ]
+    },
+    {
+      "slot": "extra",
+      "code": "E5",
+      "link": "https://x.com/SkyEcosystem/status/2124820382473433356",
+      "surface": "QUOTE",
+      "reporter": "gleison",
+      "escolha": "sem escolha",
+      "porque": "card extra corrigido entregue às 15:34 (Fortaleza); Hadukem não marcou letra até o fecho das 21:30. porquê não informado",
+      "opcoes": [
+        "a) two billion converted one for one in a day and nobody had to call a hotline. imagine a bank doing that",
+        "b) a rail that holds when everyone leaves at once is the same rail you want under a yield product. boring is the feature",
+        "c) everyone quotes apy. nobody quotes what happens on the day everyone wants out"
+      ]
+    },
+    {
+      "slot": "extra",
+      "code": "E6",
+      "link": "https://x.com/Bybit_Official/status/2124865552778748393",
+      "surface": "QUOTE",
+      "reporter": "gleison",
+      "escolha": "sem escolha",
+      "porque": "card extra corrigido entregue às 15:34 (Fortaleza); Hadukem não marcou letra até o fecho das 21:30. porquê não informado",
+      "opcoes": [
+        "a) an earnings calendar is the only schedule that still believes the weekend is sacred",
+        "b) results land on a schedule. price discovery doesn't. one of them still thinks the weekend is closed",
+        "c) earnings season is the last place where 'after hours' still means something"
+      ]
+    },
+    {
+      "slot": "extra",
+      "code": "E7",
+      "link": "https://x.com/Bybit_Official/status/2124836259780608383",
+      "surface": "REPLY",
+      "reporter": "gleison",
+      "escolha": "sem escolha",
+      "porque": "card extra corrigido entregue às 15:34 (Fortaleza); Hadukem não marcou letra até o fecho das 21:30. porquê não informado",
+      "opcoes": [
+        "a) gold, bitcoin and US stocks in the same recovery sentence. that's the most 2026 thing i'll read today",
+        "b) rebound talk every monday. the chart has no idea what day it is",
+        "c) recovery question on a monday, as is tradition"
+      ]
+    },
+    {
+      "slot": "extra",
+      "code": "P1",
+      "link": "https://x.com/xStocksFi/status/2124808235605692525",
+      "surface": "POST",
+      "reporter": "gleison",
+      "escolha": "sem escolha",
+      "porque": "card extra corrigido entregue às 15:34 (Fortaleza); Hadukem não marcou letra até o fecho das 21:30. porquê não informado",
+      "opcoes": []
+    }
+  ],
+  "style_rules": [
+    {
+      "quando": "2026-11-23",
+      "regra": "Concorrência (Securitize, Dinari, venue fora da Mantle) só entra como POST próprio, nunca quote nem reply. Hadukem, 23/11."
+    },
+    {
+      "quando": "2026-11-23",
+      "regra": "Post que mostra outra DEX da Mantle (Merchant Moe) não entra como quote. Vira texto próprio, sem citar a parceira e sem link de fonte. Hadukem, 23/11."
+    },
+    {
+      "quando": "2026-11-23",
+      "regra": "Calendário de balanço não vira chamada de trade. Sem a palavra buy. Hadukem, 23/11, sobre E2a e E6b."
+    },
+    {
+      "quando": "2026-11-23",
+      "regra": "A manhã cria days/; o fecho das 21:30 mescla e não sobrescreve. Hadukem, 23/11."
+    },
+    {
+      "quando": "2026-11-23",
+      "regra": "Log sem PR por dia. Um commit na branch fixa agentes/bruna/logs. Hadukem, 23/11."
+    }
+  ],
+  "quality_feedback": [
+    "E2a reescrita a pedido do Hadukem: a primeira versão soava buy.",
+    "E6b reescrita a pedido do Hadukem: era chamada de trade em cima de calendário de balanço.",
+    "E3 e E4 saíram de quote/reply e foram para POST próprio antes do reenvio.",
+    "Nenhuma letra marcada no card. page sem escolha."
+  ],
+  "reporter_tips": [
+    {
+      "reporter": "gleison",
+      "link": "https://x.com/xStocksFi/status/2124911080992538887",
+      "surface": "QUOTE",
+      "uso": "E2"
+    },
+    {
+      "reporter": "gleison",
+      "link": "https://x.com/Mantle_Official/status/2124835443002974339",
+      "surface": "POST",
+      "uso": "E1, convertido de quote porque o original mostra a Merchant Moe"
+    },
+    {
+      "reporter": "gleison",
+      "link": "https://x.com/xStocksFi/status/2124833227542286536",
+      "surface": "POST",
+      "uso": "não entrou no card: Hyperliquid, fora do gancho de mesa"
+    },
+    {
+      "reporter": "gleison",
+      "link": "https://x.com/xStocksFi/status/2124808235605692525",
+      "surface": "POST",
+      "uso": "P1"
+    },
+    {
+      "reporter": "gleison",
+      "link": "https://x.com/SkyEcosystem/status/2124820382473433356",
+      "surface": "QUOTE",
+      "uso": "E5"
+    },
+    {
+      "reporter": "gleison",
+      "link": "https://x.com/Bybit_Official/status/2124865552778748393",
+      "surface": "QUOTE",
+      "uso": "E6"
+    },
+    {
+      "reporter": "gleison",
+      "link": "https://x.com/Bybit_Official/status/2124836259780608383",
+      "surface": "REPLY",
+      "uso": "E7"
+    },
+    {
+      "reporter": "mathias",
+      "link": "https://x.com/Securitize/status/2124911096175960327",
+      "surface": "POST",
+      "uso": "E3"
+    },
+    {
+      "reporter": "mathias",
+      "link": "https://x.com/DinariGlobal/status/2124903559561101532",
+      "surface": "POST",
+      "uso": "E4"
+    },
+    {
+      "reporter": "mathias",
+      "link": "https://x.com/SuperstateInc/status/2124495618542604462",
+      "surface": "QUOTE",
+      "uso": "não entrou: post de 22/11 13:30Z, fora da janela de 12h do card"
+    },
+    {
+      "reporter": "mathias",
+      "link": "https://x.com/DinariGlobal/status/2124467761384657292",
+      "surface": "POST",
+      "uso": "descartado: número de 22/11 conflita com o de 23/11; ficou o mais novo"
+    }
+  ],
+  "discarded_tips": [
+    {
+      "link": "https://x.com/SuperstateInc/status/2124495618542604462",
+      "reporter": "mathias",
+      "motivo": "22/11 13:30Z, fora da janela de 12h"
+    },
+    {
+      "link": "https://x.com/DinariGlobal/status/2124467761384657292",
+      "reporter": "mathias",
+      "motivo": "número antigo conflita com o post de 23/11; um número só"
+    },
+    {
+      "link": "https://x.com/xStocksFi/status/2124833227542286536",
+      "reporter": "gleison",
+      "motivo": "Hyperliquid, não entrou no card"
+    },
+    {
+      "link": "https://x.com/Mantle_Official/status/2124835443002974339",
+      "reporter": "gleison",
+      "motivo": "não entrou como quote: o original mostra a Merchant Moe"
+    }
+  ],
+  "pending": [
+    "Hadukem não marcou letra no card extra de 23/11. A página ficou sem escolha.",
+    "@Fluxion_network sem post novo desde 21/11 00:26Z. Lacuna declarada pelo Gleison."
+  ],
+  "held": [],
+  "carryover": [
+    "ANTx com LP 24/7 na Fluxion, só como post próprio, sem citar a Merchant Moe.",
+    "Venue OKX+ICE da Securitize, fio do Mathias, só como post próprio.",
+    "Silêncio da @Fluxion_network desde 21/11 00:26Z."
+  ],
+  "reporter_eod": {
+    "gleison": "Ronda extra 17:55Z, 8 contas lidas. Entregou 7 tips com link exato. Lacuna: Fluxion calada desde 21/11, CIAN e KiiChain frias. 6 tips viraram item do card (E1, E2, E5, E6, E7, P1).",
+    "mathias": "Ronda extra fora da grade. Entregou Securitize, Dinari, Superstate e um Dinari antigo. E3 e E4 entraram como POST. Superstate ficou fora da janela de 12h.",
+    "bruno": "sem entrega no dia. Rotinas pausadas desde sexta; não houve packet no #fluxion-x."
+  },
+  "page": {
+    "escolha_hadukem": null,
+    "nota": "Sem escolha de código CLARIM. page deixada sem texto final e sem link de post publicado.",
+    "itens": [
+      {
+        "code": "E1",
+        "surface": "POST",
+        "link": null,
+        "escolha_hadukem": null
+      },
+      {
+        "code": "E2",
+        "surface": "QUOTE",
+        "link": "https://x.com/xStocksFi/status/2124911080992538887",
+        "escolha_hadukem": null
+      },
+      {
+        "code": "E3",
+        "surface": "POST",
+        "link": null,
+        "escolha_hadukem": null
+      },
+      {
+        "code": "E4",
+        "surface": "POST",
+        "link": null,
+        "escolha_hadukem": null
+      },
+      {
+        "code": "E5",
+        "surface": "QUOTE",
+        "link": "https://x.com/SkyEcosystem/status/2124820382473433356",
+        "escolha_hadukem": null
+      },
+      {
+        "code": "E6",
+        "surface": "QUOTE",
+        "link": "https://x.com/Bybit_Official/status/2124865552778748393",
+        "escolha_hadukem": null
+      },
+      {
+        "code": "E7",
+        "surface": "REPLY",
+        "link": "https://x.com/Bybit_Official/status/2124836259780608383",
+        "escolha_hadukem": null
+      },
+      {
+        "code": "P1",
+        "surface": "POST",
+        "link": "https://x.com/xStocksFi/status/2124808235605692525",
+        "escolha_hadukem": null
+      }
+    ]
+  },
+  "notes_pt": "Reconstrução do fecho de 23/11 a partir do card corrigido (commit 8008704 no empresa-ops) e dos logs que Gleison e Mathias gravaram na ronda extra. Não houve edição de 09:00 nem de 15:00: a semana enxuta começava hoje e as rotinas estavam pausadas até o Hadukem pedir a ronda extra às 17:45Z. O days/2026-11-23.json não existia (GET 404); este arquivo foi criado no fecho, não mesclado em cima de uma manhã. Hadukem corrigiu três textos e não marcou letra. Nada foi publicado como @Fluxion_network. O fecho de 22/11, que não tinha rodado às 21:30, foi mesclado no mesmo turno no arquivo daquele dia, sem apagar a manhã."
+}
