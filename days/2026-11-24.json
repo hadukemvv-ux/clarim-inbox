@@ -187,12 +187,19 @@
     {
       "quando": "2026-11-24",
       "regra": "Card único do dia. QUOTE padrão. 0 reply marcado, teto 2 no dia. No máximo 2 itens do mesmo assunto."
+    },
+    {
+      "quando": "2026-11-24",
+      "regra": "APR de tres digitos: se o tip virar copy, o aviso vai sempre junto e o texto nao leva numero de APR (Hadukem, 24/11 12:42Z)."
     }
   ],
   "quality_feedback": [
     "Lacuna: packets de 24/11 não estavam na pasta local. Varredura própria. Origem não confirmada.",
     "TheBlock__ e Superstate seguiram sem resposta no xread.",
-    "@Fluxion_network sem post na janela de 24h."
+    "@Fluxion_network sem post na janela de 24h.",
+    "Hadukem confirmou as 12:42Z que o card das 09:00 chegou selecionavel. O campo entregue_modal do editions ficou false; editions preservado, correcao registrada aqui.",
+    "Gleison abriu PR #304 (log por dia). O push dele na branch agentes/bruna/logs foi recusado (not your branch) e o log foi para agentes/gleison/logs, commit 12be8c6. A rotina dele precisa de branch fixa propria, sem PR por dia.",
+    "Packet do NVDAx com APR de tres digitos: Hadukem pediu aviso obrigatorio e nenhum numero de APR na copy."
   ],
   "reporter_tips": [],
   "discarded_tips": [
@@ -234,10 +241,11 @@
     }
   ],
   "pending": [
-    "Hadukem ainda não marcou letra no card de 24/11.",
-    "@Fluxion_network sem post novo na janela.",
-    "TheBlock__ e Superstate vazios de novo no xread.",
-    "Packets de 24/11 não lidos: pasta local para em 21/11."
+    "Card de 24/11 sem letra do Hadukem no fecho, page segue sem escolha.",
+    "Fluxion_network sem post novo desde 21/11 00:26Z; silencio nao se conclui por raspagem.",
+    "TheBlock__ e Superstate vazios no xread de novo.",
+    "Rotina do Gleison: trocar PR por dia por branch fixa propria (push cross-agent na agentes/bruna/logs e recusado).",
+    "PR #304 do Gleison (log 24/11) segue aberto; fechar junto com a troca de rotina."
   ],
   "held": [],
   "carryover": [
@@ -245,7 +253,10 @@
     "Venue OKX+ICE só como post próprio. Não reciclado: já esteve no card de 23/11."
   ],
   "reporter_eod": {
-    "nota": "Manhã de 24/11, antes do fecho. Sem packet novo dos três."
+    "gleison": "2 rondas (09:00 e 15:00), 6 tips. 09:00: Mantle (Josh Cheong, liquidez dos tokenized stocks segue sem solucao), xStocks NVDAx US$36M de volume na Raydium em 24h contra US$7M do emissor mais proximo, NVDAx top da Raydium com APR de tres digitos (sem numero, com aviso). 15:00: Mantle (Josh Cheong, escala/armazem e efeito de rede), xStocks 46% dos depositos de tokenized stock em DeFi (novo ATH, era 41%), xStocks ~90% do volume e 97% dos trades de tokenized equity em Solana e Ethereum via Metric. Lacuna declarada: Fluxion_network sem post desde 21/11 00:26Z (silencio nao se conclui por raspagem); Bybit 0 na varredura das 09:00.",
+    "bruno": "Sem entrega no dia, desligado na semana enxuta (23/11 a 30/11).",
+    "mathias": "Sem entrega no dia. Na semana enxuta so roda o Weekend Resume de segunda; hoje e terca.",
+    "nota": "Nenhum dos tres abre PR por dia. O consolidado dos logs do dia vai num commit unico na branch fixa agentes/bruna/logs."
   },
   "page": {
     "escolha_hadukem": null,
@@ -324,5 +335,5 @@
       }
     ]
   },
-  "notes_pt": "Semana enxuta, card único. 0 reply. P1 é POST porque o post da xStocks mostra a Uniswap."
+  "notes_pt": "Fecho de 24/11 mesclado sobre o card da manha: editions, escolhas_log e page intocados. Nenhuma letra marcada pelo Hadukem hoje, entao a pagina segue sem escolha. Atribuicao: E1 tem o mesmo link do TIP 1 da ronda 09:00 do Gleison, mas o card saiu as 09:10 e o packet as 09:19, entao reporter segue origem nao confirmada nos quatro itens; E2, E3 e E4 nao vieram de packet nenhum, sao da varredura propria. Reporteres: Gleison entregou 2 rondas (6 tips), Bruno desligado na semana enxuta, Mathias so Weekend Resume de segunda, sem entrega hoje. Regra nova de estilo: APR sem numero e sempre com aviso. Reconstrucao: nada foi reescrito; so acrescentei reporter_eod, style_rules, quality_feedback, pending e esta nota."
 }
