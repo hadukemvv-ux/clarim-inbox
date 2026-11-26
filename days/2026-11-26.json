@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-26",
+  "editions": [],
+  "escolhas_log": [],
+  "style_rules": [],
+  "quality_feedback": [],
+  "reporter_tips": [],
+  "discarded_tips": [],
+  "pending": [
+    "Dia sem card: nenhum item de 26/11 foi oferecido ao Hadukem, entao nao ha escolha a esperar.",
+    "Causa a apurar: a rotina do card (09:20) sem run em 26/11 e as duas rondas do Gleison (09:00 e 15:00) sem packet no #fluxion-x."
+  ],
+  "held": [],
+  "carryover": [],
+  "reporter_eod": {
+    "gleison": "sem entrega no dia: nenhum packet no #fluxion-x em 26/11 (ultimo em 25/11 18:02Z, ronda 15:00)",
+    "bruno": "desligado na semana enxuta 23-30/11 (Hadukem, 23/11); nada era esperado",
+    "mathias": "sem entrega no dia: na semana enxuta so o Weekend Resume de segunda 08:00 esta ativo, e 26/11 e quarta"
+  },
+  "page": null,
+  "notes_pt": "Reconstrucao do dia 26/11: nao houve card nem edicao. Este arquivo foi criado no fecho das 21:30 (deu 404 na origem ate entao) e registra o dia vazio com a causa, sem inventar item, escolha ou numero. Ficou de fora todo tip de 26/11 (nao existiu) e a escolha de letra do Hadukem (nao houve card). page ficou null porque ele nao escolheu codigo CLARIM no dia. Carregado para amanha: conferir o run do card das 09:20 e a ronda do Gleison das 09:00."
+}
