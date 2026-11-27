@@ -1,22 +1,101 @@
 {
   "date": "2026-11-26",
-  "editions": [],
-  "escolhas_log": [],
-  "style_rules": [],
-  "quality_feedback": [],
-  "reporter_tips": [],
+  "editions": [
+    {
+      "slot": "noite",
+      "versao": 2,
+      "card": "clarim/cards/2026-11-26-noite-v2.json (branch agentes/bruna/logs)",
+      "itens": [
+        "E3 POST produto próprio",
+        "E4 POST produto próprio",
+        "E5 MEME",
+        "E6 MEME novo",
+        "E7 POST produto próprio novo"
+      ],
+      "nota": "v1 foi emitido na noite de 25/11 (22:10 de Fortaleza) para o slot de 26/11, com quotes E1 e E2 de 25/11 fora da janela de 12h. v2 saiu em 26/11 às 09:59 de Fortaleza, a pedido do Hadukem (12:57Z): bloco VISUAL em cada item, 1 meme e 1 post próprio. Sem varredura de X: sem login no browser e espelhos bloqueados."
+    }
+  ],
+  "escolhas_log": [
+    {
+      "reporter": "não se aplica (Estúdio Fluxion)",
+      "surface": "não se aplica",
+      "escolha": "Storyboard do night shift (6 quadros) aprovado",
+      "porque": "porquê não informado"
+    },
+    {
+      "reporter": "não se aplica (Estúdio Fluxion)",
+      "surface": "não se aplica",
+      "escolha": "Copy do night shift sem 'trade': night shift. the city sleeps. the ANTx pool doesn't. provide liquidity on Fluxion, 24/7. app.fluxion.network",
+      "porque": "porquê não informado"
+    },
+    {
+      "reporter": "não se aplica (Estúdio Fluxion)",
+      "surface": "não se aplica",
+      "escolha": "Quadro 2 (tela de swap) com o texto 'antx on fluxion.'",
+      "porque": "porquê não informado"
+    }
+  ],
+  "style_rules": [
+    "Cada item do card ganha bloco VISUAL (formato, ideia em 1 linha, quem faz). Pelo menos metade do card tem visual, e há 1 post próprio e 1 meme por card, fora os quotes (Hadukem, 26/11 12:57Z).",
+    "Não repetir o esqueleto 'market closes / 24/7 / liquidity' (Hadukem, 26/11 11:06Z).",
+    "Regras de marca valendo: sem buy, preço, previsão nem outra DEX; concorrente só como ideia de post (Hadukem, 26/11 12:57Z)."
+  ],
+  "quality_feedback": [
+    "Hadukem (26/11 11:06Z): o fecho de 25/11 saiu com data UTC e registrou 'sem entrega' por engano. Gleison tinha entregado as rondas de 09:00 e 15:00 de 25/11. Corrigido aqui e em days/2026-11-25.json.",
+    "Hadukem (26/11 12:57Z): card só com texto tem cara de IA."
+  ],
+  "reporter_tips": [
+    {
+      "code": "E3",
+      "reporter": "não se aplica (post próprio, sem packet)",
+      "surface": "POST",
+      "formato": "imagem estática",
+      "escolhida": false
+    },
+    {
+      "code": "E4",
+      "reporter": "não se aplica (post próprio, sem packet)",
+      "surface": "POST",
+      "formato": "imagem estática",
+      "escolhida": false
+    },
+    {
+      "code": "E5",
+      "reporter": "não se aplica (meme, sem packet)",
+      "surface": "POST",
+      "formato": "meme",
+      "escolhida": false
+    },
+    {
+      "code": "E6",
+      "reporter": "não se aplica (meme, sem packet)",
+      "surface": "POST",
+      "formato": "meme",
+      "escolhida": false
+    },
+    {
+      "code": "E7",
+      "reporter": "não se aplica (post próprio, sem packet)",
+      "surface": "POST",
+      "formato": "imagem estática",
+      "escolhida": false
+    }
+  ],
   "discarded_tips": [],
   "pending": [
-    "Dia sem card: nenhum item de 26/11 foi oferecido ao Hadukem, entao nao ha escolha a esperar.",
-    "Causa a apurar: a rotina do card (09:20) sem run em 26/11 e as duas rondas do Gleison (09:00 e 15:00) sem packet no #fluxion-x."
+    "Imagem e loop do night shift (ANTx, q120) em espera: o Estúdio ainda está mudando. Sem aprovação nem recusa até o master 16:9 sair.",
+    "Auditoria das instruções pedida pelo Hadukem às 15:58Z e pergunta das 16:08Z sobre a wiki 'Regras — Fluxion X': sem resposta registrada nas mensagens lidas neste fecho.",
+    "Card da manhã de 26/11 não aparece na branch de logs: só o da noite."
   ],
   "held": [],
-  "carryover": [],
+  "carryover": [
+    "Card da noite v2 sem escolha do Hadukem. Se ele escolher um código CLARIM, preencher page com a escolha no próximo fecho."
+  ],
   "reporter_eod": {
-    "gleison": "sem entrega no dia: nenhum packet no #fluxion-x em 26/11 (ultimo em 25/11 18:02Z, ronda 15:00)",
-    "bruno": "desligado na semana enxuta 23-30/11 (Hadukem, 23/11); nada era esperado",
-    "mathias": "sem entrega no dia: na semana enxuta so o Weekend Resume de segunda 08:00 esta ativo, e 26/11 e quarta"
+    "gleison": "entregou duas rondas: 09:00 com 3 packets (Mantle MIP-36 aprovado com 110% de quórum; xStocks Multiply até 4x; Bybit com Derek Dai em Abu Dhabi, 3 a 4/12) e 15:00 com 3 packets (Mantle sobre spread e RedStone; Grove Seeds; Mantle Thanksgiving). Lacunas declaradas: Fluxion sem post de texto desde 21/11, Sky desde 23/11, Grove só campanha de bônus; KiiChain com handle errado no SOP. Log na branch agentes/gleison/logs, sem PR.",
+    "bruno": "sem entrega no dia: desligado na semana enxuta 23-30/11 (Hadukem, 23/11); nada era esperado.",
+    "mathias": "sem entrega no dia: na semana enxuta só o Weekend Resume de segunda 08:00 está ativo, e 26/11 é quarta."
   },
   "page": null,
-  "notes_pt": "Reconstrucao do dia 26/11: nao houve card nem edicao. Este arquivo foi criado no fecho das 21:30 (deu 404 na origem ate entao) e registra o dia vazio com a causa, sem inventar item, escolha ou numero. Ficou de fora todo tip de 26/11 (nao existiu) e a escolha de letra do Hadukem (nao houve card). page ficou null porque ele nao escolheu codigo CLARIM no dia. Carregado para amanha: conferir o run do card das 09:20 e a ronda do Gleison das 09:00."
+  "notes_pt": "Reconstrução do dia 26/11 com base no #fluxion-x, nos cards da branch de logs e nas mensagens do Hadukem. Corrige o registro anterior, que dizia 'sem card e sem entrega' por causa da data UTC. As escolhas do Hadukem sobre o Estúdio (storyboard, copy, quadro 2) entraram em escolhas_log sem porquê, porque ele não deu motivo. Nenhum código CLARIM foi escolhido: page segue null. O card da manhã de 26/11 não está na branch e não foi reconstruído."
 }
