@@ -1,139 +1,141 @@
 {
- "date": "2026-11-25",
- "editions": [
-  {
-   "slot": "manha",
-   "hora_local": "09:20",
-   "hora_utc": "12:20Z",
-   "janela": "2026-11-24 12:20Z → 2026-11-25 12:20Z",
-   "fonte_scan": "Ronda 09:00 do Gleison (1 tip fresco: @Mantle_Official 2125560505683370279) + material da ronda das 15:00 de 24/11 que nao entrou no card de ontem. Bruno e Mathias pausados na semana enxuta (23-30/11). xStocks sem post de texto desde 24/11 17:34Z, Sky desde 23/11 11:00Z, @Fluxion_network desde 21/11 00:26Z, CIAN nao resolveu na raspagem; Bybit so WSOT e sorteio.",
-   "entregue_modal": true,
-   "replies_no_dia": 0,
-   "slots": "09:40 E1 / 10:10 E2 / 10:40 E3 / 11:10 E4 (minimo 30 min entre slots, Hadukem 25/11)",
-   "oportunidades": [
+  "date": "2026-11-25",
+  "editions": [
     {
-     "code": "E1",
-     "link": "https://x.com/Mantle_Official/status/2125560505683370279",
-     "surface": "QUOTE",
-     "slot_sugerido": "09:40",
-     "idade": "fresco (25/11)",
-     "opcoes": [
-      "a) every conference ends with someone saying we're just at the start. the calendar agrees, the market doesn't",
-      "b) the start is the easy slide. the hard part is a venue that stays open after the room goes home — on mantle that part already runs, weekends included",
-      "c) tokenization doesn't need more assets. it needs a place where they actually turn over"
-     ]
-    },
-    {
-     "code": "E2",
-     "link": "https://x.com/xStocksFi/status/2125212852193485152",
-     "surface": "QUOTE",
-     "slot_sugerido": "10:10",
-     "idade": "24/11 ~19h",
-     "opcoes": [
-      "a) 46% of the market and my group chat still asks if it's the same as a share. yes grandma",
-      "b) share of deposits is the scoreboard nobody screenshots. it moves when the market behind the token holds up — liquidity and execution, not the launch tweet",
-      "c) a number like this is what 'just at the start' looks like when someone counted instead of talked"
-     ]
-    },
-    {
-     "code": "E3",
-     "link": "https://x.com/xStocksFi/status/2125281888671867210",
-     "surface": "POST",
-     "slot_sugerido": "10:40",
-     "idade": "24/11 ~17h",
-     "nota": "Post proprio, sem link e sem marcar o perfil: segundo item do mesmo perfil no dia nao vira quote.",
-     "opcoes": [
-      "a) 90% of tokenized equity volume through one venue. that's not decentralization, that's a hallway with a bouncer",
-      "b) a listing is not a market. when all the flow gathers in one place you can finally see what the market really is: plumbing",
-      "c) 97% of the trades, 90% of the volume, one venue. liquidity is a place, not a promise"
-     ]
-    },
-    {
-     "code": "E4",
-     "link": "https://x.com/Mantle_Official/status/2125228258392449089",
-     "surface": "QUOTE",
-     "slot_sugerido": "11:10",
-     "idade": "24/11 ~15h",
-     "opcoes": [
-      "a) a warehouse full of everything and one cashier. i've seen this movie",
-      "b) the warehouse only pays for itself if the stock turns over. that's the part we've been building: a venue where it turns, every day",
-      "c) network effects are just other people's liquidity with better branding"
-     ]
+      "slot": "manha",
+      "hora_local": "09:20",
+      "hora_utc": "12:20Z",
+      "janela": "2026-11-24 12:20Z → 2026-11-25 12:20Z",
+      "fonte_scan": "Ronda 09:00 do Gleison (1 tip fresco: @Mantle_Official 2125560505683370279) + material da ronda das 15:00 de 24/11 que nao entrou no card de ontem. Bruno e Mathias pausados na semana enxuta (23-30/11). xStocks sem post de texto desde 24/11 17:34Z, Sky desde 23/11 11:00Z, @Fluxion_network desde 21/11 00:26Z, CIAN nao resolveu na raspagem; Bybit so WSOT e sorteio.",
+      "entregue_modal": true,
+      "replies_no_dia": 0,
+      "slots": "09:40 E1 / 10:10 E2 / 10:40 E3 / 11:10 E4 (minimo 30 min entre slots, Hadukem 25/11)",
+      "oportunidades": [
+        {
+          "code": "E1",
+          "link": "https://x.com/Mantle_Official/status/2125560505683370279",
+          "surface": "QUOTE",
+          "slot_sugerido": "09:40",
+          "idade": "fresco (25/11)",
+          "opcoes": [
+            "a) every conference ends with someone saying we're just at the start. the calendar agrees, the market doesn't",
+            "b) the start is the easy slide. the hard part is a venue that stays open after the room goes home — on mantle that part already runs, weekends included",
+            "c) tokenization doesn't need more assets. it needs a place where they actually turn over"
+          ]
+        },
+        {
+          "code": "E2",
+          "link": "https://x.com/xStocksFi/status/2125212852193485152",
+          "surface": "QUOTE",
+          "slot_sugerido": "10:10",
+          "idade": "24/11 ~19h",
+          "opcoes": [
+            "a) 46% of the market and my group chat still asks if it's the same as a share. yes grandma",
+            "b) share of deposits is the scoreboard nobody screenshots. it moves when the market behind the token holds up — liquidity and execution, not the launch tweet",
+            "c) a number like this is what 'just at the start' looks like when someone counted instead of talked"
+          ]
+        },
+        {
+          "code": "E3",
+          "link": "https://x.com/xStocksFi/status/2125281888671867210",
+          "surface": "POST",
+          "slot_sugerido": "10:40",
+          "idade": "24/11 ~17h",
+          "nota": "Post proprio, sem link e sem marcar o perfil: segundo item do mesmo perfil no dia nao vira quote.",
+          "opcoes": [
+            "a) 90% of tokenized equity volume through one venue. that's not decentralization, that's a hallway with a bouncer",
+            "b) a listing is not a market. when all the flow gathers in one place you can finally see what the market really is: plumbing",
+            "c) 97% of the trades, 90% of the volume, one venue. liquidity is a place, not a promise"
+          ]
+        },
+        {
+          "code": "E4",
+          "link": "https://x.com/Mantle_Official/status/2125228258392449089",
+          "surface": "QUOTE",
+          "slot_sugerido": "11:10",
+          "idade": "24/11 ~15h",
+          "opcoes": [
+            "a) a warehouse full of everything and one cashier. i've seen this movie",
+            "b) the warehouse only pays for itself if the stock turns over. that's the part we've been building: a venue where it turns, every day",
+            "c) network effects are just other people's liquidity with better branding"
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "code": "P1",
+          "surface": "POST",
+          "tema": "o sino nao toca",
+          "texto": "it's tuesday. the market's open, the coffee's cold, nobody rang a bell",
+          "alt": [
+            "the stock market closes. onchain doesn't. that's the whole pitch and it fits in one line",
+            "some people wait for 9:30. some people just never noticed the bell stopped mattering"
+          ]
+        },
+        {
+          "code": "P2",
+          "surface": "POST",
+          "tema": "Atomic RFQ / tamanho",
+          "texto": "you don't always need a deeper book. sometimes you need the fill to come to you",
+          "alt": [
+            "size used to mean slippage. now it means someone else is on the other side, quietly",
+            "pools for the flow, rfq for the whales. two doors, one venue"
+          ]
+        },
+        {
+          "code": "P3",
+          "surface": "POST",
+          "tema": "Fluxion Earn sem alavancagem",
+          "texto": "yield without leverage is just boring plumbing. boring is the point",
+          "alt": [
+            "no loops, no 9x, no liquidation at 3am. earn was never supposed to be a thriller",
+            "we shipped earn the way we ship everything: onchain, no leverage, nobody's secret counterparty"
+          ],
+          "nota": "Sem numero de yield e sem promessa de retorno."
+        }
+      ],
+      "memes": [
+        {
+          "code": "M1",
+          "formato": "nobody: / me at 3am",
+          "caption": "nobody: / me at 3am remembering the market never closed",
+          "cena": "Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl on forehead, glowing visor with cyan LEDs) sitting up in bed at 3am, laptop glow on its face, blanket half off, one paw on the trackpad"
+        },
+        {
+          "code": "M2",
+          "formato": "this is fine",
+          "caption": "gas fees, base fees, the bell, the holidays. i'm fine",
+          "cena": "Fluxion mascot sitting calmly in a small room on fire, holding a mug, flame-tipped tail slightly singed, visor relaxed, nebula belly glowing"
+        }
+      ]
     }
-   ],
-   "posts": [
+  ],
+  "escolhas_log": [],
+  "style_rules": [],
+  "quality_feedback": [],
+  "reporter_tips": [
     {
-     "code": "P1",
-     "surface": "POST",
-     "tema": "o sino nao toca",
-     "texto": "it's tuesday. the market's open, the coffee's cold, nobody rang a bell",
-     "alt": [
-      "the stock market closes. onchain doesn't. that's the whole pitch and it fits in one line",
-      "some people wait for 9:30. some people just never noticed the bell stopped mattering"
-     ]
-    },
-    {
-     "code": "P2",
-     "surface": "POST",
-     "tema": "Atomic RFQ / tamanho",
-     "texto": "you don't always need a deeper book. sometimes you need the fill to come to you",
-     "alt": [
-      "size used to mean slippage. now it means someone else is on the other side, quietly",
-      "pools for the flow, rfq for the whales. two doors, one venue"
-     ]
-    },
-    {
-     "code": "P3",
-     "surface": "POST",
-     "tema": "Fluxion Earn sem alavancagem",
-     "texto": "yield without leverage is just boring plumbing. boring is the point",
-     "alt": [
-      "no loops, no 9x, no liquidation at 3am. earn was never supposed to be a thriller",
-      "we shipped earn the way we ship everything: onchain, no leverage, nobody's secret counterparty"
-     ],
-     "nota": "Sem numero de yield e sem promessa de retorno."
+      "reporter": "gleison",
+      "ronda": "09:00 25/11",
+      "link": "https://x.com/Mantle_Official/status/2125560505683370279",
+      "usado_em": "E1"
     }
-   ],
-   "memes": [
+  ],
+  "discarded_tips": [
     {
-     "code": "M1",
-     "formato": "nobody: / me at 3am",
-     "caption": "nobody: / me at 3am remembering the market never closed",
-     "cena": "Fluxion mascot (glossy black vinyl-toy cat, three spiky ears, white swirl on forehead, glowing visor with cyan LEDs) sitting up in bed at 3am, laptop glow on its face, blanket half off, one paw on the trackpad"
-    },
-    {
-     "code": "M2",
-     "formato": "this is fine",
-     "caption": "gas fees, base fees, the bell, the holidays. i'm fine",
-     "cena": "Fluxion mascot sitting calmly in a small room on fire, holding a mug, flame-tipped tail slightly singed, visor relaxed, nebula belly glowing"
+      "reporter": "gleison",
+      "link": "https://x.com/Bybit_Official",
+      "motivo": "so WSOT, palpite de leaderboard e sorteio: promo sem angulo Fluxion"
     }
-   ]
-  }
- ],
- "escolhas_log": [],
- "style_rules": [],
- "quality_feedback": [],
- "reporter_tips": [
-  {
-   "reporter": "gleison",
-   "ronda": "09:00 25/11",
-   "link": "https://x.com/Mantle_Official/status/2125560505683370279",
-   "usado_em": "E1"
-  }
- ],
- "discarded_tips": [
-  {
-   "reporter": "gleison",
-   "link": "https://x.com/Bybit_Official",
-   "motivo": "so WSOT, palpite de leaderboard e sorteio: promo sem angulo Fluxion"
-  }
- ],
- "pending": [
-  "Escolha de letra do Hadukem nos 4 itens e nos 3 posts (card de 25/11 entregue 09:20)."
- ],
- "held": [],
- "carryover": [],
- "reporter_eod": {},
- "page": null,
- "notes_pt": "Card unico do dia (semana enxuta 23-30/11): 4 oportunidades com slot espacado 09:40-11:10, 0 replies no dia, 3 ideias de post proprio e 2 memes. Itens E2-E4 vem de 24/11 e vao marcados com a idade porque a ronda das 09:00 trouxe so 1 tip fresco; lacuna declarada no card."
+  ],
+  "pending": [
+    "Escolha de letra do Hadukem nos 4 itens e nos 3 posts (card de 25/11 entregue 09:20)."
+  ],
+  "held": [],
+  "carryover": [],
+  "reporter_eod": {
+    "gleison": "Correção (26/11, 21:30): entregou as rondas de 09:00 e 15:00 de 25/11. A de 09:00 trouxe o tip E1 (Mantle 2125560505683370279, já em editions). A de 15:00 trouxe 2 tips (Mantle MIP-36 e Bybit, painel de liquidez em 3/12) e declarou lacuna: xStocks, Sky, Fluxion e Grove sem post de texto novo."
+  },
+  "page": null,
+  "notes_pt": "Card unico do dia (semana enxuta 23-30/11): 4 oportunidades com slot espacado 09:40-11:10, 0 replies no dia, 3 ideias de post proprio e 2 memes. Itens E2-E4 vem de 24/11 e vao marcados com a idade porque a ronda das 09:00 trouxe so 1 tip fresco; lacuna declarada no card. Correção do fecho de 26/11, 21:30: este arquivo é o dia 25/11. O fecho de 25/11 saiu às 21:32 de Fortaleza e foi gravado com a data UTC de 26/11. O conteúdo de 26/11 está em days/2026-11-26.json. Escolhas do Hadukem de 25/11 não aparecem no registro lido, então não foram acrescentadas."
 }
