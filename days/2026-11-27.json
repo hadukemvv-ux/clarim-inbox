@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-27",
+  "editions": [
+    {
+      "id": "manha-v3",
+      "file": "Shoriukem/empresa-ops clarim/cards/2026-11-27-manha-v3.json (commit b05cdd1, branch agentes/bruna/logs)",
+      "replaces": "manha-v2 (recusado: E1 'totalmente AI sloop')",
+      "items": [
+        {"id": "E1", "surface": "QUOTE", "reporter": "gleison", "url": "https://x.com/xStocksFi/status/2126300018349138226"},
+        {"id": "E2", "surface": "QUOTE", "reporter": "gleison", "url": "https://x.com/Mantle_Official/status/2126284942401556573"},
+        {"id": "E3", "surface": "POST", "reporter": "origem não confirmada", "url": null, "nota": "post próprio: NYSE fecha às 13:00 ET (fonte nyse.com)"},
+        {"id": "E4", "surface": "POST", "reporter": "origem não confirmada", "url": null, "nota": "meme próprio sobre os IPOs tokenizados"},
+        {"id": "E5", "surface": "REPLY", "reporter": "origem não confirmada", "url": "https://x.com/inno_sol/status/2125906648220737908"}
+      ]
+    },
+    {
+      "id": "comunidade",
+      "nota": "card COMUNIDADE em 2 cards clicáveis no DM (K1-K13 e K14-K25): 20 links colados pelo Hadukem às 16:39 + ronda 18:00 MANTLE VOICES do Gleison. Não há arquivo do card gravado em clarim/cards/.",
+      "items_reporter": {
+        "hadukem (links colados 16:39)": ["0xgilllee", "_Jiggi__", "AnnaVasileva22", "Lexioryn", "no0thernath", "0008luna", "kwonlumi", "0xMantleCN", "ZhanG_MemeCoin", "Myronhimself", "tradeguru", "0xzayd_", "Prof_Abdulsalam", "Mantle_Official", "OnlyReaderX_", "Crypto_Advis0r", "sam_crasy"],
+        "gleison (ronda 18:00)": ["bottrangg", "joshuacheong", "Mantle_Official", "DingBan47728", "0xMantleRU", "sozenburakk"]
+      },
+      "surface": "REPLY (com opções de QUOTE e meme por post)"
+    }
+  ],
+  "escolhas_log": [
+    {"escolha": "manhã v2 RECUSADO; refazer", "porque": "E1 'totalmente AI sloop' (palavras do Hadukem)", "reporter": "gleison", "surface": "QUOTE"},
+    {"escolha": "vídeo v4 ANTx night shift (Estúdio) RECUSADO, nota 1/10, refazer do zero", "porque": "\"muito mal feito. falta artes, falta concordância, falta cor, falta imagens, falta VIDA\" + fundo azul navy errado", "reporter": "origem não confirmada", "surface": "POST"},
+    {"escolha": "nenhum código CLARIM, nenhuma letra a/b/c registrada até o fecho", "porque": "porquê não informado", "reporter": "origem não confirmada", "surface": "QUOTE"}
+  ],
+  "style_rules": {
+    "cor_fluxion_2026-11-27": "Fluxion é preto, branco e metálico; nada de azul/navy; só o gato tem cor; destaque só #00FF93 e #0E362D (Mantle).",
+    "comunidade_card_2026-11-27": "COMUNIDADE sai sempre em card clicável próprio igual ao da manhã: link completo do tweet, Fato, ação, 3 replies em inglês (a seca, b humor, c insider), a/b/c/nenhuma + Porquê.",
+    "anti_dup_urls_2026-11-27": [
+      "https://x.com/xStocksFi/status/2126300018349138226",
+      "https://x.com/Mantle_Official/status/2126284942401556573",
+      "https://x.com/inno_sol/status/2125906648220737908",
+      "https://x.com/bottrangg/status/2126182846243160281",
+      "https://x.com/joshuacheong/status/2126301533910213038",
+      "https://x.com/DingBan47728/status/2125967069862560119"
+    ]
+  },
+  "quality_feedback": [
+    "Hadukem: manhã v2 'totalmente AI sloop' → v3 com 3 ângulos e VISUAL por item.",
+    "Hadukem sobre a ronda 18:00 do Gleison: 'ficou no nível certo', vira rotina fixa.",
+    "Hadukem sobre o v4 do Estúdio: nota 1 de 10."
+  ],
+  "reporter_tips": [
+    {"reporter": "gleison", "url": "https://x.com/Mantle_Official/status/2126284942401556573", "surface": "QUOTE", "uso": "E2 manhã v3"},
+    {"reporter": "gleison", "url": "https://x.com/xStocksFi/status/2126300018349138226", "surface": "QUOTE", "uso": "E1 manhã v3"},
+    {"reporter": "gleison", "url": "https://x.com/bottrangg/status/2126182846243160281", "surface": "REPLY", "uso": "card COMUNIDADE"},
+    {"reporter": "gleison", "url": "https://x.com/joshuacheong/status/2126301533910213038", "surface": "REPLY", "uso": "card COMUNIDADE"},
+    {"reporter": "gleison", "url": "https://x.com/DingBan47728/status/2125967069862560119", "surface": "REPLY", "uso": "card COMUNIDADE"}
+  ],
+  "discarded_tips": [
+    {"reporter": "gleison", "url": "https://x.com/Bybit_Official/status/2126152914217668896", "motivo": "TradFi Arena/WSOT sem fio de equity tokenizada para a Fluxion"}
+  ],
+  "pending": [
+    "Escolhas do Hadukem nos 2 cards COMUNIDADE (K1-K25), enviados pouco antes do fecho.",
+    "Estúdio: roteiro + Shot Bible v5 do Diretor, refeito do zero com a regra de cor."
+  ],
+  "held": [],
+  "carryover": [
+    "Card COMUNIDADE K1-K25 vale amanhã se o Hadukem não escolher hoje.",
+    "joshuacheong: ~US$ 21M de ANTx resgatados na 1ª semana, ainda não usado em QUOTE."
+  ],
+  "reporter_eod": {
+    "gleison": "Rondas 09:00 (atrasada, 2 packets), 15:00 (1 packet + lista de perfis) e 18:00 MANTLE VOICES com busca logada (6 itens). 12:00 sem packet. Lacunas: CIAN e KiiChain sem handle; push do log barrado e regravado em agentes/gleison/logs (fff6844).",
+    "bruno": "sem entrega no dia",
+    "mathias": "sem entrega no dia"
+  },
+  "page": null,
+  "notes_pt": "Arquivo criado no fecho das 21:30 (o card da manhã não gravou o days/ hoje). Edições: manhã v3 (refaz o v2 recusado) e card COMUNIDADE em 2 cards clicáveis. Decisões do Hadukem: recusou o v2 da manhã ('AI sloop') e o vídeo v4 do Estúdio (nota 1/10, com regra de cor nova). Nenhum código CLARIM nem letra a/b/c escolhida até o fecho, então page fica null. Atribuição de E3/E4/E5 é 'origem não confirmada' (post próprio, meme e reply sem packet de repórter). Bruno e Mathias sem entrega. Fora: os links do card COMUNIDADE não foram listados um a um porque o card não ficou gravado em arquivo."
+}
