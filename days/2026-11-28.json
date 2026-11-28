@@ -1,0 +1,130 @@
+{
+ "date": "2026-11-28",
+ "editions": [
+  {
+   "slot": "manha",
+   "status": "gravado; modal nao emitido nesta rodada; nada publicado, nada gasto",
+   "items": [
+    {
+     "code": "E1",
+     "surface": "QUOTE",
+     "slot_sugerido": "09:40",
+     "origem": "gleison",
+     "url": "https://x.com/joshuacheong/status/2126301533910213038",
+     "pt": "joshuacheong: resgates de ANTx na 1a semana (numero do post, ~US$ 21M segundo o packet; reconferir antes de citar)",
+     "a": "first week of redemptions and nobody had to wait for a bell.",
+     "b": "redemptions are the receipt. ANTx on Mantle settles when you do, not when a desk opens.",
+     "c": "the real test of a tokenized stock is the exit door. week one: door works."
+    },
+    {
+     "code": "P1",
+     "surface": "POST",
+     "slot_sugerido": "10:40",
+     "origem": "bruna (rascunho R1)",
+     "url": null,
+     "pt": "sabado: bolsas fechadas, xStocks seguem onchain (fato de produto, sem numero)",
+     "a": "the nyse took the weekend off. the pool didn't.",
+     "b": "saturday. stock market closed. your tokenized stocks didn't get the memo.",
+     "c": "markets closed, pools open. what are you reading up on this weekend?"
+    },
+    {
+     "code": "M1",
+     "surface": "POST (meme)",
+     "slot_sugerido": "11:40",
+     "origem": "bruna (E4 de 27/11, se nao saiu)",
+     "url": null,
+     "pt": "woman yelling at cat; monta @diretor-fluxion, preto/branco/metalico, so o gato com cor",
+     "a": "woman: 'markets are closed on saturday' / cat: 'whose markets?'",
+     "b": "woman: 'you can't trade stocks on a weekend' / cat: [sitting on mantle, unbothered]",
+     "c": "woman: 'the bell rings monday' / cat: 'bells are for boxing.'"
+    }
+   ]
+  }
+ ],
+ "escolhas_log": [
+  {
+   "code": "E1",
+   "origem": "gleison",
+   "slot_sugerido": "09:40",
+   "escolha": null,
+   "porque": null
+  },
+  {
+   "code": "P1",
+   "origem": "bruna (rascunho R1)",
+   "slot_sugerido": "10:40",
+   "escolha": null,
+   "porque": null
+  },
+  {
+   "code": "M1",
+   "origem": "bruna (E4 de 27/11, se nao saiu)",
+   "slot_sugerido": "11:40",
+   "escolha": null,
+   "porque": null
+  }
+ ],
+ "style_rules": {
+  "herdadas": "ver days/2026-11-27.json (cor Fluxion, card COMUNIDADE, anti_dup_urls)"
+ },
+ "quality_feedback": [],
+ "reporter_tips": [],
+ "discarded_tips": [
+  {
+   "url": "https://x.com/xStocksFi/status/2126300018349138226",
+   "why": "usado ontem (E1)"
+  },
+  {
+   "url": "https://x.com/Mantle_Official/status/2126284942401556573",
+   "why": "usado ontem (E2)"
+  },
+  {
+   "url": "https://x.com/Bybit_Official/status/2126152914217668896",
+   "why": "fora da janela 24h (33.1h) e competicao de trade"
+  },
+  {
+   "url": "https://x.com/DingBan47728/status/2125967069862560119",
+   "why": "fora da janela (45.4h)"
+  }
+ ],
+ "pending": [
+  "Escolhas do Hadukem nos cards COMUNIDADE K1-K25 de 27/11",
+  "Escolhas do card do dia 28/11 (emitir modal quando ele pedir)"
+ ],
+ "held": [],
+ "carryover": [
+  "Packet 09:00 do Gleison de 28/11 nao encontrado as 09:20: lacuna",
+  "Bruno e Mathias sem packet desde 27/11",
+  "Bug da data do fecho 21:30 (UTC x Fortaleza) segue aberto"
+ ],
+ "reporter_eod": {},
+ "page": [
+  {
+   "code": "E1",
+   "url": "https://x.com/joshuacheong/status/2126301533910213038",
+   "surface": "QUOTE",
+   "slot_sugerido": "09:40",
+   "a": "first week of redemptions and nobody had to wait for a bell.",
+   "b": "redemptions are the receipt. ANTx on Mantle settles when you do, not when a desk opens.",
+   "c": "the real test of a tokenized stock is the exit door. week one: door works."
+  },
+  {
+   "code": "P1",
+   "url": null,
+   "surface": "POST",
+   "slot_sugerido": "10:40",
+   "a": "the nyse took the weekend off. the pool didn't.",
+   "b": "saturday. stock market closed. your tokenized stocks didn't get the memo.",
+   "c": "markets closed, pools open. what are you reading up on this weekend?"
+  },
+  {
+   "code": "M1",
+   "url": null,
+   "surface": "POST (meme)",
+   "slot_sugerido": "11:40",
+   "a": "woman: 'markets are closed on saturday' / cat: 'whose markets?'",
+   "b": "woman: 'you can't trade stocks on a weekend' / cat: [sitting on mantle, unbothered]",
+   "c": "woman: 'the bell rings monday' / cat: 'bells are for boxing.'"
+  }
+ ]
+}
